@@ -1,0 +1,916 @@
+[
+	{
+		"EQUIPNAME":"Absorption Stone",
+		"ALIAS":"Absorbtion Stone;Absorb Stone;Absorp Stone;Absorb;Absorp",
+		"SEARCH":"Heal Hero"
+	},
+	{
+		"EQUIPNAME":"Abyssal Crown",
+		"ALIAS":"Abyssal;A Crown",
+		"SEARCH":"Health;Decksize"
+	},
+	{
+		"EQUIPNAME":"Acid Flask",
+		"ALIAS":"Acid;Corrode Flask;Corrode Potion",
+		"SEARCH":"Corrode;Poison Damage"
+	},
+	{
+		"EQUIPNAME":"Aether Orb",
+		"ALIAS":"Aether; Hero Magic Shield"
+	},
+	{
+		"EQUIPNAME":"Anniversary Gift",
+		"ALIAS":"Anniversary;Gift",
+		"SEARCH":"Start;First Turn"
+	},
+	{
+		"EQUIPNAME":"Arcane Lock",
+		"ALIAS":"Arcane;Lock;Time Lock"
+	},
+	{
+		"EQUIPNAME":"Archon's Ring",
+		"ALIAS":"Archon;Archons",
+		"SEARCH":"Greed;AntiMill"
+	},
+	{
+		"EQUIPNAME":"Armadillo Ward",
+		"ALIAS":"Arma;Armadillo;Arma Ward;A Ward",
+		"SEARCH":"Invulnerable;Start"
+	},
+	{
+		"EQUIPNAME":"Ashkar's Club",
+		"ALIAS":"Ashkars;Club;Ashkar Club;Stun;Stunned"
+	},
+	{
+		"EQUIPNAME":"Assassin's Glove",
+		"ALIAS":"Assassin;Assassins;Slay Hero"
+	},
+	{
+		"EQUIPNAME":"Assault Knife",
+		"ALIAS":"Assault"
+	},
+	{
+		"EQUIPNAME":"Attrition Idol",
+		"ALIAS":"Attrition;Idol",
+		"SEARCH":"Mill;Start;First Turn"
+	},
+	{
+		"EQUIPNAME":"Banker's Ring",
+		"ALIAS":"Banker;Bankers",
+		"SEARCH":"Greed"
+	},
+	{
+		"EQUIPNAME":"Bard's Lute",
+		"ALIAS":"Bard;Bards;Lute;Bard Lute;Battle Song"
+	},
+	{
+		"EQUIPNAME":"Battle Horn",
+		"ALIAS":"Horn",
+		"SEARCH":"Charge"
+	},
+	{
+		"EQUIPNAME":"Battle Standard",
+		"ALIAS":"Standard",
+		"SEARCH":"Deck Size"
+	},
+	{
+		"EQUIPNAME":"Black Orb",
+		"ALIAS":"Orb;",
+		"SEARCH":"Start;First Turn;Draw Counterspells"
+	},
+	{
+		"EQUIPNAME":"Blessed Empire Shield",
+		"ALIAS":"B Empire;BE Shield;B Empire Shield;BES;L Empire Shield;Empire Shield L",
+		"SEARCH":"Heavy Shield"
+	},
+	{
+		"EQUIPNAME":"Blueback Shield",
+		"ALIAS":"Blueback",
+		"SEARCH":"Aegis Aura;First Units;First creatures"
+	},
+	{
+		"EQUIPNAME":"Boar Ward",
+		"ALIAS":"Boar;B Ward",
+		"SEARCH":"Invulnerability"
+	},
+	{
+		"EQUIPNAME":"Bolt Axe",
+		"ALIAS":"B Axe;Lightning Axe;Shock Axe",
+		"SEARCH":"Electric Damage;"
+	},
+	{
+		"EQUIPNAME":"Bolt Tightener",
+		"ALIAS":"Tightener;Trap;Traps;Draw Traps;Draw Trap",
+		"SEARCH":"Draw;Start;First Turn"
+	},
+	{
+		"EQUIPNAME":"Book of Knowledge",
+		"ALIAS":"BoK;Book",
+		"SEARCH":"Draw Cards"
+	},
+	{
+		"EQUIPNAME":"Brass Cog",
+		"ALIAS":"B Cog;Mek Health",
+		"SEARCH":"Meks"
+	},
+	{
+		"EQUIPNAME":"Brass Medal",
+		"ALIAS":"B Medal;Medal;Valor"
+	},
+	{
+		"EQUIPNAME":"Brutal Axe",
+		"ALIAS":"Brutal",
+		"SEARCH":"Physical Damage;Leftmost"
+	},
+	{
+		"EQUIPNAME":"Cave Eggs",
+		"ALIAS":"Eggs;Summon Spiderlings;Spiderlings;Summon Spiderling"
+	},
+	{
+		"EQUIPNAME":"Charged Crystal",
+		"ALIAS":"C Crystal;Crystal",
+		"SEARCH":"Electric Magic Damage"
+	},
+	{
+		"EQUIPNAME":"Cloak of Ruin",
+		"ALIAS":"Ruin;Corrode Aura",
+		"SEARCH":"Corrode;Attacked"
+	},
+	{
+		"EQUIPNAME":"Cloak of the Wolf",
+		"ALIAS":"Cloak Wolf;C Wolf;CotW",
+		"SEARCH":"Wolfs;Wolves"
+	},
+	{
+		"EQUIPNAME":"Cobra Fangs",
+		"ALIAS":"Cobra;Fangs",
+		"SEARCH":"Poison Damage"
+	},
+	{
+		"EQUIPNAME":"Coin of Kings",
+		"ALIAS":"Coin;Kings;Kings Coin;King Coin"
+	},
+	{
+		"EQUIPNAME":"Colichemarde",
+		"ALIAS":"Coli;Colichemard;Puncture;Pierce"
+	},
+	{
+		"EQUIPNAME":"Corsair Sword",
+		"ALIAS":"Corsair;Backstab"
+	},
+	{
+		"EQUIPNAME":"Crushing Stone",
+		"ALIAS":"Crushing",
+		"SEARCH":"Earth Magic Damage"
+	},
+	{
+		"EQUIPNAME":"Cube of Spirits",
+		"ALIAS":"Cube;Spirits;Recover"
+	},
+	{
+		"EQUIPNAME":"Cursed Skull",
+		"ALIAS":"Skull",
+		"SEARCH":"Curse;Cursed;Magic Damage"
+	},
+	{
+		"EQUIPNAME":"Dark Matter",
+		"ALIAS":"Dark M;Gravity Gun",
+		"SEARCH":"Magic Damage"
+	},
+	{
+		"EQUIPNAME":"Decorated Platemail",
+		"ALIAS":"D Platemail;Platemail",
+		"SEARCH":"Armour;Armor;Health"
+	},
+	{
+		"EQUIPNAME":"Demon Stone",
+		"ALIAS":"D Stone",
+		"SEARCH":"Fire Magic Damage"
+	},
+	{
+		"EQUIPNAME":"Demonbait",
+		"ALIAS":"Dbait;Summon Imps;Summon Imp"
+	},
+	{
+		"EQUIPNAME":"Divine Order Helm",
+		"ALIAS":"DOH;DO Helm;D O Helm;Draw Constructor",
+		"SEARCH":"Start;First Turn"
+	},
+	{
+		"EQUIPNAME":"Dragon Banner",
+		"ALIAS":"D Banner",
+		"SEARCH":"Dragons"
+	},
+	{
+		"EQUIPNAME":"Dragon Mote",
+		"ALIAS":"Mote;Draw Dragon Egg",
+		"SEARCH":"Start;First Turn;Dragons"
+	},
+	{
+		"EQUIPNAME":"Dryad Thorn",
+		"ALIAS":"Dryad;Thorn",
+		"SEARCH":"Elementals"
+	},
+	{
+		"EQUIPNAME":"Electrum Ingot",
+		"ALIAS":"Electrum;Ingot",
+		"SEARCH":"Walls"
+	},
+	{
+		"EQUIPNAME":"Elegant Crown",
+		"ALIAS":"Elegant;E Crown",
+		"SEARCH":"Health;Deck Size"
+	},
+	{
+		"EQUIPNAME":"Elemental Tome",
+		"ALIAS":"Tome;Ele Tome",
+		"SEARCH":"Elementals;Start;First Turn"
+	},
+	{
+		"EQUIPNAME":"Empire Shield",
+		"ALIAS":"E Shield"
+	},
+	{
+		"EQUIPNAME":"Eolian Cape",
+		"ALIAS":"Eolian;Cape;Summon Podromoi;Podromoi",
+		"SEARCH":"Cavalry"
+	},
+	{
+		"EQUIPNAME":"Espial Amulet",
+		"ALIAS":"Espial",
+		"SEARCH":"Detect"
+	},
+	{
+		"EQUIPNAME":"Eye of Detection",
+		"ALIAS":"",
+		"SEARCH":"Detect"
+	},
+	{
+		"EQUIPNAME":"Eye Tyrant Staff",
+		"ALIAS":"Eye Tyrant;ETS;Weaken Ray",
+		"SEARCH":"Health;Deck Size"
+	},
+	{
+		"EQUIPNAME":"Familiar Charm",
+		"ALIAS":"Familiar;Draw Darkling;Darkling",
+		"SEARCH":"Start;First Turn"
+	},
+	{
+		"EQUIPNAME":"Fancy Pendant",
+		"ALIAS":"Fancy;Fancy P",
+		"SEARCH":"Health;Deck Size"
+	},
+	{
+		"EQUIPNAME":"Fire Periapt",
+		"ALIAS":"F Periapt;Igniter;Igniter Periapt"
+	},
+	{
+		"EQUIPNAME":"Fire Petal",
+		"ALIAS":"Petal;F Petal",
+		"SEARCH":"Fireproof"
+	},
+	{
+		"EQUIPNAME":"Firebrand",
+		"ALIAS":"",
+		"SEARCH":"Fire Magic Damage;Burning"
+	},
+	{
+		"EQUIPNAME":"Flamerider Periapt",
+		"ALIAS":"Flamerider;Cavalry Periapt",
+		"SEARCH":"Cavalry;Fireproof"
+	},
+	{
+		"EQUIPNAME":"Flashfire Jewel",
+		"ALIAS":"Flash;Flashfire",
+		"SEARCH":"Magic Damage; First Creatures;First Units"
+	},
+	{
+		"EQUIPNAME":"Forest Hood",
+		"ALIAS":"Hood;F Hood;Ambusher;Draw Ambusher",
+		"SEARCH":"Start;First Turn"
+	},
+	{
+		"EQUIPNAME":"Frost Torch",
+		"ALIAS":"Torch;F Torch;Frost;Absolute Zero;|0|"
+	},
+	{
+		"EQUIPNAME":"Gavial Ward",
+		"ALIAS":"Gavial;G Ward;Poison Aura",
+		"SEARCH":"Attacked;Poisoned"
+	},
+	{
+		"EQUIPNAME":"Gladiator's Spear",
+		"ALIAS":"Glad;Spear;Gladiators;G Spear;Gladiator Spear",
+		"SEARCH":"Physical Damage;Wounded;Leftmost"
+	},
+	{
+		"EQUIPNAME":"Gold Ring of Haste",
+		"ALIAS":"GRH;Gold Haste;Gold Ring;G Haste",
+		"SEARCH":"Hasten Ring;Haste Ring"
+	},
+	{
+		"EQUIPNAME":"Golden Cuirass",
+		"ALIAS":"Cuirass;G Cuirass",
+		"SEARCH":"Armoured;armored"
+	},
+	{
+		"EQUIPNAME":"Greater Imp Charm",
+		"ALIAS":"G Imp;Great Imp Charm;Draw Imp Lord;Imp Lord",
+		"SEARCH":"Start;First Turn;Imps"
+	},
+	{
+		"EQUIPNAME":"Grenade",
+		"ALIAS":"",
+		"SEARCH":"Explosive Damage"
+	},
+	{
+		"EQUIPNAME":"Grounding Rod",
+		"ALIAS":"Rod;Grounding",
+		"SEARCH":"Shockproof"
+	},
+	{
+		"EQUIPNAME":"Guardian's Bracers",
+		"ALIAS":"Guardian;Guardians;Bracers;G Bracers;Guardian Bracers"
+	},
+	{
+		"EQUIPNAME":"Heartstroke Periapt",
+		"ALIAS":"Heart;Heartstroke;H Periapt;Bloodlust"
+	},
+	{
+		"EQUIPNAME":"Helm of Retribution",
+		"ALIAS":"Ret;Helm of Ret;Static Aura",
+		"SEARCH":"Attacked;Electric Magic Damage"
+	},
+	{
+		"EQUIPNAME":"Helm of Tranquility",
+		"ALIAS":"Tranq;Helm of Tranq",
+		"SEARCH":"Health;Antimill"
+	},
+	{
+		"EQUIPNAME":"Horn of Oceans",
+		"ALIAS":"Horn;Oceans",
+		"SEARCH":"Water Magic Damage"
+	},
+	{
+		"EQUIPNAME":"Hospice Periapt",
+		"ALIAS":"Hospice;H Periapt;Aegis Aura",
+		"SEARCH":"Supports"
+	},
+	{
+		"EQUIPNAME":"Hunter's Bow",
+		"ALIAS":"Hunter Bow;Hunters Bow;H Bow",
+		"SEARCH":"Ranged Damage"
+	},
+	{
+		"EQUIPNAME":"Hylean Quiver",
+		"ALIAS":"Hylean;Quiver;H Quiver;Summon Trackers;Summon Tracker;Tracker;Trackers",
+		"SEARCH":"Rangers"
+	},
+	{
+		"EQUIPNAME":"Imp Charm",
+		"ALIAS":"Fire Imp;Draw Fire Imp",
+		"SEARCH":"Start;First Turn;Imps"
+	},
+	{
+		"EQUIPNAME":"Imp Lord's Pendant",
+		"ALIAS":"Imp Lord Pendant;Imp Lords Pendant;Imp Lord;Imp Lord's;ILP",
+		"SEARCH":"Imps"
+	},
+	{
+		"EQUIPNAME":"Iris Ruse",
+		"ALIAS":"Iris",
+		"SEARCH":"Flashdrafts;Start;First Turn"
+	},
+	{
+		"EQUIPNAME":"Iron Mace",
+		"ALIAS":"Mace",
+		"SEARCH":"Physical Damage;Leftmost"
+	},
+	{
+		"EQUIPNAME":"Juniper Fern",
+		"ALIAS":"Juniper;Fern;Summon War Pig;Summon War Pigs",
+		"SEARCH":"Beasts"
+	},
+	{
+		"EQUIPNAME":"Karkinos Claw",
+		"ALIAS":"Kark;K Claw;Karkinos;Crab;Crab Claw",
+		"SEARCH":"Curse;Cursed;Water Magic Damage"
+	},
+	{
+		"EQUIPNAME":"Kiri's Pinion",
+		"ALIAS":"Kiri's;Kiris;K Pinion;Pinion;Kiris Pinion;Kiri Pinion",
+		"SEARCH":"Beasts;First Units;First Creatures"
+	},
+	{
+		"EQUIPNAME":"Large Healing Crystal",
+		"ALIAS":"LHC;LH Crystal;L H Crystal;Large Heal Crystal;Large Crystal",
+		"SEARCH":"Heal"
+	},
+	{
+		"EQUIPNAME":"Lava Orb",
+		"ALIAS":"L Orb;Lava;Hero Fireproof"
+	},
+	{
+		"EQUIPNAME":"Leather Boots",
+		"ALIAS":"L Boots",
+		"SEARCH":"Health"
+	},
+	{
+		"EQUIPNAME":"Leather Gloves",
+		"ALIAS":"L Gloves",
+		"SEARCH":"Health"
+	},
+	{
+		"EQUIPNAME":"Lecherous Staff",
+		"ALIAS":"Lecher;Lecherous",
+		"SEARCH":"Heal Hero;Magic Damage"
+	},
+	{
+		"EQUIPNAME":"Lightning Jewel",
+		"ALIAS":"Lightning",
+		"SEARCH":"Electric Magic Damage;First Units;First Creatures"
+	},
+	{
+		"EQUIPNAME":"Lizard Charm",
+		"ALIAS":"Lizard;Draw Saurian;Draw Saurians;Draw Saurian Trampler;Draw Saurian Tramplers;Saurian;Saurian Trampler;Saurian Tramplers",
+		"SEARCH":"Beasts;Start;First Turn"
+	},
+	{
+		"EQUIPNAME":"Lotus Ruse",
+		"ALIAS":"Lotus",
+		"SEARCH":"Flashdrafts;Start;First Turn"
+	},
+	{
+		"EQUIPNAME":"Lucent Jewel",
+		"ALIAS":"Lucent",
+		"SEARCH":"Magic Damage"
+	},
+	{
+		"EQUIPNAME":"Lucky Ring",
+		"ALIAS":"Lucky;Luck Ring",
+		"SEARCH":"Draw Cards;First Turn"
+	},
+	{
+		"EQUIPNAME":"Lupine Periapt",
+		"ALIAS":"Lupine;Wolf Periapt;L Periapt",
+		"SEARCH":"Charge;Wolves;Wolfs"
+	},
+	{
+		"EQUIPNAME":"Lynx Ward",
+		"ALIAS":"Lynx;L Ward",
+		"SEARCH":"Attacked;Physical Damage;Wounded"
+	},
+	{
+		"EQUIPNAME":"Lysle's Shield",
+		"ALIAS":"Lysles;Lysles Shield;Lysle Shield;Lyle Shield;Lyles Shield;Hoplite;Hoplites;Draw Hoplites",
+		"SEARCH":"Start;First Turn"
+	},
+	{
+		"EQUIPNAME":"Maelstrom Staff",
+		"ALIAS":"Maelstrom;Summon Storm Elemental;Summon Storm Elementals;Storm Elemental;Storm Elementals;",
+		"SEARCH":"Elementals"
+	},
+	{
+		"EQUIPNAME":"Magebane Staff",
+		"ALIAS":"Magebane;Drain Magic",
+		"SEARCH":"Magic Damage;Heal"
+	},
+	{
+		"EQUIPNAME":"Magic Collar",
+		"ALIAS":"Collar;Stun Beast;Stun Beasts",
+		"SEARCH":"Stunned"
+	},
+	{
+		"EQUIPNAME":"Magic Mirror",
+		"ALIAS":"Mirror;Clone;Summon Clone"
+	},
+	{
+		"EQUIPNAME":"Mark of the Wolf",
+		"ALIAS":"Mark;Enrage wolf;Enrage wolves;Enrage wolfs"
+	},
+	{
+		"EQUIPNAME":"Medusa Token",
+		"ALIAS":"Medusa;Token",
+		"SEARCH":"Stoneform"
+	},
+	{
+		"EQUIPNAME":"Memory Claw",
+		"ALIAS":"Claw;Memory",
+		"SEARCH":"Mill"
+	},
+	{
+		"EQUIPNAME":"Mindguard Helm",
+		"ALIAS":"Mindguard;Mindguard H",
+		"SEARCH":"Antimill"
+	},
+	{
+		"EQUIPNAME":"Minstrel's Flute",
+		"ALIAS":"Minstrel;Minstrels;Minstrel's;Minstrel Flute;Minstrels Flute;Flute;Heroic Ballad"
+	},
+	{
+		"EQUIPNAME":"Moon Blade",
+		"ALIAS":"M Blade;Moon B;Moonblade;Cull 2"
+	},
+	{
+		"EQUIPNAME":"Moon Scythe",
+		"ALIAS":"M Scythe;Moon S;Scythe;Cull 1"
+	},
+	{
+		"EQUIPNAME":"Napalm Kit",
+		"ALIAS":"Napalm;Kit",
+		"SEARCH":"Explode"
+	},
+	{
+		"EQUIPNAME":"Necklace of Fortitude",
+		"ALIAS":"Fort;Fortitude;NoF",
+		"SEARCH":"Health"
+	},
+	{
+		"EQUIPNAME":"Northrunner Shield",
+		"ALIAS":"North;Northrunner",
+		"SEARCH":"Aegis Aura;First Units;First creatures"
+	},
+	{
+		"EQUIPNAME":"Pantheon Banner",
+		"ALIAS":"Pantheon;P Banner",
+		"SEARCH":"Infantry"
+	},
+	{
+		"EQUIPNAME":"Pharaoh Band",
+		"ALIAS":"Pharoh;Pharaoh;P Band",
+		"SEARCH":"Infantry"
+	},
+	{
+		"EQUIPNAME":"Plate Boots",
+		"ALIAS":"P Boots",
+		"SEARCH":"Health"
+	},
+	{
+		"EQUIPNAME":"Plate Gauntlets",
+		"ALIAS":"P Gaunts;P Gauntlets",
+		"SEARCH":"Health"
+	},
+	{
+		"EQUIPNAME":"Poachers Quiver",
+		"ALIAS":"Poacher;Poachers;Slay Beast;Slay Beasts",
+		"SEARCH":"Beasts"
+	},
+	{
+		"EQUIPNAME":"Poison Phial",
+		"ALIAS":"P Phial;Phial;Poison Vial;Vial;Poison Periapt;Poisoned Periapt"
+	},
+	{
+		"EQUIPNAME":"Potion of Aggression",
+		"ALIAS":"Aggression;Aggression Potion;Aggression Pot"
+	},
+	{
+		"EQUIPNAME":"Potion of Cleansing",
+		"ALIAS":"Cleansing;Cleansing Potion;Remedy"
+	},
+	{
+		"EQUIPNAME":"Potion of Immunity",
+		"ALIAS":"Immunity;Immunity Potion;Immune"
+	},
+	{
+		"EQUIPNAME":"Potion of Rejuvenation",
+		"ALIAS":"Rejuvenation Potion;Rej Potion;Pot Rej;Rej Pot",
+		"SEARCH":"Heal Hero"
+	},
+	{
+		"EQUIPNAME":"Praetor's Robe",
+		"ALIAS":"Praetor;Praetors;Robe;Philosopher;Philosphers Robe;Summon Philosopher;Summon Philosophers",
+		"SEARCH":"Supports"
+	},
+	{
+		"EQUIPNAME":"Prism Stone",
+		"ALIAS":"Prism;Prism Ray",
+		"SEARCH":"Magic Damage"
+	},
+	{
+		"EQUIPNAME":"Pyrovitre",
+		"ALIAS":"Pyro;Burn Periapt;Burning Periapt"
+	},
+	{
+		"EQUIPNAME":"Quickbolter",
+		"ALIAS":"Quickbolt;Bolter",
+		"SEARCH":"Ranged Damage"
+	},
+	{
+		"EQUIPNAME":"Raio Blaster",
+		"ALIAS":"Raio;Blaster",
+		"SEARCH":"Explosive Damage"
+	},
+	{
+		"EQUIPNAME":"Ram Meat",
+		"ALIAS":"Ram;Draw Timber Wolf",
+		"SEARCH":"Wolfs;Wolves"
+	},
+	{
+		"EQUIPNAME":"Raven Ward",
+		"ALIAS":"Raven;Raven W;Sap",
+		"SEARCH":"Attacked"
+	},
+	{
+		"EQUIPNAME":"Red Island Rum",
+		"ALIAS":"RIR;Rum;R I Rum",
+		"SEARCH":"Paralysed;Paralayzed"
+	},
+	{
+		"EQUIPNAME":"Rejuvenating Pendant",
+		"ALIAS":"Rej Pend;Rej Pen;R Pendant",
+		"SEARCH":"Heal Hero"
+	},
+	{
+		"EQUIPNAME":"Repair Gizmo",
+		"ALIAS":"Repair;Gizmo",
+		"SEARCH":"Meks"
+	},
+	{
+		"EQUIPNAME":"Ring of Life",
+		"ALIAS":"RoL",
+		"SEARCH":"Heal;Spells"
+	},
+	{
+		"EQUIPNAME":"Ring of the Furrows",
+		"ALIAS":"Furrows;Mycosian Ring",
+		"SEARCH":"Mycosians;Recover"
+	},
+	{
+		"EQUIPNAME":"Ring of the Glen",
+		"ALIAS":"RoG;RotG;Glen;Ele Ring;Elemental Ring",
+		"SEARCH":"Heal;Gain;Elementals"
+	},
+	{
+		"EQUIPNAME":"Ring of Visions",
+		"ALIAS":"Visions",
+		"SEARCH":"Draw Cards;First Turn"
+	},
+	{
+		"EQUIPNAME":"Rocky Orb",
+		"ALIAS":"R Orb;Rocky;Resistance"
+	},
+	{
+		"EQUIPNAME":"Rune of Evasion",
+		"ALIAS":"R Evasion;Evasion Rune;Wind Shield Rune"
+	},
+	{
+		"EQUIPNAME":"Rune of Gravity",
+		"ALIAS":"R Gravity;Gravity Rune;Gravity Shield Rune;Gravity Shield"
+	},
+	{
+		"EQUIPNAME":"Rune of Hastening",
+		"ALIAS":"R Haste;R Hasten;R Hastening;Haste Rune;Hasten Rune;Hastening Rune"
+	},
+	{
+		"EQUIPNAME":"Rune of Rage",
+		"ALIAS":"R Rage;Rage Rune;Rage"
+	},
+	{
+		"EQUIPNAME":"Rune of Shielding",
+		"ALIAS":"R Shield;R Shielding;Shield Rune;Shielding Rune;Magic Shield Rune"
+	},
+	{
+		"EQUIPNAME":"Rune of Slowing",
+		"ALIAS":"R Slow;R Slowing;Slow Rune;Slowing Rune;Slow"
+	},
+	{
+		"EQUIPNAME":"Rune of Stealth",
+		"ALIAS":"R Stealth;Stealth Rune",
+		"SEARCH":"Stealth"
+	},
+	{
+		"EQUIPNAME":"Rusalka Pearls",
+		"ALIAS":"Rusalka;Pearls",
+		"SEARCH":"Water Magic Damage"
+	},
+	{
+		"EQUIPNAME":"Rusting Powder",
+		"ALIAS":"Rust;Rusting;R Powder;Powder;Rust Powder"
+	},
+	{
+		"EQUIPNAME":"Scroll of Agony",
+		"ALIAS":"S Agony;Agony;Agony Scroll",
+		"SEARCH":"Magic Damage"
+	},
+	{
+		"EQUIPNAME":"Scroll of Pain",
+		"ALIAS":"S Pain;Pain;Pain Scroll",
+		"SEARCH":"Magic Damage"
+	},
+	{
+		"EQUIPNAME":"Scythoner Crow",
+		"ALIAS":"Scythoner;Scythoners;Crow;S Crow;Summon Scythoner Mek;Summon Scythoner;Summon Scythoner Meks;Summon Scythoners",
+		"SEARCH":"Meks"
+	},
+	{
+		"EQUIPNAME":"Seeking Axe",
+		"ALIAS":"Seek;Seeking;S Axe;Axe Throw",
+		"SEARCH":"Ranged Damage"
+	},
+	{
+		"EQUIPNAME":"Seism Jewel",
+		"ALIAS":"Seism;Siesm",
+		"SEARCH":"Earth Magic Damage;First Units;First Creatures"
+	},
+	{
+		"EQUIPNAME":"Shimmering Trinket",
+		"ALIAS":"Shimmer;Shimmering;S Trinket;Trinket",
+		"SEARCH":"Deck Size"
+	},
+	{
+		"EQUIPNAME":"Short Sword",
+		"ALIAS":"S Sword;Short",
+		"SEARCH":"Physical Damage"
+	},
+	{
+		"EQUIPNAME":"Silver Ring of Haste",
+		"ALIAS":"SRH;Silver Haste;Silver Ring;S Haste",
+		"SEARCH":"Hasten Ring;Haste Ring"
+	},
+	{
+		"EQUIPNAME":"Silver Sickle",
+		"ALIAS":"S Sickle;Sickle;Summon High Elf Druid;Summon High Elf Druids;Summon Druid;Summon Druids",
+		"SEARCH":"Mages"
+	},
+	{
+		"EQUIPNAME":"Skirmisher Shield",
+		"ALIAS":"Skirm;Skirmisher;Skirmishers Shield;Skirmisher's Shield;Light Shield"
+	},
+	{
+		"EQUIPNAME":"Small Healing Crystal",
+		"ALIAS":"SHC;SH Crystal;S H Crystal;Small Heal Crystal;Small Crystal"
+	},
+	{
+		"EQUIPNAME":"Sniper's Bow",
+		"ALIAS":"Snipe;Snipers;Sniper's;Snipe Bow;Snipers Bow;S Bow",
+		"SEARCH":"Ranged Damage"
+	},
+	{
+		"EQUIPNAME":"Sorcerer's Stone",
+		"ALIAS":"Sorceror's Stone;Sorcerors Stone;Sorcerer Stone;Sorcerers Stone;Sorceror Stone;spellproof"
+	},
+	{
+		"EQUIPNAME":"Sorceror Staff",
+		"ALIAS":"Sorceror's Staff;Sorcerors Staff;Sorcerer Staff;Sorcerers Staff;Sorcerer's Staff",
+		"SEARCH":"Mages"
+	},
+	{
+		"EQUIPNAME":"Spider Balm",
+		"ALIAS":"S Balm;Balm;Toothpaste of Glory;Acid Blood"
+	},
+	{
+		"EQUIPNAME":"Spider Honey",
+		"ALIAS":"Honey;S Honey;Draw Jester Spider;Draw Jesters Spider;Draw Jester Spiders;Draw Jesters Spiders",
+		"SEARCH":"Start;First Turn"
+	},
+	{
+		"EQUIPNAME":"Spider Leg",
+		"ALIAS":"Leg;S Leg;Pouncer;Draw Pouncer",
+		"SEARCH":"Start;First Turn"
+	},
+	{
+		"EQUIPNAME":"Sporecap Mushroom",
+		"ALIAS":"Spore;Sporecap;Mushrom;S Mushrom;Mycosian Shaman;Summon Mycosian Shaman;Summon Mycosian Shamans",
+		"SEARCH":"Mages"
+	},
+	{
+		"EQUIPNAME":"Staff of Fire",
+		"ALIAS":"SoF;Staff F;Fire Staff",
+		"SEARCH":"Magic Fire Damage;Burning"
+	},
+	{
+		"EQUIPNAME":"Staff of Ice",
+		"ALIAS":"Ice Staff",
+		"SEARCH":"Frost;First Units;First Creatures"
+	},
+	{
+		"EQUIPNAME":"Staff of Suggestion",
+		"ALIAS":"SoS;Staff S;Suggestion;Suggest;Staff of Suggest"
+	},
+	{
+		"EQUIPNAME":"Sticky Web",
+		"ALIAS":"Sticky;Web",
+		"SEARCH":"Paralyzed;Paralysed"
+	},
+	{
+		"EQUIPNAME":"Stonekeeper Amulet",
+		"ALIAS":"Stonekeeper;Skeeper;S Keeper;Keeper",
+		"SEARCH":"Stoneform;Mages"
+	},
+	{
+		"EQUIPNAME":"Storm Orb",
+		"ALIAS":"S Orb;Hero Shockproof"
+	},
+	{
+		"EQUIPNAME":"Sun King's Crown",
+		"ALIAS":"Sun King;Sun Kings;Sun Kings Crown;SKC;Sun King Crown",
+		"SEARCH":"Health;Deck Size"
+	},
+	{
+		"EQUIPNAME":"Tar Bomb",
+		"ALIAS":"Tar;Destroy Wall",
+		"SEARCH":"Walls"
+	},
+	{
+		"EQUIPNAME":"Taskforce Hammer",
+		"ALIAS":"Taskforce;Hammer;T Hammer;Engineer;Draw Engineer",
+		"SEARCH":"Walls;Start;First Turn"
+	},
+	{
+		"EQUIPNAME":"Tiger Cog",
+		"ALIAS":"Tiger;T Cog;Grimalkin;Draw Grinalkin;Draw Grimalkins",
+		"SEARCH":"Meks"
+	},
+	{
+		"EQUIPNAME":"Toxin Jar",
+		"ALIAS":"Toxin;Jar",
+		"SEARCH":"Poison Damage"
+	},
+	{
+		"EQUIPNAME":"Tract of Knowledge",
+		"ALIAS":"Tract;ToK;Draw 4",
+		"SEARCH":"Draw Cards"
+	},
+	{
+		"EQUIPNAME":"Treant Root",
+		"ALIAS":"Treant;Root;Summon Treant;Treespeaker;Treespeakers;Summon Treants;Summon Treespeakers;treants;Summon Treespeaker",
+		"SEARCH":"Elementals"
+	},
+	{
+		"EQUIPNAME":"Tritech Necklace",
+		"ALIAS":"Tritech;Tritek;T Necklace;Draw Meks",
+		"SEARCH":"Start;First Turn"
+	},
+	{
+		"EQUIPNAME":"Tusk of Grune",
+		"ALIAS":"Tusk;Grune",
+		"SEARCH":"Pierce;Drain"
+	},
+	{
+		"EQUIPNAME":"Unlucky Rabbit's Foot",
+		"ALIAS":"Unlucky;Rabbits Foot;Rabbit's Foot;Foot;Dire Rabbit;Draw Dire Rabbit",
+		"SEARCH":"Beasts"
+	},
+	{
+		"EQUIPNAME":"Venom Eye",
+		"ALIAS":"V Eye;Venom;Bane",
+		"SEARCH":"Poisoned"
+	},
+	{
+		"EQUIPNAME":"Viscous Eitr",
+		"ALIAS":"Viscous;Eitr;Viscous Etir;Etir",
+		"SEARCH":"Draw Counterspells"
+	},
+	{
+		"EQUIPNAME":"Void Charm",
+		"ALIAS":"V Charm;Void;Bounce",
+		"SEARCH":"First Units;First Creatures"
+	},
+	{
+		"EQUIPNAME":"Vortex Mask",
+		"ALIAS":"Vortex;Mask;V Mask",
+		"SEARCH":"Magic Damage"
+	},
+	{
+		"EQUIPNAME":"Wicked Dagger",
+		"ALIAS":"Wicked;W Dagger",
+		"SEARCH":"Wounded;Physical Damage"
+	},
+	{
+		"EQUIPNAME":"Wind Orb",
+		"ALIAS":"W Orb;Hero Wind Shield"
+	},
+	{
+		"EQUIPNAME":"Woodshadow Periapt",
+		"ALIAS":"Woodshadow;W Periapt",
+		"SEARCH":"Stealth;Rangers"
+	},
+	{
+		"EQUIPNAME":"Knelling Bell",
+		"ALIAS":"Killing Bell;",
+		"SEARCH":"Genocide;First Turn;Start"
+	},
+	{
+		"EQUIPNAME":"Tolling Bell",
+		"ALIAS":"Telling Bell;",
+		"SEARCH":"Genocide;First Turn;Start"
+	},
+	{
+		"EQUIPNAME":"Holocore Gloves",
+		"ALIAS":"Fireproof Gloves;Fire gloves;Fire Aura Gloves",
+		"SEARCH":"Fire Aura; Fireproof;Health"
+	},
+	{
+		"EQUIPNAME":"Seal of the Jotuns ",
+		"ALIAS":"Seal of the Jotuns; Seal of Jotuns; Jotuns; seal; stun ring"
+	},
+	{
+		"EQUIPNAME":"Star of Thoth",
+		"ALIAS":"Star;Thoth;Thoth Star;Slay Mage;Slay Mages",
+		"SEARCH":"Mages"
+	},
+	{
+		"EQUIPNAME":"Dragonpact Icon",
+		"ALIAS":"Dragonpact;Dragonpact Amulet;EDH Icon;EDH Amulet;Elder Dragon Amulet;Elder Dragon Icon;Elder Dragon;Elder Dragons;Summon Elder Dragon;Summon Elder Dragons",
+		"SEARCH":"Dragons"
+	}]

@@ -1,0 +1,457 @@
+[
+  {"CARDNAME": "Absolute Zero Legendary","IMAGES": ["8C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Agar","IMAGES": ["6C.png","3D.png","6H.png","pink_back.png"]}
+  ,{"CARDNAME": "Agar Legendary","IMAGES": ["6C.png","4D.png","7H.png","pink_back.png"]}
+  ,{"CARDNAME": "Air Elemental","IMAGES": ["4C.png","AD.png","3H.png","red_back.png"]}
+  ,{"CARDNAME": "Alastair","IMAGES": ["6C.png","AD.png","7H.png","blue_back.png"]}
+  ,{"CARDNAME": "Alastair Legendary","IMAGES": ["5C.png","AD.png","9H.png","blue_back.png"]}
+  ,{"CARDNAME": "Alloy Elemental","IMAGES": ["7C.png","2D.png","9H.png","green_back.png"]}
+  ,{"CARDNAME": "Ambusher","IMAGES": ["5C.png","4D.png","2H.png","green_back.png"]}
+  ,{"CARDNAME": "Anakaga","IMAGES": ["7C.png","3D.png","7H.png","pink_back.png"]}
+  ,{"CARDNAME": "Anakaga Legendary","IMAGES": ["6C.png","4D.png","8H.png","pink_back.png"]}
+  ,{"CARDNAME": "Apep","IMAGES": ["8C.png","4D.png","KH.png","purple_back.png"]}
+  ,{"CARDNAME": "Apep Legendary","IMAGES": ["8C.png","4D.png","KH.png","purple_back.png"]}
+  ,{"CARDNAME": "Arachne Legendary","IMAGES": ["7C.png","2D.png","7H.png","pink_back.png"]}
+  ,{"CARDNAME": "Arachnos Mage","IMAGES": ["5C.png","6H.png","pink_back.png"]}
+  ,{"CARDNAME": "Arachnos Priest","IMAGES": ["4C.png","AD.png","6H.png","pink_back.png"]}
+  ,{"CARDNAME": "Aranea","IMAGES": ["5C.png","2D.png","5H.png","pink_back.png"]}
+  ,{"CARDNAME": "Arbalest","IMAGES": ["6C.png","2D.png","8H.png","blue_back.png"]}
+  ,{"CARDNAME": "Arsenic","IMAGES": ["6C.png","3D.png","6H.png","pink_back.png"]}
+  ,{"CARDNAME": "Arsenic Legendary","IMAGES": ["5C.png","3D.png","7H.png","pink_back.png"]}
+  ,{"CARDNAME": "Astaroth","IMAGES": ["9C.png","4D.png","7H.png","purple_back.png"]}
+  ,{"CARDNAME": "Astaroth Legendary","IMAGES": ["8C.png","4D.png","9H.png","purple_back.png"]}
+  ,{"CARDNAME": "Axe Thrower","IMAGES": ["5C.png","2D.png","5H.png","red_back.png"]}
+  ,{"CARDNAME": "Ballistic Mek","IMAGES": ["9C.png","10H.png","gray_back.png"]}
+  ,{"CARDNAME": "Ballistic Mek Legendary","IMAGES": ["8C.png","QH.png","gray_back.png"]}
+  ,{"CARDNAME": "Balor","IMAGES": ["7C.png","4D.png","7H.png","purple_back.png"]}
+  ,{"CARDNAME": "Bard","IMAGES": ["7C.png","AD.png","7H.png","blue_back.png"]}
+  ,{"CARDNAME": "Bard Legendary","IMAGES": ["6C.png","2D.png","9H.png","blue_back.png"]}
+  ,{"CARDNAME": "Baskervor","IMAGES": ["7C.png","5D.png","7H.png","purple_back.png"]}
+  ,{"CARDNAME": "Beastmaster","IMAGES": ["6C.png","2D.png","7H.png","red_back.png"]}
+  ,{"CARDNAME": "Beezleblub","IMAGES": ["7C.png","2D.png","8H.png","purple_back.png"]}
+  ,{"CARDNAME": "Beholder Legendary","IMAGES": ["5C.png","10H.png","purple_back.png"]}
+  ,{"CARDNAME": "Belcher Imp","IMAGES": ["4C.png","AD.png","4H.png","purple_back.png"]}
+  ,{"CARDNAME": "Belcher Imp Legendary","IMAGES": ["4C.png","AD.png","4H.png","purple_back.png"]}
+  ,{"CARDNAME": "Bender of Blades Legendary","IMAGES": ["5C.png","2D.png","9H.png","red_back.png"]}
+  ,{"CARDNAME": "Berith","IMAGES": ["6C.png","8H.png","purple_back.png"]}
+  ,{"CARDNAME": "Berith Legendary","IMAGES": ["5C.png","10H.png","purple_back.png"]}
+  ,{"CARDNAME": "Berserker Rage","IMAGES": ["6C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Black Dragon","IMAGES": ["7C.png","3D.png","8H.png","purple_back.png"]}
+  ,{"CARDNAME": "Black Dragon Egg","IMAGES": ["3C.png","6H.png","purple_back.png"]}
+  ,{"CARDNAME": "Black Whelp","IMAGES": ["5C.png","2D.png","5H.png","purple_back.png"]}
+  ,{"CARDNAME": "Black Widow Legendary","IMAGES": ["5C.png","3D.png","10H.png","pink_back.png"]}
+  ,{"CARDNAME": "Blade Spider","IMAGES": ["6C.png","2D.png","5H.png","pink_back.png"]}
+  ,{"CARDNAME": "Bloodbath","IMAGES": ["7C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Blue Dragon","IMAGES": ["7C.png","9H.png","blue_back.png"]}
+  ,{"CARDNAME": "Blue Dragon Egg","IMAGES": ["3C.png","5H.png","blue_back.png"]}
+  ,{"CARDNAME": "Blue Whelp","IMAGES": ["5C.png","5H.png","blue_back.png"]}
+  ,{"CARDNAME": "Bolter","IMAGES": ["4C.png","2D.png","4H.png","gray_back.png"]}
+  ,{"CARDNAME": "Bounce","IMAGES": ["3C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Bowmaster","IMAGES": ["6C.png","2D.png","5H.png","green_back.png"]}
+  ,{"CARDNAME": "Brainstorm","IMAGES": ["5C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Brainstorm Legendary","IMAGES": ["5C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Brood Mother","IMAGES": ["7C.png","9H.png","pink_back.png"]}
+  ,{"CARDNAME": "Brood Mother Legendary","IMAGES": ["7C.png","2D.png","10H.png","pink_back.png"]}
+  ,{"CARDNAME": "Bug Hunter","IMAGES": ["6C.png","3D.png","5H.png","gray_back.png"]}
+  ,{"CARDNAME": "Burning Hands","IMAGES": ["5C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Cage Fighter","IMAGES": ["4C.png","AD.png","5H.png","red_back.png"]}
+  ,{"CARDNAME": "Calliope","IMAGES": ["8C.png","AD.png","7H.png","blue_back.png"]}
+  ,{"CARDNAME": "Calliope Legendary","IMAGES": ["7C.png","AD.png","7H.png","blue_back.png"]}
+  ,{"CARDNAME": "Caltrops","IMAGES": ["2C.png","4H.png","gray_back.png"]}
+  ,{"CARDNAME": "Caustic Spider","IMAGES": ["4C.png","AD.png","7H.png","pink_back.png"]}
+  ,{"CARDNAME": "Chainer","IMAGES": ["5C.png","2D.png","6H.png","gray_back.png"]}
+  ,{"CARDNAME": "Chaingunner","IMAGES": ["4C.png","AD.png","4H.png","gray_back.png"]}
+  ,{"CARDNAME": "Charioteer","IMAGES": ["4C.png","2D.png","5H.png","blue_back.png"]}
+  ,{"CARDNAME": "Cherufe","IMAGES": ["7C.png","3D.png","9H.png","purple_back.png"]}
+  ,{"CARDNAME": "Cherufe Legendary","IMAGES": ["6C.png","3D.png","9H.png","purple_back.png"]}
+  ,{"CARDNAME": "Chirurgeon","IMAGES": ["6C.png","AD.png","7H.png","green_back.png"]}
+  ,{"CARDNAME": "Chort","IMAGES": ["7C.png","2D.png","8H.png","purple_back.png"]}
+  ,{"CARDNAME": "Chort Legendary","IMAGES": ["7C.png","3D.png","9H.png","purple_back.png"]}
+  ,{"CARDNAME": "Cicatrice","IMAGES": ["5C.png","AD.png","8H.png","pink_back.png"]}
+  ,{"CARDNAME": "Cicatrice Legendary","IMAGES": ["4C.png","2D.png","8H.png","pink_back.png"]}
+  ,{"CARDNAME": "Cimmerian","IMAGES": ["6C.png","3D.png","6H.png","pink_back.png"]}
+  ,{"CARDNAME": "Cimmerian Legendary","IMAGES": ["5C.png","4D.png","7H.png","pink_back.png"]}
+  ,{"CARDNAME": "Clockwork Mek","IMAGES": ["9C.png","3D.png","KH.png","gray_back.png"]}
+  ,{"CARDNAME": "Clockwork Mek Legendary","IMAGES": ["8C.png","4D.png","KH.png","gray_back.png"]}
+  ,{"CARDNAME": "Clone","IMAGES": ["7C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Constructor Alara","IMAGES": ["6C.png","2D.png","6H.png","gray_back.png"]}
+  ,{"CARDNAME": "Constructor Alara Legendary","IMAGES": ["6C.png","2D.png","8H.png","gray_back.png"]}
+  ,{"CARDNAME": "Constructor Aznik","IMAGES": ["7C.png","AD.png","7H.png","gray_back.png"]}
+  ,{"CARDNAME": "Constructor Aznik Legendary","IMAGES": ["7C.png","AD.png","9H.png","gray_back.png"]}
+  ,{"CARDNAME": "Constructor Darik","IMAGES": ["8C.png","2D.png","9H.png","gray_back.png"]}
+  ,{"CARDNAME": "Constructor Darik Legendary","IMAGES": ["8C.png","2D.png","10H.png","gray_back.png"]}
+  ,{"CARDNAME": "Constructor Liaric","IMAGES": ["6C.png","2D.png","7H.png","gray_back.png"]}
+  ,{"CARDNAME": "Constructor Liaric Legendary","IMAGES": ["5C.png","2D.png","8H.png","gray_back.png"]}
+  ,{"CARDNAME": "Constructor Owa","IMAGES": ["7C.png","AD.png","7H.png","gray_back.png"]}
+  ,{"CARDNAME": "Constructor Owa Legendary","IMAGES": ["6C.png","AD.png","8H.png","gray_back.png"]}
+  ,{"CARDNAME": "Constructor Sapok","IMAGES": ["4C.png","3D.png","4H.png","gray_back.png"]}
+  ,{"CARDNAME": "Constructor Sapok Legendary","IMAGES": ["4C.png","3D.png","5H.png","gray_back.png"]}
+  ,{"CARDNAME": "Constructor Ulnik","IMAGES": ["6C.png","2D.png","5H.png","gray_back.png"]}
+  ,{"CARDNAME": "Constructor Ulnik Legendary","IMAGES": ["5C.png","2D.png","6H.png","gray_back.png"]}
+  ,{"CARDNAME": "Corvina","IMAGES": ["5C.png","2D.png","8H.png","blue_back.png"]}
+  ,{"CARDNAME": "Corvina Legendary","IMAGES": ["5C.png","2D.png","9H.png","blue_back.png"]}
+  ,{"CARDNAME": "Counterspell","IMAGES": ["2C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Crusher of Shields","IMAGES": ["8C.png","5D.png","7H.png","red_back.png"]}
+  ,{"CARDNAME": "Crusher of Shields Legendary","IMAGES": ["7C.png","6D.png","8H.png","red_back.png"]}
+  ,{"CARDNAME": "Ctarath","IMAGES": ["6C.png","2D.png","9H.png","pink_back.png"]}
+  ,{"CARDNAME": "Ctarath Legendary","IMAGES": ["5C.png","3D.png","9H.png","pink_back.png"]}
+  ,{"CARDNAME": "Cytosian","IMAGES": ["5C.png","AD.png","5H.png","pink_back.png"]}
+  ,{"CARDNAME": "Daos","IMAGES": ["10C.png","5D.png","QH.png","purple_back.png"]}
+  ,{"CARDNAME": "Daos Legendary","IMAGES": ["9C.png","5D.png","QH.png","purple_back.png"]}
+  ,{"CARDNAME": "Darius","IMAGES": ["8C.png","2D.png","9H.png","blue_back.png"]}
+  ,{"CARDNAME": "Darius Legendary","IMAGES": ["8C.png","3D.png","10H.png","blue_back.png"]}
+  ,{"CARDNAME": "Dark Coercion","IMAGES": ["6C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Darkbow","IMAGES": ["6C.png","2D.png","8H.png","pink_back.png"]}
+  ,{"CARDNAME": "Darkling","IMAGES": ["7C.png","2D.png","5H.png","purple_back.png"]}
+  ,{"CARDNAME": "Darter","IMAGES": ["3C.png","AD.png","5H.png","pink_back.png"]}
+  ,{"CARDNAME": "Dawn Guard","IMAGES": ["6C.png","2D.png","7H.png","blue_back.png"]}
+  ,{"CARDNAME": "Despair","IMAGES": ["6C.png","2D.png","5H.png","purple_back.png"]}
+  ,{"CARDNAME": "Devourer","IMAGES": ["6C.png","2D.png","5H.png","purple_back.png"]}
+  ,{"CARDNAME": "Dire Rabbit","IMAGES": ["3C.png","AD.png","5H.png","green_back.png"]}
+  ,{"CARDNAME": "Disintegrate","IMAGES": ["9C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Disintegrate Legendary","IMAGES": ["5C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Dominion Wall","IMAGES": ["7C.png","9H.png","blue_back.png"]}
+  ,{"CARDNAME": "Dominion Wall Legendary","IMAGES": ["6C.png","QH.png","blue_back.png"]}
+  ,{"CARDNAME": "Doom","IMAGES": ["6C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Doom Legendary","IMAGES": ["3C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Dragon Clutch Legendary","IMAGES": ["8C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Dragon Hunter","IMAGES": ["7C.png","3D.png","6H.png","blue_back.png"]}
+  ,{"CARDNAME": "Dragon Mek","IMAGES": ["JC.png","4D.png","KH.png","gray_back.png"]}
+  ,{"CARDNAME": "Dragon Mek Legendary","IMAGES": ["10C.png","5D.png","KH.png","gray_back.png"]}
+  ,{"CARDNAME": "Dream Dust","IMAGES": ["8C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Drikkim","IMAGES": ["4C.png","AD.png","7H.png","purple_back.png"]}
+  ,{"CARDNAME": "Drikkim Legendary","IMAGES": ["4C.png","2D.png","7H.png","purple_back.png"]}
+  ,{"CARDNAME": "Drill Mek","IMAGES": ["6C.png","2D.png","7H.png","gray_back.png"]}
+  ,{"CARDNAME": "Drill Mek Legendary","IMAGES": ["5C.png","3D.png","7H.png","gray_back.png"]}
+  ,{"CARDNAME": "Duskbringer","IMAGES": ["5C.png","AD.png","5H.png","green_back.png"]}
+  ,{"CARDNAME": "Earth Elemental","IMAGES": ["4C.png","2D.png","3H.png","green_back.png"]}
+  ,{"CARDNAME": "Earth Mage","IMAGES": ["3C.png","AD.png","5H.png","green_back.png"]}
+  ,{"CARDNAME": "Efreet","IMAGES": ["4C.png","AD.png","5H.png","purple_back.png"]}
+  ,{"CARDNAME": "Elder Cinder Legendary","IMAGES": ["9C.png","QH.png","red_back.png"]}
+  ,{"CARDNAME": "Elder Erisdar Legendary","IMAGES": ["9C.png","QH.png","blue_back.png"]}
+  ,{"CARDNAME": "Elder Kindralt Legendary","IMAGES": ["9C.png","4D.png","JH.png","green_back.png"]}
+  ,{"CARDNAME": "Elder Samurai","IMAGES": ["7C.png","2D.png","6H.png","blue_back.png"]}
+  ,{"CARDNAME": "Elder Shorloth Legendary","IMAGES": ["9C.png","JH.png","purple_back.png"]}
+  ,{"CARDNAME": "Elder Warrior","IMAGES": ["6C.png","2D.png","6H.png","red_back.png"]}
+  ,{"CARDNAME": "Elder Wurmryn Legendary","IMAGES": ["9C.png","QH.png","pink_back.png"]}
+  ,{"CARDNAME": "Electrocute","IMAGES": ["3C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Elren, Summoner","IMAGES": ["7C.png","AD.png","10H.png","green_back.png"]}
+  ,{"CARDNAME": "Elren, Summoner Legendary","IMAGES": ["7C.png","AD.png","QH.png","green_back.png"]}
+  ,{"CARDNAME": "Ember Mage","IMAGES": ["4C.png","4H.png","blue_back.png"]}
+  ,{"CARDNAME": "Engineer","IMAGES": ["5C.png","AD.png","7H.png","blue_back.png"]}
+  ,{"CARDNAME": "Erinye","IMAGES": ["5C.png","AD.png","7H.png","purple_back.png"]}
+  ,{"CARDNAME": "Expediter","IMAGES": ["4C.png","AD.png","6H.png","gray_back.png"]}
+  ,{"CARDNAME": "Eye Tyrant","IMAGES": ["5C.png","7H.png","purple_back.png"]}
+  ,{"CARDNAME": "Fallen Celestial","IMAGES": ["9C.png","2D.png","10H.png","purple_back.png"]}
+  ,{"CARDNAME": "Fenris","IMAGES": ["6C.png","2D.png","4H.png","green_back.png"]}
+  ,{"CARDNAME": "Fenris Legendary","IMAGES": ["5C.png","2D.png","5H.png","green_back.png"]}
+  ,{"CARDNAME": "Feral Orc","IMAGES": ["5C.png","2D.png","5H.png","red_back.png"]}
+  ,{"CARDNAME": "Fetish Warrior","IMAGES": ["5C.png","2D.png","6H.png","red_back.png"]}
+  ,{"CARDNAME": "Field Mage","IMAGES": ["4C.png","AD.png","6H.png","gray_back.png"]}
+  ,{"CARDNAME": "Filch","IMAGES": ["5C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Filch Legendary","IMAGES": ["3C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Fire Blast","IMAGES": ["4C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Fire Elemental","IMAGES": ["4C.png","3H.png","green_back.png"]}
+  ,{"CARDNAME": "Fire Imp","IMAGES": ["2C.png","AD.png","4H.png","purple_back.png"]}
+  ,{"CARDNAME": "Firecaster","IMAGES": ["6C.png","6H.png","blue_back.png"]}
+  ,{"CARDNAME": "Flameskull","IMAGES": ["6C.png","7H.png","purple_back.png"]}
+  ,{"CARDNAME": "Flashdraft","IMAGES": ["AC.png","cyan_back.png"]}
+  ,{"CARDNAME": "Flux Mage","IMAGES": ["6C.png","4D.png","4H.png","gray_back.png"]}
+  ,{"CARDNAME": "Footman","IMAGES": ["3C.png","AD.png","5H.png","blue_back.png"]}
+  ,{"CARDNAME": "Frenetic Imp","IMAGES": ["4C.png","AD.png","4H.png","purple_back.png"]}
+  ,{"CARDNAME": "Gemini Imp","IMAGES": ["6C.png","2D.png","5H.png","purple_back.png"]}
+  ,{"CARDNAME": "Genocide","IMAGES": ["8C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Genocide Legendary","IMAGES": ["7C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Gibberling Imp","IMAGES": ["2C.png","AD.png","5H.png","purple_back.png"]}
+  ,{"CARDNAME": "Gladiator","IMAGES": ["6C.png","3D.png","7H.png","blue_back.png"]}
+  ,{"CARDNAME": "Glen Hunter","IMAGES": ["6C.png","2D.png","7H.png","green_back.png"]}
+  ,{"CARDNAME": "Gloom","IMAGES": ["7C.png","AD.png","8H.png","purple_back.png"]}
+  ,{"CARDNAME": "Gloom Legendary","IMAGES": ["7C.png","2D.png","8H.png","purple_back.png"]}
+  ,{"CARDNAME": "Goldleaf Archer","IMAGES": ["6C.png","3D.png","5H.png","green_back.png"]}
+  ,{"CARDNAME": "Gorgon Song Legendary","IMAGES": ["7C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Great Gorgu","IMAGES": ["5C.png","7H.png","pink_back.png"]}
+  ,{"CARDNAME": "Great Gorgu Legendary","IMAGES": ["5C.png","9H.png","pink_back.png"]}
+  ,{"CARDNAME": "Green Dragon","IMAGES": ["7C.png","3D.png","8H.png","green_back.png"]}
+  ,{"CARDNAME": "Green Dragon Egg","IMAGES": ["3C.png","5H.png","green_back.png"]}
+  ,{"CARDNAME": "Green Whelp","IMAGES": ["5C.png","2D.png","5H.png","green_back.png"]}
+  ,{"CARDNAME": "Griever","IMAGES": ["8C.png","4D.png","6H.png","purple_back.png"]}
+  ,{"CARDNAME": "Griflet","IMAGES": ["6C.png","2D.png","6H.png","blue_back.png"]}
+  ,{"CARDNAME": "Griflet Legendary","IMAGES": ["5C.png","2D.png","7H.png","blue_back.png"]}
+  ,{"CARDNAME": "Grimalkin","IMAGES": ["4C.png","AD.png","4H.png","gray_back.png"]}
+  ,{"CARDNAME": "Grimalkin Legendary","IMAGES": ["4C.png","2D.png","5H.png","gray_back.png"]}
+  ,{"CARDNAME": "Grotesque","IMAGES": ["7C.png","2D.png","7H.png","purple_back.png"]}
+  ,{"CARDNAME": "Grotesque Legendary","IMAGES": ["7C.png","2D.png","8H.png","purple_back.png"]}
+  ,{"CARDNAME": "Guardian","IMAGES": ["4C.png","2D.png","4H.png","gray_back.png"]}
+  ,{"CARDNAME": "Hawk Warrior","IMAGES": ["7C.png","2D.png","6H.png","red_back.png"]}
+  ,{"CARDNAME": "Headsplitter","IMAGES": ["7C.png","2D.png","7H.png","purple_back.png"]}
+  ,{"CARDNAME": "Healing Rays","IMAGES": ["5C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Heavy Mek","IMAGES": ["6C.png","3D.png","7H.png","gray_back.png"]}
+  ,{"CARDNAME": "Hell Hound","IMAGES": ["4C.png","4D.png","3H.png","purple_back.png"]}
+  ,{"CARDNAME": "Herd Runner","IMAGES": ["5C.png","AD.png","5H.png","red_back.png"]}
+  ,{"CARDNAME": "High Elf Druid","IMAGES": ["6C.png","AD.png","8H.png","green_back.png"]}
+  ,{"CARDNAME": "High Elf Healer","IMAGES": ["3C.png","AD.png","4H.png","green_back.png"]}
+  ,{"CARDNAME": "High Elf Scout","IMAGES": ["AC.png","AD.png","2H.png","green_back.png"]}
+  ,{"CARDNAME": "Hipparch Solon","IMAGES": ["6C.png","3D.png","5H.png","blue_back.png"]}
+  ,{"CARDNAME": "Hipparch Solon Legendary","IMAGES": ["5C.png","3D.png","7H.png","blue_back.png"]}
+  ,{"CARDNAME": "Hippeus","IMAGES": ["5C.png","2D.png","6H.png","blue_back.png"]}
+  ,{"CARDNAME": "Hippotoxote","IMAGES": ["3C.png","2D.png","4H.png","blue_back.png"]}
+  ,{"CARDNAME": "Hob Archer","IMAGES": ["4C.png","AD.png","4H.png","red_back.png"]}
+  ,{"CARDNAME": "Hob Mercenary","IMAGES": ["8C.png","2D.png","7H.png","red_back.png"]}
+  ,{"CARDNAME": "Hoplite","IMAGES": ["6C.png","2D.png","7H.png","blue_back.png"]}
+  ,{"CARDNAME": "Hulud Worm","IMAGES": ["9C.png","3D.png","10H.png","pink_back.png"]}
+  ,{"CARDNAME": "Hunter","IMAGES": ["2C.png","AD.png","3H.png","green_back.png"]}
+  ,{"CARDNAME": "Hydra","IMAGES": ["7C.png","3D.png","7H.png","purple_back.png"]}
+  ,{"CARDNAME": "Hypnotic Mage","IMAGES": ["4C.png","AD.png","5H.png","gray_back.png"]}
+  ,{"CARDNAME": "Imp Lord","IMAGES": ["5C.png","2D.png","6H.png","purple_back.png"]}
+  ,{"CARDNAME": "Imp Rider","IMAGES": ["2C.png","AD.png","5H.png","purple_back.png"]}
+  ,{"CARDNAME": "Implosion","IMAGES": ["7C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Implosion Legendary","IMAGES": ["6C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Incognito","IMAGES": ["7C.png","2D.png","4H.png","gray_back.png"]}
+  ,{"CARDNAME": "Infernal Gate","IMAGES": ["6C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Infernal Gate Legendary","IMAGES": ["5C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Iole Arcfire","IMAGES": ["5C.png","AD.png","6H.png","green_back.png"]}
+  ,{"CARDNAME": "Iole Arcfire Legendary","IMAGES": ["4C.png","AD.png","7H.png","green_back.png"]}
+  ,{"CARDNAME": "Ippiko","IMAGES": ["4C.png","2D.png","4H.png","blue_back.png"]}
+  ,{"CARDNAME": "Jester Spider","IMAGES": ["5C.png","AD.png","4H.png","pink_back.png"]}
+  ,{"CARDNAME": "June Willowstar","IMAGES": ["5C.png","AD.png","7H.png","blue_back.png"]}
+  ,{"CARDNAME": "June Willowstar Legendary","IMAGES": ["5C.png","2D.png","8H.png","blue_back.png"]}
+  ,{"CARDNAME": "Kathoras","IMAGES": ["8C.png","2D.png","9H.png","purple_back.png"]}
+  ,{"CARDNAME": "Kathoras Legendary","IMAGES": ["7C.png","3D.png","10H.png","purple_back.png"]}
+  ,{"CARDNAME": "Kongon Betar","IMAGES": ["6C.png","AD.png","6H.png","purple_back.png"]}
+  ,{"CARDNAME": "Krag Worm","IMAGES": ["9C.png","3D.png","10H.png","pink_back.png"]}
+  ,{"CARDNAME": "Labyrinth","IMAGES": ["5C.png","5H.png","gray_back.png"]}
+  ,{"CARDNAME": "Lady Steele Legendary","IMAGES": ["6C.png","3D.png","6H.png","blue_back.png"]}
+  ,{"CARDNAME": "Lancer","IMAGES": ["6C.png","3D.png","5H.png","blue_back.png"]}
+  ,{"CARDNAME": "Land Mine","IMAGES": ["2C.png","2H.png","gray_back.png"]}
+  ,{"CARDNAME": "Last Resort Legendary","IMAGES": ["9C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Leshy","IMAGES": ["9C.png","AD.png","8H.png","green_back.png"]}
+  ,{"CARDNAME": "LesInk Legendary","IMAGES": ["7C.png","2D.png","5H.png","gray_back.png"]}
+  ,{"CARDNAME": "Lifetapper","IMAGES": ["6C.png","2D.png","7H.png","gray_back.png"]}
+  ,{"CARDNAME": "Lightning Mek","IMAGES": ["3C.png","5H.png","gray_back.png"]}
+  ,{"CARDNAME": "Limeshard Spider","IMAGES": ["6C.png","AD.png","7H.png","pink_back.png"]}
+  ,{"CARDNAME": "Lord Fax","IMAGES": ["6C.png","2D.png","7H.png","blue_back.png"]}
+  ,{"CARDNAME": "Lord Fax Legendary","IMAGES": ["6C.png","2D.png","8H.png","blue_back.png"]}
+  ,{"CARDNAME": "Machinist","IMAGES": ["5C.png","AD.png","6H.png","gray_back.png"]}
+  ,{"CARDNAME": "Mad Bomber","IMAGES": ["4C.png","5H.png","gray_back.png"]}
+  ,{"CARDNAME": "Mage Lord","IMAGES": ["7C.png","8H.png","gray_back.png"]}
+  ,{"CARDNAME": "Magic Vortex","IMAGES": ["5C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Magma Spider","IMAGES": ["6C.png","AD.png","7H.png","pink_back.png"]}
+  ,{"CARDNAME": "Magnet Turret","IMAGES": ["6C.png","9H.png","gray_back.png"]}
+  ,{"CARDNAME": "Mago Breaker","IMAGES": ["7C.png","3D.png","7H.png","red_back.png"]}
+  ,{"CARDNAME": "Mago Breaker Legendary","IMAGES": ["7C.png","4D.png","8H.png","red_back.png"]}
+  ,{"CARDNAME": "Malebranche","IMAGES": ["6C.png","3D.png","6H.png","purple_back.png"]}
+  ,{"CARDNAME": "Malediction","IMAGES": ["4C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Mammon","IMAGES": ["9C.png","2D.png","QH.png","purple_back.png"]}
+  ,{"CARDNAME": "Mammon Legendary","IMAGES": ["8C.png","2D.png","KH.png","purple_back.png"]}
+  ,{"CARDNAME": "Manavore","IMAGES": ["5C.png","5H.png","purple_back.png"]}
+  ,{"CARDNAME": "Marilith","IMAGES": ["4C.png","AD.png","7H.png","purple_back.png"]}
+  ,{"CARDNAME": "Marksman","IMAGES": ["4C.png","2D.png","5H.png","green_back.png"]}
+  ,{"CARDNAME": "Meat Stores","IMAGES": ["5C.png","QH.png","red_back.png"]}
+  ,{"CARDNAME": "Meat Stores Legendary","IMAGES": ["4C.png","KH.png","red_back.png"]}
+  ,{"CARDNAME": "Medic","IMAGES": ["3C.png","5H.png","blue_back.png"]}
+  ,{"CARDNAME": "Medicine Orc","IMAGES": ["4C.png","6H.png","red_back.png"]}
+  ,{"CARDNAME": "Mele Rainmaker","IMAGES": ["6C.png","7H.png","green_back.png"]}
+  ,{"CARDNAME": "Mele Rainmaker Legendary","IMAGES": ["6C.png","8H.png","green_back.png"]}
+  ,{"CARDNAME": "Mephit","IMAGES": ["5C.png","AD.png","6H.png","purple_back.png"]}
+  ,{"CARDNAME": "Mindflayer","IMAGES": ["6C.png","2D.png","5H.png","pink_back.png"]}
+  ,{"CARDNAME": "Moon Spirit","IMAGES": ["8C.png","8H.png","green_back.png"]}
+  ,{"CARDNAME": "Moves as Sand","IMAGES": ["6C.png","3D.png","4H.png","red_back.png"]}
+  ,{"CARDNAME": "Moves as Sand Legendary","IMAGES": ["6C.png","4D.png","5H.png","red_back.png"]}
+  ,{"CARDNAME": "Mud Shaman","IMAGES": ["6C.png","2D.png","5H.png","red_back.png"]}
+  ,{"CARDNAME": "Mycophage","IMAGES": ["5C.png","AD.png","6H.png","pink_back.png"]}
+  ,{"CARDNAME": "Mycophage Legendary","IMAGES": ["5C.png","AD.png","8H.png","pink_back.png"]}
+  ,{"CARDNAME": "Mycosian Leech","IMAGES": ["5C.png","2D.png","4H.png","pink_back.png"]}
+  ,{"CARDNAME": "Mycosian Puffer","IMAGES": ["5C.png","2D.png","5H.png","pink_back.png"]}
+  ,{"CARDNAME": "Mycosian Shaman","IMAGES": ["5C.png","AD.png","6H.png","pink_back.png"]}
+  ,{"CARDNAME": "Mycosian Shrieker","IMAGES": ["2C.png","AD.png","4H.png","pink_back.png"]}
+  ,{"CARDNAME": "Mystic Archer","IMAGES": ["6C.png","AD.png","5H.png","green_back.png"]}
+  ,{"CARDNAME": "Netweaver","IMAGES": ["6C.png","7H.png","pink_back.png"]}
+  ,{"CARDNAME": "Night Hag","IMAGES": ["4C.png","AD.png","5H.png","purple_back.png"]}
+  ,{"CARDNAME": "Nightmare","IMAGES": ["5C.png","3D.png","5H.png","purple_back.png"]}
+  ,{"CARDNAME": "Niven Stoutbow","IMAGES": ["5C.png","2D.png","6H.png","green_back.png"]}
+  ,{"CARDNAME": "Niven Stoutbow Legendary","IMAGES": ["5C.png","2D.png","7H.png","green_back.png"]}
+  ,{"CARDNAME": "Nokosa","IMAGES": ["7C.png","2D.png","5H.png","pink_back.png"]}
+  ,{"CARDNAME": "Nokosa Legendary","IMAGES": ["6C.png","2D.png","7H.png","pink_back.png"]}
+  ,{"CARDNAME": "Noxious Spray","IMAGES": ["5C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Null Bug","IMAGES": ["6C.png","3D.png","6H.png","pink_back.png"]}
+  ,{"CARDNAME": "Null Bug Legendary","IMAGES": ["5C.png","3D.png","7H.png","pink_back.png"]}
+  ,{"CARDNAME": "Odan, Hierophant Legendary","IMAGES": ["6C.png","AD.png","10H.png","green_back.png"]}
+  ,{"CARDNAME": "Odysseus","IMAGES": ["8C.png","2D.png","9H.png","blue_back.png"]}
+  ,{"CARDNAME": "Odysseus Legendary","IMAGES": ["8C.png","3D.png","10H.png","blue_back.png"]}
+  ,{"CARDNAME": "Olifant","IMAGES": ["10C.png","4D.png","KH.png","red_back.png"]}
+  ,{"CARDNAME": "Omegon","IMAGES": ["6C.png","7H.png","purple_back.png"]}
+  ,{"CARDNAME": "Omegon Legendary","IMAGES": ["5C.png","9H.png","purple_back.png"]}
+  ,{"CARDNAME": "Operations Mek","IMAGES": ["7C.png","2D.png","7H.png","gray_back.png"]}
+  ,{"CARDNAME": "Operations Mek Legendary","IMAGES": ["7C.png","3D.png","9H.png","gray_back.png"]}
+  ,{"CARDNAME": "Oracle","IMAGES": ["6C.png","8H.png","blue_back.png"]}
+  ,{"CARDNAME": "Outrider","IMAGES": ["7C.png","2D.png","7H.png","blue_back.png"]}
+  ,{"CARDNAME": "Owlbear","IMAGES": ["7C.png","2D.png","6H.png","green_back.png"]}
+  ,{"CARDNAME": "Page","IMAGES": ["5C.png","2D.png","4H.png","blue_back.png"]}
+  ,{"CARDNAME": "Painter of Winds","IMAGES": ["7C.png","2D.png","8H.png","red_back.png"]}
+  ,{"CARDNAME": "Painter of Winds Legendary","IMAGES": ["7C.png","3D.png","10H.png","red_back.png"]}
+  ,{"CARDNAME": "Paladin","IMAGES": ["6C.png","2D.png","6H.png","blue_back.png"]}
+  ,{"CARDNAME": "Pallcaster","IMAGES": ["6C.png","2D.png","6H.png","gray_back.png"]}
+  ,{"CARDNAME": "Pandemonium","IMAGES": ["6C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Pandemonium Legendary","IMAGES": ["5C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Peltast","IMAGES": ["3C.png","AD.png","4H.png","blue_back.png"]}
+  ,{"CARDNAME": "Perseus","IMAGES": ["7C.png","2D.png","9H.png","blue_back.png"]}
+  ,{"CARDNAME": "Perseus Legendary","IMAGES": ["7C.png","3D.png","JH.png","blue_back.png"]}
+  ,{"CARDNAME": "Pestilent","IMAGES": ["6C.png","2D.png","5H.png","purple_back.png"]}
+  ,{"CARDNAME": "Pestilent Legendary","IMAGES": ["5C.png","2D.png","6H.png","purple_back.png"]}
+  ,{"CARDNAME": "Philosopher","IMAGES": ["6C.png","AD.png","5H.png","blue_back.png"]}
+  ,{"CARDNAME": "Pike Thrower","IMAGES": ["5C.png","AD.png","5H.png","red_back.png"]}
+  ,{"CARDNAME": "Plains Burner","IMAGES": ["5C.png","2D.png","4H.png","red_back.png"]}
+  ,{"CARDNAME": "Poet","IMAGES": ["6C.png","AD.png","8H.png","blue_back.png"]}
+  ,{"CARDNAME": "Poison Imp","IMAGES": ["2C.png","AD.png","4H.png","purple_back.png"]}
+  ,{"CARDNAME": "Potion Master","IMAGES": ["6C.png","AD.png","7H.png","pink_back.png"]}
+  ,{"CARDNAME": "Pouncer","IMAGES": ["2C.png","AD.png","4H.png","pink_back.png"]}
+  ,{"CARDNAME": "Prince Seval","IMAGES": ["4C.png","3D.png","6H.png","pink_back.png"]}
+  ,{"CARDNAME": "Prince Seval Legendary","IMAGES": ["3C.png","3D.png","6H.png","pink_back.png"]}
+  ,{"CARDNAME": "Princess Khima","IMAGES": ["6C.png","3D.png","7H.png","pink_back.png"]}
+  ,{"CARDNAME": "Princess Khima Legendary","IMAGES": ["5C.png","3D.png","8H.png","pink_back.png"]}
+  ,{"CARDNAME": "Prismatic Mage","IMAGES": ["4C.png","5H.png","gray_back.png"]}
+  ,{"CARDNAME": "Prismatic Spray","IMAGES": ["5C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Prodromoi","IMAGES": ["AC.png","AD.png","3H.png","blue_back.png"]}
+  ,{"CARDNAME": "Purple Dragon","IMAGES": ["7C.png","9H.png","pink_back.png"]}
+  ,{"CARDNAME": "Purple Dragon Egg","IMAGES": ["3C.png","5H.png","pink_back.png"]}
+  ,{"CARDNAME": "Purple Whelp","IMAGES": ["5C.png","5H.png","pink_back.png"]}
+  ,{"CARDNAME": "Queen Huloth","IMAGES": ["6C.png","AD.png","8H.png","pink_back.png"]}
+  ,{"CARDNAME": "Queen Huloth Legendary","IMAGES": ["5C.png","2D.png","8H.png","pink_back.png"]}
+  ,{"CARDNAME": "Quetzalcoatl","IMAGES": ["6C.png","7H.png","green_back.png"]}
+  ,{"CARDNAME": "Quetzalcoatl Legendary","IMAGES": ["6C.png","7H.png","green_back.png"]}
+  ,{"CARDNAME": "Rainbow Spirit Legendary","IMAGES": ["6C.png","AD.png","6H.png","green_back.png"]}
+  ,{"CARDNAME": "Rampaging Saurian","IMAGES": ["8C.png","2D.png","JH.png","red_back.png"]}
+  ,{"CARDNAME": "Rampaging Saurian Legendary","IMAGES": ["8C.png","2D.png","KH.png","red_back.png"]}
+  ,{"CARDNAME": "Raps and Taps","IMAGES": ["4C.png","AD.png","5H.png","red_back.png"]}
+  ,{"CARDNAME": "Raps and Taps Legendary","IMAGES": ["4C.png","2D.png","6H.png","red_back.png"]}
+  ,{"CARDNAME": "Raycatcher","IMAGES": ["9C.png","AD.png","7H.png","gray_back.png"]}
+  ,{"CARDNAME": "Recluse Spider","IMAGES": ["6C.png","3D.png","3H.png","pink_back.png"]}
+  ,{"CARDNAME": "Red Dragon","IMAGES": ["7C.png","9H.png","red_back.png"]}
+  ,{"CARDNAME": "Red Dragon Egg","IMAGES": ["3C.png","5H.png","red_back.png"]}
+  ,{"CARDNAME": "Red Whelp","IMAGES": ["5C.png","5H.png","red_back.png"]}
+  ,{"CARDNAME": "Repair Mek","IMAGES": ["4C.png","AD.png","6H.png","gray_back.png"]}
+  ,{"CARDNAME": "Resist Magic","IMAGES": ["6C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Revitalize","IMAGES": ["6C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Revitalize Legendary","IMAGES": ["6C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Rust Monster","IMAGES": ["7C.png","2D.png","9H.png","red_back.png"]}
+  ,{"CARDNAME": "Salahudin","IMAGES": ["6C.png","2D.png","8H.png","blue_back.png"]}
+  ,{"CARDNAME": "Salahudin Legendary","IMAGES": ["5C.png","2D.png","8H.png","blue_back.png"]}
+  ,{"CARDNAME": "Salamander","IMAGES": ["6C.png","2D.png","4H.png","green_back.png"]}
+  ,{"CARDNAME": "Salamander Legendary","IMAGES": ["6C.png","2D.png","6H.png","green_back.png"]}
+  ,{"CARDNAME": "Sapper","IMAGES": ["3C.png","AD.png","5H.png","red_back.png"]}
+  ,{"CARDNAME": "Saurian Herder","IMAGES": ["5C.png","2D.png","5H.png","red_back.png"]}
+  ,{"CARDNAME": "Saurian Rider","IMAGES": ["4C.png","AD.png","5H.png","red_back.png"]}
+  ,{"CARDNAME": "Saurian Scout","IMAGES": ["2C.png","AD.png","5H.png","red_back.png"]}
+  ,{"CARDNAME": "Saurian Trampler","IMAGES": ["6C.png","2D.png","6H.png","red_back.png"]}
+  ,{"CARDNAME": "Scout Mek","IMAGES": ["2C.png","AD.png","4H.png","gray_back.png"]}
+  ,{"CARDNAME": "Scythoner Mek","IMAGES": ["8C.png","2D.png","7H.png","gray_back.png"]}
+  ,{"CARDNAME": "Sela Stormcaller","IMAGES": ["5C.png","6H.png","green_back.png"]}
+  ,{"CARDNAME": "Sela Stormcaller Legendary","IMAGES": ["5C.png","8H.png","green_back.png"]}
+  ,{"CARDNAME": "Sentinel","IMAGES": ["6C.png","2D.png","7H.png","gray_back.png"]}
+  ,{"CARDNAME": "Sentry Mek","IMAGES": ["4C.png","AD.png","5H.png","gray_back.png"]}
+  ,{"CARDNAME": "Shadow Mage","IMAGES": ["6C.png","6H.png","pink_back.png"]}
+  ,{"CARDNAME": "Shadows","IMAGES": ["5C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Shadowspinner","IMAGES": ["5C.png","2D.png","5H.png","pink_back.png"]}
+  ,{"CARDNAME": "Shaman Elder","IMAGES": ["7C.png","6H.png","red_back.png"]}
+  ,{"CARDNAME": "Shaman Healer","IMAGES": ["5C.png","2D.png","5H.png","red_back.png"]}
+  ,{"CARDNAME": "Shield","IMAGES": ["5C.png","2D.png","4H.png","gray_back.png"]}
+  ,{"CARDNAME": "Shield Breaker","IMAGES": ["5C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Shield Breaker Legendary","IMAGES": ["3C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Shield Warrior","IMAGES": ["6C.png","2D.png","6H.png","red_back.png"]}
+  ,{"CARDNAME": "Singer","IMAGES": ["6C.png","AD.png","8H.png","blue_back.png"]}
+  ,{"CARDNAME": "Singularity","IMAGES": ["10C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Sir Valimont Legendary","IMAGES": ["8C.png","5D.png","QH.png","blue_back.png"]}
+  ,{"CARDNAME": "Skirmisher","IMAGES": ["2C.png","AD.png","4H.png","blue_back.png"]}
+  ,{"CARDNAME": "Sklirosaur","IMAGES": ["7C.png","3D.png","8H.png","red_back.png"]}
+  ,{"CARDNAME": "Sklirosaur Legendary","IMAGES": ["7C.png","3D.png","9H.png","red_back.png"]}
+  ,{"CARDNAME": "Skoll","IMAGES": ["4C.png","2D.png","4H.png","green_back.png"]}
+  ,{"CARDNAME": "Skoll Legendary","IMAGES": ["3C.png","2D.png","5H.png","green_back.png"]}
+  ,{"CARDNAME": "Sleeping Gas","IMAGES": ["3C.png","4H.png","gray_back.png"]}
+  ,{"CARDNAME": "Slinger","IMAGES": ["2C.png","AD.png","4H.png","red_back.png"]}
+  ,{"CARDNAME": "Slow Time","IMAGES": ["7C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Slow Time Legendary","IMAGES": ["5C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Speaks like Snakes","IMAGES": ["6C.png","2D.png","6H.png","red_back.png"]}
+  ,{"CARDNAME": "Speaks like Snakes Legendary","IMAGES": ["6C.png","2D.png","10H.png","red_back.png"]}
+  ,{"CARDNAME": "Spider-Rider","IMAGES": ["4C.png","3D.png","4H.png","pink_back.png"]}
+  ,{"CARDNAME": "Spiderling","IMAGES": ["2C.png","AD.png","4H.png","pink_back.png"]}
+  ,{"CARDNAME": "Spiked Imp","IMAGES": ["3C.png","AD.png","4H.png","purple_back.png"]}
+  ,{"CARDNAME": "Stone Deacon","IMAGES": ["8C.png","7D.png","7H.png","blue_back.png"]}
+  ,{"CARDNAME": "Stone Wall","IMAGES": ["3C.png","10H.png","blue_back.png"]}
+  ,{"CARDNAME": "Storm Legendary","IMAGES": ["AC.png","AD.png","AH.png","green_back.png"]}
+  ,{"CARDNAME": "Storm Elemental","IMAGES": ["6C.png","5H.png","green_back.png"]}
+  ,{"CARDNAME": "Storm Mage","IMAGES": ["5C.png","6H.png","blue_back.png"]}
+  ,{"CARDNAME": "Storm Shaman","IMAGES": ["3C.png","AD.png","4H.png","red_back.png"]}
+  ,{"CARDNAME": "Strength","IMAGES": ["4C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Strobe Mek","IMAGES": ["7C.png","6H.png","gray_back.png"]}
+  ,{"CARDNAME": "Strobe Mek Legendary","IMAGES": ["7C.png","8H.png","gray_back.png"]}
+  ,{"CARDNAME": "Strychnos","IMAGES": ["6C.png","3D.png","6H.png","pink_back.png"]}
+  ,{"CARDNAME": "Strychnos Legendary","IMAGES": ["7C.png","4D.png","8H.png","pink_back.png"]}
+  ,{"CARDNAME": "Subterfuge","IMAGES": ["4C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Sulfras Wall","IMAGES": ["4C.png","6H.png","pink_back.png"]}
+  ,{"CARDNAME": "Summon Elementals","IMAGES": ["7C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Swamp Gas","IMAGES": ["4C.png","8H.png","pink_back.png"]}
+  ,{"CARDNAME": "Swordsman","IMAGES": ["5C.png","2D.png","5H.png","blue_back.png"]}
+  ,{"CARDNAME": "Syran Gemcaster","IMAGES": ["7C.png","AD.png","7H.png","green_back.png"]}
+  ,{"CARDNAME": "Syran Gemcaster Legendary","IMAGES": ["7C.png","AD.png","9H.png","green_back.png"]}
+  ,{"CARDNAME": "Tarrasque","IMAGES": ["10C.png","AD.png","KH.png","red_back.png"]}
+  ,{"CARDNAME": "Tarrasque Legendary","IMAGES": ["10C.png","2D.png","KH.png","red_back.png"]}
+  ,{"CARDNAME": "Temper of Beasts","IMAGES": ["4C.png","6H.png","red_back.png"]}
+  ,{"CARDNAME": "Temper of Beasts Legendary","IMAGES": ["4C.png","8H.png","red_back.png"]}
+  ,{"CARDNAME": "Temple Monk","IMAGES": ["8C.png","3D.png","7H.png","blue_back.png"]}
+  ,{"CARDNAME": "Timber Wolf","IMAGES": ["5C.png","AD.png","4H.png","green_back.png"]}
+  ,{"CARDNAME": "Time Bomb","IMAGES": ["4C.png","8H.png","gray_back.png"]}
+  ,{"CARDNAME": "Time Elemental","IMAGES": ["5C.png","AD.png","3H.png","green_back.png"]}
+  ,{"CARDNAME": "Tracker","IMAGES": ["3C.png","2D.png","3H.png","green_back.png"]}
+  ,{"CARDNAME": "Trapper","IMAGES": ["3C.png","AD.png","4H.png","pink_back.png"]}
+  ,{"CARDNAME": "Trash Collector","IMAGES": ["3C.png","AD.png","5H.png","gray_back.png"]}
+  ,{"CARDNAME": "Trebuchet","IMAGES": ["7C.png","6H.png","red_back.png"]}
+  ,{"CARDNAME": "Tree Fortress","IMAGES": ["3C.png","8H.png","green_back.png"]}
+  ,{"CARDNAME": "Treespeaker","IMAGES": ["8C.png","3D.png","10H.png","green_back.png"]}
+  ,{"CARDNAME": "Triceras","IMAGES": ["8C.png","4D.png","6H.png","red_back.png"]}
+  ,{"CARDNAME": "Triceras Legendary","IMAGES": ["8C.png","4D.png","7H.png","red_back.png"]}
+  ,{"CARDNAME": "Trident Warrior","IMAGES": ["6C.png","2D.png","5H.png","blue_back.png"]}
+  ,{"CARDNAME": "Tunnel Stalker","IMAGES": ["6C.png","2D.png","6H.png","pink_back.png"]}
+  ,{"CARDNAME": "Underminer","IMAGES": ["5C.png","AD.png","5H.png","gray_back.png"]}
+  ,{"CARDNAME": "Unsummon","IMAGES": ["8C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Unsummon Legendary","IMAGES": ["8C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Vexling Imp","IMAGES": ["4C.png","AD.png","3H.png","purple_back.png"]}
+  ,{"CARDNAME": "Volt Turret","IMAGES": ["2C.png","3H.png","gray_back.png"]}
+  ,{"CARDNAME": "Vox","IMAGES": ["5C.png","AD.png","6H.png","purple_back.png"]}
+  ,{"CARDNAME": "Vox Legendary","IMAGES": ["5C.png","2D.png","8H.png","purple_back.png"]}
+  ,{"CARDNAME": "Vyrecall","IMAGES": ["5C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Walks with Sorrow","IMAGES": ["8C.png","3D.png","8H.png","red_back.png"]}
+  ,{"CARDNAME": "Walks with Sorrow Legendary","IMAGES": ["8C.png","3D.png","10H.png","red_back.png"]}
+  ,{"CARDNAME": "Wall Crawler","IMAGES": ["6C.png","3D.png","5H.png","pink_back.png"]}
+  ,{"CARDNAME": "Wall of Acid","IMAGES": ["3C.png","8H.png","pink_back.png"]}
+  ,{"CARDNAME": "Wall of Flames","IMAGES": ["3C.png","8H.png","red_back.png"]}
+  ,{"CARDNAME": "Wall of Souls","IMAGES": ["4C.png","8H.png","purple_back.png"]}
+  ,{"CARDNAME": "Wall of Spears","IMAGES": ["4C.png","8H.png","blue_back.png"]}
+  ,{"CARDNAME": "Wall of Webs","IMAGES": ["3C.png","8H.png","pink_back.png"]}
+  ,{"CARDNAME": "Wall of Wind","IMAGES": ["3C.png","8H.png","red_back.png"]}
+  ,{"CARDNAME": "War Pig","IMAGES": ["6C.png","4D.png","4H.png","red_back.png"]}
+  ,{"CARDNAME": "Warden Mek","IMAGES": ["8C.png","3D.png","9H.png","gray_back.png"]}
+  ,{"CARDNAME": "Warden Mek Legendary","IMAGES": ["7C.png","4D.png","JH.png","gray_back.png"]}
+  ,{"CARDNAME": "Water Elemental","IMAGES": ["4C.png","3H.png","green_back.png"]}
+  ,{"CARDNAME": "Water Mage","IMAGES": ["5C.png","5H.png","green_back.png"]}
+  ,{"CARDNAME": "Webthrower","IMAGES": ["5C.png","6H.png","pink_back.png"]}
+  ,{"CARDNAME": "Will-o-Wisp","IMAGES": ["4C.png","2H.png","green_back.png"]}
+  ,{"CARDNAME": "Wind Shaman","IMAGES": ["4C.png","2D.png","5H.png","red_back.png"]}
+  ,{"CARDNAME": "Wind Storm","IMAGES": ["5C.png","cyan_back.png"]}
+  ,{"CARDNAME": "Wolf Lord","IMAGES": ["7C.png","2D.png","10H.png","green_back.png"]}
+  ,{"CARDNAME": "Wolf Rider","IMAGES": ["5C.png","2D.png","4H.png","green_back.png"]}
+  ,{"CARDNAME": "Wolf Scout","IMAGES": ["4C.png","AD.png","3H.png","green_back.png"]}
+  ,{"CARDNAME": "Wolf Spider","IMAGES": ["5C.png","2D.png","5H.png","pink_back.png"]}
+  ,{"CARDNAME": "Wood Spirit","IMAGES": ["4C.png","AD.png","5H.png","green_back.png"]}
+  ,{"CARDNAME": "Wren Moondancer","IMAGES": ["8C.png","3D.png","7H.png","green_back.png"]}
+  ,{"CARDNAME": "Wren Moondancer Legendary","IMAGES": ["7C.png","3D.png","9H.png","green_back.png"]}
+  ,{"CARDNAME": "Wulf","IMAGES": ["6C.png","2D.png","7H.png","blue_back.png"]}
+  ,{"CARDNAME": "Wulf Legendary","IMAGES": ["5C.png","2D.png","8H.png","blue_back.png"]}
+  ,{"CARDNAME": "Xenosaur Legendary","IMAGES": ["10C.png","3D.png","9H.png","red_back.png"]}
+  ,{"CARDNAME": "Yuta Dusksong","IMAGES": ["7C.png","AD.png","7H.png","green_back.png"]}
+  ,{"CARDNAME": "Yuta Dusksong Legendary","IMAGES": ["7C.png","2D.png","7H.png","green_back.png"]}
+  ,{"CARDNAME": "Zenia, Werewolf","IMAGES": ["4C.png","3D.png","6H.png","green_back.png"]}
+  ,{"CARDNAME": "Zenia, Werewolf Legendary","IMAGES": ["3C.png","3D.png","7H.png","green_back.png"]}
+  ,{"CARDNAME": "Zink Legendary","IMAGES": ["7C.png","6D.png","6H.png","gray_back.png"]}
+  ,{"CARDNAME": "Zorak the Mace","IMAGES": ["8C.png","3D.png","10H.png","red_back.png"]}
+  ,{"CARDNAME": "Zorak the Mace Legendary","IMAGES": ["7C.png","4D.png","10H.png","red_back.png"]}
+]

@@ -1,0 +1,2195 @@
+[
+	{
+		"KEYWORD":"Absolute Zero Legendary",
+		"CARDNAME":"Absolute Zero Legendary",
+		"ALIAS":"Absolute Zero;|0|;Absolute Zero L"
+	},
+	{
+		"KEYWORD":"Agar",
+		"CARDNAME":"Agar"
+	},
+	{
+		"KEYWORD":"Agar Legendary",
+		"CARDNAME":"Agar Legendary",
+		"ALIAS":"Agar L"
+	},
+	{
+		"KEYWORD":"Air Elemental",
+		"CARDNAME":"Air Elemental",
+		"ALIAS":"Air Ele"
+	},
+	{
+		"KEYWORD":"Alastair",
+		"CARDNAME":"Alastair",
+		"ALIAS":"Alastar;Alistair;Alister"
+	},
+	{
+		"KEYWORD":"Alastair Legendary",
+		"CARDNAME":"Alastair Legendary",
+		"ALIAS":"Alastar L;Alistair L;Alastair L;Alister L"
+	},
+	{
+		"KEYWORD":"Alloy Elemental",
+		"CARDNAME":"Alloy Elemental",
+		"ALIAS":"Alloy;Alloy Ele"
+	},
+	{
+		"KEYWORD":"Ambusher",
+		"CARDNAME":"Ambusher",
+		"ALIAS":"Ambush"
+	},
+	{
+		"KEYWORD":"Anakaga",
+		"CARDNAME":"Anakaga"
+	},
+	{
+		"KEYWORD":"Anakaga Legendary",
+		"CARDNAME":"Anakaga Legendary",
+		"ALIAS":"Anakaga L"
+	},
+	{
+		"KEYWORD":"Apep",
+		"CARDNAME":"Apep"
+	},
+	{
+		"KEYWORD":"Apep Legendary",
+		"CARDNAME":"Apep Legendary",
+		"ALIAS":"Apep L"
+	},
+	{
+		"KEYWORD":"Arachne Legendary",
+		"CARDNAME":"Arachne Legendary",
+		"ALIAS":"Arachne;Arachne L"
+	},
+	{
+		"KEYWORD":"Arachnos Mage",
+		"CARDNAME":"Arachnos Mage",
+		"ALIAS":"Arachmage;Arachnos M"
+	},
+	{
+		"KEYWORD":"Arachnos Priest",
+		"CARDNAME":"Arachnos Priest",
+		"ALIAS":"Arachpriest;Arachnos P"
+	},
+	{
+		"KEYWORD":"Aranea",
+		"CARDNAME":"Aranea"
+	},
+	{
+		"KEYWORD":"Arbalest",
+		"CARDNAME":"Arbalest",
+		"ALIAS":"Arba"
+	},
+	{
+		"KEYWORD":"Arsenic",
+		"CARDNAME":"Arsenic"
+	},
+	{
+		"KEYWORD":"Arsenic Legendary",
+		"CARDNAME":"Arsenic Legendary",
+		"ALIAS":"Arsenic L"
+	},
+	{
+		"KEYWORD":"Astaroth",
+		"CARDNAME":"Astaroth",
+		"ALIAS":"Asta"
+	},
+	{
+		"KEYWORD":"Astaroth Legendary",
+		"CARDNAME":"Astaroth Legendary",
+		"ALIAS":"Astaroth L;Asta L"
+	},
+	{
+		"KEYWORD":"Axe Thrower",
+		"CARDNAME":"Axe Thrower"
+	},
+	{
+		"KEYWORD":"Ballistic Mek",
+		"CARDNAME":"Ballistic Mek",
+		"ALIAS":"Ballistic;Ballista Mek"
+	},
+	{
+		"KEYWORD":"Ballistic Mek Legendary",
+		"CARDNAME":"Ballistic Mek Legendary",
+		"ALIAS":"Ballistic Mek L;Ballistic L;Ballista Mek L"
+	},
+	{
+		"KEYWORD":"Balor",
+		"CARDNAME":"Balor",
+		"ALIAS":"Balrog"
+	},
+	{
+		"KEYWORD":"Bard",
+		"CARDNAME":"Bard"
+	},
+	{
+		"KEYWORD":"Bard Legendary",
+		"CARDNAME":"Bard Legendary",
+		"ALIAS":"Bard L"
+	},
+	{
+		"KEYWORD":"Baskervor",
+		"CARDNAME":"Baskervor",
+		"ALIAS":"Baskervoir;Baskerville"
+	},
+	{
+		"KEYWORD":"Beastmaster",
+		"CARDNAME":"Beastmaster"
+	},
+	{
+		"KEYWORD":"Beezleblub",
+		"CARDNAME":"Beezleblub",
+		"ALIAS":"Beelzebub;Beez"
+	},
+	{
+		"KEYWORD":"Beholder Legendary",
+		"CARDNAME":"Beholder Legendary",
+		"ALIAS":"Beholder;Beholder L"
+	},
+	{
+		"KEYWORD":"Belcher Imp",
+		"CARDNAME":"Belcher Imp",
+		"ALIAS":"Belcher;Belch"
+	},
+	{
+		"KEYWORD":"Belcher Imp Legendary",
+		"CARDNAME":"Belcher Imp Legendary",
+		"ALIAS":"Belcher L;Belcher Imp L;Belch L"
+	},
+	{
+		"KEYWORD":"Bender of Blades Legendary",
+		"CARDNAME":"Bender of Blades Legendary",
+		"ALIAS":"Bender of Blades;Bender;BoB;Bender of Blades L;Bender L;BoB L"
+	},
+	{
+		"KEYWORD":"Berith",
+		"CARDNAME":"Berith"
+	},
+	{
+		"KEYWORD":"Berith Legendary",
+		"CARDNAME":"Berith Legendary",
+		"ALIAS":"Berith L"
+	},
+	{
+		"KEYWORD":"Berserker Rage",
+		"CARDNAME":"Berserker Rage",
+		"ALIAS":"Rage Spell"
+	},
+	{
+		"KEYWORD":"Black Dragon",
+		"CARDNAME":"Black Dragon",
+		"ALIAS":"Black D"
+	},
+	{
+		"KEYWORD":"Black Dragon Egg",
+		"CARDNAME":"Black Dragon Egg",
+		"ALIAS":"Black Egg"
+	},
+	{
+		"KEYWORD":"Black Whelp",
+		"CARDNAME":"Black Whelp",
+		"ALIAS":"Black W"
+	},
+	{
+		"KEYWORD":"Black Widow Legendary",
+		"CARDNAME":"Black Widow Legendary",
+		"ALIAS":"Widow;Black Widow;Black Widow L;Widow L"
+	},
+	{
+		"KEYWORD":"Blade Spider",
+		"CARDNAME":"Blade Spider"
+	},
+	{
+		"KEYWORD":"Bloodbath",
+		"CARDNAME":"Bloodbath",
+		"ALIAS":"Frenzy Spell"
+	},
+	{
+		"KEYWORD":"Blue Dragon",
+		"CARDNAME":"Blue Dragon",
+		"ALIAS":"Blue D"
+	},
+	{
+		"KEYWORD":"Blue Dragon Egg",
+		"CARDNAME":"Blue Dragon Egg",
+		"ALIAS":"Blue Egg"
+	},
+	{
+		"KEYWORD":"Blue Whelp",
+		"CARDNAME":"Blue Whelp",
+		"ALIAS":"Blue W"
+	},
+	{
+		"KEYWORD":"Bolter",
+		"CARDNAME":"Bolter"
+	},
+	{
+		"KEYWORD":"Bounce",
+		"CARDNAME":"Bounce"
+	},
+	{
+		"KEYWORD":"Bowmaster",
+		"CARDNAME":"Bowmaster"
+	},
+	{
+		"KEYWORD":"Brainstorm",
+		"CARDNAME":"Brainstorm",
+		"ALIAS":"Draw Spell"
+	},
+	{
+		"KEYWORD":"Brainstorm Legendary",
+		"CARDNAME":"Brainstorm Legendary",
+		"ALIAS":"Brainstorm L"
+	},
+	{
+		"KEYWORD":"Brood Mother",
+		"CARDNAME":"Brood Mother",
+		"ALIAS":"Brood;Spider Mom"
+	},
+	{
+		"KEYWORD":"Brood Mother Legendary",
+		"CARDNAME":"Brood Mother Legendary",
+		"ALIAS":"Brood L;Spider Mom L"
+	},
+	{
+		"KEYWORD":"Bug Hunter",
+		"CARDNAME":"Bug Hunter"
+	},
+	{
+		"KEYWORD":"Burning Hands",
+		"CARDNAME":"Burning Hands"
+	},
+	{
+		"KEYWORD":"Cage Fighter",
+		"CARDNAME":"Cage Fighter",
+		"ALIAS":"Cage"
+	},
+	{
+		"KEYWORD":"Calliope",
+		"CARDNAME":"Calliope"
+	},
+	{
+		"KEYWORD":"Calliope Legendary",
+		"CARDNAME":"Calliope Legendary",
+		"ALIAS":"Calliope L"
+	},
+	{
+		"KEYWORD":"Caltrops",
+		"CARDNAME":"Caltrops"
+	},
+	{
+		"KEYWORD":"Caustic Spider",
+		"CARDNAME":"Caustic Spider",
+		"ALIAS":"Caustic"
+	},
+	{
+		"KEYWORD":"Chainer",
+		"CARDNAME":"Chainer",
+		"ALIAS":"Chainsaw"
+	},
+	{
+		"KEYWORD":"Chaingunner",
+		"CARDNAME":"Chaingunner",
+		"ALIAS":"Chaingun"
+	},
+	{
+		"KEYWORD":"Charioteer",
+		"CARDNAME":"Charioteer",
+		"ALIAS":"Chariot"
+	},
+	{
+		"KEYWORD":"Cherufe",
+		"CARDNAME":"Cherufe"
+	},
+	{
+		"KEYWORD":"Cherufe Legendary",
+		"CARDNAME":"Cherufe Legendary",
+		"ALIAS":"Cherufe L"
+	},
+	{
+		"KEYWORD":"Chirurgeon",
+		"CARDNAME":"Chirurgeon",
+		"ALIAS":"Surgeon"
+	},
+	{
+		"KEYWORD":"Chort",
+		"CARDNAME":"Chort",
+		"ALIAS":"Chortle"
+	},
+	{
+		"KEYWORD":"Chort Legendary",
+		"CARDNAME":"Chort Legendary",
+		"ALIAS":"Chort L;Chortle L"
+	},
+	{
+		"KEYWORD":"Cicatrice",
+		"CARDNAME":"Cicatrice",
+		"ALIAS":"Cica"
+	},
+	{
+		"KEYWORD":"Cicatrice Legendary",
+		"CARDNAME":"Cicatrice Legendary",
+		"ALIAS":"Cicatrice L; Cica L"
+	},
+	{
+		"KEYWORD":"Cimmerian",
+		"CARDNAME":"Cimmerian",
+		"ALIAS":"Cimm;Cimmeran"
+	},
+	{
+		"KEYWORD":"Cimmerian Legendary",
+		"CARDNAME":"Cimmerian Legendary",
+		"ALIAS":"Cimm L;Cimmeran L;Cimmerian L"
+	},
+	{
+		"KEYWORD":"Clockwork Mek",
+		"CARDNAME":"Clockwork Mek",
+		"ALIAS":"Clockwork"
+	},
+	{
+		"KEYWORD":"Clockwork Mek Legendary",
+		"CARDNAME":"Clockwork Mek Legendary",
+		"ALIAS":"Clockwork L;Clockwork Mek L"
+	},
+	{
+		"KEYWORD":"Clone",
+		"CARDNAME":"Clone",
+		"ALIAS":"Copy Spell"
+	},
+	{
+		"KEYWORD":"Constructor Alara",
+		"CARDNAME":"Constructor Alara",
+		"ALIAS":"Alara"
+	},
+	{
+		"KEYWORD":"Constructor Alara Legendary",
+		"CARDNAME":"Constructor Alara Legendary",
+		"ALIAS":"Alara L;Constructor Alara L"
+	},
+	{
+		"KEYWORD":"Constructor Aznik",
+		"CARDNAME":"Constructor Aznik",
+		"ALIAS":"Aznik"
+	},
+	{
+		"KEYWORD":"Constructor Aznik Legendary",
+		"CARDNAME":"Constructor Aznik Legendary",
+		"ALIAS":"Aznik L;Constructor Aznik L"
+	},
+	{
+		"KEYWORD":"Constructor Darik",
+		"CARDNAME":"Constructor Darik",
+		"ALIAS":"Darik"
+	},
+	{
+		"KEYWORD":"Constructor Darik Legendary",
+		"CARDNAME":"Constructor Darik Legendary",
+		"ALIAS":"Darik L;Constructor Darik L"
+	},
+	{
+		"KEYWORD":"Constructor Liaric",
+		"CARDNAME":"Constructor Liaric",
+		"ALIAS":"Liaric"
+	},
+	{
+		"KEYWORD":"Constructor Liaric Legendary",
+		"CARDNAME":"Constructor Liaric Legendary",
+		"ALIAS":"Liaric L;Constructor Liaric L"
+	},
+	{
+		"KEYWORD":"Constructor Owa",
+		"CARDNAME":"Constructor Owa",
+		"ALIAS":"Owa"
+	},
+	{
+		"KEYWORD":"Constructor Owa Legendary",
+		"CARDNAME":"Constructor Owa Legendary",
+		"ALIAS":"Owa L;Constructor Owa L"
+	},
+	{
+		"KEYWORD":"Constructor Sapok",
+		"CARDNAME":"Constructor Sapok",
+		"ALIAS":"Sapok"
+	},
+	{
+		"KEYWORD":"Constructor Sapok Legendary",
+		"CARDNAME":"Constructor Sapok Legendary",
+		"ALIAS":"Sapok L;Constructor Sapok L"
+	},
+	{
+		"KEYWORD":"Constructor Ulnik",
+		"CARDNAME":"Constructor Ulnik",
+		"ALIAS":"Ulnik"
+	},
+	{
+		"KEYWORD":"Constructor Ulnik Legendary",
+		"CARDNAME":"Constructor Ulnik Legendary",
+		"ALIAS":"Ulnik L;Constructor Ulnik L"
+	},
+	{
+		"KEYWORD":"Corvina",
+		"CARDNAME":"Corvina",
+		"ALIAS":"Corv"
+	},
+	{
+		"KEYWORD":"Corvina Legendary",
+		"CARDNAME":"Corvina Legendary",
+		"ALIAS":"Corvina L;Corv L"
+	},
+	{
+		"KEYWORD":"Counterspell",
+		"CARDNAME":"Counterspell",
+		"ALIAS":"Counter;Counter Spell"
+	},
+	{
+		"KEYWORD":"Crusher of Shields",
+		"CARDNAME":"Crusher of Shields",
+		"ALIAS":"Crusher;CoS"
+	},
+	{
+		"KEYWORD":"Crusher of Shields Legendary",
+		"CARDNAME":"Crusher of Shields Legendary",
+		"ALIAS":"Crusher L;CoS L"
+	},
+	{
+		"KEYWORD":"Ctarath",
+		"CARDNAME":"Ctarath",
+		"ALIAS":"Cta;Ctareth;Ctar"
+	},
+	{
+		"KEYWORD":"Ctarath Legendary",
+		"CARDNAME":"Ctarath Legendary",
+		"ALIAS":"Ctarath L;Cta L;Ctareth L;Ctar L"
+	},
+	{
+		"KEYWORD":"Cytosian",
+		"CARDNAME":"Cytosian",
+		"ALIAS":"Cyt;Cyto"
+	},
+	{
+		"KEYWORD":"Daos",
+		"CARDNAME":"Daos"
+	},
+	{
+		"KEYWORD":"Daos Legendary",
+		"CARDNAME":"Daos Legendary",
+		"ALIAS":"Daos L"
+	},
+	{
+		"KEYWORD":"Darius",
+		"CARDNAME":"Darius"
+	},
+	{
+		"KEYWORD":"Darius Legendary",
+		"CARDNAME":"Darius Legendary",
+		"ALIAS":"Darius L"
+	},
+	{
+		"KEYWORD":"Dark Coercion",
+		"CARDNAME":"Dark Coercion",
+		"ALIAS":"Mill Spell"
+	},
+	{
+		"KEYWORD":"Darkbow",
+		"CARDNAME":"Darkbow"
+	},
+	{
+		"KEYWORD":"Darkling",
+		"CARDNAME":"Darkling"
+	},
+	{
+		"KEYWORD":"Darter",
+		"CARDNAME":"Darter"
+	},
+	{
+		"KEYWORD":"Dawn Guard",
+		"CARDNAME":"Dawn Guard",
+		"ALIAS":"Dawn"
+	},
+	{
+		"KEYWORD":"Despair",
+		"CARDNAME":"Despair"
+	},
+	{
+		"KEYWORD":"Devourer",
+		"CARDNAME":"Devourer"
+	},
+	{
+		"KEYWORD":"Dire Rabbit",
+		"CARDNAME":"Dire Rabbit",
+		"ALIAS":"Rabbit;Bunny"
+	},
+	{
+		"KEYWORD":"Disintegrate",
+		"CARDNAME":"Disintegrate",
+		"ALIAS":"Dis"
+	},
+	{
+		"KEYWORD":"Disintegrate Legendary",
+		"CARDNAME":"Disintegrate Legendary",
+		"ALIAS":"Dis L;Disintegrate L"
+	},
+	{
+		"KEYWORD":"Dominion Wall",
+		"CARDNAME":"Dominion Wall",
+		"ALIAS":"Dominion;W Dominion;W Dom;Dom"
+	},
+	{
+		"KEYWORD":"Dominion Wall Legendary",
+		"CARDNAME":"Dominion Wall Legendary",
+		"ALIAS":"Dominion L;Dominion Wall L;W Dominion L; W Dom L;Dom L"
+	},
+	{
+		"KEYWORD":"Doom",
+		"CARDNAME":"Doom"
+	},
+	{
+		"KEYWORD":"Doom Legendary",
+		"CARDNAME":"Doom Legendary",
+		"ALIAS":"Doom L"
+	},
+	{
+		"KEYWORD":"Dragon Clutch Legendary",
+		"CARDNAME":"Dragon Clutch Legendary",
+		"ALIAS":"Dragon Clutch;Clutch;Eggs;Dragon Eggs"
+	},
+	{
+		"KEYWORD":"Dragon Hunter",
+		"CARDNAME":"Dragon Hunter"
+	},
+	{
+		"KEYWORD":"Dragon Mek",
+		"CARDNAME":"Dragon Mek",
+		"ALIAS":"D Mek;Mek ED;Mek Elder Dragon"
+	},
+	{
+		"KEYWORD":"Dragon Mek Legendary",
+		"CARDNAME":"Dragon Mek Legendary",
+		"ALIAS":"D Mek L;Dragon Mek L;Mek ED L;Mek Elder Dragon L"
+	},
+	{
+		"KEYWORD":"Dream Dust",
+		"CARDNAME":"Dream Dust",
+		"ALIAS":"Paralyse Spell;Paralyze Spell;Paralyze;Paralyse"
+	},
+	{
+		"KEYWORD":"Drikkim",
+		"CARDNAME":"Drikkim",
+		"ALIAS":"Drik"
+	},
+	{
+		"KEYWORD":"Drikkim Legendary",
+		"CARDNAME":"Drikkim Legendary",
+		"ALIAS":"Drik L;Drikkim L"
+	},
+	{
+		"KEYWORD":"Drill Mek",
+		"CARDNAME":"Drill Mek",
+		"ALIAS":"Drill"
+	},
+	{
+		"KEYWORD":"Drill Mek Legendary",
+		"CARDNAME":"Drill Mek Legendary",
+		"ALIAS":"Drill L;Drill Mek L"
+	},
+	{
+		"KEYWORD":"Duskbringer",
+		"CARDNAME":"Duskbringer",
+		"ALIAS":"Dusk"
+	},
+	{
+		"KEYWORD":"Earth Elemental",
+		"CARDNAME":"Earth Elemental",
+		"ALIAS":"Earth Ele"
+	},
+	{
+		"KEYWORD":"Earth Mage",
+		"CARDNAME":"Earth Mage",
+		"ALIAS":"Earth M;E Mage"
+	},
+	{
+		"KEYWORD":"Efreet",
+		"CARDNAME":"Efreet",
+		"ALIAS":"Ifrit"
+	},
+	{
+		"KEYWORD":"Elder Cinder Legendary",
+		"CARDNAME":"Elder Cinder Legendary",
+		"ALIAS":"Cinder;Red ED;Red Elder Dragon"
+	},
+	{
+		"KEYWORD":"Elder Erisdar Legendary",
+		"CARDNAME":"Elder Erisdar Legendary",
+		"ALIAS":"Erisdar;Blue ED;Blue Elder Dragon"
+	},
+	{
+		"KEYWORD":"Elder Kindralt Legendary",
+		"CARDNAME":"Elder Kindralt Legendary",
+		"ALIAS":"Kindralt;Green ED;Green Elder Dragon"
+	},
+	{
+		"KEYWORD":"Elder Samurai",
+		"CARDNAME":"Elder Samurai",
+		"ALIAS":"Samurai"
+	},
+	{
+		"KEYWORD":"Elder Shorloth Legendary",
+		"CARDNAME":"Elder Shorloth Legendary",
+		"ALIAS":"Shorloth;Black ED;Black Elder Dragon"
+	},
+	{
+		"KEYWORD":"Elder Warrior",
+		"CARDNAME":"Elder Warrior",
+		"ALIAS":"E Warrior;Elder W"
+	},
+	{
+		"KEYWORD":"Elder Wurmryn Legendary",
+		"CARDNAME":"Elder Wurmryn Legendary",
+		"ALIAS":"Wurmryn;Purple ED;Purple Elder Dragon"
+	},
+	{
+		"KEYWORD":"Electrocute",
+		"CARDNAME":"Electrocute",
+		"ALIAS":"Elec"
+	},
+	{
+		"KEYWORD":"Elren, Summoner",
+		"CARDNAME":"Elren, Summoner",
+		"ALIAS":"Elren;Summoner"
+	},
+	{
+		"KEYWORD":"Elren, Summoner Legendary",
+		"CARDNAME":"Elren, Summoner Legendary",
+		"ALIAS":"Elren L;Elren, Summoner L;Summoner L"
+	},
+	{
+		"KEYWORD":"Ember Mage",
+		"CARDNAME":"Ember Mage",
+		"ALIAS":"Ember"
+	},
+	{
+		"KEYWORD":"Engineer",
+		"CARDNAME":"Engineer"
+	},
+	{
+		"KEYWORD":"Erinye",
+		"CARDNAME":"Erinye",
+		"ALIAS":"Erin"
+	},
+	{
+		"KEYWORD":"Expediter",
+		"CARDNAME":"Expediter",
+		"ALIAS":"Expedite"
+	},
+	{
+		"KEYWORD":"Eye Tyrant",
+		"CARDNAME":"Eye Tyrant",
+		"ALIAS":"Eye"
+	},
+	{
+		"KEYWORD":"Fallen Celestial",
+		"CARDNAME":"Fallen Celestial",
+		"ALIAS":"Celestial"
+	},
+	{
+		"KEYWORD":"Fenris",
+		"CARDNAME":"Fenris",
+		"ALIAS":"Fenrir"
+	},
+	{
+		"KEYWORD":"Fenris Legendary",
+		"CARDNAME":"Fenris Legendary",
+		"ALIAS":"Fenris L;Fenrir L"
+	},
+	{
+		"KEYWORD":"Feral Orc",
+		"CARDNAME":"Feral Orc",
+		"ALIAS":"Feral"
+	},
+	{
+		"KEYWORD":"Fetish Warrior",
+		"CARDNAME":"Fetish Warrior",
+		"ALIAS":"Fetish"
+	},
+	{
+		"KEYWORD":"Field Mage",
+		"CARDNAME":"Field Mage",
+		"ALIAS":"Field"
+	},
+	{
+		"KEYWORD":"Filch",
+		"CARDNAME":"Filch",
+		"ALIAS":"Steal Spell"
+	},
+	{
+		"KEYWORD":"Filch Legendary",
+		"CARDNAME":"Filch Legendary",
+		"ALIAS":"Filch L;Steal Spell L"
+	},
+	{
+		"KEYWORD":"Fire Blast",
+		"CARDNAME":"Fire Blast",
+		"ALIAS":"Fire Spell"
+	},
+	{
+		"KEYWORD":"Fire Elemental",
+		"CARDNAME":"Fire Elemental",
+		"ALIAS":"Fire Ele"
+	},
+	{
+		"KEYWORD":"Fire Imp",
+		"CARDNAME":"Fire Imp",
+		"ALIAS":"Fimp"
+	},
+	{
+		"KEYWORD":"Firecaster",
+		"CARDNAME":"Firecaster"
+	},
+	{
+		"KEYWORD":"Flameskull",
+		"CARDNAME":"Flameskull"
+	},
+	{
+		"KEYWORD":"Flashdraft",
+		"CARDNAME":"Flashdraft",
+		"ALIAS":"Flash;Draft"
+	},
+	{
+		"KEYWORD":"Flux Mage",
+		"CARDNAME":"Flux Mage",
+		"ALIAS":"Flux"
+	},
+	{
+		"KEYWORD":"Footman",
+		"CARDNAME":"Footman",
+		"ALIAS":"Foot"
+	},
+	{
+		"KEYWORD":"Frenetic Imp",
+		"CARDNAME":"Frenetic Imp",
+		"ALIAS":"Frenetic"
+	},
+	{
+		"KEYWORD":"Gemini Imp",
+		"CARDNAME":"Gemini Imp",
+		"ALIAS":"Gemini"
+	},
+	{
+		"KEYWORD":"Genocide",
+		"CARDNAME":"Genocide",
+		"ALIAS":"Geno"
+	},
+	{
+		"KEYWORD":"Genocide Legendary",
+		"CARDNAME":"Genocide Legendary",
+		"ALIAS":"Genocide L;Geno L"
+	},
+	{
+		"KEYWORD":"Gibberling Imp",
+		"CARDNAME":"Gibberling Imp",
+		"ALIAS":"Gibberling"
+	},
+	{
+		"KEYWORD":"Gladiator",
+		"CARDNAME":"Gladiator"
+	},
+	{
+		"KEYWORD":"Glen Hunter",
+		"CARDNAME":"Glen Hunter",
+		"ALIAS":"Glen"
+	},
+	{
+		"KEYWORD":"Gloom",
+		"CARDNAME":"Gloom"
+	},
+	{
+		"KEYWORD":"Gloom Legendary",
+		"CARDNAME":"Gloom Legendary",
+		"ALIAS":"Gloom L"
+	},
+	{
+		"KEYWORD":"Goldleaf Archer",
+		"CARDNAME":"Goldleaf Archer",
+		"ALIAS":"Goldleaf"
+	},
+	{
+		"KEYWORD":"Gorgon Song Legendary",
+		"CARDNAME":"Gorgon Song Legendary",
+		"ALIAS":"Gorgon;Song;Gorgon L;Song L;Gorgon Song L"
+	},
+	{
+		"KEYWORD":"Great Gorgu",
+		"CARDNAME":"Great Gorgu",
+		"ALIAS":"Gorgu"
+	},
+	{
+		"KEYWORD":"Great Gorgu Legendary",
+		"CARDNAME":"Great Gorgu Legendary",
+		"ALIAS":"Great Gorgu L;Gorgu L"
+	},
+	{
+		"KEYWORD":"Green Dragon",
+		"CARDNAME":"Green Dragon",
+		"ALIAS":"Green D"
+	},
+	{
+		"KEYWORD":"Green Dragon Egg",
+		"CARDNAME":"Green Dragon Egg",
+		"ALIAS":"Green Egg"
+	},
+	{
+		"KEYWORD":"Green Whelp",
+		"CARDNAME":"Green Whelp",
+		"ALIAS":"Green W"
+	},
+	{
+		"KEYWORD":"Griever",
+		"CARDNAME":"Griever",
+		"ALIAS":"Greiver"
+	},
+	{
+		"KEYWORD":"Griflet",
+		"CARDNAME":"Griflet",
+		"ALIAS":"Grif"
+	},
+	{
+		"KEYWORD":"Griflet Legendary",
+		"CARDNAME":"Griflet Legendary",
+		"ALIAS":"Grif L;Griflet L"
+	},
+	{
+		"KEYWORD":"Grimalkin",
+		"CARDNAME":"Grimalkin",
+		"ALIAS":"Grim"
+	},
+	{
+		"KEYWORD":"Grimalkin Legendary",
+		"CARDNAME":"Grimalkin Legendary",
+		"ALIAS":"Grim L;Grimalkin L"
+	},
+	{
+		"KEYWORD":"Grotesque",
+		"CARDNAME":"Grotesque",
+		"ALIAS":"Grot"
+	},
+	{
+		"KEYWORD":"Grotesque Legendary",
+		"CARDNAME":"Grotesque Legendary",
+		"ALIAS":"Grot L;Grotesque L"
+	},
+	{
+		"KEYWORD":"Guardian",
+		"CARDNAME":"Guardian"
+	},
+	{
+		"KEYWORD":"Hawk Warrior",
+		"CARDNAME":"Hawk Warrior",
+		"ALIAS":"Hawk"
+	},
+	{
+		"KEYWORD":"Headsplitter",
+		"CARDNAME":"Headsplitter"
+	},
+	{
+		"KEYWORD":"Healing Rays",
+		"CARDNAME":"Healing Rays",
+		"ALIAS":"Heal Spell"
+	},
+	{
+		"KEYWORD":"Heavy Mek",
+		"CARDNAME":"Heavy Mek",
+		"ALIAS":"Heavy"
+	},
+	{
+		"KEYWORD":"Hell Hound",
+		"CARDNAME":"Hell Hound",
+		"ALIAS":"Hound"
+	},
+	{
+		"KEYWORD":"Herd Runner",
+		"CARDNAME":"Herd Runner",
+		"ALIAS":"Runner"
+	},
+	{
+		"KEYWORD":"High Elf Druid",
+		"CARDNAME":"High Elf Druid",
+		"ALIAS":"HE Druid;Druid"
+	},
+	{
+		"KEYWORD":"High Elf Healer",
+		"CARDNAME":"High Elf Healer",
+		"ALIAS":"HE Healer"
+	},
+	{
+		"KEYWORD":"High Elf Scout",
+		"CARDNAME":"High Elf Scout",
+		"ALIAS":"HE Scout"
+	},
+	{
+		"KEYWORD":"Hipparch Solon",
+		"CARDNAME":"Hipparch Solon",
+		"ALIAS":"Solon;Hipparch"
+	},
+	{
+		"KEYWORD":"Hipparch Solon Legendary",
+		"CARDNAME":"Hipparch Solon Legendary",
+		"ALIAS":"Solon L;Hipparch L;Hipparch Solon L"
+	},
+	{
+		"KEYWORD":"Hippeus",
+		"CARDNAME":"Hippeus"
+	},
+	{
+		"KEYWORD":"Hippotoxote",
+		"CARDNAME":"Hippotoxote",
+		"ALIAS":"Hippo;Hippotoxtoe"
+	},
+	{
+		"KEYWORD":"Hob Archer",
+		"CARDNAME":"Hob Archer",
+		"ALIAS":"Hob A"
+	},
+	{
+		"KEYWORD":"Hob Mercenary",
+		"CARDNAME":"Hob Mercenary",
+		"ALIAS":"Hob M"
+	},
+	{
+		"KEYWORD":"Hoplite",
+		"CARDNAME":"Hoplite"
+	},
+	{
+		"KEYWORD":"Hulud Worm",
+		"CARDNAME":"Hulud Worm",
+		"ALIAS":"Hulud;Hulud Wurm"
+	},
+	{
+		"KEYWORD":"Hunter",
+		"CARDNAME":"Hunter"
+	},
+	{
+		"KEYWORD":"Hydra",
+		"CARDNAME":"Hydra"
+	},
+	{
+		"KEYWORD":"Hypnotic Mage",
+		"CARDNAME":"Hypnotic Mage",
+		"ALIAS":"Hypnotic;Hypnotic M"
+	},
+	{
+		"KEYWORD":"Imp Lord",
+		"CARDNAME":"Imp Lord",
+		"ALIAS":"Imp L"
+	},
+	{
+		"KEYWORD":"Imp Rider",
+		"CARDNAME":"Imp Rider",
+		"ALIAS":"Imp R"
+	},
+	{
+		"KEYWORD":"Implosion",
+		"CARDNAME":"Implosion",
+		"ALIAS":"Implode"
+	},
+	{
+		"KEYWORD":"Implosion Legendary",
+		"CARDNAME":"Implosion Legendary",
+		"ALIAS":"Implosion L;Implode L"
+	},
+	{
+		"KEYWORD":"Incognito",
+		"CARDNAME":"Incognito",
+		"ALIAS":"Incog"
+	},
+	{
+		"KEYWORD":"Infernal Gate",
+		"CARDNAME":"Infernal Gate",
+		"ALIAS":"Infernal;Gate"
+	},
+	{
+		"KEYWORD":"Infernal Gate Legendary",
+		"CARDNAME":"Infernal Gate Legendary",
+		"ALIAS":"Infernal L;Gate L;Infernal Gate L"
+	},
+	{
+		"KEYWORD":"Iole Arcfire",
+		"CARDNAME":"Iole Arcfire",
+		"ALIAS":"Iole;Arcfire"
+	},
+	{
+		"KEYWORD":"Iole Arcfire Legendary",
+		"CARDNAME":"Iole Arcfire Legendary",
+		"ALIAS":"Iole L;Arcfire L;Iole Arcfire L"
+	},
+	{
+		"KEYWORD":"Ippiko",
+		"CARDNAME":"Ippiko"
+	},
+	{
+		"KEYWORD":"Jester Spider",
+		"CARDNAME":"Jester Spider",
+		"ALIAS":"Jester"
+	},
+	{
+		"KEYWORD":"June Willowstar",
+		"CARDNAME":"June Willowstar",
+		"ALIAS":"June;Willow;Willowstar"
+	},
+	{
+		"KEYWORD":"June Willowstar Legendary",
+		"CARDNAME":"June Willowstar Legendary",
+		"ALIAS":"June L;Willow L;Willowstar L;June Willowstar L"
+	},
+	{
+		"KEYWORD":"Kathoras",
+		"CARDNAME":"Kathoras",
+		"ALIAS":"Kath"
+	},
+	{
+		"KEYWORD":"Kathoras Legendary",
+		"CARDNAME":"Kathoras Legendary",
+		"ALIAS":"Kath L;Kathoras L"
+	},
+	{
+		"KEYWORD":"Kongon Betar",
+		"CARDNAME":"Kongon Betar",
+		"ALIAS":"Kongon"
+	},
+	{
+		"KEYWORD":"Krag Worm",
+		"CARDNAME":"Krag Worm",
+		"ALIAS":"Krag;Krag Wurm"
+	},
+	{
+		"KEYWORD":"Labyrinth",
+		"CARDNAME":"Labyrinth",
+		"ALIAS":"Laby"
+	},
+	{
+		"KEYWORD":"Lady Steele Legendary",
+		"CARDNAME":"Lady Steele Legendary",
+		"ALIAS":"Steele;Steele L;Lady Steele L;Lady;Lady L;Lady Steel;Lady Steel L"
+	},
+	{
+		"KEYWORD":"Lancer",
+		"CARDNAME":"Lancer",
+		"ALIAS":"Lance"
+	},
+	{
+		"KEYWORD":"Land Mine",
+		"CARDNAME":"Land Mine",
+		"ALIAS":"Mine"
+	},
+	{
+		"KEYWORD":"Last Resort Legendary",
+		"CARDNAME":"Last Resort Legendary",
+		"ALIAS":"Last;Resort;Last Resort L;Last L;Resort L;Last Resort"
+	},
+	{
+		"KEYWORD":"Leshy",
+		"CARDNAME":"Leshy"
+	},
+	{
+		"KEYWORD":"LesInk Legendary",
+		"CARDNAME":"LesInk Legendary",
+		"ALIAS":"Les;Les Ink;Les L;Les Ink L; LesInk L"
+	},
+	{
+		"KEYWORD":"Lifetapper",
+		"CARDNAME":"Lifetapper"
+	},
+	{
+		"KEYWORD":"Lightning Mek",
+		"CARDNAME":"Lightning Mek",
+		"ALIAS":"Lightning"
+	},
+	{
+		"KEYWORD":"Limeshard Spider",
+		"CARDNAME":"Limeshard Spider",
+		"ALIAS":"Limeshard;Lime"
+	},
+	{
+		"KEYWORD":"Lord Fax",
+		"CARDNAME":"Lord Fax",
+		"ALIAS":"Fax"
+	},
+	{
+		"KEYWORD":"Lord Fax Legendary",
+		"CARDNAME":"Lord Fax Legendary",
+		"ALIAS":"Fax L;Lord Fax L"
+	},
+	{
+		"KEYWORD":"Machinist",
+		"CARDNAME":"Machinist"
+	},
+	{
+		"KEYWORD":"Mad Bomber",
+		"CARDNAME":"Mad Bomber",
+		"ALIAS":"Bomber"
+	},
+	{
+		"KEYWORD":"Mage Lord",
+		"CARDNAME":"Mage Lord"
+	},
+	{
+		"KEYWORD":"Magic Vortex",
+		"CARDNAME":"Magic Vortex",
+		"ALIAS":"Vortex"
+	},
+	{
+		"KEYWORD":"Magma Spider",
+		"CARDNAME":"Magma Spider",
+		"ALIAS":"Magma"
+	},
+	{
+		"KEYWORD":"Magnet Turret",
+		"CARDNAME":"Magnet Turret",
+		"ALIAS":"Magnet"
+	},
+	{
+		"KEYWORD":"Mago Breaker",
+		"CARDNAME":"Mago Breaker",
+		"ALIAS":"Mago;Breaker"
+	},
+	{
+		"KEYWORD":"Mago Breaker Legendary",
+		"CARDNAME":"Mago Breaker Legendary",
+		"ALIAS":"Mago L;Breaker L;Mago Breaker L"
+	},
+	{
+		"KEYWORD":"Malebranche",
+		"CARDNAME":"Malebranche",
+		"ALIAS":"Malebranch"
+	},
+	{
+		"KEYWORD":"Malediction",
+		"CARDNAME":"Malediction",
+		"ALIAS":"Curse Spell"
+	},
+	{
+		"KEYWORD":"Mammon",
+		"CARDNAME":"Mammon"
+	},
+	{
+		"KEYWORD":"Mammon Legendary",
+		"CARDNAME":"Mammon Legendary",
+		"ALIAS":"Mammon L"
+	},
+	{
+		"KEYWORD":"Manavore",
+		"CARDNAME":"Manavore",
+		"ALIAS":"Vore"
+	},
+	{
+		"KEYWORD":"Marilith",
+		"CARDNAME":"Marilith"
+	},
+	{
+		"KEYWORD":"Marksman",
+		"CARDNAME":"Marksman"
+	},
+	{
+		"KEYWORD":"Meat Stores",
+		"CARDNAME":"Meat Stores",
+		"ALIAS":"Stores;Beast Wall;W Beast"
+	},
+	{
+		"KEYWORD":"Meat Stores Legendary",
+		"CARDNAME":"Meat Stores Legendary",
+		"ALIAS":"Stores L;Meat Stores L;Beast Wall L;W Beast L"
+	},
+	{
+		"KEYWORD":"Medic",
+		"CARDNAME":"Medic"
+	},
+	{
+		"KEYWORD":"Medicine Orc",
+		"CARDNAME":"Medicine Orc",
+		"ALIAS":"Medicine"
+	},
+	{
+		"KEYWORD":"Mele Rainmaker",
+		"CARDNAME":"Mele Rainmaker",
+		"ALIAS":"Rainmaker"
+	},
+	{
+		"KEYWORD":"Mele Rainmaker Legendary",
+		"CARDNAME":"Mele Rainmaker Legendary",
+		"ALIAS":"Rainmaker L;Mele Rainmaker L"
+	},
+	{
+		"KEYWORD":"Mephit",
+		"CARDNAME":"Mephit"
+	},
+	{
+		"KEYWORD":"Mindflayer",
+		"CARDNAME":"Mindflayer",
+		"ALIAS":"Flayer"
+	},
+	{
+		"KEYWORD":"Moon Spirit",
+		"CARDNAME":"Moon Spirit",
+		"ALIAS":"Moon"
+	},
+	{
+		"KEYWORD":"Moves as Sand",
+		"CARDNAME":"Moves as Sand",
+		"ALIAS":"Moves;Moves as;Sand"
+	},
+	{
+		"KEYWORD":"Moves as Sand Legendary",
+		"CARDNAME":"Moves as Sand Legendary",
+		"ALIAS":"Moves L;Moves as Sand L;Moves as L;Sand L"
+	},
+	{
+		"KEYWORD":"Mud Shaman",
+		"CARDNAME":"Mud Shaman",
+		"ALIAS":"Mud"
+	},
+	{
+		"KEYWORD":"Mycophage",
+		"CARDNAME":"Mycophage",
+		"ALIAS":"Mycosian Devourer"
+	},
+	{
+		"KEYWORD":"Mycophage Legendary",
+		"CARDNAME":"Mycophage Legendary",
+		"ALIAS":"Mycophage L;Mycosian Devourer L"
+	},
+	{
+		"KEYWORD":"Mycosian Leech",
+		"CARDNAME":"Mycosian Leech",
+		"ALIAS":"Leech"
+	},
+	{
+		"KEYWORD":"Mycosian Puffer",
+		"CARDNAME":"Mycosian Puffer",
+		"ALIAS":"Puffer"
+	},
+	{
+		"KEYWORD":"Mycosian Shaman",
+		"CARDNAME":"Mycosian Shaman",
+		"ALIAS":"Myco S;Mycosian S;M Shaman"
+	},
+	{
+		"KEYWORD":"Mycosian Shrieker",
+		"CARDNAME":"Mycosian Shrieker",
+		"ALIAS":"Shrieker"
+	},
+	{
+		"KEYWORD":"Mystic Archer",
+		"CARDNAME":"Mystic Archer",
+		"ALIAS":"Mystic"
+	},
+	{
+		"KEYWORD":"Netweaver",
+		"CARDNAME":"Netweaver",
+		"ALIAS":"Weaver"
+	},
+	{
+		"KEYWORD":"Night Hag",
+		"CARDNAME":"Night Hag",
+		"ALIAS":"Hag"
+	},
+	{
+		"KEYWORD":"Nightmare",
+		"CARDNAME":"Nightmare"
+	},
+	{
+		"KEYWORD":"Niven Stoutbow",
+		"CARDNAME":"Niven Stoutbow",
+		"ALIAS":"Niven"
+	},
+	{
+		"KEYWORD":"Niven Stoutbow Legendary",
+		"CARDNAME":"Niven Stoutbow Legendary",
+		"ALIAS":"Niven L;Niven Stoutbow L"
+	},
+	{
+		"KEYWORD":"Nokosa",
+		"CARDNAME":"Nokosa",
+		"ALIAS":"Nosoka"
+	},
+	{
+		"KEYWORD":"Nokosa Legendary",
+		"CARDNAME":"Nokosa Legendary",
+		"ALIAS":"Nokosa L;Nosoka L"
+	},
+	{
+		"KEYWORD":"Noxious Spray",
+		"CARDNAME":"Noxious Spray",
+		"ALIAS":"Nox;Noxious;Poison Spell"
+	},
+	{
+		"KEYWORD":"Null Bug",
+		"CARDNAME":"Null Bug",
+		"ALIAS":"Null"
+	},
+	{
+		"KEYWORD":"Null Bug Legendary",
+		"CARDNAME":"Null Bug Legendary",
+		"ALIAS":"Null L;Null Bug L"
+	},
+	{
+		"KEYWORD":"Odan, Hierophant Legendary",
+		"CARDNAME":"Odan, Hierophant Legendary",
+		"ALIAS":"Odan;Odan L;Odan, Hierophant;Odan, Hierophant L"
+	},
+	{
+		"KEYWORD":"Odysseus",
+		"CARDNAME":"Odysseus",
+		"ALIAS":"Ody"
+	},
+	{
+		"KEYWORD":"Odysseus Legendary",
+		"CARDNAME":"Odysseus Legendary",
+		"ALIAS":"Odysseus L;Ody L"
+	},
+	{
+		"KEYWORD":"Olifant",
+		"CARDNAME":"Olifant",
+		"ALIAS":"Olifaunt;Elephant"
+	},
+	{
+		"KEYWORD":"Omegon",
+		"CARDNAME":"Omegon"
+	},
+	{
+		"KEYWORD":"Omegon Legendary",
+		"CARDNAME":"Omegon Legendary",
+		"ALIAS":"Omegon L"
+	},
+	{
+		"KEYWORD":"Operations Mek",
+		"CARDNAME":"Operations Mek",
+		"ALIAS":"OP Mek"
+	},
+	{
+		"KEYWORD":"Operations Mek Legendary",
+		"CARDNAME":"Operations Mek Legendary",
+		"ALIAS":"OP Mek L;Operations Mek L"
+	},
+	{
+		"KEYWORD":"Oracle",
+		"CARDNAME":"Oracle"
+	},
+	{
+		"KEYWORD":"Outrider",
+		"CARDNAME":"Outrider"
+	},
+	{
+		"KEYWORD":"Owlbear",
+		"CARDNAME":"Owlbear",
+		"ALIAS":"Owl"
+	},
+	{
+		"KEYWORD":"Page",
+		"CARDNAME":"Page"
+	},
+	{
+		"KEYWORD":"Painter of Winds",
+		"CARDNAME":"Painter of Winds",
+		"ALIAS":"Painter"
+	},
+	{
+		"KEYWORD":"Painter of Winds Legendary",
+		"CARDNAME":"Painter of Winds Legendary",
+		"ALIAS":"Painter L;Painter of Winds L"
+	},
+	{
+		"KEYWORD":"Paladin",
+		"CARDNAME":"Paladin",
+		"ALIAS":"Pala"
+	},
+	{
+		"KEYWORD":"Pallcaster",
+		"CARDNAME":"Pallcaster",
+		"ALIAS":"Pall"
+	},
+	{
+		"KEYWORD":"Pandemonium",
+		"CARDNAME":"Pandemonium",
+		"ALIAS":"Panda;Pande"
+	},
+	{
+		"KEYWORD":"Pandemonium Legendary",
+		"CARDNAME":"Pandemonium Legendary",
+		"ALIAS":"Panda L;Pande L;Pandemonium L"
+	},
+	{
+		"KEYWORD":"Peltast",
+		"CARDNAME":"Peltast",
+		"ALIAS":"Pelt"
+	},
+	{
+		"KEYWORD":"Perseus",
+		"CARDNAME":"Perseus"
+	},
+	{
+		"KEYWORD":"Perseus Legendary",
+		"CARDNAME":"Perseus Legendary",
+		"ALIAS":"Perseus L"
+	},
+	{
+		"KEYWORD":"Pestilent",
+		"CARDNAME":"Pestilent"
+	},
+	{
+		"KEYWORD":"Pestilent Legendary",
+		"CARDNAME":"Pestilent Legendary",
+		"ALIAS":"Pestilent L"
+	},
+	{
+		"KEYWORD":"Philosopher",
+		"CARDNAME":"Philosopher",
+		"ALIAS":"Phil;Philo"
+	},
+	{
+		"KEYWORD":"Pike Thrower",
+		"CARDNAME":"Pike Thrower",
+		"ALIAS":"Pike"
+	},
+	{
+		"KEYWORD":"Plains Burner",
+		"CARDNAME":"Plains Burner",
+		"ALIAS":"Burner"
+	},
+	{
+		"KEYWORD":"Poet",
+		"CARDNAME":"Poet"
+	},
+	{
+		"KEYWORD":"Poison Imp",
+		"CARDNAME":"Poison Imp",
+		"ALIAS":"Pimp"
+	},
+	{
+		"KEYWORD":"Potion Master",
+		"CARDNAME":"Potion Master",
+		"ALIAS":"Potion"
+	},
+	{
+		"KEYWORD":"Pouncer",
+		"CARDNAME":"Pouncer"
+	},
+	{
+		"KEYWORD":"Prince Seval",
+		"CARDNAME":"Prince Seval",
+		"ALIAS":"Seval"
+	},
+	{
+		"KEYWORD":"Prince Seval Legendary",
+		"CARDNAME":"Prince Seval Legendary",
+		"ALIAS":"Seval L;Prince Seval L"
+	},
+	{
+		"KEYWORD":"Princess Khima",
+		"CARDNAME":"Princess Khima",
+		"ALIAS":"Khima"
+	},
+	{
+		"KEYWORD":"Princess Khima Legendary",
+		"CARDNAME":"Princess Khima Legendary",
+		"ALIAS":"Khima L;Princess Khima L"
+	},
+	{
+		"KEYWORD":"Prismatic Mage",
+		"CARDNAME":"Prismatic Mage",
+		"ALIAS":"Prismage"
+	},
+	{
+		"KEYWORD":"Prismatic Spray",
+		"CARDNAME":"Prismatic Spray",
+		"ALIAS":"Prism Spell;Prismatic Spell"
+	},
+	{
+		"KEYWORD":"Prodromoi",
+		"CARDNAME":"Prodromoi",
+		"ALIAS":"Prod"
+	},
+	{
+		"KEYWORD":"Purple Dragon",
+		"CARDNAME":"Purple Dragon",
+		"ALIAS":"Purple D"
+	},
+	{
+		"KEYWORD":"Purple Dragon Egg",
+		"CARDNAME":"Purple Dragon Egg",
+		"ALIAS":"Purple Egg"
+	},
+	{
+		"KEYWORD":"Purple Whelp",
+		"CARDNAME":"Purple Whelp",
+		"ALIAS":"Purple W"
+	},
+	{
+		"KEYWORD":"Queen Huloth",
+		"CARDNAME":"Queen Huloth",
+		"ALIAS":"Huloth"
+	},
+	{
+		"KEYWORD":"Queen Huloth Legendary",
+		"CARDNAME":"Queen Huloth Legendary",
+		"ALIAS":"Huloth L;Queen Huloth L"
+	},
+	{
+		"KEYWORD":"Quetzalcoatl",
+		"CARDNAME":"Quetzalcoatl",
+		"ALIAS":"Quetz"
+	},
+	{
+		"KEYWORD":"Quetzalcoatl Legendary",
+		"CARDNAME":"Quetzalcoatl Legendary",
+		"ALIAS":"Quetz L;Quetzalcoatl L"
+	},
+	{
+		"KEYWORD":"Rainbow Spirit Legendary",
+		"CARDNAME":"Rainbow Spirit Legendary",
+		"ALIAS":"Rainbow;Rainbow L;Rainbow Spirit;Rainbow Spirit L"
+	},
+	{
+		"KEYWORD":"Rampaging Saurian",
+		"CARDNAME":"Rampaging Saurian",
+		"ALIAS":"Rampasaur"
+	},
+	{
+		"KEYWORD":"Rampaging Saurian Legendary",
+		"CARDNAME":"Rampaging Saurian Legendary",
+		"ALIAS":"Rampasaur L;Rampaging Saurian L"
+	},
+	{
+		"KEYWORD":"Raps and Taps",
+		"CARDNAME":"Raps and Taps",
+		"ALIAS":"Raps;RapsnTaps"
+	},
+	{
+		"KEYWORD":"Raps and Taps Legendary",
+		"CARDNAME":"Raps and Taps Legendary",
+		"ALIAS":"Raps L;Raps and Taps L;RapsnTaps L"
+	},
+	{
+		"KEYWORD":"Raycatcher",
+		"CARDNAME":"Raycatcher"
+	},
+	{
+		"KEYWORD":"Recluse Spider",
+		"CARDNAME":"Recluse Spider",
+		"ALIAS":"Recluse"
+	},
+	{
+		"KEYWORD":"Red Dragon",
+		"CARDNAME":"Red Dragon",
+		"ALIAS":"Red D"
+	},
+	{
+		"KEYWORD":"Red Dragon Egg",
+		"CARDNAME":"Red Dragon Egg",
+		"ALIAS":"Red Egg"
+	},
+	{
+		"KEYWORD":"Red Whelp",
+		"CARDNAME":"Red Whelp",
+		"ALIAS":"Red W"
+	},
+	{
+		"KEYWORD":"Repair Mek",
+		"CARDNAME":"Repair Mek"
+	},
+	{
+		"KEYWORD":"Resist Magic",
+		"CARDNAME":"Resist Magic"
+	},
+	{
+		"KEYWORD":"Revitalize",
+		"CARDNAME":"Revitalize",
+		"ALIAS":"Revita"
+	},
+	{
+		"KEYWORD":"Revitalize Legendary",
+		"CARDNAME":"Revitalize Legendary",
+		"ALIAS":"Revita L;Revitalize L"
+	},
+	{
+		"KEYWORD":"Rust Monster",
+		"CARDNAME":"Rust Monster"
+	},
+	{
+		"KEYWORD":"Salahudin",
+		"CARDNAME":"Salahudin",
+		"ALIAS":"Saluman;Junay;Al Junay"
+	},
+	{
+		"KEYWORD":"Salahudin Legendary",
+		"CARDNAME":"Salahudin Legendary",
+		"ALIAS":"Salahudin L;Saluman L;Junay L; Al Junay L"
+	},
+	{
+		"KEYWORD":"Salamander",
+		"CARDNAME":"Salamander"
+	},
+	{
+		"KEYWORD":"Salamander Legendary",
+		"CARDNAME":"Salamander Legendary",
+		"ALIAS":"Salamander L"
+	},
+	{
+		"KEYWORD":"Sapper",
+		"CARDNAME":"Sapper"
+	},
+	{
+		"KEYWORD":"Saurian Herder",
+		"CARDNAME":"Saurian Herder",
+		"ALIAS":"Herder;S Herder"
+	},
+	{
+		"KEYWORD":"Saurian Rider",
+		"CARDNAME":"Saurian Rider",
+		"ALIAS":"S Rider"
+	},
+	{
+		"KEYWORD":"Saurian Scout",
+		"CARDNAME":"Saurian Scout",
+		"ALIAS":"S Scout"
+	},
+	{
+		"KEYWORD":"Saurian Trampler",
+		"CARDNAME":"Saurian Trampler",
+		"ALIAS":"Trampler"
+	},
+	{
+		"KEYWORD":"Scout Mek",
+		"CARDNAME":"Scout Mek",
+		"ALIAS":"Scout M"
+	},
+	{
+		"KEYWORD":"Scythoner Mek",
+		"CARDNAME":"Scythoner Mek",
+		"ALIAS":"Scythoner"
+	},
+	{
+		"KEYWORD":"Sela Stormcaller",
+		"CARDNAME":"Sela Stormcaller",
+		"ALIAS":"Sela"
+	},
+	{
+		"KEYWORD":"Sela Stormcaller Legendary",
+		"CARDNAME":"Sela Stormcaller Legendary",
+		"ALIAS":"Sela L;Sela Stormcaller L"
+	},
+	{
+		"KEYWORD":"Sentinel",
+		"CARDNAME":"Sentinel"
+	},
+	{
+		"KEYWORD":"Sentry Mek",
+		"CARDNAME":"Sentry Mek",
+		"ALIAS":"Sentry"
+	},
+	{
+		"KEYWORD":"Shadow Mage",
+		"CARDNAME":"Shadow Mage"
+	},
+	{
+		"KEYWORD":"Shadows",
+		"CARDNAME":"Shadows",
+		"ALIAS":"Stealth Spell"
+	},
+	{
+		"KEYWORD":"Shadowspinner",
+		"CARDNAME":"Shadowspinner"
+	},
+	{
+		"KEYWORD":"Shaman Elder",
+		"CARDNAME":"Shaman Elder",
+		"ALIAS":"S Elder;Sh Elder"
+	},
+	{
+		"KEYWORD":"Shaman Healer",
+		"CARDNAME":"Shaman Healer",
+		"ALIAS":"S Healer;Sh Healer"
+	},
+	{
+		"KEYWORD":"Shield",
+		"CARDNAME":"Shield"
+	},
+	{
+		"KEYWORD":"Shield Breaker",
+		"CARDNAME":"Shield Breaker",
+		"ALIAS":"Breaker"
+	},
+	{
+		"KEYWORD":"Shield Breaker Legendary",
+		"CARDNAME":"Shield Breaker Legendary",
+		"ALIAS":"Breaker L;Shield Breaker L"
+	},
+	{
+		"KEYWORD":"Shield Warrior",
+		"CARDNAME":"Shield Warrior",
+		"ALIAS":"S Warrior;Sh Warrior;Sd Warrior"
+	},
+	{
+		"KEYWORD":"Singer",
+		"CARDNAME":"Singer"
+	},
+	{
+		"KEYWORD":"Singularity",
+		"CARDNAME":"Singularity",
+		"ALIAS":"Wrath;Wrath Of God"
+	},
+	{
+		"KEYWORD":"Sir Valimont Legendary",
+		"CARDNAME":"Sir Valimont Legendary",
+		"ALIAS":"Sir V; Sir V L;Sir Valimont L;Valimont;Valimont L;Vali;Vali L;Sir Valimont;Sir"
+	},
+	{
+		"KEYWORD":"Skirmisher",
+		"CARDNAME":"Skirmisher",
+		"ALIAS":"Skirm"
+	},
+	{
+		"KEYWORD":"Sklirosaur",
+		"CARDNAME":"Sklirosaur",
+		"ALIAS":"Skliro"
+	},
+	{
+		"KEYWORD":"Sklirosaur Legendary",
+		"CARDNAME":"Sklirosaur Legendary",
+		"ALIAS":"Skilosaur L;Skliro L"
+	},
+	{
+		"KEYWORD":"Skoll",
+		"CARDNAME":"Skoll"
+	},
+	{
+		"KEYWORD":"Skoll Legendary",
+		"CARDNAME":"Skoll Legendary",
+		"ALIAS":"Skoll L"
+	},
+	{
+		"KEYWORD":"Sleeping Gas",
+		"CARDNAME":"Sleeping Gas",
+		"ALIAS":"Gas Trap"
+	},
+	{
+		"KEYWORD":"Slinger",
+		"CARDNAME":"Slinger"
+	},
+	{
+		"KEYWORD":"Slow Time",
+		"CARDNAME":"Slow Time",
+		"ALIAS":"Slow"
+	},
+	{
+		"KEYWORD":"Slow Time Legendary",
+		"CARDNAME":"Slow Time Legendary",
+		"ALIAS":"Slow Time L;Slow L"
+	},
+	{
+		"KEYWORD":"Speaks like Snakes",
+		"CARDNAME":"Speaks like Snakes",
+		"ALIAS":"Speaks;SlS;Snakes"
+	},
+	{
+		"KEYWORD":"Speaks like Snakes Legendary",
+		"CARDNAME":"Speaks like Snakes Legendary",
+		"ALIAS":"Speaks L;SlS L;Snakes L;Speaks like Snakes L"
+	},
+	{
+		"KEYWORD":"Spider-Rider",
+		"CARDNAME":"Spider-Rider",
+		"ALIAS":"Spider Rider;S Rider;SpiderRider"
+	},
+	{
+		"KEYWORD":"Spiderling",
+		"CARDNAME":"Spiderling"
+	},
+	{
+		"KEYWORD":"Spiked Imp",
+		"CARDNAME":"Spiked Imp"
+	},
+	{
+		"KEYWORD":"Stone Deacon",
+		"CARDNAME":"Stone Deacon",
+		"ALIAS":"Deacon"
+	},
+	{
+		"KEYWORD":"Stone Wall",
+		"CARDNAME":"Stone Wall",
+		"ALIAS":"W Stone"
+	},
+	{
+		"KEYWORD":"Storm Legendary",
+		"CARDNAME":"Storm Legendary",
+		"ALIAS":"Storm L;Storm"
+	},
+	{
+		"KEYWORD":"Storm Elemental",
+		"CARDNAME":"Storm Elemental",
+		"ALIAS":"Storm Ele"
+	},
+	{
+		"KEYWORD":"Storm Mage",
+		"CARDNAME":"Storm Mage",
+		"ALIAS":"S Mage"
+	},
+	{
+		"KEYWORD":"Storm Shaman",
+		"CARDNAME":"Storm Shaman",
+		"ALIAS":"S Shaman"
+	},
+	{
+		"KEYWORD":"Strength",
+		"CARDNAME":"Strength"
+	},
+	{
+		"KEYWORD":"Strobe Mek",
+		"CARDNAME":"Strobe Mek",
+		"ALIAS":"Strobe"
+	},
+	{
+		"KEYWORD":"Strobe Mek Legendary",
+		"CARDNAME":"Strobe Mek Legendary",
+		"ALIAS":"Strobe L;Strobe Mek L"
+	},
+	{
+		"KEYWORD":"Strychnos",
+		"CARDNAME":"Strychnos"
+	},
+	{
+		"KEYWORD":"Strychnos Legendary",
+		"CARDNAME":"Strychnos Legendary",
+		"ALIAS":"Strychnos L"
+	},
+	{
+		"KEYWORD":"Subterfuge",
+		"CARDNAME":"Subterfuge",
+		"ALIAS":"Backstab Spell"
+	},
+	{
+		"KEYWORD":"Sulfras Wall",
+		"CARDNAME":"Sulfras Wall",
+		"ALIAS":"Sulfras;W Sulfras"
+	},
+	{
+		"KEYWORD":"Summon Elementals",
+		"CARDNAME":"Summon Elementals",
+		"ALIAS":"Summon Ele"
+	},
+	{
+		"KEYWORD":"Swamp Gas",
+		"CARDNAME":"Swamp Gas",
+		"ALIAS":"W Gas"
+	},
+	{
+		"KEYWORD":"Swordsman",
+		"CARDNAME":"Swordsman",
+		"ALIAS":"Swordman"
+	},
+	{
+		"KEYWORD":"Syran Gemcaster",
+		"CARDNAME":"Syran Gemcaster",
+		"ALIAS":"Syran;Gemcaster"
+	},
+	{
+		"KEYWORD":"Syran Gemcaster Legendary",
+		"CARDNAME":"Syran Gemcaster Legendary",
+		"ALIAS":"Syran L;Gemcaster L;Syran Gemcaster L"
+	},
+	{
+		"KEYWORD":"Tarrasque",
+		"CARDNAME":"Tarrasque",
+		"ALIAS":"Tarr"
+	},
+	{
+		"KEYWORD":"Tarrasque Legendary",
+		"CARDNAME":"Tarrasque Legendary",
+		"ALIAS":"Tarr L;Tarrasque L"
+	},
+	{
+		"KEYWORD":"Temper of Beasts",
+		"CARDNAME":"Temper of Beasts",
+		"ALIAS":"ToB"
+	},
+	{
+		"KEYWORD":"Temper of Beasts Legendary",
+		"CARDNAME":"Temper of Beasts Legendary",
+		"ALIAS":"ToB L;Temper of Beasts L"
+	},
+	{
+		"KEYWORD":"Temple Monk",
+		"CARDNAME":"Temple Monk",
+		"ALIAS":"Monk;Temple"
+	},
+	{
+		"KEYWORD":"Timber Wolf",
+		"CARDNAME":"Timber Wolf",
+		"ALIAS":"Frenzy Wolf"
+	},
+	{
+		"KEYWORD":"Time Bomb",
+		"CARDNAME":"Time Bomb",
+		"ALIAS":"T Bomb"
+	},
+	{
+		"KEYWORD":"Time Elemental",
+		"CARDNAME":"Time Elemental",
+		"ALIAS":"Time Ele"
+	},
+	{
+		"KEYWORD":"Tracker",
+		"CARDNAME":"Tracker"
+	},
+	{
+		"KEYWORD":"Trapper",
+		"CARDNAME":"Trapper"
+	},
+	{
+		"KEYWORD":"Trash Collector",
+		"CARDNAME":"Trash Collector",
+		"ALIAS":"Trash;Collector"
+	},
+	{
+		"KEYWORD":"Trebuchet",
+		"CARDNAME":"Trebuchet",
+		"ALIAS":"Treb"
+	},
+	{
+		"KEYWORD":"Tree Fortress",
+		"CARDNAME":"Tree Fortress",
+		"ALIAS":"Tree Wall;W Tree;W Wood"
+	},
+	{
+		"KEYWORD":"Treespeaker",
+		"CARDNAME":"Treespeaker",
+		"ALIAS":"Treant"
+	},
+	{
+		"KEYWORD":"Triceras",
+		"CARDNAME":"Triceras"
+	},
+	{
+		"KEYWORD":"Triceras Legendary",
+		"CARDNAME":"Triceras Legendary",
+		"ALIAS":"Triceras L"
+	},
+	{
+		"KEYWORD":"Trident Warrior",
+		"CARDNAME":"Trident Warrior",
+		"ALIAS":"Trident"
+	},
+	{
+		"KEYWORD":"Tunnel Stalker",
+		"CARDNAME":"Tunnel Stalker",
+		"ALIAS":"Tunnel"
+	},
+	{
+		"KEYWORD":"Underminer",
+		"CARDNAME":"Underminer"
+	},
+	{
+		"KEYWORD":"Unsummon",
+		"CARDNAME":"Unsummon",
+		"ALIAS":"Bounce 2"
+	},
+	{
+		"KEYWORD":"Unsummon Legendary",
+		"CARDNAME":"Unsummon Legendary",
+		"ALIAS":"Unsummon L;Bounce 3"
+	},
+	{
+		"KEYWORD":"Vexling Imp",
+		"CARDNAME":"Vexling Imp",
+		"ALIAS":"Vexling"
+	},
+	{
+		"KEYWORD":"Volt Turret",
+		"CARDNAME":"Volt Turret",
+		"ALIAS":"Volt"
+	},
+	{
+		"KEYWORD":"Vox",
+		"CARDNAME":"Vox"
+	},
+	{
+		"KEYWORD":"Vox Legendary",
+		"CARDNAME":"Vox Legendary",
+		"ALIAS":"Vox L"
+	},
+	{
+		"KEYWORD":"Vyrecall",
+		"CARDNAME":"Vyrecall",
+		"ALIAS":"Drain Spell"
+	},
+	{
+		"KEYWORD":"Walks with Sorrow",
+		"CARDNAME":"Walks with Sorrow",
+		"ALIAS":"Walks;Walks with;Sorrow"
+	},
+	{
+		"KEYWORD":"Walks with Sorrow Legendary",
+		"CARDNAME":"Walks with Sorrow Legendary",
+		"ALIAS":"Walks L;Walks with Sorrow L;Walks with L;Sorrow L"
+	},
+	{
+		"KEYWORD":"Wall Crawler",
+		"CARDNAME":"Wall Crawler",
+		"ALIAS":"Crawler"
+	},
+	{
+		"KEYWORD":"Wall of Acid",
+		"CARDNAME":"Wall of Acid",
+		"ALIAS":"W Acid"
+	},
+	{
+		"KEYWORD":"Wall of Flames",
+		"CARDNAME":"Wall of Flames",
+		"ALIAS":"W Flames, Wall of Fire, Wall of Flame"
+	},
+	{
+		"KEYWORD":"Wall of Souls",
+		"CARDNAME":"Wall of Souls",
+		"ALIAS":"W Souls"
+	},
+	{
+		"KEYWORD":"Wall of Spears",
+		"CARDNAME":"Wall of Spears",
+		"ALIAS":"W Spears"
+	},
+	{
+		"KEYWORD":"Wall of Webs",
+		"CARDNAME":"Wall of Webs",
+		"ALIAS":"W Webs"
+	},
+	{
+		"KEYWORD":"Wall of Wind",
+		"CARDNAME":"Wall of Wind",
+		"ALIAS":"W Wind"
+	},
+	{
+		"KEYWORD":"War Pig",
+		"CARDNAME":"War Pig",
+		"ALIAS":"Pig"
+	},
+	{
+		"KEYWORD":"Warden Mek",
+		"CARDNAME":"Warden Mek",
+		"ALIAS":"Warden"
+	},
+	{
+		"KEYWORD":"Warden Mek Legendary",
+		"CARDNAME":"Warden Mek Legendary",
+		"ALIAS":"Warden L;Warden Mek L"
+	},
+	{
+		"KEYWORD":"Water Elemental",
+		"CARDNAME":"Water Elemental",
+		"ALIAS":"Water Ele"
+	},
+	{
+		"KEYWORD":"Water Mage",
+		"CARDNAME":"Water Mage",
+		"ALIAS":"W Mage;Water M"
+	},
+	{
+		"KEYWORD":"Webthrower",
+		"CARDNAME":"Webthrower"
+	},
+	{
+		"KEYWORD":"Will-o-Wisp",
+		"CARDNAME":"Will-o-Wisp",
+		"ALIAS":"Will o Wisp;Willowisp"
+	},
+	{
+		"KEYWORD":"Wind Shaman",
+		"CARDNAME":"Wind Shaman",
+		"ALIAS":"W Shaman"
+	},
+	{
+		"KEYWORD":"Wind Storm",
+		"CARDNAME":"Wind Storm",
+		"ALIAS":"Wind Spell"
+	},
+	{
+		"KEYWORD":"Wolf Lord",
+		"CARDNAME":"Wolf Lord",
+		"ALIAS":"W Lord"
+	},
+	{
+		"KEYWORD":"Wolf Rider",
+		"CARDNAME":"Wolf Rider",
+		"ALIAS":"W Rider"
+	},
+	{
+		"KEYWORD":"Wolf Scout",
+		"CARDNAME":"Wolf Scout",
+		"ALIAS":"W Scout"
+	},
+	{
+		"KEYWORD":"Wolf Spider",
+		"CARDNAME":"Wolf Spider",
+		"ALIAS":"W Spider"
+	},
+	{
+		"KEYWORD":"Wood Spirit",
+		"CARDNAME":"Wood Spirit",
+		"ALIAS":"Wood"
+	},
+	{
+		"KEYWORD":"Wren Moondancer",
+		"CARDNAME":"Wren Moondancer",
+		"ALIAS":"Wren"
+	},
+	{
+		"KEYWORD":"Wren Moondancer Legendary",
+		"CARDNAME":"Wren Moondancer Legendary",
+		"ALIAS":"Wren L;Wren Moondancer L"
+	},
+	{
+		"KEYWORD":"Wulf",
+		"CARDNAME":"Wulf"
+	},
+	{
+		"KEYWORD":"Wulf Legendary",
+		"CARDNAME":"Wulf Legendary",
+		"ALIAS":"Wulf L"
+	},
+	{
+		"KEYWORD":"Xenosaur Legendary",
+		"CARDNAME":"Xenosaur Legendary",
+		"ALIAS":"Xeno;Xeno L;Xenosaur;Xenosaur L"
+	},
+	{
+		"KEYWORD":"Yuta Dusksong",
+		"CARDNAME":"Yuta Dusksong",
+		"ALIAS":"Yuta"
+	},
+	{
+		"KEYWORD":"Yuta Dusksong Legendary",
+		"CARDNAME":"Yuta Dusksong Legendary",
+		"ALIAS":"Yuta L;Yuta Dusksong L"
+	},
+	{
+		"KEYWORD":"Zenia, Werewolf",
+		"CARDNAME":"Zenia, Werewolf",
+		"ALIAS":"Zenia;Zenia Werewolf;Xenia"
+	},
+	{
+		"KEYWORD":"Zenia, Werewolf Legendary",
+		"CARDNAME":"Zenia, Werewolf Legendary",
+		"ALIAS":"Zenia L;Zenia Werewolf L;Zenia, Werewolf L;Xenia L"
+	},
+	{
+		"KEYWORD":"Zink Legendary",
+		"CARDNAME":"Zink Legendary",
+		"ALIAS":"Zink L;Zink"
+	},
+	{
+		"KEYWORD":"Zorak the Mace",
+		"CARDNAME":"Zorak the Mace",
+		"ALIAS":"Zorak;Mace"
+	},
+	{
+		"KEYWORD":"Zorak the Mace Legendary",
+		"CARDNAME":"Zorak the Mace Legendary",
+		"ALIAS":"Zorak L;Zorak the Mace L;Mace L"
+	}]

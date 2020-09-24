@@ -1,0 +1,674 @@
+[
+	{
+		"Equip": "Absorption Stone",
+		"Desc": "Absorb."
+	},
+	{
+		"Equip": "Armadillo Ward",
+		"Desc": "For 8 turns: Hero immunity. Grant +5 life to hero."
+	},
+	{
+		"Equip": "Ashkar's Club",
+		"Desc": "1/2 turns: 1-2 physical damage and Stun to closest enemy unit."
+	},
+	{
+		"Equip": "Blessed Empire Shield",
+		"Desc": "Shield. Grant +5 life to hero."
+	},
+	{
+		"Equip": "Book of Knowledge",
+		"Desc": "1/3 turns: Draw an extra card."
+	},
+	{
+		"Equip": "Cave Eggs",
+		"Desc": "1/3 turns: Summon Spiderling."
+	},
+	{
+		"Equip": "Colichemarde",
+		"Desc": "Pierce. Grant +7 army to hero."
+	},
+	{
+		"Equip": "Cursed Skull",
+		"Desc": "1/2 turns: 1-2 magic damage and Curse to random enemy unit."
+	},
+	{
+		"Equip": "Decorated Platemail",
+		"Desc": "Armored. Grant +5 life to hero."
+	},
+	{
+		"Equip": "Firebrand",
+		"Desc": "1/2 turns: 2-3 physical damage and Burn closest enemy unit."
+	},
+	{
+		"Equip": "Frost Torch",
+		"Desc": "1/4 turns: Removes all specials"
+	},
+	{
+		"Equip": "Heartstroke Periapt",
+		"Desc": "All allied units +Bloodlust on entry."
+	},
+	{
+		"Equip": "Lecherous Staff",
+		"Desc": "1/2 turns: 1-2 magic damage and Drain to random enemy unit."
+	},
+	{
+		"Equip": "Lotus Ruse",
+		"Desc": "Add 5 copies of Flashdraft to opponent's deck on starting turn."
+	},
+	{
+		"Equip": "Lucent Jewel",
+		"Desc": "Deals 1-2 magic damage to all enemy units on entry."
+	},
+	{
+		"Equip": "Lynx Ward",
+		"Desc": "Retaliate (1-2 physical damage) and Wound."
+	},
+	{
+		"Equip": "Magebane Staff",
+		"Desc": "1/3 turns: 1-2 magic damage and Drain Magic to random enemy unit."
+	},
+	{
+		"Equip": "Magic Mirror",
+		"Desc": "1/8 turns: Clone random allied unit."
+	},
+	{
+		"Equip": "Moon Blade",
+		"Desc": "Kills all enemy units with 2 or less HP at start of turn."
+	},
+	{
+		"Equip": "Necklace of Fortitude",
+		"Desc": "Grant +14 life to hero."
+	},
+	{
+		"Equip": "Pantheon Banner",
+		"Desc": "Universal +1 attack to all allied infantry units. Grant +5 army to hero."
+	},
+	{
+		"Equip": "Potion of Rejuvenation",
+		"Desc": "1/1 turn: Hero Regenerates 1-2 life."
+	},
+	{
+		"Equip": "Raio Blaster",
+		"Desc": "1/4 turns: 6 explosive damage to random enemy unit."
+	},
+	{
+		"Equip": "Raven Ward",
+		"Desc": "Sap."
+	},
+	{
+		"Equip": "Shimmering Trinket",
+		"Desc": "Grant +16 army to hero."
+	},
+	{
+		"Equip": "Spider Honey",
+		"Desc": "Add 3 Jester Spiders to starting hand."
+	},
+	{
+		"Equip": "Sporecap Mushroom",
+		"Desc": "1/6 turns: Summon Mycosian Shaman."
+	},
+	{
+		"Equip": "Treant Root",
+		"Desc": "1/7 turns: Summon Treespeaker."
+	},
+	{
+		"Equip": "Tritech Necklace",
+		"Desc": "Add Heavy Mek"
+	},
+	{
+		"Equip": "Vortex Mask",
+		"Desc": "1 magic damage to enemy hero whenever an enemy unit enters play."
+	},
+	{
+		"Equip": "Woodshadow Periapt",
+		"Desc": "Grant +Stealth to all allied Ranged units on entry."
+	},
+	{
+		"Equip": "Abyssal Crown",
+		"Desc": "Grant +6 life to hero. Grant +9 army to hero."
+	},
+	{
+		"Equip": "Arcane Lock",
+		"Desc": "1/3 turns: Time Lock random enemy card in staging."
+	},
+	{
+		"Equip": "Assault Knife",
+		"Desc": "1/3 turns: 1 physical damage to enemy hero."
+	},
+	{
+		"Equip": "Attrition Idol",
+		"Desc": "Mill 5 cards from enemy deck on first turn of combat."
+	},
+	{
+		"Equip": "Bard's Lute",
+		"Desc": "1/2 turns: Grant +1 attack to random allied unit."
+	},
+	{
+		"Equip": "Bolt Axe",
+		"Desc": "1/3 turns: 2-4 electric damage to random enemy unit."
+	},
+	{
+		"Equip": "Crushing Stone",
+		"Desc": "1/2 turns: 1-2 magic earth damage to random enemy unit. Double damage to units CD5 or lower."
+	},
+	{
+		"Equip": "Cube of Spirits",
+		"Desc": "1/2 turns: Reclaim."
+	},
+	{
+		"Equip": "Dark Matter",
+		"Desc": "1/4 turns: Magic damage equal to CD against random enemy unit."
+	},
+	{
+		"Equip": "Demonbait",
+		"Desc": "1/5 turns: Summon random imp unit."
+	},
+	{
+		"Equip": "Divine Order Helm",
+		"Desc": "Add 1 random Constructor unit to starting hand. Grant +3 life to hero."
+	},
+	{
+		"Equip": "Dragon Banner",
+		"Desc": "Universal +2 life to all allied dragon units."
+	},
+	{
+		"Equip": "Dryad Thorn",
+		"Desc": "Universal +1 attack to all allied elemental units."
+	},
+	{
+		"Equip": "Electrum Ingot",
+		"Desc": "Universal +2 life to all allied wall units."
+	},
+	{
+		"Equip": "Espial Amulet",
+		"Desc": "Uses Detect skill against all enemy units each turn."
+	},
+	{
+		"Equip": "Eye Tyrant Staff",
+		"Desc": "1/2 turns: 1 magic damage and Weaken to random enemy unit."
+	},
+	{
+		"Equip": "Fire Periapt",
+		"Desc": "Grant +Igniter to all allied units on entry."
+	},
+	{
+		"Equip": "Flashfire Jewel",
+		"Desc": "2 times: 5 magic fire damage to enemy unit on entry."
+	},
+	{
+		"Equip": "Golden Cuirass",
+		"Desc": "Armored."
+	},
+	{
+		"Equip": "Gold Ring of Haste",
+		"Desc": "Each turn"
+	},
+	{
+		"Equip": "Guardian's Bracers",
+		"Desc": "1/1 turn: Give random allied unit Guarded status until end of turn."
+	},
+	{
+		"Equip": "Helm of Retribution",
+		"Desc": "Static Field."
+	},
+	{
+		"Equip": "Helm of Tranquility",
+		"Desc": "Immunity to mill effects. Grant +5 life to hero."
+	},
+	{
+		"Equip": "Horn of Oceans",
+		"Desc": "1/4 turns: 1-2 magic water damage to all enemy units"
+	},
+	{
+		"Equip": "Hospice Periapt",
+		"Desc": "Grant +Aegis to all allied Support units on entry."
+	},
+	{
+		"Equip": "Imp Lord's Pendant",
+		"Desc": "Universal +1 attack to all allied imp units."
+	},
+	{
+		"Equip": "Lupine Periapt",
+		"Desc": "Gives Charge buff to all friendly Wolf units when they enter play."
+	},
+	{
+		"Equip": "Lysle's Shield",
+		"Desc": "Add 2 Hoplites to starting hand."
+	},
+	{
+		"Equip": "Memory Claw",
+		"Desc": "1/2 turns: Mill 1 card from enemy deck."
+	},
+	{
+		"Equip": "Moon Scythe",
+		"Desc": "Kills all enemy units with 1 HP at start of turn."
+	},
+	{
+		"Equip": "Napalm Kit",
+		"Desc": "1/3 turns: Grant the Explode special to a random allied unit."
+	},
+	{
+		"Equip": "Pharaoh Band",
+		"Desc": "Slay Infantry."
+	},
+	{
+		"Equip": "Poison Phial",
+		"Desc": "All units +Poisoned on entry."
+	},
+	{
+		"Equip": "Potion of Aggression",
+		"Desc": "1/3 turns: Grant Aggression special to random allied unit."
+	},
+	{
+		"Equip": "Praetor's Robe",
+		"Desc": "1/5 turns: Summon Philosopher."
+	},
+	{
+		"Equip": "Prism Stone",
+		"Desc": "1/2 turns: 1 magic damage and random Debuff to random enemy unit."
+	},
+	{
+		"Equip": "Pyrovitre",
+		"Desc": "All units +Burning on entry."
+	},
+	{
+		"Equip": "Rejuvenating Pendant",
+		"Desc": "1/2 turns: Hero Regenerates 1-2 life."
+	},
+	{
+		"Equip": "Repair Gizmo",
+		"Desc": "1/2 turns: Heal 2 and Remedy on the most damaged allied machine."
+	},
+	{
+		"Equip": "Ring of Life",
+		"Desc": "Any time either player casts a spell"
+	},
+	{
+		"Equip": "Rune of Hastening",
+		"Desc": "1/2 turns: Removes CD1 from a random allied unit in staging."
+	},
+	{
+		"Equip": "Rune of Slowing",
+		"Desc": "1/2 turns: Adds CD1 to a random enemy unit in staging."
+	},
+	{
+		"Equip": "Rusalka Pearls",
+		"Desc": "1 magic water damage to"
+	},
+	{
+		"Equip": "Scroll of Agony",
+		"Desc": "6 magic damage to enemy hero on turn 1."
+	},
+	{
+		"Equip": "Scythoner Crow",
+		"Desc": "1/9 turns: Summon Scythoner Mek."
+	},
+	{
+		"Equip": "Silver Sickle",
+		"Desc": "1/5 turns: Summon High Elf Druid."
+	},
+	{
+		"Equip": "Sniper's Bow",
+		"Desc": "1/2 turns: 1-2 ranged damage to lowest-life enemy unit."
+	},
+	{
+		"Equip": "Sorceror Staff",
+		"Desc": "Universal +2 life to all allied mage units."
+	},
+	{
+		"Equip": "Stonekeeper Amulet",
+		"Desc": "All allied units +Stone Form on entry."
+	},
+	{
+		"Equip": "Sun King's Crown",
+		"Desc": "Grant +8 life to hero. Grant +6 army to hero."
+	},
+	{
+		"Equip": "Tiger Cog",
+		"Desc": "1/5 turns: Add Grimalkin E to hand."
+	},
+	{
+		"Equip": "Toxin Jar",
+		"Desc": "1/3 turns: 3 poison damage and +Poisoned to random enemy unit."
+	},
+	{
+		"Equip": "Tusk of Grune",
+		"Desc": "Universal +Pierce and +1 life to all allied drain units."
+	},
+	{
+		"Equip": "Venom Eye",
+		"Desc": "1/2 turns: Grant Bane special to random allied unit."
+	},
+	{
+		"Equip": "Aether Orb",
+		"Desc": "Magic Shield."
+	},
+	{
+		"Equip": "Assassin's Glove",
+		"Desc": "1/3 turns: Grant Slay Hero special to random allied unit."
+	},
+	{
+		"Equip": "Battle Horn",
+		"Desc": "1/3 turns: Grant Charge special to random allied unit."
+	},
+	{
+		"Equip": "Black Orb",
+		"Desc": "Add 2 Counterspells to starting hand."
+	},
+	{
+		"Equip": "Boar Ward",
+		"Desc": "For 6 turns: Hero immunity."
+	},
+	{
+		"Equip": "Bolt Tightener",
+		"Desc": "Add 2 random trap units to starting hand."
+	},
+	{
+		"Equip": "Brass Medal",
+		"Desc": "1/2 turns: Grant Valor special to random allied unit."
+	},
+	{
+		"Equip": "Charged Crystal",
+		"Desc": "1/2 turns: 1-3 magic electric damage to random enemy unit."
+	},
+	{
+		"Equip": "Cloak of Ruin",
+		"Desc": "Corrosive Aura."
+	},
+	{
+		"Equip": "Cloak of the Wolf",
+		"Desc": "Universal +2 life to all allied wolf units."
+	},
+	{
+		"Equip": "Cobra Fangs",
+		"Desc": "1/2 turns: 1 ranged damage and Poisoned to random enemy unit."
+	},
+	{
+		"Equip": "Corsair Sword",
+		"Desc": "1/2 turns: Grant Backstab special to random allied unit."
+	},
+	{
+		"Equip": "Demon Stone",
+		"Desc": "1/3 turns: 1 magic fire damage to all enemy units."
+	},
+	{
+		"Equip": "Elegant Crown",
+		"Desc": "Grant +3 life to hero. Grant +6 army to hero."
+	},
+	{
+		"Equip": "Empire Shield",
+		"Desc": "Shield."
+	},
+	{
+		"Equip": "Eye of Detection",
+		"Desc": "1/1 turn: Detect."
+	},
+	{
+		"Equip": "Gladiator's Spear",
+		"Desc": "1/2 turns: 1 physical damage and Wound to closest enemy unit."
+	},
+	{
+		"Equip": "Greater Imp Charm",
+		"Desc": "Add Imp Lord to starting hand."
+	},
+	{
+		"Equip": "Grenade",
+		"Desc": "1/3 turns: Bomb."
+	},
+	{
+		"Equip": "Iris Ruse",
+		"Desc": "Add 3 copies of Flashdraft to opponent's deck on starting turn."
+	},
+	{
+		"Equip": "Iron Mace",
+		"Desc": "1/1 turn: 1 phyiscal damage to closest enemy unit."
+	},
+	{
+		"Equip": "Hunter's Bow",
+		"Desc": "1/2 turns: 1-2 ranged damage to random enemy unit."
+	},
+	{
+		"Equip": "Hylean Quiver",
+		"Desc": "1/4 turns: Summon Tracker."
+	},
+	{
+		"Equip": "Juniper Fern",
+		"Desc": "1/7 turns: Summon War Pig."
+	},
+	{
+		"Equip": "Karkinos Claw",
+		"Desc": "1/3 turns: 1 magic water damage and Curse to random enemy unit."
+	},
+	{
+		"Equip": "Large Healing Crystal",
+		"Desc": "1/1 turn: Heal 1-2 on the most damaged allied unit."
+	},
+	{
+		"Equip": "Lightning Jewel",
+		"Desc": "2 times: 3 magic electric damage to enemy unit on entry."
+	},
+	{
+		"Equip": "Mark of the Wolf",
+		"Desc": "1/2 turns: Grant +1-2 attack to random allied wolf."
+	},
+	{
+		"Equip": "Medusa Token",
+		"Desc": "1/3 turns: Apply Stone Form to random allied unit."
+	},
+	{
+		"Equip": "Mindguard Helm",
+		"Desc": "Immunity to mill effects."
+	},
+	{
+		"Equip": "Minstrel's Flute",
+		"Desc": "1/2 turns: Grant +1-2 life to random allied unit."
+	},
+	{
+		"Equip": "Plate Boots",
+		"Desc": "Grant +8 life to hero."
+	},
+	{
+		"Equip": "Plate Gauntlets",
+		"Desc": "Grant +7 life to hero."
+	},
+	{
+		"Equip": "Potion of Immunity",
+		"Desc": "1/4 turns: Grant Immune special to random allied unit."
+	},
+	{
+		"Equip": "Red Island Rum",
+		"Desc": "1/3 turns: Grant +2 attack and Stun random allied unit."
+	},
+	{
+		"Equip": "Ring of the Glen",
+		"Desc": "Any time an elemental unit enters play"
+	},
+	{
+		"Equip": "Rocky Orb",
+		"Desc": "Resistance."
+	},
+	{
+		"Equip": "Rune of Rage",
+		"Desc": "1/2 turns: Grant Rage special to random allied unit."
+	},
+	{
+		"Equip": "Rusting Powder",
+		"Desc": "1/1 turn: Rust."
+	},
+	{
+		"Equip": "Scroll of Pain",
+		"Desc": "4 magic damage to enemy hero on turn 1."
+	},
+	{
+		"Equip": "Seeking Axe",
+		"Desc": "1/2 turns: 1 ranged damage to highest-attack enemy unit. +1 damage per target's 3 attack power."
+	},
+	{
+		"Equip": "Sorceror's Stone",
+		"Desc": "1/2 turns: Grant Spellproof special to random allied unit."
+	},
+	{
+		"Equip": "Staff of Fire",
+		"Desc": "1/2 turns: 1 magic fire damage and Burning to random enemy unit."
+	},
+	{
+		"Equip": "Staff of Suggestion",
+		"Desc": "1/2 turns: Confuse to random enemy unit."
+	},
+	{
+		"Equip": "Sticky Web",
+		"Desc": "1/2 turns: 1 ranged damage and Paralyze to random enemy unit."
+	},
+	{
+		"Equip": "Tract of Knowledge",
+		"Desc": "1/4 turns: Draw an extra card."
+	},
+	{
+		"Equip": "Void Charm",
+		"Desc": "1 time: Bounce enemy unit on entry."
+	},
+	{
+		"Equip": "Wicked Dagger",
+		"Desc": "Retaliate (1 physical damage)."
+	},
+	{
+		"Equip": "Wind Orb",
+		"Desc": "Wind Shield."
+	},
+	{
+		"Equip": "Acid Flask",
+		"Desc": "1/2 turns: 1 poison damage and Corrode to random enemy unit."
+	},
+	{
+		"Equip": "Battle Standard",
+		"Desc": "Grant +5 army to hero."
+	},
+	{
+		"Equip": "Brass Cog",
+		"Desc": "Universal +1 life to all allied machines."
+	},
+	{
+		"Equip": "Elemental Tome",
+		"Desc": "Add random elemental unit to starting hand."
+	},
+	{
+		"Equip": "Familiar Charm",
+		"Desc": "Add Darkling to starting hand."
+	},
+	{
+		"Equip": "Fire Petal",
+		"Desc": "1/3 turns: Grant Fireproof special to random allied unit."
+	},
+	{
+		"Equip": "Forest Hood",
+		"Desc": "Add Ambusher to starting hand."
+	},
+	{
+		"Equip": "Gavial Ward",
+		"Desc": "Poison Aura."
+	},
+	{
+		"Equip": "Grounding Rod",
+		"Desc": "1/3 turns: Grant Shockproof special to random allied unit."
+	},
+	{
+		"Equip": "Kiri's Pinion",
+		"Desc": "Random "
+	},
+	{
+		"Equip": "Lava Orb",
+		"Desc": "Fireproof."
+	},
+	{
+		"Equip": "Magic Collar",
+		"Desc": "1/2 turns: Stun random enemy beast"
+	},
+	{
+		"Equip": "Potion of Cleansing",
+		"Desc": "1/2 turns: Remedy random debuffed allied unit."
+	},
+	{
+		"Equip": "Ram Meat",
+		"Desc": "Add Timber Wolf to starting hand."
+	},
+	{
+		"Equip": "Rune of Evasion",
+		"Desc": "1/2 turns: Grant Wind Shield special to random allied unit."
+	},
+	{
+		"Equip": "Rune of Gravity",
+		"Desc": "1/2 turns: Grant Gravity Shield special to random allied unit."
+	},
+	{
+		"Equip": "Rune of Shielding",
+		"Desc": "1/2 turns: Grant Magic Shield special to random allied unit."
+	},
+	{
+		"Equip": "Rune of Stealth",
+		"Desc": "1/2 turns: Grant Stealth special to random allied unit."
+	},
+	{
+		"Equip": "Seism Jewel",
+		"Desc": "3 magic earth damage to first enemy unit to enter play. Double damage to units CD5 or lower."
+	},
+	{
+		"Equip": "Silver Ring of Haste",
+		"Desc": "Each turn"
+	},
+	{
+		"Equip": "Small Healing Crystal",
+		"Desc": "1/1 turn: Heal 1 on the most damaged allied unit."
+	},
+	{
+		"Equip": "Spider Balm",
+		"Desc": "1/4 turns: Grant Acid Blood special to random allied unit."
+	},
+	{
+		"Equip": "Storm Orb",
+		"Desc": "Shockproof."
+	},
+	{
+		"Equip": "Unlucky Rabbit's Foot",
+		"Desc": "Add Dire Rabbit to starting hand."
+	},
+	{
+		"Equip": "Dragon Mote",
+		"Desc": "Add 1 random dragon egg unit to starting hand."
+	},
+	{
+		"Equip": "Fancy Pendant",
+		"Desc": "Grant +1 life to hero. Grant +4 army to hero."
+	},
+	{
+		"Equip": "Imp Charm",
+		"Desc": "Add Fire Imp to starting hand."
+	},
+	{
+		"Equip": "Leather Boots",
+		"Desc": "Grant +4 life to hero."
+	},
+	{
+		"Equip": "Leather Gloves",
+		"Desc": "Grant +3 life to hero."
+	},
+	{
+		"Equip": "Short Sword",
+		"Desc": "1/2 turns: 1 physical damage to closest enemy unit."
+	},
+	{
+		"Equip": "Skirmisher Shield",
+		"Desc": "Light Shield."
+	},
+	{
+		"Equip": "Spider Leg",
+		"Desc": "Add Pouncer to starting hand."
+	},
+	{
+		"Equip": "Tar Bomb",
+		"Desc": "1/4 turns: Destroy Wall."
+	},
+	{
+		"Equip": "Taskforce Hammer",
+		"Desc": "Add Engineer to starting hand."
+	}
+]

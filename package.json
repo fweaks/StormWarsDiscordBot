@@ -1,0 +1,29 @@
+{
+  "name": "discordjs-bot",
+  "version": "1.0.0",
+  "description": "A Discord.js bot which uses a Command Handler",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "googleapis": "^39.1.0",
+    "request": "^2.88.0",
+    "merge-images": "^2.0.0",
+    "canvas": "^2.6.1"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/discordstormwarsbot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
