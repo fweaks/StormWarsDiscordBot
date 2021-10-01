@@ -912,6 +912,30 @@
 		"ATTACKTYPE":"B"
 	},
 	{
+		"CARDNAME":"Constructor Cetnic",
+		"RARITY":"E",
+		"FACTION":"D",
+		"SET":"Soulbound",
+		"TYPE":"INFANTRY;CONSTRUCTOR",
+		"SKILL":"Spellproof;Curse",
+		"TIME":6,
+		"ATTACK":3,
+		"HEALTH":7,
+		"ATTACKTYPE":"B"
+	},
+	{
+		"CARDNAME":"Constructor Cetnic Legendary",
+		"RARITY":"L",
+		"FACTION":"D",
+		"SET":"Soulbound",
+		"TYPE":"INFANTRY;CONSTRUCTOR",
+		"SKILL":"Spellproof;Curse;Hasten",
+		"TIME":5,
+		"ATTACK":3,
+		"HEALTH":8,
+		"ATTACKTYPE":"B"
+	},
+	{
 		"CARDNAME":"Constructor Darik",
 		"RARITY":"E",
 		"FACTION":"D",
@@ -1123,6 +1147,30 @@
 		"ATTACK":1,
 		"HEALTH":5,
 		"ATTACKTYPE":"R"
+	},
+	{
+		"CARDNAME":"Dances with Crows",
+		"RARITY":"E",
+		"FACTION":"O",
+		"SET":"Soulbound",
+		"TYPE":"MAGE",
+		"SKILL":"Zap 2;Sunder",
+		"TIME":7,
+		"ATTACK":1,
+		"HEALTH":8,
+		"ATTACKTYPE":"B"
+	},
+	{
+		"CARDNAME":"Dances with Crows Legendary",
+		"RARITY":"L",
+		"FACTION":"O",
+		"SET":"Soulbound",
+		"TYPE":"MAGE",
+		"SKILL":"Zap 2;Sunder;Static Aura",
+		"TIME":6,
+		"ATTACK":1,
+		"HEALTH":9,
+		"ATTACKTYPE":"B"
 	},
 	{
 		"CARDNAME":"Daos",
@@ -1607,6 +1655,30 @@
 		"TIME":5,
 		"ATTACK":1,
 		"HEALTH":7,
+		"ATTACKTYPE":"B"
+	},
+	{
+		"CARDNAME":"Ephei, Fated",
+		"RARITY":"E",
+		"FACTION":"E",
+		"SET":"Soulbound",
+		"TYPE":"MAGE",
+		"SKILL":"Guard;Regenerate;Gleaming Gift",
+		"TIME":8,
+		"ATTACK":2,
+		"HEALTH":8,
+		"ATTACKTYPE":"B"
+	},
+	{
+		"CARDNAME":"Ephei, Fated Legendary",
+		"RARITY":"L",
+		"FACTION":"E",
+		"SET":"Soulbound",
+		"TYPE":"MAGE",
+		"SKILL":"Guard;Regenerate 2;Gleaming Gift",
+		"TIME":7,
+		"ATTACK":2,
+		"HEALTH":10,
 		"ATTACKTYPE":"B"
 	},
 	{
@@ -2452,6 +2524,30 @@
 		"TIME":5,
 		"ATTACK":1,
 		"HEALTH":4,
+		"ATTACKTYPE":"B"
+	},
+	{
+		"CARDNAME":"Jezebel",
+		"RARITY":"E",
+		"FACTION":"H",
+		"SET":"Soulbound",
+		"TYPE":"INFANTRY",
+		"SKILL":"Drain;Malice",
+		"TIME":7,
+		"ATTACK":1,
+		"HEALTH":6,
+		"ATTACKTYPE":"B"
+	},
+	{
+		"CARDNAME":"Jezebel Legendary",
+		"RARITY":"L",
+		"FACTION":"H",
+		"SET":"Soulbound",
+		"TYPE":"INFANTRY",
+		"SKILL":"Drain;Malice",
+		"TIME":7,
+		"ATTACK":2,
+		"HEALTH":9,
 		"ATTACKTYPE":"B"
 	},
 	{
@@ -4930,6 +5026,30 @@
 		"ATTACKTYPE":"B"
 	},
 	{
+		"CARDNAME":"Ward Kodesh",
+		"RARITY":"E",
+		"FACTION":"A",
+		"SET":"Soulbound",
+		"TYPE":"CAVALRY",
+		"SKILL":"Charge;Light Shield;Slay Spider",
+		"TIME":6,
+		"ATTACK":3,
+		"HEALTH":7,
+		"ATTACKTYPE":"R"
+	},
+	{
+		"CARDNAME":"Ward Kodesh Legendary",
+		"RARITY":"L",
+		"FACTION":"A",
+		"SET":"Soulbound",
+		"TYPE":"CAVALRY",
+		"SKILL":"Charge;Shield;Slay Spider",
+		"TIME":5,
+		"ATTACK":3,
+		"HEALTH":8,
+		"ATTACKTYPE":"R"
+	},
+	{
 		"CARDNAME":"Warden Mek",
 		"RARITY":"E",
 		"FACTION":"D",
@@ -5136,6 +5256,30 @@
 		"TIME":10,
 		"ATTACK":3,
 		"HEALTH":9,
+		"ATTACKTYPE":"B"
+	},
+	{
+		"CARDNAME":"Xorgum",
+		"RARITY":"E",
+		"FACTION":"S",
+		"SET":"Soulbound",
+		"TYPE":"INFANTRY;MYCOSIAN",
+		"SKILL":"Deflect;Gas Cloud",
+		"TIME":6,
+		"ATTACK":2,
+		"HEALTH":5,
+		"ATTACKTYPE":"B"
+	},
+	{
+		"CARDNAME":"Xorgum Legendary",
+		"RARITY":"L",
+		"FACTION":"S",
+		"SET":"Soulbound",
+		"TYPE":"INFANTRY;MYCOSIAN",
+		"SKILL":"Deflect;Gas Cloud;Entrap",
+		"TIME":5,
+		"ATTACK":2,
+		"HEALTH":5,
 		"ATTACKTYPE":"B"
 	},
 	{

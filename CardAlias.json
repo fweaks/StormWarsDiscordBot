@@ -377,6 +377,16 @@
 		"ALIAS":"Aznik L;Constructor Aznik L"
 	},
 	{
+		"KEYWORD":"Constructor Cetnic",
+		"CARDNAME":"Constructor Cetnic",
+		"ALIAS":"Cetnic"
+	},
+	{
+		"KEYWORD":"Constructor Cetnic Legendary",
+		"CARDNAME":"Constructor Cetnic Legendary",
+		"ALIAS":"Constructor Cetnic L;Cetnic L"
+	},
+	{
 		"KEYWORD":"Constructor Darik",
 		"CARDNAME":"Constructor Darik",
 		"ALIAS":"Darik"
@@ -465,6 +475,16 @@
 		"KEYWORD":"Cytosian",
 		"CARDNAME":"Cytosian",
 		"ALIAS":"Cyt;Cyto"
+	},
+	{
+		"KEYWORD":"Dances with Crows",
+		"CARDNAME":"Dances with Crows",
+		"ALIAS":"DwC;Dances;Crows;Dance"
+	},
+	{
+		"KEYWORD":"Dances with Crows Legendary",
+		"CARDNAME":"Dances with Crows Legendary",
+		"ALIAS":"Dances with Crows L;DwC L;Dances L;Crows L;Dance L"
 	},
 	{
 		"KEYWORD":"Daos",
@@ -670,6 +690,16 @@
 	{
 		"KEYWORD":"Engineer",
 		"CARDNAME":"Engineer"
+	},
+	{
+		"KEYWORD":"Ephei, Fated",
+		"CARDNAME":"Ephei, Fated",
+		"ALIAS":"Ephei Fated;Ephei"
+	},
+	{
+		"KEYWORD":"Ephei, Fated Legendary",
+		"CARDNAME":"Ephei, Fated Legendary",
+		"ALIAS":"Ephei, Fated L;Ephei Fated L;Ephei L"
 	},
 	{
 		"KEYWORD":"Erinye",
@@ -1031,6 +1061,15 @@
 		"ALIAS":"Jester"
 	},
 	{
+		"KEYWORD":"Jezebel",
+		"CARDNAME":"Jezebel"
+	},
+	{
+		"KEYWORD":"Jezebel Legendary",
+		"CARDNAME":"Jezebel Legendary",
+		"ALIAS":"Jezebel L"
+	},
+	{
 		"KEYWORD":"June Willowstar",
 		"CARDNAME":"June Willowstar",
 		"ALIAS":"June;Willow;Willowstar"
@@ -1149,12 +1188,12 @@
 	{
 		"KEYWORD":"Mago Breaker",
 		"CARDNAME":"Mago Breaker",
-		"ALIAS":"Mago;Breaker"
+		"ALIAS":"Mago;Breaker;Magi Breaker"
 	},
 	{
 		"KEYWORD":"Mago Breaker Legendary",
 		"CARDNAME":"Mago Breaker Legendary",
-		"ALIAS":"Mago L;Breaker L;Mago Breaker L"
+		"ALIAS":"Mago L;Breaker L;Mago Breaker L;Magi Breaker L"
 	},
 	{
 		"KEYWORD":"Malebranche",
@@ -1818,14 +1857,14 @@
 		"ALIAS":"W Stone"
 	},
 	{
-		"KEYWORD":"Storm Legendary",
-		"CARDNAME":"Storm Legendary",
-		"ALIAS":"Storm L;Storm"
-	},
-	{
 		"KEYWORD":"Storm Elemental",
 		"CARDNAME":"Storm Elemental",
 		"ALIAS":"Storm Ele"
+	},
+	{
+		"KEYWORD":"Storm Legendary",
+		"CARDNAME":"Storm Legendary",
+		"ALIAS":"Storm L;Storm"
 	},
 	{
 		"KEYWORD":"Storm Mage",
@@ -2071,6 +2110,16 @@
 		"ALIAS":"Pig"
 	},
 	{
+		"KEYWORD":"Ward Kodesh",
+		"CARDNAME":"Ward Kodesh",
+		"ALIAS":"Kodesh"
+	},
+	{
+		"KEYWORD":"Ward Kodesh Legendary",
+		"CARDNAME":"Ward Kodesh Legendary",
+		"ALIAS":"Ward Kodesh L;Kodesh L"
+	},
+	{
 		"KEYWORD":"Warden Mek",
 		"CARDNAME":"Warden Mek",
 		"ALIAS":"Warden"
@@ -2157,6 +2206,15 @@
 		"KEYWORD":"Xenosaur Legendary",
 		"CARDNAME":"Xenosaur Legendary",
 		"ALIAS":"Xeno;Xeno L;Xenosaur;Xenosaur L"
+	},
+	{
+		"KEYWORD":"Xorgum",
+		"CARDNAME":"Xorgum"
+	},
+	{
+		"KEYWORD":"Xorgum Legendary",
+		"CARDNAME":"Xorgum Legendary",
+		"ALIAS":"Xorgum L"
 	},
 	{
 		"KEYWORD":"Yuta Dusksong",

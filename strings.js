@@ -18,6 +18,5 @@ module.exports = {
   EQUIP_ALIAS_PATH : 'EquipAlias.json',
   SKILL_ALIAS_PATH : 'SkillAlias.json',
   CARD_SEARCH_PATH : 'CardSearch.json',
-  GOOGLE_TOKEN_PATH : '.data/GoogleToken.json'
-  
+  HISTORY_PATH : 'History.json'  
 }

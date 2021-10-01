@@ -1,39 +1,14 @@
 const Discord = require('discord.js');
 const ImageHandler = require('../common/EquipImageHandler.js');
+const { EQUIP_ALIAS_PATH } = require('../strings.js');
+const DbEx = require('../common/DbExtensions.js');
+
+const standardLimit = 30;
 
 //pre-prepare the mapping of names and aliases to canonical equip names
-const aliases = require('../EquipAlias.json');
-const aliasMap = new Discord.Collection();
-const equipCollection = new Discord.Collection();
-for (let equip of aliases) {
-    equip.SearchString = Object.values(equip).join(';').replace(/[' ]+/g,'').toLowerCase();
-    equip.URLEquipName = equip.EQUIPNAME.toLowerCase().replace(/ +/g,'_');
-
-    aliasMap.set(equip.EQUIPNAME.replace(/[' ]+/g,'').toLowerCase(), equip.URLEquipName);  
-    for (let alias of (equip.ALIAS || "").replace(/[ ']+/g,'').toLowerCase().split(';')) {    
-        aliasMap.set(alias, equip.URLEquipName);
-    }
-  
-    equipCollection.set(equip.EQUIPNAME,equip);
-}
-
-for (let equip of aliases) {  
-    const equipInfo = {
-        URLEquipName : equip.EQUIPNAME.toLowerCase().replace(/ +/g,'_'),
-        SearchString : (equip.ALIAS + ';' + equip.SEARCH).replace(/[ ']/g,'').toLowerCase()
-    };
-    /*card.NAME = card.CARDNAME.replace(/ +/g,'').toLowerCase();
-    card.SET = card.SET.replace(/ +/g,'').toLowerCase();
-    card.RARITY = card.RARITY.replace(/ +/g,'').toLowerCase();
-    if(card.FACTION) { card.FACTION = card.FACTION.replace(/ +/g,'').toLowerCase() };
-    if(card.TYPE){ card.TYPE = card.TYPE.replace(/ +/g,'').toLowerCase() };
-    if(card.SKILL) { card.SKILL = card.SKILL.replace(/ +/g,'').toLowerCase() };
-    if(card.ATTACKTYPE) { card.ATTACKTYPE = card.ATTACKTYPE.replace(/ +/g,'').toLowerCase() };
-  
-    card.URLCardName = card.CARDNAME.toLowerCase().replace(/ +/g,'_');
-  
-    cardCollection.set(card.CARDNAME, card);*/
-}
+let equipAliasMap;
+let equipCollection
+reparse();
 
 module.exports = {
     name: 'equip',
@@ -45,7 +20,7 @@ module.exports = {
     run : async (message, args) => {
         const equipNameArg = args.join('').replace(/'+/g,'').toLowerCase();
 
-        const URLEquipName = aliasMap.get(equipNameArg);
+        const URLEquipName = equipAliasMap.get(equipNameArg);
         if (URLEquipName !== undefined) {
             ImageHandler.GetImageAttachment(URLEquipName)
               .then(attachment => {
@@ -72,20 +47,18 @@ module.exports = {
                 return;
             }  else if (matchingEquips.size < 5){
             //A Few Matches
-                message.author.send(`${matchingEquips.size} equips were found matching "${args.join(' ')}".`)
-                              .then(()=>{
-                                  matchingEquips.forEach((equip, equipName, map) => {
-                                      ImageHandler.GetImageAttachment(equip.URLEquipName)
-                                        .then(attachment => {
-                                            message.author.send(attachment)
-                                                .catch(err => { console.log(err); });
-                                        })
-                                        .catch(err => { console.log(err); });
-                                  });                                
-                              })
-                              .catch(error=> {
-                                  message.reply('it seems like I can\'t DM you! Do you have DMs disabled?');
-                              });
+                message.channel.send(`${matchingEquips.size} equips were found matching "${args.join(' ')}".`)
+                .then(()=>{
+                    matchingEquips.forEach((equip, equipName, map) => {
+                        ImageHandler.GetImageAttachment(equip.URLEquipName)
+                        .then(attachment => {
+                            message.channel.send(attachment)
+                            .catch(err => { console.log(err); });
+                        })
+                        .catch(err => { console.log(err); });
+                    });                                
+                })
+                .catch(err => { console.log(err); });
             } else {
             //Lots of Matches
                 const data = [];
@@ -96,12 +69,39 @@ module.exports = {
                 });
 
                 message.author.send(data, { split : true })
-                              .catch(error => {
-                                  message.reply('it seems like I can\'t DM you! Do you have DMs disabled?');
-                              });
-            }
-          
-            message.channel.send(`Answer sent as DM, ${matchingEquips.size} equips were found matching "${args.join(' ')}".`);
+                .then(()=>{
+                    message.channel.send(`Answer sent as DM, ${matchingEquips.size} equips were found matching "${args.join(' ')}".`)
+                    .catch(err => { console.log(err); });
+                })
+                .catch(error => {
+                    message.reply('it seems like I can\'t DM you! Do you have DMs disabled?');
+                });
+            }          
         }
-    }
-}
+    },
+    ReparseEquips : reparse
+};
+
+function reparse() {
+    return Promise.resolve(console.log("reparse equips"))
+    .then(() => DbEx.GetLargeObject(EQUIP_ALIAS_PATH))
+    .then((equipData) => {
+        console.log("rebuilding equips");
+    
+        equipAliasMap = new Discord.Collection();
+        equipCollection = new Discord.Collection();
+        for (let equip of equipData) {
+            equip.SearchString = Object.values(equip).join(';').replace(/[' ]+/g,'').toLowerCase();
+            equip.URLEquipName = equip.EQUIPNAME.toLowerCase().replace(/ +/g,'_');
+
+            equipAliasMap.set(equip.EQUIPNAME.replace(/[' ]+/g,'').toLowerCase(), equip.URLEquipName);  
+            for (let alias of (equip.ALIAS || "").replace(/[ ']+/g,'').toLowerCase().split(';')) {    
+                equipAliasMap.set(alias, equip.URLEquipName);
+            }
+        
+            equipCollection.set(equip.EQUIPNAME,equip);
+        }   
+        console.log("finished rebuilding equips");
+    })
+    .catch(console.log);
+};

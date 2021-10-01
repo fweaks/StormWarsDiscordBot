@@ -2,7 +2,7 @@
 	{
 		"KEYWORD":"Absolute Zero Legendary",
 		"CARDNAME":"Absolute Zero Legendary",
-		"ALIAS":"Absolute Zero;|0|;Absolute Zero L"
+		"ALIAS":"Absolute Zero;|0|;Absolute Zero L;|test|;|test2|"
 	},
 	{
 		"KEYWORD":"Agar",
@@ -1149,12 +1149,12 @@
 	{
 		"KEYWORD":"Mago Breaker",
 		"CARDNAME":"Mago Breaker",
-		"ALIAS":"Mago;Breaker"
+		"ALIAS":"Mago;Breaker;Magi Breaker"
 	},
 	{
 		"KEYWORD":"Mago Breaker Legendary",
 		"CARDNAME":"Mago Breaker Legendary",
-		"ALIAS":"Mago L;Breaker L;Mago Breaker L"
+		"ALIAS":"Mago L;Breaker L;Mago Breaker L;Magi Breaker L"
 	},
 	{
 		"KEYWORD":"Malebranche",
@@ -2192,4 +2192,62 @@
 		"KEYWORD":"Zorak the Mace Legendary",
 		"CARDNAME":"Zorak the Mace Legendary",
 		"ALIAS":"Zorak L;Zorak the Mace L;Mace L"
+	},
+	{
+		"KEYWORD":"Jezebel",
+		"CARDNAME":"Jezebel"
+	},
+	{
+		"KEYWORD":"Jezebel Legendary",
+		"CARDNAME":"Jezebel Legendary",
+		"ALIAS":"Jezebel L"
+	},
+	{
+		"KEYWORD":"Xorgum",
+		"CARDNAME":"Xorgum"
+	},
+	{
+		"KEYWORD":"Xorgum Legendary",
+		"CARDNAME":"Xorgum Legendary",
+		"ALIAS":"Xorgum L"
+	},
+	{
+		"KEYWORD":"Ward Kodesh",
+		"CARDNAME":"Ward Kodesh",
+		"ALIAS":"Kodesh"
+	},
+	{
+		"KEYWORD":"Ward Kodesh Legendary",
+		"CARDNAME":"Ward Kodesh Legendary",
+		"ALIAS":"Ward Kodesh L;Kodesh L"
+	},
+	{
+		"KEYWORD":"Ephei, Fated",
+		"CARDNAME":"Ephei, Fated",
+		"ALIAS":"Ephei Fated"
+	},
+	{
+		"KEYWORD":"Ephei, Fated Legendary",
+		"CARDNAME":"Ephei, Fated Legendary",
+		"ALIAS":"Ephei, Fated L;Ephei Fated L"
+	},
+	{
+		"KEYWORD":"Constructor Cetnic",
+		"CARDNAME":"Constructor Cetnic",
+		"ALIAS":"Cetnic"
+	},
+	{
+		"KEYWORD":"Constructor Cetnic Legendary",
+		"CARDNAME":"Constructor Cetnic Legendary",
+		"ALIAS":"Constructor Cetnic L;Cetnic L"
+	},
+	{
+		"KEYWORD":"Dances with Crows",
+		"CARDNAME":"Dances with Crows",
+		"ALIAS":"DwC;Dances;Crows"
+	},
+	{
+		"KEYWORD":"Dances with Crows Legendary",
+		"CARDNAME":"Dances with Crows Legendary",
+		"ALIAS":"Dances with Crows L;DwC L;Dances L;Crows L"
 	}]

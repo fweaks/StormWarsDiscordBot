@@ -7,15 +7,13 @@
     "start": "node bot.js"
   },
   "dependencies": {
-    "discord.js": "^12.3.1",
+    "@replit/database": "^2.0.1",
+    "canvas": "^2.8.0",
+    "discord.js": "^12.5.3",
     "express": "^4.17.1",
     "googleapis": "^39.1.0",
-    "request": "^2.88.0",
     "merge-images": "^2.0.0",
-    "canvas": "^2.6.1"
-  },
-  "engines": {
-    "node": "8.x"
+    "node-fetch": "^2.6.1"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/discordstormwarsbot"

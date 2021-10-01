@@ -620,9 +620,7 @@
 		"CARDSKILLDESCRIPTION":"This unit ignores 1-2 damage from any physical or ranged attack."
 	},
 	{
-		"SKILLNAME":"Hellfire",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Allied units get +1 attack. All enemy units catch on fire when entering play. Burning units take 1 fire damage per turn."
+		"SKILLNAME":"Hellfire"
 	},
 	{
 		"SKILLNAME":"Heroic Ballad",
@@ -922,7 +920,7 @@
 	{
 		"SKILLNAME":"Retaliate",
 		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit that attacks this unit receives 1-2 damage."
+		"CARDSKILLDESCRIPTION":"Any unit that attacks this unit receives 2 physical damage."
 	},
 	{
 		"SKILLNAME":"Rush 1",
@@ -1307,14 +1305,54 @@
 		"SKILLNAME":"Greater Heal"
 	},
 	{
-		"SKILLNAME":"Axe Throw"
-	},
-	{
-		"SKILLNAME":"Axe Throw 2"
-	},
-	{
 		"SKILLNAME":"Axe Throw 3"
 	},
 	{
 		"SKILLNAME":"Evade"
+	},
+	{
+		"SKILLNAME":"Blight 3"
+	},
+	{
+		"SKILLNAME":"Sap Vigor"
+	},
+	{
+		"SKILLNAME":"Beastmaster"
+	},
+	{
+		"SKILLNAME":"Breeder"
+	},
+	{
+		"SKILLNAME":"Devitalize"
+	},
+	{
+		"SKILLNAME":"Psion 2"
+	},
+	{
+		"SKILLNAME":"Snipe 3"
+	},
+	{
+		"SKILLNAME":"Malice",
+		"ALIAS":"",
+		"CARDSKILLDESCRIPTION":"This unit gains +1 attack whenever the enemy hero is damaged"
+	},
+	{
+		"SKILLNAME":"Gleaming Gift",
+		"ALIAS":"",
+		"CARDSKILLDESCRIPTION":"When this unit is destroyed, it deals 3 magic damage to each enemy unit."
+	},
+	{
+		"SKILLNAME":"Slay Spider",
+		"ALIAS":"",
+		"CARDSKILLDESCRIPTION":"Deals double damage when attacking Spider People units or heroes."
+	},
+	{
+		"SKILLNAME":"Gas Cloud",
+		"ALIAS":"",
+		"CARDSKILLDESCRIPTION":"When this unit enters play, it deals 1-2 poison damage and inflicts the Poison status on all enemy units."
+	},
+	{
+		"SKILLNAME":"Deflect",
+		"ALIAS":"",
+		"CARDSKILLDESCRIPTION":"When this unit enters play, this puts a counterspell in your hand"
 	}]

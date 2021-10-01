@@ -6,6 +6,12 @@ module.exports = {
     hidden: true,
   
     run : async (message, args) => {
-        await message.channel.send('This bot has been implemented by **fweaks** and **Aleks_Dark**. Please direct your praise and *constructive* critisism their way!');
+        await message.channel.send(
+            '*This bot was created/contributed to by:*\n' + 
+            'Ongoing Development: **fweaks**\n' + 
+            'Development Contributions: **Aleks_Dark**\n' +
+            'Data Entry Contributions: **Sir Valimont**, **fweaks**, **Aleks_Dark**, **Stratocumulus**, **eedjit**, **dragon447**\n' +
+            'Images: **The Devs**\n' +
+            '***Please direct your praise and *constructive* criticism their way!***');
     }
 }

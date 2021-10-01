@@ -1,17 +1,11 @@
 const Discord = require('discord.js');
+const { SKILL_ALIAS_PATH } = require('../strings.js');
+const DbEx = require('../common/DbExtensions.js');
 
 //pre-prepare the mapping of names and aliases to canonical card names
-const aliases = require('../SkillAlias.json');
-const aliasMap = new Discord.Collection();
-const descriptionMap = new Discord.Collection();
-for (let aliasObject of aliases) {
-    descriptionMap.set(aliasObject.SKILLNAME, aliasObject.CARDSKILLDESCRIPTION);
-    aliasMap.set(aliasObject.SKILLNAME.replace(/ +/g,'').toLowerCase(), aliasObject.SKILLNAME);  
-    for (let alias of (aliasObject.ALIAS || "").replace(/ +/g,'').toLowerCase().split(';')) {    
-        aliasMap.set(alias, aliasObject.SKILLNAME);
-    }
-}
-
+var skillAliasMap;
+var descriptionMap;
+reparse()
 
 module.exports = {  
     name: 'skill',
@@ -23,7 +17,7 @@ module.exports = {
     run : async (message, args) => {
         const skillNameArg = args.join('').toLowerCase();
         
-        const SkillName = aliasMap.get(skillNameArg);
+        const SkillName = skillAliasMap.get(skillNameArg);
         if (SkillName !== undefined) {
             const SkillDescription = descriptionMap.get(SkillName);
             if (SkillDescription !== undefined) {
@@ -40,7 +34,28 @@ module.exports = {
             //    .catch(err => { console.log(`"${URLCardName}" was requested which exists but has no image`); });
         } else {
             message.channel.send(`Skill "${args.join(' ')}" not found. Please check your spelling, or narrow your search terms.`);
+        }        
+    },
+
+    ReparseSkills : reparse
+}
+
+function reparse(){
+    return Promise.resolve(console.log("reparse skills"))
+    .then(() => DbEx.GetLargeObject(SKILL_ALIAS_PATH))
+    .then((skillData) => {
+        console.log("rebuilding skills");
+
+        skillAliasMap = new Discord.Collection();
+        descriptionMap = new Discord.Collection();
+        for (let skill of skillData) {
+            descriptionMap.set(skill.SKILLNAME, skill.CARDSKILLDESCRIPTION);
+            skillAliasMap.set(skill.SKILLNAME.replace(/ +/g,'').toLowerCase(), skill.SKILLNAME);  
+            for (let alias of (skill.ALIAS || "").replace(/ +/g,'').toLowerCase().split(';')) {    
+                skillAliasMap.set(alias, skill.SKILLNAME);
+            }
         }
-        
-    }
+        console.log("finished skills");
+    })
+    .catch(console.log); 
 }

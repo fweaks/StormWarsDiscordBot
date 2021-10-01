@@ -24,6 +24,11 @@
 		"SEARCH":"Start;First Turn"
 	},
 	{
+		"EQUIPNAME":"Apocalypse Ring",
+		"ALIAS":"Apocalypse;Singularity Ring",
+		"SEARCH":"Draw Singularity;Start;First Turn"
+	},
+	{
 		"EQUIPNAME":"Arcane Lock",
 		"ALIAS":"Arcane;Lock;Time Lock"
 	},
@@ -53,6 +58,11 @@
 		"EQUIPNAME":"Attrition Idol",
 		"ALIAS":"Attrition;Idol",
 		"SEARCH":"Mill;Start;First Turn"
+	},
+	{
+		"EQUIPNAME":"Azuma Doll",
+		"ALIAS":"Azuma;Doll",
+		"SEARCH":"Magic Damage;Attacked"
 	},
 	{
 		"EQUIPNAME":"Banker's Ring",
@@ -86,7 +96,7 @@
 	{
 		"EQUIPNAME":"Blueback Shield",
 		"ALIAS":"Blueback",
-		"SEARCH":"Aegis Aura;First Units;First creatures"
+		"SEARCH":"Aegis Aura;First Units;First creatures;ETB"
 	},
 	{
 		"EQUIPNAME":"Boar Ward",
@@ -192,6 +202,11 @@
 		"ALIAS":"Dbait;Summon Imps;Summon Imp"
 	},
 	{
+		"EQUIPNAME":"Dissolution Stone",
+		"ALIAS":"Dissolution;Disintegrate Stone",
+		"SEARCH":"Start;First Turn;Draw Disintegrate"
+	},
+	{
 		"EQUIPNAME":"Divine Order Helm",
 		"ALIAS":"DOH;DO Helm;D O Helm;Draw Constructor",
 		"SEARCH":"Start;First Turn"
@@ -205,6 +220,11 @@
 		"EQUIPNAME":"Dragon Mote",
 		"ALIAS":"Mote;Draw Dragon Egg",
 		"SEARCH":"Start;First Turn;Dragons"
+	},
+	{
+		"EQUIPNAME":"Dragonpact Icon",
+		"ALIAS":"Dragonpact;Dragonpact Amulet;EDH Icon;EDH Amulet;Elder Dragon Amulet;Elder Dragon Icon;Elder Dragon;Elder Dragons;Summon Elder Dragon;Summon Elder Dragons",
+		"SEARCH":"Dragons"
 	},
 	{
 		"EQUIPNAME":"Dryad Thorn",
@@ -242,7 +262,7 @@
 	},
 	{
 		"EQUIPNAME":"Eye of Detection",
-		"ALIAS":"",
+		"ALIAS":"Detection",
 		"SEARCH":"Detect"
 	},
 	{
@@ -262,7 +282,8 @@
 	},
 	{
 		"EQUIPNAME":"Fire Periapt",
-		"ALIAS":"F Periapt;Igniter;Igniter Periapt"
+		"ALIAS":"F Periapt;Igniter;Igniter Periapt",
+		"SEARCH":"ETB"
 	},
 	{
 		"EQUIPNAME":"Fire Petal",
@@ -271,18 +292,18 @@
 	},
 	{
 		"EQUIPNAME":"Firebrand",
-		"ALIAS":"",
+		"ALIAS":"Brand",
 		"SEARCH":"Fire Magic Damage;Burning"
 	},
 	{
 		"EQUIPNAME":"Flamerider Periapt",
 		"ALIAS":"Flamerider;Cavalry Periapt",
-		"SEARCH":"Cavalry;Fireproof"
+		"SEARCH":"Cavalry;Fireproof;ETB"
 	},
 	{
 		"EQUIPNAME":"Flashfire Jewel",
 		"ALIAS":"Flash;Flashfire",
-		"SEARCH":"Magic Damage; First Creatures;First Units"
+		"SEARCH":"Magic Damage; First Creatures;First Units;ETB"
 	},
 	{
 		"EQUIPNAME":"Forest Hood",
@@ -334,7 +355,8 @@
 	},
 	{
 		"EQUIPNAME":"Heartstroke Periapt",
-		"ALIAS":"Heart;Heartstroke;H Periapt;Bloodlust"
+		"ALIAS":"Heart;Heartstroke;H Periapt;Bloodlust",
+		"SEARCH":"ETB"
 	},
 	{
 		"EQUIPNAME":"Helm of Retribution",
@@ -347,6 +369,11 @@
 		"SEARCH":"Health;Antimill"
 	},
 	{
+		"EQUIPNAME":"Holocore Gloves",
+		"ALIAS":"Fireproof Gloves;Fire gloves;Fire Aura Gloves",
+		"SEARCH":"Fire Aura; Fireproof;Health"
+	},
+	{
 		"EQUIPNAME":"Horn of Oceans",
 		"ALIAS":"Horn;Oceans",
 		"SEARCH":"Water Magic Damage"
@@ -354,12 +381,16 @@
 	{
 		"EQUIPNAME":"Hospice Periapt",
 		"ALIAS":"Hospice;H Periapt;Aegis Aura",
-		"SEARCH":"Supports"
+		"SEARCH":"Supports;ETB"
 	},
 	{
 		"EQUIPNAME":"Hunter's Bow",
 		"ALIAS":"Hunter Bow;Hunters Bow;H Bow",
 		"SEARCH":"Ranged Damage"
+	},
+	{
+		"EQUIPNAME":"Hydromancer Figurine",
+		"ALIAS":"Water Mage Figurine;Hydromancer;Summon Water Mage;Water Mage"
 	},
 	{
 		"EQUIPNAME":"Hylean Quiver",
@@ -378,7 +409,7 @@
 	},
 	{
 		"EQUIPNAME":"Iris Ruse",
-		"ALIAS":"Iris",
+		"ALIAS":"Iris;I Ruse",
 		"SEARCH":"Flashdrafts;Start;First Turn"
 	},
 	{
@@ -399,7 +430,17 @@
 	{
 		"EQUIPNAME":"Kiri's Pinion",
 		"ALIAS":"Kiri's;Kiris;K Pinion;Pinion;Kiris Pinion;Kiri Pinion",
-		"SEARCH":"Beasts;First Units;First Creatures"
+		"SEARCH":"Beasts;First Units;First Creatures;ETB"
+	},
+	{
+		"EQUIPNAME":"Knelling Bell",
+		"ALIAS":"Killing Bell;",
+		"SEARCH":"Genocide;First Turn;Start"
+	},
+	{
+		"EQUIPNAME":"Komodo Periapt",
+		"ALIAS":"Komodo;",
+		"SEARCH":"Saurians;Regenerate;ETB"
 	},
 	{
 		"EQUIPNAME":"Large Healing Crystal",
@@ -409,6 +450,11 @@
 	{
 		"EQUIPNAME":"Lava Orb",
 		"ALIAS":"L Orb;Lava;Hero Fireproof"
+	},
+	{
+		"EQUIPNAME":"Lavablood Rhyton",
+		"ALIAS":"Lavablood;Rhyton",
+		"SEARCH":"Burning;Cursed"
 	},
 	{
 		"EQUIPNAME":"Leather Boots",
@@ -428,7 +474,7 @@
 	{
 		"EQUIPNAME":"Lightning Jewel",
 		"ALIAS":"Lightning",
-		"SEARCH":"Electric Magic Damage;First Units;First Creatures"
+		"SEARCH":"Electric Magic Damage;First Units;First Creatures;ETB"
 	},
 	{
 		"EQUIPNAME":"Lizard Charm",
@@ -437,13 +483,13 @@
 	},
 	{
 		"EQUIPNAME":"Lotus Ruse",
-		"ALIAS":"Lotus",
+		"ALIAS":"Lotus;L Ruse",
 		"SEARCH":"Flashdrafts;Start;First Turn"
 	},
 	{
 		"EQUIPNAME":"Lucent Jewel",
 		"ALIAS":"Lucent",
-		"SEARCH":"Magic Damage"
+		"SEARCH":"Magic Damage;ETB"
 	},
 	{
 		"EQUIPNAME":"Lucky Ring",
@@ -453,7 +499,7 @@
 	{
 		"EQUIPNAME":"Lupine Periapt",
 		"ALIAS":"Lupine;Wolf Periapt;L Periapt",
-		"SEARCH":"Charge;Wolves;Wolfs"
+		"SEARCH":"Charge;Wolves;Wolfs;ETB"
 	},
 	{
 		"EQUIPNAME":"Lynx Ward",
@@ -508,6 +554,11 @@
 		"ALIAS":"Minstrel;Minstrels;Minstrel's;Minstrel Flute;Minstrels Flute;Flute;Heroic Ballad"
 	},
 	{
+		"EQUIPNAME":"Mithril Ring of Haste",
+		"ALIAS":"MRH;Mithril Haste;Mithril Ring;M Haste;L Haste;Legendary Haste Ring",
+		"SEARCH":"Hasten Ring;Haste Ring"
+	},
+	{
 		"EQUIPNAME":"Moon Blade",
 		"ALIAS":"M Blade;Moon B;Moonblade;Cull 2"
 	},
@@ -528,7 +579,7 @@
 	{
 		"EQUIPNAME":"Northrunner Shield",
 		"ALIAS":"North;Northrunner",
-		"SEARCH":"Aegis Aura;First Units;First creatures"
+		"SEARCH":"Aegis Aura;First Units;First creatures;ETB"
 	},
 	{
 		"EQUIPNAME":"Pantheon Banner",
@@ -557,7 +608,8 @@
 	},
 	{
 		"EQUIPNAME":"Poison Phial",
-		"ALIAS":"P Phial;Phial;Poison Vial;Vial;Poison Periapt;Poisoned Periapt"
+		"ALIAS":"P Phial;Phial;Poison Vial;Vial;Poison Periapt;Poisoned Periapt",
+		"SEARCH":"ETB"
 	},
 	{
 		"EQUIPNAME":"Potion of Aggression",
@@ -587,8 +639,14 @@
 		"SEARCH":"Magic Damage"
 	},
 	{
+		"EQUIPNAME":"Pulverizer",
+		"ALIAS":"Pulveriser",
+		"SEARCH":"Physical Damage"
+	},
+	{
 		"EQUIPNAME":"Pyrovitre",
-		"ALIAS":"Pyro;Burn Periapt;Burning Periapt"
+		"ALIAS":"Pyro;Burn Periapt;Burning Periapt",
+		"SEARCH":"ETB"
 	},
 	{
 		"EQUIPNAME":"Quickbolter",
@@ -612,7 +670,7 @@
 	},
 	{
 		"EQUIPNAME":"Red Island Rum",
-		"ALIAS":"RIR;Rum;R I Rum",
+		"ALIAS":"RIR;Rum;R I Rum;Island;Red Rum",
 		"SEARCH":"Paralysed;Paralayzed"
 	},
 	{
@@ -633,17 +691,17 @@
 	{
 		"EQUIPNAME":"Ring of the Furrows",
 		"ALIAS":"Furrows;Mycosian Ring",
-		"SEARCH":"Mycosians;Recover"
+		"SEARCH":"Mycosians;Recover;ETB"
 	},
 	{
 		"EQUIPNAME":"Ring of the Glen",
 		"ALIAS":"RoG;RotG;Glen;Ele Ring;Elemental Ring",
-		"SEARCH":"Heal;Gain;Elementals"
+		"SEARCH":"Heal;Gain;Elementals;ETB"
 	},
 	{
 		"EQUIPNAME":"Ring of Visions",
 		"ALIAS":"Visions",
-		"SEARCH":"Draw Cards;First Turn"
+		"SEARCH":"Draw Cards;Third Turn"
 	},
 	{
 		"EQUIPNAME":"Rocky Orb",
@@ -681,7 +739,7 @@
 	{
 		"EQUIPNAME":"Rusalka Pearls",
 		"ALIAS":"Rusalka;Pearls",
-		"SEARCH":"Water Magic Damage"
+		"SEARCH":"Water Magic Damage;ETB"
 	},
 	{
 		"EQUIPNAME":"Rusting Powder",
@@ -703,6 +761,11 @@
 		"SEARCH":"Meks"
 	},
 	{
+		"EQUIPNAME":"Seal of the Jotuns ",
+		"ALIAS":"Seal of the Jotuns; Seal of Jotuns; Jotuns; seal; stun ring",
+		"SEARCH":"Attacked; Stun "
+	},
+	{
 		"EQUIPNAME":"Seeking Axe",
 		"ALIAS":"Seek;Seeking;S Axe;Axe Throw",
 		"SEARCH":"Ranged Damage"
@@ -710,7 +773,7 @@
 	{
 		"EQUIPNAME":"Seism Jewel",
 		"ALIAS":"Seism;Siesm",
-		"SEARCH":"Earth Magic Damage;First Units;First Creatures"
+		"SEARCH":"Earth Magic Damage;First Units;First Creatures;ETB"
 	},
 	{
 		"EQUIPNAME":"Shimmering Trinket",
@@ -788,14 +851,29 @@
 		"ALIAS":"SoS;Staff S;Suggestion;Suggest;Staff of Suggest"
 	},
 	{
+		"EQUIPNAME":"Star of Thoth",
+		"ALIAS":"Star;Thoth;Thoth Star;Slay Mage;Slay Mages",
+		"SEARCH":"Mages"
+	},
+	{
+		"EQUIPNAME":"Steelflight Quiver",
+		"ALIAS":"Steelflight",
+		"SEARCH":"Wind Shield"
+	},
+	{
+		"EQUIPNAME":"Steelpoint Flail",
+		"ALIAS":"Steelpoint;Flail",
+		"SEARCH":"Assault"
+	},
+	{
 		"EQUIPNAME":"Sticky Web",
 		"ALIAS":"Sticky;Web",
 		"SEARCH":"Paralyzed;Paralysed"
 	},
 	{
 		"EQUIPNAME":"Stonekeeper Amulet",
-		"ALIAS":"Stonekeeper;Skeeper;S Keeper;Keeper",
-		"SEARCH":"Stoneform;Mages"
+		"ALIAS":"Stonekeeper;Skeeper;S Keeper;Keeper;Stoneform Periapt",
+		"SEARCH":"Stoneform;Mages;ETB"
 	},
 	{
 		"EQUIPNAME":"Storm Orb",
@@ -820,6 +898,11 @@
 		"EQUIPNAME":"Tiger Cog",
 		"ALIAS":"Tiger;T Cog;Grimalkin;Draw Grinalkin;Draw Grimalkins",
 		"SEARCH":"Meks"
+	},
+	{
+		"EQUIPNAME":"Tolling Bell",
+		"ALIAS":"Telling Bell;",
+		"SEARCH":"Genocide;First Turn;Start"
 	},
 	{
 		"EQUIPNAME":"Toxin Jar",
@@ -869,7 +952,16 @@
 	{
 		"EQUIPNAME":"Vortex Mask",
 		"ALIAS":"Vortex;Mask;V Mask",
-		"SEARCH":"Magic Damage"
+		"SEARCH":"Magic Damage;ETB"
+	},
+	{
+		"EQUIPNAME":"Warrior Figurine",
+		"ALIAS":"Swordsman Figurine;Warrior;Summon Swordsman;Swordsman"
+	},
+	{
+		"EQUIPNAME":"Weight Talisman",
+		"ALIAS":"Weight;Talisman",
+		"SEARCH":"Start;First Turn;Slow"
 	},
 	{
 		"EQUIPNAME":"Wicked Dagger",
@@ -883,34 +975,15 @@
 	{
 		"EQUIPNAME":"Woodshadow Periapt",
 		"ALIAS":"Woodshadow;W Periapt",
-		"SEARCH":"Stealth;Rangers"
+		"SEARCH":"Stealth;Rangers;ETB"
 	},
 	{
-		"EQUIPNAME":"Knelling Bell",
-		"ALIAS":"Killing Bell;",
-		"SEARCH":"Genocide;First Turn;Start"
+		"EQUIPNAME":"Yoke of Atlas",
+		"ALIAS":"Yoke;Atlas",
+		"SEARCH":"Start;First Turns;Slow"
 	},
 	{
-		"EQUIPNAME":"Tolling Bell",
-		"ALIAS":"Telling Bell;",
-		"SEARCH":"Genocide;First Turn;Start"
-	},
-	{
-		"EQUIPNAME":"Holocore Gloves",
-		"ALIAS":"Fireproof Gloves;Fire gloves;Fire Aura Gloves",
-		"SEARCH":"Fire Aura; Fireproof;Health"
-	},
-	{
-		"EQUIPNAME":"Seal of the Jotuns ",
-		"ALIAS":"Seal of the Jotuns; Seal of Jotuns; Jotuns; seal; stun ring"
-	},
-	{
-		"EQUIPNAME":"Star of Thoth",
-		"ALIAS":"Star;Thoth;Thoth Star;Slay Mage;Slay Mages",
-		"SEARCH":"Mages"
-	},
-	{
-		"EQUIPNAME":"Dragonpact Icon",
-		"ALIAS":"Dragonpact;Dragonpact Amulet;EDH Icon;EDH Amulet;Elder Dragon Amulet;Elder Dragon Icon;Elder Dragon;Elder Dragons;Summon Elder Dragon;Summon Elder Dragons",
-		"SEARCH":"Dragons"
+		"EQUIPNAME":"Zamzam Gourd",
+		"ALIAS":"Zamzam;Gourd",
+		"SEARCH":"Remedy;Heal"
 	}]

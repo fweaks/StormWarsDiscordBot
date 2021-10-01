@@ -1,24 +1,19 @@
 const Discord = require('discord.js');
+const fetch = require("node-fetch");
 
 module.exports = {        
     GetImageAttachment: function(URLCardName){
-        return new Promise((Resolve, Reject) => { 
+        return new Promise((Resolve, Reject) => {
             var cardImageURL = `https://d3f7do5p5ldf15.cloudfront.net/Discord/cards/${URLCardName}.png`;
-            Resolve(new Discord.Attachment(cardImageURL));
+            fetch(cardImageURL)
+            .then((res) => { 
+                if (res.ok) {
+                    Resolve(new Discord.MessageAttachment(cardImageURL)); 
+                } else {
+                    Reject("url returned " + res.status + ": " + res.statusText)
+                }   
+            })
+            .catch((err) => Reject(err));
         });
-    }//,
-  
-    /*run : async (message, args) => {
-        const cardNameArg = args.join('').toLowerCase();
-
-        const URLCardName = aliasMap.get(cardNameArg);
-        if (URLCardName !== undefined) {
-            var cardImageURL = `http://downloads.stormwarsgame.com/cards/${URLCardName}.png`;
-            const attachment = new Discord.Attachment(cardImageURL);
-            message.channel.send(attachment)
-                .catch(err => { console.log(`"${URLCardName}" was requested which exists but has no image`); });
-        } else {
-            message.channel.send(`Card name "${args.join(' ')}" not found. Please check your spelling, or narrow your search terms.`);
-        }
-    }*/
+    }
 }

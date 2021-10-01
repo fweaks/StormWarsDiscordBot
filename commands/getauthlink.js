@@ -1,5 +1,3 @@
-const request = require("request").defaults({ "encoding" : null });
-
 module.exports = {
     name: 'getauthlink',
     description: 'Gets the authentication link for adding the bot to a server',

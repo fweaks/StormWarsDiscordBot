@@ -1,16 +1,33 @@
 const Discord = require('discord.js');
 const fs = require("fs");
-const child_process = require('child_process');
-var express = require('express');
+const express = require('express');
+const oAuthCallbackHandler = require('./commands/update.js');
 
 const discord_token = process.env.DISCORD_BOT_TOKEN;
 const prefix = process.env.PREFIX;
-const { WelcomeMessage, HelpMessage } = require('./strings.js');
 
 // Create an instance of a Discord client
 const client = new Discord.Client();
 client.commands = new Discord.Collection();
 const cooldowns = new Discord.Collection();
+
+let botReady = false;
+let logUser = undefined;
+client.on('error', error => console.log(`[ERROR] ${error}`));
+client.on('warning', warning => console.log(`[WARNING] ${warning}`));
+client.on('debug', debug => {
+    if(botReady === true){return;}
+    if(debug.includes('Sending a heartbeat')){return;}
+    if(debug.includes('Heartbeat acknowledged')){return;}
+    console.log(`[DEBUG] ${debug}`);
+});
+client.on('ready', async (...args) => {
+    botReady = true;
+    
+    logUser = await client.users.fetch("430996790884564992").catch(console.log);
+    if (!logUser) { return console.log("User Not found"); }
+    //await logUser.send("I'm awake").catch(console.log);
+});
 
 //This loop reads the /commands/ folder and maps the commands for later execution
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
@@ -22,6 +39,7 @@ for (const file of commandFiles) {
         console.log(`Error while reading command ${file}`, err);
     }
 }
+console.log('Finished Parsing Commands');
 
 // This loop reads the /events/ folder and attaches each event file to the appropriate event.
 const eventFiles = fs.readdirSync('./events').filter(file => file.endsWith('.js'));
@@ -34,12 +52,18 @@ for (const file of eventFiles) {
         console.log(`Error while reading event ${file}`, err);
     }
 }
+console.log('Finished Parsing Events');
 
 
 // Create an event listener for messages
 client.on('message', message => {
     if (!message.content.startsWith(prefix) || message.author.bot) return;
-                
+
+    //console.log(`Command Received from ${message.author.name} in channel ${message.channel.name}: ${message.content}`);
+    logMessage = `${new Date().toISOString()} - ${message.author.username}${message.author}@${message.channel.type === 'dm' ? 'DM' : message.channel.name}@${message.channel.type === 'dm' ? 'DM' : message.guild.name}: ${message.content}`; 
+    console.log(logMessage);                
+    if(logUser){logUser.send(logMessage).catch(console.log);}
+
     //strip characters that aren't allowed, e.g. @ for mentions
     const sanitisedMessage = message.content.replace(/[@#]+/g,'');
   
@@ -100,9 +124,9 @@ client.on('message', message => {
     //Finally execute the command
     try {
         if(command.meta === true){
-            setTimeout(function() {command.run(message, args, client)},300); //300ms timeout before command execution. So message appear below
+            setTimeout(function() {command.run(message, args, client)},300); //300ms timeout before command execution. So message appears below what it is responding to
         }else{
-            setTimeout(function() {command.run(message, args)},300); //300ms timeout before command execution. So message appear below
+            setTimeout(function() {command.run(message, args)},300); //300ms timeout before command execution. So message appears below what it is responding to
         }
     }
     catch (error) {
@@ -115,12 +139,19 @@ client.on('message', message => {
 // Log our bot in using the token from https://discordapp.com/developers/applications/me
 client.login(discord_token);
 
-//Implement an http server and expose a route so that uptimerobot.com can keep the bot alive
+//Implement an http server and expose several routes
 var app = express();
-//app.use(express.static('public'));
+//so uptimerobot can keep the bot awake:
 app.get('/', function(request, response) {
   response.sendFile(__dirname + '/views/index.html');
 });
+//for google to review for the oAuth2 Stuff
+app.get('/Privacy', function(request, response) {
+  response.sendFile(__dirname + '/views/privacy.html');
+});
+//for google to send the authorisation code back to
+app.get('/oauth2callback', oAuthCallbackHandler.AuthorisationCallback);
+
 var listener = app.listen(process.env.PORT, function() {
   console.log('Your app is listening on port ' + listener.address().port);
 });
