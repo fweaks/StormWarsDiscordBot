@@ -27,11 +27,6 @@ module.exports = {
             } else {
                 console.log(`"${SkillName}" was requested which exists but has no description`);
             }
-        
-            //var cardImageURL = `http://downloads.stormwarsgame.com/cards/${URLCardName}.png`;
-            //const attachment = new Discord.Attachment(cardImageURL);
-            //message.channel.send(attachment)
-            //    .catch(err => { console.log(`"${URLCardName}" was requested which exists but has no image`); });
         } else {
             message.channel.send(`Skill "${args.join(' ')}" not found. Please check your spelling, or narrow your search terms.`);
         }        
@@ -40,9 +35,9 @@ module.exports = {
     ReparseSkills : reparse
 }
 
-function reparse(){
+function reparse(debug = false){
     return Promise.resolve(console.log("reparse skills"))
-    .then(() => DbEx.GetLargeObject(SKILL_ALIAS_PATH))
+    .then(() => DbEx.GetLargeObject(SKILL_ALIAS_PATH, debug))
     .then((skillData) => {
         console.log("rebuilding skills");
 

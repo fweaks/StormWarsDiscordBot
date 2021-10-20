@@ -36,7 +36,7 @@ module.exports = {
             //No Matches
                 message.channel.send(`No equip matching "${args.join(' ')}" found. Please check your spelling, or narrow your search term.`);
                 return;
-            } else if (matchingEquips.size === 1){
+            /*} else if (matchingEquips.size === 1){
             //Only 1 match
             ImageHandler.GetImageAttachment(URLEquipName)
               .then(attachment => {
@@ -44,7 +44,7 @@ module.exports = {
                       .catch(err => { console.log(err); });
               })
               .catch(err => { console.log(err); });
-                return;
+                return;*/
             }  else if (matchingEquips.size < 5){
             //A Few Matches
                 message.channel.send(`${matchingEquips.size} equips were found matching "${args.join(' ')}".`)
@@ -82,9 +82,9 @@ module.exports = {
     ReparseEquips : reparse
 };
 
-function reparse() {
+function reparse(debug = false) {
     return Promise.resolve(console.log("reparse equips"))
-    .then(() => DbEx.GetLargeObject(EQUIP_ALIAS_PATH))
+    .then(() => DbEx.GetLargeObject(EQUIP_ALIAS_PATH, debug))
     .then((equipData) => {
         console.log("rebuilding equips");
     

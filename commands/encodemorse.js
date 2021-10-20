@@ -60,7 +60,7 @@ const MorseEncoder = {
 }
 
 module.exports = {
-    name: 'decodemorse',
+    name: 'encodemorse',
     description: 'Encodes text as morse code',
     usage: '<string to encode>',
     hidden: true,

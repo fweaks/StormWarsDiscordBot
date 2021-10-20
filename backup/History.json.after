@@ -21,7 +21,7 @@
 		"DATE":42484,
 		"VERSION":0.48,
 		"TAGS":"Gameplay;Balance",
-		"COMMENT":"Repair mek now repairs 2 instead of 1-2, and gains +1 health"
+		"COMMENT":"Repair mek now repairs 2 instead of 1-2, and gains +1 Life"
 	},
 	{
 		"DATE":42484,
@@ -33,7 +33,7 @@
 		"DATE":42484,
 		"VERSION":0.48,
 		"TAGS":"Gameplay;Balance; Rework",
-		"COMMENT":"Walls now give all friendly units 1 health. They are now all uncommon cards and are a little slower (1 time)."
+		"COMMENT":"Walls now give all friendly units 1 Life. They are now all uncommon cards and are a little slower (1 CD)."
 	},
 	{
 		"DATE":42484,
@@ -51,7 +51,7 @@
 		"DATE":42484,
 		"VERSION":0.48,
 		"TAGS":"Bugfix; GUI",
-		"COMMENT":"Fix for vertical stacking of large health or attack numbers in combat"
+		"COMMENT":"Fix for vertical stacking of large Life or Attack numbers in combat"
 	},
 	{
 		"DATE":42484,
@@ -141,13 +141,13 @@
 		"DATE":42485,
 		"VERSION":0.51,
 		"TAGS":"Gameplay;Balance",
-		"COMMENT":"Blade spider changed to 2/5 @ 6T, extra attack."
+		"COMMENT":"Blade spider changed to 2/5 @ 6T, Extra Attack."
 	},
 	{
 		"DATE":42485,
 		"VERSION":0.51,
 		"TAGS":"Gameplay;Balance",
-		"COMMENT":"Odysseus nerfed slightly (-1 health)."
+		"COMMENT":"Odysseus nerfed slightly (-1 Life)."
 	},
 	{
 		"DATE":42485,
@@ -177,7 +177,7 @@
 		"DATE":42486,
 		"VERSION":0.52,
 		"TAGS":"Gameplay; Balance",
-		"COMMENT":"Omegon time reduced from 8T to 7T"
+		"COMMENT":"Omegon CD reduced from 8T to 7T"
 	},
 	{
 		"DATE":42486,
@@ -351,7 +351,7 @@
 		"DATE":42494,
 		"VERSION":0.6,
 		"TAGS":"Gameplay;Balance",
-		"COMMENT":"Healing Rays increased from +1-3 Health to +2-5 Health to all units"
+		"COMMENT":"Healing Rays increased from +1-3 Life to +2-5 Life to all units"
 	},
 	{
 		"DATE":42500,
@@ -501,7 +501,7 @@
 		"DATE":42508,
 		"VERSION":0.64,
 		"TAGS":"Gameplay; Bugfix",
-		"COMMENT":"Fix for bug with the Champion special causing units to occasionally remain on the board with 0 health."
+		"COMMENT":"Fix for bug with the Champion special causing units to occasionally remain on the board with 0 Life."
 	},
 	{
 		"DATE":42508,
@@ -567,25 +567,25 @@
 		"DATE":42509,
 		"VERSION":0.66,
 		"TAGS":"Balance",
-		"COMMENT":"Myrrhine’s health increased and her healing ability has been improved."
+		"COMMENT":"Myrrhine’s Life increased and her healing ability has been improved."
 	},
 	{
 		"DATE":42509,
 		"VERSION":0.66,
 		"TAGS":"Balance",
-		"COMMENT":"Laertes health slightly improved."
+		"COMMENT":"Laertes Life slightly improved."
 	},
 	{
 		"DATE":42509,
 		"VERSION":0.66,
 		"TAGS":"Balance",
-		"COMMENT":"Eliana’s health upgrades faster at higher levels now."
+		"COMMENT":"Eliana’s Life upgrades faster at higher levels now."
 	},
 	{
 		"DATE":42509,
 		"VERSION":0.66,
 		"TAGS":"Balance",
-		"COMMENT":"Anasi and Malik’s health reduced."
+		"COMMENT":"Anasi and Malik’s Life reduced."
 	},
 	{
 		"DATE":42509,
@@ -597,19 +597,19 @@
 		"DATE":42509,
 		"VERSION":0.66,
 		"TAGS":"Balance",
-		"COMMENT":"Bolter: +1 health"
+		"COMMENT":"Bolter: +1 Life"
 	},
 	{
 		"DATE":42509,
 		"VERSION":0.66,
 		"TAGS":"Balance",
-		"COMMENT":"Chainer: +1 health"
+		"COMMENT":"Chainer: +1 Life"
 	},
 	{
 		"DATE":42509,
 		"VERSION":0.66,
 		"TAGS":"Balance",
-		"COMMENT":"Darter: -1 Time"
+		"COMMENT":"Darter: -1 CD"
 	},
 	{
 		"DATE":42509,
@@ -621,7 +621,7 @@
 		"DATE":42509,
 		"VERSION":0.66,
 		"TAGS":"Balance",
-		"COMMENT":"All imps and imp lord have +1 health"
+		"COMMENT":"All imps and imp lord have +1 Life"
 	},
 	{
 		"DATE":42509,
@@ -651,7 +651,7 @@
 		"DATE":42509,
 		"VERSION":0.66,
 		"TAGS":"Balance",
-		"COMMENT":"Repair Mek: +1 health"
+		"COMMENT":"Repair Mek: +1 Life"
 	},
 	{
 		"DATE":42509,
@@ -867,7 +867,7 @@
 		"DATE":42517,
 		"VERSION":0.8,
 		"TAGS":"Balance",
-		"COMMENT":"To reduce kiri+prodromoi spam effectiveness, prodromoi reduced to 3 health."
+		"COMMENT":"To reduce kiri+prodromoi spam effectiveness, prodromoi reduced to 3 Life."
 	},
 	{
 		"DATE":42517,
@@ -885,7 +885,7 @@
 		"DATE":42517,
 		"VERSION":0.8,
 		"TAGS":"",
-		"COMMENT":"Friendly buffs should no longer target cards with 0 or less health."
+		"COMMENT":"Friendly buffs should no longer target cards with 0 or less Life."
 	},
 	{
 		"DATE":42517,
@@ -957,13 +957,13 @@
 		"DATE":42519,
 		"VERSION":0.84,
 		"TAGS":"Balance",
-		"COMMENT":"Kiri’s tier 3 ability reduced from +1-2 attack to +1 attack."
+		"COMMENT":"Kiri’s tier 3 ability reduced from +1-2 Attack to +1 Attack."
 	},
 	{
 		"DATE":42519,
 		"VERSION":0.84,
 		"TAGS":"Balance",
-		"COMMENT":"Clom’s health increased by 5."
+		"COMMENT":"Clom’s Life increased by 5."
 	},
 	{
 		"DATE":42520,
@@ -1053,13 +1053,13 @@
 		"DATE":42521,
 		"VERSION":0.87,
 		"TAGS":"Balance",
-		"COMMENT":"Pavuk’s weaken ability and the weaken ray special will no longer target cards with 0 attack."
+		"COMMENT":"Pavuk’s weaken ability and the weaken ray special will no longer target cards with 0 Attack."
 	},
 	{
 		"DATE":42521,
 		"VERSION":0.87,
 		"TAGS":"Balance",
-		"COMMENT":"Gorm now does +1 damage at all levels and has +3 health."
+		"COMMENT":"Gorm now does +1 damage at all levels and has +3 Life."
 	},
 	{
 		"DATE":42521,
@@ -1071,7 +1071,7 @@
 		"DATE":42521,
 		"VERSION":0.87,
 		"TAGS":"Balance",
-		"COMMENT":"Sela stormcaller -1 health (down from 7 to 6)"
+		"COMMENT":"Sela stormcaller -1 Life (down from 7 to 6)"
 	},
 	{
 		"DATE":42521,
@@ -1131,55 +1131,55 @@
 		"DATE":42522,
 		"VERSION":0.89,
 		"TAGS":"Balance",
-		"COMMENT":"Manavore: +1 health"
+		"COMMENT":"Manavore: +1 Life"
 	},
 	{
 		"DATE":42522,
 		"VERSION":0.89,
 		"TAGS":"Balance",
-		"COMMENT":"Saurian Trampler: -1 health"
+		"COMMENT":"Saurian Trampler: -1 Life"
 	},
 	{
 		"DATE":42522,
 		"VERSION":0.89,
 		"TAGS":"Balance",
-		"COMMENT":"Saurian Rampager: -1 health"
+		"COMMENT":"Saurian Rampager: -1 Life"
 	},
 	{
 		"DATE":42522,
 		"VERSION":0.89,
 		"TAGS":"Balance",
-		"COMMENT":"Fetish Warrior: +1 health"
+		"COMMENT":"Fetish Warrior: +1 Life"
 	},
 	{
 		"DATE":42522,
 		"VERSION":0.89,
 		"TAGS":"Balance",
-		"COMMENT":"Omegon: -1 health, -1 time"
+		"COMMENT":"Omegon: -1 Life, -1 CD"
 	},
 	{
 		"DATE":42522,
 		"VERSION":0.89,
 		"TAGS":"Balance",
-		"COMMENT":"Flameskull: +1 health"
+		"COMMENT":"Flameskull: +1 Life"
 	},
 	{
 		"DATE":42522,
 		"VERSION":0.89,
 		"TAGS":"Balance",
-		"COMMENT":"Hellhound: +1 health"
+		"COMMENT":"Hellhound: +1 Life"
 	},
 	{
 		"DATE":42522,
 		"VERSION":0.89,
 		"TAGS":"Balance",
-		"COMMENT":"Hoplite: -1 health"
+		"COMMENT":"Hoplite: -1 Life"
 	},
 	{
 		"DATE":42522,
 		"VERSION":0.89,
 		"TAGS":"Balance",
-		"COMMENT":"Magic Shield no longer gives a +1 health bonus"
+		"COMMENT":"Magic Shield no longer gives a +1 Life bonus"
 	},
 	{
 		"DATE":42522,
@@ -1203,25 +1203,25 @@
 		"DATE":42524,
 		"VERSION":0.9,
 		"TAGS":"Balance",
-		"COMMENT":"Elven Chiurgeon: +2 health"
+		"COMMENT":"Elven Chiurgeon: +2 Life"
 	},
 	{
 		"DATE":42524,
 		"VERSION":0.9,
 		"TAGS":"Balance",
-		"COMMENT":"Hippeus: +1 health"
+		"COMMENT":"Hippeus: +1 Life"
 	},
 	{
 		"DATE":42524,
 		"VERSION":0.9,
 		"TAGS":"Balance",
-		"COMMENT":"Water Mage: +1 health"
+		"COMMENT":"Water Mage: +1 Life"
 	},
 	{
 		"DATE":42524,
 		"VERSION":0.9,
 		"TAGS":"Balance",
-		"COMMENT":"Nightmare: +1 health"
+		"COMMENT":"Nightmare: +1 Life"
 	},
 	{
 		"DATE":42524,
@@ -1335,7 +1335,7 @@
 		"DATE":42528,
 		"VERSION":0.93,
 		"TAGS":"Balance",
-		"COMMENT":"Gorm now gains HP faster when leveling."
+		"COMMENT":"Gorm now gains Life faster when leveling."
 	},
 	{
 		"DATE":42528,
@@ -1359,7 +1359,7 @@
 		"DATE":42528,
 		"VERSION":0.93,
 		"TAGS":"Balance",
-		"COMMENT":"Manavore -1HP (now 5)."
+		"COMMENT":"Manavore -1Life (now 5)."
 	},
 	{
 		"DATE":42528,
@@ -1407,13 +1407,13 @@
 		"DATE":42529,
 		"VERSION":0.95,
 		"TAGS":"Balance",
-		"COMMENT":"Malik now has +3 health"
+		"COMMENT":"Malik now has +3 Life"
 	},
 	{
 		"DATE":42529,
 		"VERSION":0.95,
 		"TAGS":"Balance",
-		"COMMENT":"Wren Moondancer now has +1 health"
+		"COMMENT":"Wren Moondancer now has +1 Life"
 	},
 	{
 		"DATE":42530,
@@ -1455,13 +1455,13 @@
 		"DATE":42530,
 		"VERSION":0.96,
 		"TAGS":"Balance",
-		"COMMENT":"Myrrhine restored to 4HP heals at Greater Heal (level 3)."
+		"COMMENT":"Myrrhine restored to 4Life heals at Greater Heal (level 3)."
 	},
 	{
 		"DATE":42530,
 		"VERSION":0.96,
 		"TAGS":"Balance",
-		"COMMENT":"All Inspire abilities now give +2 health to all units of that type."
+		"COMMENT":"All Inspire abilities now give +2 Life to all units of that type."
 	},
 	{
 		"DATE":42530,
@@ -1593,13 +1593,13 @@
 		"DATE":42533,
 		"VERSION":1.01,
 		"TAGS":"Balance",
-		"COMMENT":"Erinye: +1 health"
+		"COMMENT":"Erinye: +1 Life"
 	},
 	{
 		"DATE":42533,
 		"VERSION":1.01,
 		"TAGS":"Balance",
-		"COMMENT":"Elven Marksman: -1 time"
+		"COMMENT":"Elven Marksman: -1 CD"
 	},
 	{
 		"DATE":42533,
@@ -1647,7 +1647,7 @@
 		"DATE":42535,
 		"VERSION":1.04,
 		"TAGS":"",
-		"COMMENT":"Vanguard now will no longer target leftmost units with 0 health."
+		"COMMENT":"Vanguard now will no longer target leftmost units with 0 Life."
 	},
 	{
 		"DATE":42535,
@@ -1689,7 +1689,7 @@
 		"DATE":42535,
 		"VERSION":1.04,
 		"TAGS":"Balance",
-		"COMMENT":"Constructor Alara: +1 health"
+		"COMMENT":"Constructor Alara: +1 Life"
 	},
 	{
 		"DATE":42535,
@@ -1701,13 +1701,13 @@
 		"DATE":42535,
 		"VERSION":1.04,
 		"TAGS":"Balance",
-		"COMMENT":"Hippotoxtoe: -1 Time"
+		"COMMENT":"Hippotoxtoe: -1 CD"
 	},
 	{
 		"DATE":42535,
 		"VERSION":1.04,
 		"TAGS":"Balance",
-		"COMMENT":"Pouncer: +1 Health, +1 Time"
+		"COMMENT":"Pouncer: +1 Life, +1 CD"
 	},
 	{
 		"DATE":42535,
@@ -1773,7 +1773,7 @@
 		"DATE":42536,
 		"VERSION":1.06,
 		"TAGS":"Balance",
-		"COMMENT":"Malik now reduces timers by 2 at the top level of his skill instead of 1-3."
+		"COMMENT":"Malik now reduces CD by 2 at the top level of his skill instead of 1-3."
 	},
 	{
 		"DATE":42537,
@@ -1803,7 +1803,7 @@
 		"DATE":42537,
 		"VERSION":1.09,
 		"TAGS":"Balance",
-		"COMMENT":"Imp lord now has the ‘Imp Champion’ skill, which gives +1 attack and +1 health to all imps while in play."
+		"COMMENT":"Imp lord now has the ‘Imp Champion’ skill, which gives +1 attack and +1 Life to all imps while in play."
 	},
 	{
 		"DATE":42538,
@@ -2037,7 +2037,7 @@
 		"DATE":42540,
 		"VERSION":1.13,
 		"TAGS":"Balance",
-		"COMMENT":"Trebuchet: +1 Time (now 7)."
+		"COMMENT":"Trebuchet: +1 CD (now 7)."
 	},
 	{
 		"DATE":42540,
@@ -2199,7 +2199,7 @@
 		"DATE":42542,
 		"VERSION":1.16,
 		"TAGS":"Balance; Flavour?",
-		"COMMENT":"Drain effects can no longer drain more health than the target unit has remaining."
+		"COMMENT":"Drain effects can no longer drain more Life than the target unit has remaining."
 	},
 	{
 		"DATE":42542,
@@ -2457,7 +2457,7 @@
 		"DATE":42545,
 		"VERSION":1.2,
 		"TAGS":"Balance",
-		"COMMENT":"Elder Shorloth has health reduced from 10 to 8."
+		"COMMENT":"Elder Shorloth has Life reduced from 10 to 8."
 	},
 	{
 		"DATE":42545,
@@ -2523,7 +2523,7 @@
 		"DATE":42546,
 		"VERSION":1.21,
 		"TAGS":"Balance",
-		"COMMENT":"Elder Shorloth: +1 health."
+		"COMMENT":"Elder Shorloth: +1 Life."
 	},
 	{
 		"DATE":42546,
@@ -2595,25 +2595,25 @@
 		"DATE":42548,
 		"VERSION":1.23,
 		"TAGS":"Balance;Flavour",
-		"COMMENT":"Tracker is now weaker but faster and has gained pierce (2/3 T3, Pierce)"
+		"COMMENT":"Tracker: weaker(-Attack or -Life), -1CD and gained pierce (2/3 CD3, Pierce)"
 	},
 	{
 		"DATE":42548,
 		"VERSION":1.23,
 		"TAGS":"Balance;Flavour",
-		"COMMENT":"Hoplite is now a rare card and is faster by 1 turn (2/7 T6, block 1)"
+		"COMMENT":"Hoplite is now a rare card and -1 CD (2/7 CD6, block 1)"
 	},
 	{
 		"DATE":42548,
 		"VERSION":1.23,
 		"TAGS":"Balance;Flavour",
-		"COMMENT":"Odysseus now +1 health (2/7, T8, block 1 and champion)"
+		"COMMENT":"Odysseus now +1 Life (2/7, T8, block 1 and champion)"
 	},
 	{
 		"DATE":42548,
 		"VERSION":1.23,
 		"TAGS":"Balance;Flavour",
-		"COMMENT":"Saurian Rampager now considered ultra rare and has 1T less time (2/9 T8, Rage 2)"
+		"COMMENT":"Saurian Rampager now considered ultra rare and -1 CD (2/9 T8, Rage 2)"
 	},
 	{
 		"DATE":42549,
@@ -3147,13 +3147,13 @@
 		"DATE":42557,
 		"VERSION":1.38,
 		"TAGS":"Balance; Rework?",
-		"COMMENT":"Clom can now increase his health above his starting HP with the drain attack. Also, his drain damage has been slightly improved at all levels."
+		"COMMENT":"Clom can now increase his Life above his starting Life with the drain attack. Also, his drain damage has been slightly improved at all levels."
 	},
 	{
 		"DATE":42557,
 		"VERSION":1.38,
 		"TAGS":"Balance",
-		"COMMENT":"All heroes have gained +5 HP."
+		"COMMENT":"All heroes have gained +5 Life."
 	},
 	{
 		"DATE":42557,
@@ -3195,7 +3195,7 @@
 		"DATE":42559,
 		"VERSION":1.39,
 		"TAGS":"Balance",
-		"COMMENT":"All dragon set elementals are +1 time."
+		"COMMENT":"All dragon set elementals are +1 CD."
 	},
 	{
 		"DATE":42559,
@@ -3207,7 +3207,7 @@
 		"DATE":42559,
 		"VERSION":1.39,
 		"TAGS":"",
-		"COMMENT":"Kathoras the NPC hero can no longer drain life above his starting health."
+		"COMMENT":"Kathoras the NPC hero can no longer drain life above his starting Life."
 	},
 	{
 		"DATE":42559,
@@ -3243,7 +3243,7 @@
 		"DATE":42559,
 		"VERSION":1.39,
 		"TAGS":"",
-		"COMMENT":"Reverted a change yesterday allowing units to finish their attack even if at 0 or less health."
+		"COMMENT":"Reverted a change yesterday allowing units to finish their attack even if at 0 or less Life."
 	},
 	{
 		"DATE":42559,
@@ -3471,13 +3471,13 @@
 		"DATE":42564,
 		"VERSION":1.44,
 		"TAGS":"Balance",
-		"COMMENT":"Darter: +1 health."
+		"COMMENT":"Darter: +1 Life."
 	},
 	{
 		"DATE":42564,
 		"VERSION":1.44,
 		"TAGS":"Balance",
-		"COMMENT":"Shadow Mage: +1 health."
+		"COMMENT":"Shadow Mage: +1 Life."
 	},
 	{
 		"DATE":42568,
@@ -3507,7 +3507,7 @@
 		"DATE":42568,
 		"VERSION":1.46,
 		"TAGS":"Balance",
-		"COMMENT":"Darter +1 health (for real this time)"
+		"COMMENT":"Darter +1 Life (for real this time)"
 	},
 	{
 		"DATE":42568,
@@ -3537,7 +3537,7 @@
 		"DATE":42568,
 		"VERSION":1.46,
 		"TAGS":"Balance",
-		"COMMENT":"The Enrage Beast ability now gives +1 health and +1 attack (instead of just +1 attack) to beasts and cavalry."
+		"COMMENT":"The Enrage Beast ability now gives +1 Life and +1 attack (instead of just +1 attack) to beasts and cavalry."
 	},
 	{
 		"DATE":42568,
@@ -3951,7 +3951,7 @@
 		"DATE":42579,
 		"VERSION":1.57,
 		"TAGS":"Balance",
-		"COMMENT":"Wolf rider: -1 health."
+		"COMMENT":"Wolf rider: -1 Life."
 	},
 	{
 		"DATE":42579,
@@ -4173,13 +4173,13 @@
 		"DATE":42583,
 		"VERSION":1.61,
 		"TAGS":"Balance",
-		"COMMENT":"Gibberling Imp: +1 health"
+		"COMMENT":"Gibberling Imp: +1 Life"
 	},
 	{
 		"DATE":42583,
 		"VERSION":1.61,
 		"TAGS":"Balance",
-		"COMMENT":"Arachnos Mage: removed attack ability but added +1 health and the Trap ability."
+		"COMMENT":"Arachnos Mage: removed attack ability but added +1 Life and the Trap ability."
 	},
 	{
 		"DATE":42583,
@@ -4197,7 +4197,7 @@
 		"DATE":42583,
 		"VERSION":1.61,
 		"TAGS":"Balance",
-		"COMMENT":"Omegon Legendary: -1 time."
+		"COMMENT":"Omegon Legendary: -1 CD."
 	},
 	{
 		"DATE":42583,
@@ -4209,7 +4209,7 @@
 		"DATE":42583,
 		"VERSION":1.61,
 		"TAGS":"Balance",
-		"COMMENT":"Purple Dragon: +1 health"
+		"COMMENT":"Purple Dragon: +1 Life"
 	},
 	{
 		"DATE":42583,
@@ -4497,7 +4497,7 @@
 		"DATE":42589,
 		"VERSION":1.66,
 		"TAGS":"Balance",
-		"COMMENT":"Vyona: +2 HP and her heal ability has been replaced with ‘fixer’ which can both heal and repair units."
+		"COMMENT":"Vyona: +2 Life and her heal ability has been replaced with ‘fixer’ which can both heal and repair units."
 	},
 	{
 		"DATE":42589,
@@ -4539,7 +4539,7 @@
 		"DATE":42591,
 		"VERSION":1.67,
 		"TAGS":"Balance",
-		"COMMENT":"Kiri now buffs beasts and cavalry units +1 attack and +1-2 health at her top level skill."
+		"COMMENT":"Kiri now buffs beasts and cavalry units +1 attack and +1-2 Life at her top level skill."
 	},
 	{
 		"DATE":42591,
@@ -4671,7 +4671,7 @@
 		"DATE":42596,
 		"VERSION":1.7,
 		"TAGS":"Balance",
-		"COMMENT":"Morale bonus added: units now enter the battle with +1 health if they are the same faction as the hero."
+		"COMMENT":"Morale bonus added: units now enter the battle with +1 Life if they are the same faction as the hero."
 	},
 	{
 		"DATE":42596,
@@ -4689,7 +4689,7 @@
 		"DATE":42596,
 		"VERSION":1.7,
 		"TAGS":"",
-		"COMMENT":"Vyona’s health improved."
+		"COMMENT":"Vyona’s Life improved."
 	},
 	{
 		"DATE":42596,
@@ -4773,7 +4773,7 @@
 		"DATE":42600,
 		"VERSION":1.72,
 		"TAGS":"Balance",
-		"COMMENT":"All uncommon elementals (earth, fire, water, air, time) have -1 HP and -1 CD."
+		"COMMENT":"All uncommon elementals (earth, fire, water, air, time) have -1 Life and -1 CD."
 	},
 	{
 		"DATE":42600,
@@ -4797,7 +4797,7 @@
 		"DATE":42600,
 		"VERSION":1.72,
 		"TAGS":"Balance",
-		"COMMENT":"Counterspell: +2 time (now 6)"
+		"COMMENT":"Counterspell: +2 CD (now 6)"
 	},
 	{
 		"DATE":42600,
@@ -4833,7 +4833,7 @@
 		"DATE":42601,
 		"VERSION":1.73,
 		"TAGS":"Balance",
-		"COMMENT":"Wood Spirit: -1 HP, -1 CD."
+		"COMMENT":"Wood Spirit: -1 Life, -1 CD."
 	},
 	{
 		"DATE":42601,
@@ -4851,7 +4851,7 @@
 		"DATE":42601,
 		"VERSION":1.73,
 		"TAGS":"",
-		"COMMENT":"Fixed a bug with Devourer’s HP getting reset if it was healed."
+		"COMMENT":"Fixed a bug with Devourer’s Life getting reset if it was healed."
 	},
 	{
 		"DATE":42601,
@@ -4905,7 +4905,7 @@
 		"DATE":42604,
 		"VERSION":1.75,
 		"TAGS":"",
-		"COMMENT":"The slow ability now targets a random enemy instead of the enemy with the lowest time remaining."
+		"COMMENT":"The slow ability now targets a random enemy instead of the enemy with the lowest CD remaining."
 	},
 	{
 		"DATE":42604,
@@ -5403,7 +5403,7 @@
 		"DATE":42626,
 		"VERSION":1.88,
 		"TAGS":"Stats; Heroes; Balance",
-		"COMMENT":"Anasi has had her health and army size increased."
+		"COMMENT":"Anasi has had her Life and army size increased."
 	},
 	{
 		"DATE":42626,
@@ -5517,7 +5517,7 @@
 		"DATE":42631,
 		"VERSION":1.92,
 		"TAGS":"",
-		"COMMENT":"Gemini imp -1 HP"
+		"COMMENT":"Gemini imp -1 Life"
 	},
 	{
 		"DATE":42631,
@@ -5643,7 +5643,7 @@
 		"DATE":42638,
 		"VERSION":1.97,
 		"TAGS":"",
-		"COMMENT":"Imp lord now has ‘inspire imp’ ( +1 attack to all imps) instead of ‘imp champion’ ( +1 attack / +1 health)."
+		"COMMENT":"Imp lord now has ‘inspire imp’ ( +1 attack to all imps) instead of ‘imp champion’ ( +1 attack / +1 Life)."
 	},
 	{
 		"DATE":42638,
@@ -5763,7 +5763,7 @@
 		"DATE":42649,
 		"VERSION":2,
 		"TAGS":"",
-		"COMMENT":"High Elf scout -1 HP."
+		"COMMENT":"High Elf Scout: -1 Life."
 	},
 	{
 		"DATE":42649,
@@ -6123,7 +6123,7 @@
 		"DATE":42666,
 		"VERSION":2.08,
 		"TAGS":"",
-		"COMMENT":"Legendary Niven Stoutbow: -1 HP"
+		"COMMENT":"Legendary Niven Stoutbow: -1 Life"
 	},
 	{
 		"DATE":42666,
@@ -6159,7 +6159,7 @@
 		"DATE":42677,
 		"VERSION":2.1,
 		"TAGS":"",
-		"COMMENT":"Pike thrower: +1 HP and has gained Weaken."
+		"COMMENT":"Pike thrower: +1 Life and has gained Weaken."
 	},
 	{
 		"DATE":42677,
@@ -6219,7 +6219,7 @@
 		"DATE":42681,
 		"VERSION":2.11,
 		"TAGS":"",
-		"COMMENT":"Clom’s health reduced to 35 at level 20, but now drains enemies for an amount equal to 10percent of his current HP."
+		"COMMENT":"Clom’s Life reduced to 35 at level 20, but now drains enemies for an amount equal to 10percent of his current Life."
 	},
 	{
 		"DATE":42681,
@@ -6345,13 +6345,13 @@
 		"DATE":42701,
 		"VERSION":2.15,
 		"TAGS":"",
-		"COMMENT":"Hero level cap has been increased to level 30. While heroes will not gain new abilities after level 20, they will continue to gain health and army size."
+		"COMMENT":"Hero level cap has been increased to level 30. While heroes will not gain new abilities after level 20, they will continue to gain Life and army size."
 	},
 	{
 		"DATE":42701,
 		"VERSION":2.15,
 		"TAGS":"",
-		"COMMENT":"Balance adjustments have been made to the health and army size of all heroes."
+		"COMMENT":"Balance adjustments have been made to the Life and army size of all heroes."
 	},
 	{
 		"DATE":42701,
@@ -6381,7 +6381,7 @@
 		"DATE":42711,
 		"VERSION":2.16,
 		"TAGS":"",
-		"COMMENT":"Minor balance changes made to most heroes HP and Army stats."
+		"COMMENT":"Minor balance changes made to most heroes Life and Army stats."
 	},
 	{
 		"DATE":42711,
@@ -6513,7 +6513,7 @@
 		"DATE":42723,
 		"VERSION":2.28,
 		"TAGS":"",
-		"COMMENT":"Malik has had his hasten ability updated – it now removes a percentage of the time remaining on a card instead of a fixed amount. He should be much more powerful when utilizing slow cards."
+		"COMMENT":"Malik has had his hasten ability updated – it now removes a percentage of the CD remaining on a card instead of a fixed amount. He should be much more powerful when utilizing slow cards."
 	},
 	{
 		"DATE":42723,
@@ -6681,7 +6681,7 @@
 		"DATE":42737,
 		"VERSION":2.36,
 		"TAGS":"",
-		"COMMENT":"Clom and other heroes now have a health cap of 99 HP."
+		"COMMENT":"Clom and other heroes now have a Life cap of 99 Life."
 	},
 	{
 		"DATE":42737,
@@ -7299,7 +7299,7 @@
 		"DATE":42777,
 		"VERSION":2.57,
 		"TAGS":"",
-		"COMMENT":"Clone will no longer duplicate buffs and debuffs attached to the target card, but will instead make a new copy of the card but with the same health (capped to the maximum base health) as the target."
+		"COMMENT":"Clone will no longer duplicate buffs and debuffs attached to the target card, but will instead make a new copy of the card but with the same Life (capped to the maximum base Life) as the target."
 	},
 	{
 		"DATE":42777,
@@ -7689,7 +7689,7 @@
 		"DATE":42785,
 		"VERSION":2.65,
 		"TAGS":"Balance",
-		"COMMENT":"Malik will now target cards randomly in staging with his hasten ability rather than the card with the highest time remaining."
+		"COMMENT":"Malik will now target cards randomly in staging with his hasten ability rather than the card with the highest CD remaining."
 	},
 	{
 		"DATE":42785,
@@ -7743,19 +7743,19 @@
 		"DATE":42785,
 		"VERSION":2.65,
 		"TAGS":"Balance",
-		"COMMENT":"Quetzacoatl + Quetzacoatl Legendary: +1 CD. Legendary now has same health as Epic version (7)."
+		"COMMENT":"Quetzacoatl + Quetzacoatl Legendary: +1 CD. Legendary now has same Life as Epic version (7)."
 	},
 	{
 		"DATE":42785,
 		"VERSION":2.65,
 		"TAGS":"Balance",
-		"COMMENT":"Baskervore’s health reduced to 7."
+		"COMMENT":"Baskervore’s Life reduced to 7."
 	},
 	{
 		"DATE":42785,
 		"VERSION":2.65,
 		"TAGS":"Balance",
-		"COMMENT":"Great Gorgu’s health increased to 7, and legendary version increased to 9."
+		"COMMENT":"Great Gorgu’s Life increased to 7, and legendary version increased to 9."
 	},
 	{
 		"DATE":42785,
@@ -7779,25 +7779,25 @@
 		"DATE":42785,
 		"VERSION":2.65,
 		"TAGS":"Balance",
-		"COMMENT":"Cage Fighter: +1 health (now 5)."
+		"COMMENT":"Cage Fighter: +1 Life (now 5)."
 	},
 	{
 		"DATE":42785,
 		"VERSION":2.65,
 		"TAGS":"Balance",
-		"COMMENT":"Caustic Spider: +1 health (now 6)."
+		"COMMENT":"Caustic Spider: +1 Life (now 6)."
 	},
 	{
 		"DATE":42785,
 		"VERSION":2.65,
 		"TAGS":"Balance",
-		"COMMENT":"Feral Orc: +1 health (now 4)."
+		"COMMENT":"Feral Orc: +1 Life (now 4)."
 	},
 	{
 		"DATE":42785,
 		"VERSION":2.65,
 		"TAGS":"Balance",
-		"COMMENT":"High Elf Druid: +1 health (now 7)."
+		"COMMENT":"High Elf Druid: +1 Life (now 7)."
 	},
 	{
 		"DATE":42786,
@@ -7881,7 +7881,7 @@
 		"DATE":42786,
 		"VERSION":2.66,
 		"TAGS":"",
-		"COMMENT":"Stats on Armadillo Ward increased (Aegis extended to 7 turns and also gives +4 health to the hero)."
+		"COMMENT":"Stats on Armadillo Ward increased (Aegis extended to 7 turns and also gives +4 Life to the hero)."
 	},
 	{
 		"DATE":42788,
@@ -7977,7 +7977,7 @@
 		"DATE":42793,
 		"VERSION":2.7,
 		"TAGS":"",
-		"COMMENT":"The aggression ability no longer affects health, and only gives +1 attack when an enemy unit enters play. Marilith has had her CD reduced by 1 (now 4) to offset the ability nerf."
+		"COMMENT":"The aggression ability no longer affects Life, and only gives +1 attack when an enemy unit enters play. Marilith has had her CD reduced by 1 (now 4) to offset the ability nerf."
 	},
 	{
 		"DATE":42793,
@@ -7989,7 +7989,7 @@
 		"DATE":42793,
 		"VERSION":2.7,
 		"TAGS":"",
-		"COMMENT":"All passive equipment items that provide health or army bonuses have been buffed."
+		"COMMENT":"All passive equipment items that provide Life or army bonuses have been buffed."
 	},
 	{
 		"DATE":42793,
@@ -8097,13 +8097,13 @@
 		"DATE":42799,
 		"VERSION":2.72,
 		"TAGS":"",
-		"COMMENT":"Mammon and Mammon Legendary: +1 health."
+		"COMMENT":"Mammon and Mammon Legendary: +1 Life."
 	},
 	{
 		"DATE":42799,
 		"VERSION":2.72,
 		"TAGS":"",
-		"COMMENT":"Zenia, Werewolf Legendary: +1 health."
+		"COMMENT":"Zenia, Werewolf Legendary: +1 Life."
 	},
 	{
 		"DATE":42804,
@@ -8961,19 +8961,19 @@
 		"DATE":42942,
 		"VERSION":3,
 		"TAGS":"",
-		"COMMENT":"Pestilent Legendary: +1 Health"
+		"COMMENT":"Pestilent Legendary: +1 Life"
 	},
 	{
 		"DATE":42942,
 		"VERSION":3,
 		"TAGS":"",
-		"COMMENT":"Infernal Gate (E): -1 Time"
+		"COMMENT":"Infernal Gate (E): -1 CD"
 	},
 	{
 		"DATE":42942,
 		"VERSION":3,
 		"TAGS":"",
-		"COMMENT":"Infernal Gate (L): -1 Time and reduced sacrifice cost from 5 to 3 cards."
+		"COMMENT":"Infernal Gate (L): -1 CD and reduced sacrifice cost from 5 to 3 cards."
 	},
 	{
 		"DATE":42942,
@@ -9111,7 +9111,7 @@
 		"DATE":42955,
 		"VERSION":3.06,
 		"TAGS":"Balance",
-		"COMMENT":"Myrrhine has gained the regenerate ability and will gain 1 health each turn."
+		"COMMENT":"Myrrhine has gained the regenerate ability and will gain 1 Life each turn."
 	},
 	{
 		"DATE":42955,
@@ -9123,7 +9123,7 @@
 		"DATE":42955,
 		"VERSION":3.06,
 		"TAGS":"Balance",
-		"COMMENT":"Eliana has gained the snipe ability. Her attacks will always target the enemy with the lowest health."
+		"COMMENT":"Eliana has gained the snipe ability. Her attacks will always target the enemy with the lowest Life."
 	},
 	{
 		"DATE":42955,
@@ -9147,7 +9147,7 @@
 		"DATE":42955,
 		"VERSION":3.06,
 		"TAGS":"Balance",
-		"COMMENT":"Pavuk has gained a new ability: ‘Cull’, which will destroy any enemies with 1 health remaining."
+		"COMMENT":"Pavuk has gained a new ability: ‘Cull’, which will destroy any enemies with 1 Life remaining."
 	},
 	{
 		"DATE":42955,
@@ -9189,7 +9189,7 @@
 		"DATE":42955,
 		"VERSION":3.06,
 		"TAGS":"",
-		"COMMENT":"Cards with 0 health can no longer regenerate."
+		"COMMENT":"Cards with 0 Life can no longer regenerate."
 	},
 	{
 		"DATE":42956,
@@ -9297,7 +9297,7 @@
 		"DATE":42970,
 		"VERSION":3.15,
 		"TAGS":"Balance",
-		"COMMENT":"Malik has had his hasten ability updated – it now removes a percentage of the time remaining on a card instead of a fixed amount. He should be much more powerful when utilizing slow cards."
+		"COMMENT":"Bellatrix’ armor has been improved, and now reduces all damage by 2 if she has less than 50% life remaining."
 	},
 	{
 		"DATE":42970,
@@ -9333,7 +9333,7 @@
 		"DATE":42970,
 		"VERSION":3.15,
 		"TAGS":"Balance",
-		"COMMENT":"Dominion Wall (epic and legendary): -1 time."
+		"COMMENT":"Dominion Wall (epic and legendary): -1 CD."
 	},
 	{
 		"DATE":42970,
@@ -9393,7 +9393,7 @@
 		"DATE":42985,
 		"VERSION":3.16,
 		"TAGS":"",
-		"COMMENT":"Sklirosaur’s Rush ability now targets cards with the higest time in staging."
+		"COMMENT":"Sklirosaur’s Rush ability now targets cards with the higest CD in staging."
 	},
 	{
 		"DATE":42985,
@@ -9471,7 +9471,7 @@
 		"DATE":43004,
 		"VERSION":3.17,
 		"TAGS":"",
-		"COMMENT":"Aubren now deals 4 damage to units with a cost of 5 or less time."
+		"COMMENT":"Aubren now deals 4 damage to units with a CD of 5 or less."
 	},
 	{
 		"DATE":43004,
@@ -9531,7 +9531,7 @@
 		"DATE":43014,
 		"VERSION":3.18,
 		"TAGS":"",
-		"COMMENT":"Fixed bug causing Revitalize to not reclaim cards if the hero was at full health."
+		"COMMENT":"Fixed bug causing Revitalize to not reclaim cards if the hero was at full Life."
 	},
 	{
 		"DATE":43014,
@@ -9543,7 +9543,7 @@
 		"DATE":43014,
 		"VERSION":3.18,
 		"TAGS":"",
-		"COMMENT":"Fixed bug preventing Drain Strength (Eye Tyrant) from improving the unit’s health beyond its starting health."
+		"COMMENT":"Fixed bug preventing Drain Strength (Eye Tyrant) from improving the unit’s Life beyond its starting Life."
 	},
 	{
 		"DATE":43014,
@@ -9561,7 +9561,7 @@
 		"DATE":43014,
 		"VERSION":3.18,
 		"TAGS":"",
-		"COMMENT":"Dominion Wall (Legendary) Time reduced to 6."
+		"COMMENT":"Dominion Wall (L): -1 CD"
 	},
 	{
 		"DATE":43014,
@@ -9609,13 +9609,13 @@
 		"DATE":43033,
 		"VERSION":3.2,
 		"TAGS":"",
-		"COMMENT":"Freya’s health has been reduced."
+		"COMMENT":"Freya’s Life has been reduced."
 	},
 	{
 		"DATE":43033,
 		"VERSION":3.2,
 		"TAGS":"",
-		"COMMENT":"Agone’s health has been increased."
+		"COMMENT":"Agone’s Life has been increased."
 	},
 	{
 		"DATE":43033,
@@ -9717,13 +9717,13 @@
 		"DATE":43154,
 		"VERSION":3.24,
 		"TAGS":"",
-		"COMMENT":"Two new Epic equipment items have been added: Arcane Lock (enemy card in staging is Time Locked every third turn), and Moon Scythe (kills all enemy units with 1 health)."
+		"COMMENT":"Two new Epic equipment items have been added: Arcane Lock (enemy card in staging is Time Locked every third turn), and Moon Scythe (kills all enemy units with 1 Life)."
 	},
 	{
 		"DATE":43154,
 		"VERSION":3.24,
 		"TAGS":"",
-		"COMMENT":"One Legendary equipment item has been added: Moon Blade (kills all enemy units with 2 or less health)."
+		"COMMENT":"One Legendary equipment item has been added: Moon Blade (kills all enemy units with 2 or less Life)."
 	},
 	{
 		"DATE":43154,
@@ -9747,7 +9747,7 @@
 		"DATE":43154,
 		"VERSION":3.24,
 		"TAGS":"",
-		"COMMENT":"Fixed bug where targets affected by Cursed, Intimidated, or Terrified would gain attack after being afftected by Vigorate and then having the debuff removed."
+		"COMMENT":"Fixed bug where targets affected by Cursed, Intimidated, or Terrified would gain attack after being affected by Vigorate and then having the debuff removed."
 	},
 	{
 		"DATE":43154,
@@ -10809,7 +10809,7 @@
 		"DATE":43450,
 		"VERSION":3.36,
 		"TAGS":"",
-		"COMMENT":"Absolute Zero now gives -1 Attack to all units instead of +1 Attack."
+		"COMMENT":"Tusk of Grune will now work on units that have been given Drain by Vyrecall."
 	},
 	{
 		"DATE":43450,
@@ -10820,37 +10820,37 @@
 	{
 		"DATE":43450,
 		"VERSION":3.36,
-		"TAGS":"",
-		"COMMENT":"Tusk of Grune will now work on units that have been given Drain by Vyrecall."
+		"TAGS":"Balance",
+		"COMMENT":"Absolute Zero now gives -1 Attack to all units instead of +1 Attack."
 	},
 	{
 		"DATE":43450,
 		"VERSION":3.36,
-		"TAGS":"",
+		"TAGS":"Balance",
 		"COMMENT":"Arachne's attack is now Ranged."
 	},
 	{
 		"DATE":43450,
 		"VERSION":3.36,
-		"TAGS":"",
-		"COMMENT":"Hydra now has the Stone Form special."
+		"TAGS":"Balance",
+		"COMMENT":"Hydra: gained Stone Form."
 	},
 	{
 		"DATE":43450,
 		"VERSION":3.36,
-		"TAGS":"",
-		"COMMENT":"Hipparch Solon E and L now have the Slay Orc special."
+		"TAGS":"Balance",
+		"COMMENT":"Hipparch Solon (E and L): gained Slay Orc."
 	},
 	{
 		"DATE":43450,
 		"VERSION":3.36,
-		"TAGS":"",
-		"COMMENT":"Lord Fax E and L now have the Slay Horde special."
+		"TAGS":"Balance",
+		"COMMENT":"Lord Fax (E and L): gained Slay Horde."
 	},
 	{
 		"DATE":43450,
 		"VERSION":3.36,
-		"TAGS":"",
+		"TAGS":"Balance",
 		"COMMENT":"Blessed Empire Shield no longer grants Life but now has the Heavy Shield special."
 	},
 	{
@@ -11097,13 +11097,13 @@
 		"DATE":43605,
 		"VERSION":3.39,
 		"TAGS":"Balance",
-		"COMMENT":"Skoll (E + L): -1 Time"
+		"COMMENT":"Skoll (E + L): -1 CD"
 	},
 	{
 		"DATE":43605,
 		"VERSION":3.39,
 		"TAGS":"Balance",
-		"COMMENT":"Zenia (E + L): -1 Time"
+		"COMMENT":"Zenia (E + L): -1 CD"
 	},
 	{
 		"DATE":43605,
@@ -11127,7 +11127,7 @@
 		"DATE":43605,
 		"VERSION":3.39,
 		"TAGS":"Balance",
-		"COMMENT":"Nokosa (L): -1 Time"
+		"COMMENT":"Nokosa (L): -1 CD"
 	},
 	{
 		"DATE":43605,
@@ -11139,7 +11139,7 @@
 		"DATE":43605,
 		"VERSION":3.39,
 		"TAGS":"Balance",
-		"COMMENT":"Dragon Clutch: -2 Time"
+		"COMMENT":"Dragon Clutch: -2 CD"
 	},
 	{
 		"DATE":43605,
@@ -11169,7 +11169,7 @@
 		"DATE":43622,
 		"VERSION":3.4,
 		"TAGS":"Balance",
-		"COMMENT":"Skoll (E + L): +1 Time"
+		"COMMENT":"Skoll (E + L): +1 CD"
 	},
 	{
 		"DATE":43622,
@@ -11270,14 +11270,14 @@
 	{
 		"DATE":43623,
 		"VERSION":3.41,
-		"TAGS":"",
-		"COMMENT":"Fenris (E + L): -1 Time"
+		"TAGS":"Balance",
+		"COMMENT":"Fenris (E + L): -1 CD"
 	},
 	{
 		"DATE":43683,
 		"VERSION":3.41,
 		"TAGS":"",
-		"COMMENT":"First ten players to enter a tournament will now get their entry fee refunded"
+		"COMMENT":"First ten players to enter a tournament will now get their entry fee refunded."
 	},
 	{
 		"DATE":43696,
@@ -11342,25 +11342,25 @@
 	{
 		"DATE":43696,
 		"VERSION":3.42,
-		"TAGS":"",
+		"TAGS":"Balance",
 		"COMMENT":"Price Seval (L): added Sunder"
 	},
 	{
 		"DATE":43696,
 		"VERSION":3.42,
-		"TAGS":"",
+		"TAGS":"Balance",
 		"COMMENT":"Mago Breaker (E + L): removed Ingiter and added Sunder"
 	},
 	{
 		"DATE":43696,
 		"VERSION":3.42,
-		"TAGS":"",
+		"TAGS":"Balance",
 		"COMMENT":"Storm Shaman: added Sunder"
 	},
 	{
 		"DATE":43696,
 		"VERSION":3.42,
-		"TAGS":"",
+		"TAGS":"Balance",
 		"COMMENT":"Constructor Darik (E + L): added Sunder"
 	},
 	{
@@ -11403,7 +11403,7 @@
 		"DATE":43892,
 		"VERSION":3.45,
 		"TAGS":"",
-		"COMMENT":"Fixed a bug causing negative health or army adjustments to not appear in the hero display in the army configuration menu."
+		"COMMENT":"Fixed a bug causing negative Life or army adjustments to not appear in the hero display in the army configuration menu."
 	},
 	{
 		"DATE":43892,
@@ -11505,7 +11505,7 @@
 		"DATE":44074,
 		"VERSION":3.47,
 		"TAGS":"",
-		"COMMENT":"In game mail will only be retained for up to 365 days instead of indefinitely. messages older than this will be deleted"
+		"COMMENT":"In game mail will only be retained for up to 365 days instead of indefinitely. Messages older than this will be deleted"
 	},
 	{
 		"DATE":44098,
@@ -11545,19 +11545,19 @@
 	},
 	{
 		"DATE":44148,
-		"VERSION":"",
+		"VERSION":3.485,
 		"TAGS":"",
 		"COMMENT":"Arena season length will be changed from 7 days to 6 days, 19 hours. The end time for seasons will rotate across all 24 hours to better accommodate players in all time zones. This change in season length will first take effect with the arena season starting on 11/22."
 	},
 	{
 		"DATE":44149,
-		"VERSION":"",
+		"VERSION":3.485,
 		"TAGS":"",
 		"COMMENT":"The minimum crew size for battles has been increased from 2 to 5 (for both attacking and defending)."
 	},
 	{
 		"DATE":44150,
-		"VERSION":"",
+		"VERSION":3.485,
 		"TAGS":"",
 		"COMMENT":"Crews may not attack another crew within 3 days of their last attack on them (or until the crew season ends, whichever comes first). This is in addition to the existing restriction that crews may not attack the same crew twice in a row."
 	},
@@ -11620,4 +11620,238 @@
 		"VERSION":3.5,
 		"TAGS":"",
 		"COMMENT":"Previews of the forthcoming Soulbound cards are available. Card details aren't necessarily final, and are subject to change before the actual release of the cards."
+	},
+	{
+		"DATE":44337,
+		"VERSION":3.52,
+		"TAGS":"",
+		"COMMENT":"Soul Coins Added"
+	},
+	{
+		"DATE":44337,
+		"VERSION":3.52,
+		"TAGS":"",
+		"COMMENT":"Ward Kodesh Added"
+	},
+	{
+		"DATE":44365,
+		"VERSION":3.53,
+		"TAGS":"Bugfix",
+		"COMMENT":"Fixed sound volume setting not persisting"
+	},
+	{
+		"DATE":44365,
+		"VERSION":3.53,
+		"TAGS":"Balance",
+		"COMMENT":"Constructor Cetnic (E and L): +1 Attack"
+	},
+	{
+		"DATE":44365,
+		"VERSION":3.53,
+		"TAGS":"Bugfix",
+		"COMMENT":"Malice now properly increases Attack instead of Life"
+	},
+	{
+		"DATE":44365,
+		"VERSION":3.53,
+		"TAGS":"Bugfix",
+		"COMMENT":"Jezebel (E): lost Cull 2, gained Malice (this was a bug)"
+	},
+	{
+		"DATE":44365,
+		"VERSION":3.53,
+		"TAGS":"Bugfix",
+		"COMMENT":"Jezebel (L): lost Entrap (this was a bug)"
+	},
+	{
+		"DATE":44365,
+		"VERSION":3.53,
+		"TAGS":"Balance",
+		"COMMENT":"Xorgum: +1 CD and -1 Life"
+	},
+	{
+		"DATE":44376,
+		"VERSION":3.54,
+		"TAGS":"Bugfix",
+		"COMMENT":"Jezebel's attack now works"
+	},
+	{
+		"DATE":44376,
+		"VERSION":3.54,
+		"TAGS":"Bugfix",
+		"COMMENT":"Ephei, Fated's card combining now works"
+	},
+	{
+		"DATE":44376,
+		"VERSION":3.54,
+		"TAGS":"",
+		"COMMENT":"Xorgum: Gas Cloud has been \"adjusted\""
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Underminer: Gained Halt."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Machinist: Gained Halt."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Darkbow: Gained Halt."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Crusher of Shields (E and L): +1 Life (7 to 8 and 8 to 9). Add skill Resistance."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Walks with Sorrow (E and L): Gained Heal."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Zenia, Werewolf L    Reduce attack by 1, from 3 to 2."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Zenia, Werewolf (E and L): -1 Attack (3 to 2)"
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Salamander (L): Change Burn 3 to Burn 2."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Salamander (E): Change Burn 2 to Burn."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Corvina (E and L): Change Remedy to Remedy 2."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Strychnos L    Reduce life by 2, from 8 to 6."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Chort (E and L): +2 Life(8 to 10 and 9 to 11)."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Zink+1 Life (6 to 7)."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Operations Mek (L): -1 Life (9 to 8)."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Anakaga (E and L): -1 Life (7 to 6 and 8 to 7)."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Sklirosaur (E and L): -1 Attack (3 to 2)."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Dragon Clutch (L): -1 CD (8 to 7)."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Saa-Ras: Adjust Spellweaver 3: Instead of +2 Atk / +1 Life, change to +1 Atk / +2 Life to allies."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Saa-Ras: Adjust Hellfire: Extend the burning status to all units in play including friendlies."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"LesInk (L): -1 Life (5 to 4)."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Tarrasque (L): +1 Life (16 to 17)."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Tarrasque (E): +1 Attack (1 to 2)."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Mycophage (E): +2 Life (6 to 8)."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Mithril Ring of Haste: Add a -10 health penalty to the ring."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Rune of Hastening: Improve function to every turn from once every two turns."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Rune of Slowing: Improve function to 1-2 CD increase from 1 CD increase (do not change triggering speed)."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Null Bug (E and L): Change Venomous to Halt."
+	},
+	{
+		"DATE":44467,
+		"VERSION":3.55,
+		"TAGS":"Balance",
+		"COMMENT":"Eliana: Change Sunder to Sundering Storm."
 	}]

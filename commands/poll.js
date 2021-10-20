@@ -1,18 +1,5 @@
 const Discord = require('discord.js');
 
-//pre-prepare the mapping of names and aliases to canonical card names
-/*
-const aliases = require('../CardAlias.json');
-const aliasMap = new Discord.Collection();
-for (let aliasObject of aliases) {
-    const URLCardName = aliasObject.CARDNAME.toLowerCase().replace(/ +/g,'_');  
-    aliasMap.set(aliasObject.KEYWORD.replace(/ +/g,'').toLowerCase(), URLCardName);  
-    for (let alias of (aliasObject.ALIAS || "").replace(/ +/g,'').toLowerCase().split(';')) {    
-        aliasMap.set(alias, URLCardName);
-    }
-}
-*/
-
 module.exports = {  
     name: 'poll',
     aliases: ['vote'],

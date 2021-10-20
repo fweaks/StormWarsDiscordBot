@@ -5,14 +5,15 @@ module.exports = {
                    '\n' +
                    'Enjoy your stay, and please feel free to ask any questions!',
   
-  HelpMessage : 'Hello, thanks for using the Storm Wars Chatbot!\n' +
-                '• For cards use: `!card CARD NAME`\n' +
-                '• For equips use: `!equip EQUIP NAME`\n' +
-                '• For skills use: `!skill SKILL NAME`\n' +
-      //        '• For heroes use: !hero HERO NAME\n' +
-                '• To search the database use: `!search <PREFIX> TERM`\n' +
-                '• For help with search use: `!search help`\n' +
-                'Please feel free to ask an admin for known keywords.',
+  /*HelpMessage : 'Hello, thanks for using the Storm Wars Chatbot!\n' +
+                '• For a single card: `!card <CARD NAME>`\n' +
+                '• For equips: `!equip <EQUIP NAME>`\n' +
+                '• For skills: `!skill <SKILL NAME>`\n' +
+      //        '• For heroes: !hero HERO NAME\n' +
+                '• To search for cards: `!search <ATTRIBUTE> <SEARCH VALUE>`\n' +
+                '• To search the history of the game: `!history <ATTRIBUTE> <SEARCH VALUE>`\n' +
+                '• For help with anything: `!<COMMAND> help`\n' +
+                'Please feel free to ask an admin for known keywords.',*/
   
   CARD_ALIAS_PATH : 'CardAlias.json',
   EQUIP_ALIAS_PATH : 'EquipAlias.json',

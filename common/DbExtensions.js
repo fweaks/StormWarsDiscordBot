@@ -4,21 +4,25 @@ const fetch = require("node-fetch");
 const db = new Database();
 
 module.exports = {   
-   SetLargeObject: function(key, value){
-       return Promise.resolve(console.log("SetLargeObject"))
-       .then(() => JSON.stringify(value))
-       .then(dataString => this.SetLargeString(key, dataString))
-       .catch(error => Promise.reject(`Failed to SetLargeObject for key "${key}": ${error}`))
+   SetLargeObject: async function(key, value, debug = false){
+        if(debug) { console.log("SetLargeObject"); }
+
+        try {
+            let dataString = JSON.stringify(value);
+            return await this.SetLargeString(key, dataString);
+        } catch (error) {
+            throw `Failed to SetLargeObject for key "${key}": ${error}`;
+        }
     },
 
-    SetLargeString: function(key, value){
+    SetLargeString: async function(key, value, debug = false){
         let keyString = String(key);
-        return Promise.resolve(console.log("SetLargeString"))
-        .then(() => {
-            if(key === undefined){ return Promise.reject(`key is undefined`); }
-            if(value === undefined){ return Promise.reject(`value is undefined`); }
-            //I wish this could be 1000 (the limit per entry)
-            //but it gets JSON stringified again, which adds extra characters
+        if(debug) { console.log("SetLargeString"); }
+
+        try {
+            if(key === undefined){ throw `key is undefined`; }
+            if(value === undefined){ throw `value is undefined`; }
+
             let segments = ChunkString(value, 1000);
             console.log(`${segments.length} segments needed for ${keyString}.`)
 
@@ -27,30 +31,34 @@ module.exports = {
                 promises[i] = set(keyString + i, segments[i]);         
             }
 
-            return set(keyString, segments.length)            
-            .then(() => Promise.all(promises))
-        })
-        .catch(error => Promise.reject(`Failed to SetLargeString for key "${keyString}": ${error}`));            
+            await set(keyString, segments.length);
+            return Promise.all(promises);
+        } catch (error) {
+            throw `Failed to SetLargeString for key "${keyString}": ${error}`;
+        }          
     },
 
-    GetLargeObject: function(key){
-        return Promise.resolve(console.log("GetLargeObject"))
-        .then(() => this.GetLargeString(key))
-        .then((dataString) => {
-            try{ 
-                return JSON.parse(dataString) 
-            } catch { 
-                throw `Failed to parse value of ${key}, try GetLargeString() to get the raw value: ${error}`
-            }
-        })
-        .catch( error => Promise.reject(`Failed to GetLargeObject for key "${keyString}": ${error}`));
+    GetLargeObject: async function(key, debug = false){
+        if(debug) { console.log("GetLargeObject"); }
+
+        try{
+            var dataString = await this.GetLargeString(key);
+        } catch (error){
+            throw `Failed to GetLargeObject for key "${key}": ${error}`
+        }
+        try{ 
+            return JSON.parse(dataString)
+        } catch (error) { 
+            throw `Failed to GetLargeObject for key "${key}": Failed to parse value, try GetLargeString() to get the raw value: ${error}`
+        }
     },
 
-    GetLargeString: function(key){
-        let keyString = String(key);
-        return Promise.resolve(console.log("GetLargeString"))
-        .then(() => db.get(keyString))
-        .then((numSegments) => {
+    GetLargeString: async function(key, debug = false){
+        var keyString = String(key);
+        if(debug) { console.log("GetLargeString"); }
+
+        try {
+            numSegments = await db.get(keyString);
             console.log(`Loading "${keyString}" which is in ${numSegments} segments`) 
 
             let rawSegments = [];
@@ -62,10 +70,11 @@ module.exports = {
                     .then((value) => { rawSegments[i] = value; segments[i] = value; })
             }
 
-            return Promise.all(promises)
-            .then(() => segments.join(""));
-        })
-        .catch(error => Promise.reject(`Failed to GetLargeString for key ${keyString}: ${error}`));
+            await Promise.all(promises);
+            return segments.join("");
+        } catch (error) {
+            throw `Failed to GetLargeString for key ${keyString}: ${error}`;
+        }
     }
 }
    

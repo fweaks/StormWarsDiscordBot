@@ -33,32 +33,32 @@ module.exports = {
         else if(['cards', 'card'].includes(args[0])) {
             promise = Promise.resolve(console.log("promise start"))
             .then(() => UpdateJSONData('Cards!A1:C', CARD_ALIAS_PATH, 'cards', message))
-            .then(() => ReparseCards())
+            .then(() => ReparseCards(true))
         }
         else if(['equips', 'equip'].includes(args[0])) {
             promise = Promise.resolve(console.log("promise start"))
             .then(() => UpdateJSONData('equips!A1:C', EQUIP_ALIAS_PATH, 'equips', message))
-            .then(() => ReparseEquips());
+            .then(() => ReparseEquips(true));
         }
         else if(['skills', 'skill'].includes(args[0])) {
             promise = Promise.resolve(console.log("promise start"))
             .then(() => UpdateJSONData('skills!A1:C', SKILL_ALIAS_PATH, 'skills', message))
-            .then(() => ReparseSkills());
+            .then(() => ReparseSkills(true));
         }
         else if(args[0] === 'search') {
             promise = Promise.resolve(console.log("promise start"))
             .then(() => UpdateJSONData('traits!A1:J', CARD_SEARCH_PATH, 'search', message))
-            .then(() => ReparseSearch());
+            .then(() => ReparseSearch(true));
         }
         else if(args[0] === 'history') {
             promise = Promise.resolve(console.log("promise start"))
             .then(() => UpdateJSONData('history!A1:D', HISTORY_PATH, 'history', message))
-            .then(() => ReparseHistory());
+            .then(() => ReparseHistory(true));
         }
         else if(args[0] === 'test') {
             promise = Promise.resolve(console.log("promise start"))
             .then(() => UpdateJSONData('test!A1:D', 'test.json', 'test', message))
-            .then(() => ReparseHistory());
+            .then(() => ReparseHistory(true));
         } else {
             message.reply(`I didn't recognise the update type: "${args[0]}"`);
             message.reply(`Valid usage is: \`!update <${this.usage}>\``);
@@ -233,7 +233,7 @@ function PullSpreadsheetDataAsObject(range){
 
 function SaveJSONData(path, data){
     return Promise.resolve(console.log("SaveJSONData"))
-    .then(() => DbEx.SetLargeObject(path, data))
+    .then(() => DbEx.SetLargeObject(path, data, true))
     .then(() => WriteJSONWithBackups(path, data))
 }
 

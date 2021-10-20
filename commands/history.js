@@ -46,13 +46,13 @@ module.exports = {
                                 `\t• Accepted comparisons are: \`${relativeOperatorTypes.join(', ')}\`.\n` + 
                                 '\n' +
                                 'Examples:\n' + 
-                                '•`!search 2` will search for "2" anywhere in the entry.\n' + 
-                                '•`!search version 2` will find entries from version 2.00.\n' + 
-                                '•`!search version>2` will find entries from after version 2.00\n' + 
-                                '•`!search tag balance; date>=2020-01-01` will search for all entries pertaining to balance since the start of 2020.\n' + 
+                                '•`!history 2` will search for "2" anywhere in the entry.\n' + 
+                                '•`!history version 2` will find entries from version 2.00.\n' + 
+                                '•`!history version>2` will find entries from after version 2.00\n' + 
+                                '•`!history tag balance; date>=2020-01-01` will search for all entries pertaining to balance since the start of 2020.\n' + 
                                 '\n' + 
                                 'Results are automatically limited to the first 30 results, but this can be overriden with the `show` or `limit` prefixes.\n' + 
-                                'E.g. `!search version>2;show all` will find and show all entries after 2.00 instead of just showing the first 30.\n' +
+                                'E.g. `!history version>2;show all` will find and show all entries after 2.00 instead of just showing the first 30.\n' +
                                 '\n'+
                                 'NOTE: the `tag` attribute is still in ***alpha*** as not all entries have been fully classfied yet'
                     );
@@ -172,9 +172,9 @@ module.exports = {
     ReparseHistory : reparse
 }
 
-function reparse(){
+function reparse(debug = false){
     return Promise.resolve(console.log("reparse history"))
-    .then(() => DbEx.GetLargeObject(HISTORY_PATH))
+    .then(() => DbEx.GetLargeObject(HISTORY_PATH, debug))
     .then((historyData) => {
         console.log("rebuilding history");
 

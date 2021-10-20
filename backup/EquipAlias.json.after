@@ -16,7 +16,7 @@
 	},
 	{
 		"EQUIPNAME":"Aether Orb",
-		"ALIAS":"Aether; Hero Magic Shield"
+		"ALIAS":"Aether;Hero Magic Shield"
 	},
 	{
 		"EQUIPNAME":"Anniversary Gift",
@@ -85,7 +85,7 @@
 	},
 	{
 		"EQUIPNAME":"Black Orb",
-		"ALIAS":"Orb;",
+		"ALIAS":"",
 		"SEARCH":"Start;First Turn;Draw Counterspells"
 	},
 	{
@@ -318,6 +318,11 @@
 		"EQUIPNAME":"Gavial Ward",
 		"ALIAS":"Gavial;G Ward;Poison Aura",
 		"SEARCH":"Attacked;Poisoned"
+	},
+	{
+		"EQUIPNAME":"Ghostform Periapt",
+		"ALIAS":"Ghost Periapt;Fade Periapt;Fade Amulet;Ghost Amulet",
+		"SEARCH":"Fade;ETB"
 	},
 	{
 		"EQUIPNAME":"Gladiator's Spear",
@@ -690,7 +695,7 @@
 	},
 	{
 		"EQUIPNAME":"Ring of the Furrows",
-		"ALIAS":"Furrows;Mycosian Ring",
+		"ALIAS":"Furrows;Mycosian Ring;RoF",
 		"SEARCH":"Mycosians;Recover;ETB"
 	},
 	{
@@ -700,7 +705,7 @@
 	},
 	{
 		"EQUIPNAME":"Ring of Visions",
-		"ALIAS":"Visions",
+		"ALIAS":"Visions;RoV",
 		"SEARCH":"Draw Cards;Third Turn"
 	},
 	{
@@ -984,6 +989,6 @@
 	},
 	{
 		"EQUIPNAME":"Zamzam Gourd",
-		"ALIAS":"Zamzam;Gourd",
+		"ALIAS":"Zamzam;Gourd;Zam",
 		"SEARCH":"Remedy;Heal"
 	}]

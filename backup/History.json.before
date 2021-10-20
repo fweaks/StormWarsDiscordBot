@@ -86,14 +86,14 @@
 	{
 		"DATE":42485,
 		"VERSION":0.5,
-		"TAGS":"Bugix",
+		"TAGS":"Bugfix",
 		"COMMENT":"Fix for gems earned leaderboard stat being reset."
 	},
 	{
 		"DATE":42485,
 		"VERSION":0.5,
 		"TAGS":"Gameplay; Balance",
-		"COMMENT":"Hero Anasi now does increased damage with her poison attack."
+		"COMMENT":"Hero Anasi now does increased damage with his poison attack."
 	},
 	{
 		"DATE":42485,
@@ -9806,8 +9806,344 @@
 	{
 		"DATE":43175,
 		"VERSION":3.25,
-		"TAGS":"",
-		"COMMENT":"Balance changes have been made for many units, see in-game patch notes for details."
+		"TAGS":"Balance",
+		"COMMENT":"Arsenic (E and L): +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Astaroth (E and L): +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Black Dragon: +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Blue Dragon: +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Brood Mother (E and L): +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Chort (E and L): +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Cimmerian (E and L): +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Clockwork Mek (E): +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Clockwork Mek (L): +3 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Constructor Darik (E and L): +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Constructor Liaric (E): gained Boost Machine"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Constructor Liaric (L): +1 Life and gained Boost Machine"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Daos (E and L): +3 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Darius (E and L): +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Dominion Wall (E and L): gained Guard Ally"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Dragon Hunter: +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Dragon Mek (E): +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Dragon Mek (L): +3 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Elder Cinder: +3 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Elder Erisdar: +3 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Elder Kindralt: +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Elder Samurai: +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Elder Shorloth: +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Elder Wurmryn: +3 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Elren, Summoner (E and L): +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Fallen Celestial: +3 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Green Dragon: +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Griever: +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Kathoras (E and L): +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Kongon Betar: gained Cull"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Krag Worm: +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Mage Lord: +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Mammon (E and L): +3 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Mele Rainmaker (E): +1 Life and gained Fireproof"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Mele Rainmaker (L): +2 Life and gained Fireproof"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Nokosa (E and L): +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Odan, Heirophant: +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Odysseus (E and L): +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Olifant: +3 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Omegon (E and L): gained Cull"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Perseus (E and L): +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Princess Khima (E and L): +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Purple Dragon: +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Rampagin Saurian (E): +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Rampagin Saurian (L): +3 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Raycatcher: +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Red Dragon: +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Salahudin (E and L): +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Salamander(E and L): -1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Stone Deacon: +2 Attack, +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Syran Gemcaster (E and L): +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Temple Monk: +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Walks with Sorrow (E and L): +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Warden Mek (E and L): +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Wolf Lord: +2 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Wren Moondancer (E and L): +1 Life"
+	},
+	{
+		"DATE":43175,
+		"VERSION":3.25,
+		"TAGS":"Balance",
+		"COMMENT":"Zink: +1 Attack, +1 Life"
 	},
 	{
 		"DATE":43208,
@@ -10347,7 +10683,7 @@
 		"DATE":43450,
 		"VERSION":3.36,
 		"TAGS":"",
-		"COMMENT":"Tourney prize packs will no longer contain basic cards."
+		"COMMENT":"Tourney prize packs will no longer contain core set cards."
 	},
 	{
 		"DATE":43450,
@@ -10365,6 +10701,12 @@
 		"DATE":43450,
 		"VERSION":3.36,
 		"TAGS":"",
+		"COMMENT":"All crew cards are now visible in the collection."
+	},
+	{
+		"DATE":43450,
+		"VERSION":3.36,
+		"TAGS":"",
 		"COMMENT":"Fixed a bug causing Weyland’s Shatter ability not to activate if a battle was retried in the endless dungeon."
 	},
 	{
@@ -10372,12 +10714,6 @@
 		"VERSION":3.36,
 		"TAGS":"",
 		"COMMENT":"Fixed a bug causing Belcher imp to always deal 5 damage with Afterburner."
-	},
-	{
-		"DATE":43450,
-		"VERSION":3.36,
-		"TAGS":"",
-		"COMMENT":"All crew cards are now visible in the collection."
 	},
 	{
 		"DATE":43450,
@@ -10401,19 +10737,7 @@
 		"DATE":43450,
 		"VERSION":3.36,
 		"TAGS":"",
-		"COMMENT":"Fixed a bug where a card would be permanently timelocked by Arcane Lock if the equipment was destroyed."
-	},
-	{
-		"DATE":43450,
-		"VERSION":3.36,
-		"TAGS":"",
-		"COMMENT":"Afterburner is no longer Corrodable."
-	},
-	{
-		"DATE":43450,
-		"VERSION":3.36,
-		"TAGS":"",
-		"COMMENT":"Counterspell will no longer trigger spell cast effects, and also stops the cancelled spell from triggering spell cast effects."
+		"COMMENT":"Fixed a bug where a card would be permanently timelocked if the source was destroyed or killed"
 	},
 	{
 		"DATE":43450,
@@ -10431,7 +10755,199 @@
 		"DATE":43450,
 		"VERSION":3.36,
 		"TAGS":"",
-		"COMMENT":"See in-game patch notes for more details!"
+		"COMMENT":"Fixed a bug preventing Glasha's Resistance from resetting properly at the start of some turns."
+	},
+	{
+		"DATE":43450,
+		"VERSION":3.36,
+		"TAGS":"",
+		"COMMENT":"Fixed a bug preventing certain cards from being text-searchable in the Army card filters."
+	},
+	{
+		"DATE":43450,
+		"VERSION":3.36,
+		"TAGS":"",
+		"COMMENT":"Fixed a bug that was allowing Red Island Rum to paralyze machines."
+	},
+	{
+		"DATE":43450,
+		"VERSION":3.36,
+		"TAGS":"",
+		"COMMENT":"Overdrive will now be properly removed at the end of the turn from stunned units."
+	},
+	{
+		"DATE":43450,
+		"VERSION":3.36,
+		"TAGS":"",
+		"COMMENT":"Afterburner is no longer Corrodable."
+	},
+	{
+		"DATE":43450,
+		"VERSION":3.36,
+		"TAGS":"",
+		"COMMENT":"Counterspell will no longer trigger spell cast effects, and also stops the cancelled spell from triggering spell cast effects."
+	},
+	{
+		"DATE":43450,
+		"VERSION":3.36,
+		"TAGS":"",
+		"COMMENT":"Units with Weaken will now be able to weaken units they damage with Entrap."
+	},
+	{
+		"DATE":43450,
+		"VERSION":3.36,
+		"TAGS":"",
+		"COMMENT":"Corpses with Magnet will no longer attract attacks from Vanguard."
+	},
+	{
+		"DATE":43450,
+		"VERSION":3.36,
+		"TAGS":"",
+		"COMMENT":"Afterburner will no longer trigger on corpses."
+	},
+	{
+		"DATE":43450,
+		"VERSION":3.36,
+		"TAGS":"",
+		"COMMENT":"Absolute Zero now gives -1 Attack to all units instead of +1 Attack."
+	},
+	{
+		"DATE":43450,
+		"VERSION":3.36,
+		"TAGS":"",
+		"COMMENT":"Bloodlust will now only trigger if the targeted unit has less Life than its starting Life, instead of its current maximum."
+	},
+	{
+		"DATE":43450,
+		"VERSION":3.36,
+		"TAGS":"",
+		"COMMENT":"Tusk of Grune will now work on units that have been given Drain by Vyrecall."
+	},
+	{
+		"DATE":43450,
+		"VERSION":3.36,
+		"TAGS":"",
+		"COMMENT":"Arachne's attack is now Ranged."
+	},
+	{
+		"DATE":43450,
+		"VERSION":3.36,
+		"TAGS":"",
+		"COMMENT":"Hydra now has the Stone Form special."
+	},
+	{
+		"DATE":43450,
+		"VERSION":3.36,
+		"TAGS":"",
+		"COMMENT":"Hipparch Solon E and L now have the Slay Orc special."
+	},
+	{
+		"DATE":43450,
+		"VERSION":3.36,
+		"TAGS":"",
+		"COMMENT":"Lord Fax E and L now have the Slay Horde special."
+	},
+	{
+		"DATE":43450,
+		"VERSION":3.36,
+		"TAGS":"",
+		"COMMENT":"Blessed Empire Shield no longer grants Life but now has the Heavy Shield special."
+	},
+	{
+		"DATE":43451,
+		"VERSION":3.36,
+		"TAGS":"Balance",
+		"COMMENT":"Fenris (E): +1 CD (to 6)."
+	},
+	{
+		"DATE":43450,
+		"VERSION":3.36,
+		"TAGS":"Balance",
+		"COMMENT":"Strychnos (E): -1 Attack (to 3)."
+	},
+	{
+		"DATE":43449,
+		"VERSION":3.36,
+		"TAGS":"Balance",
+		"COMMENT":"Strychnos (L): +1 Attack (to 4)."
+	},
+	{
+		"DATE":43448,
+		"VERSION":3.36,
+		"TAGS":"Balance",
+		"COMMENT":"Salahudin (E and L): -1 CD (to 6 and 5)."
+	},
+	{
+		"DATE":43447,
+		"VERSION":3.36,
+		"TAGS":"Balance",
+		"COMMENT":"Corvina (E and L): +1 Life (to 8 and 9)."
+	},
+	{
+		"DATE":43446,
+		"VERSION":3.36,
+		"TAGS":"Balance",
+		"COMMENT":"Zenia, Werewolf (E and L): +1 Attack (to 3)."
+	},
+	{
+		"DATE":43445,
+		"VERSION":3.36,
+		"TAGS":"Balance",
+		"COMMENT":"Cicatrice (E and L): +1 Life (to 8)."
+	},
+	{
+		"DATE":43444,
+		"VERSION":3.36,
+		"TAGS":"Balance",
+		"COMMENT":"Ctarath (E and L): +1 Life (to 9)."
+	},
+	{
+		"DATE":43443,
+		"VERSION":3.36,
+		"TAGS":"Balance",
+		"COMMENT":"Daos (E and L): +1 Life (to 12)."
+	},
+	{
+		"DATE":43442,
+		"VERSION":3.36,
+		"TAGS":"Balance",
+		"COMMENT":"Apep (E):  Chaos upgraded to Chaos 2."
+	},
+	{
+		"DATE":43441,
+		"VERSION":3.36,
+		"TAGS":"Balance",
+		"COMMENT":"Apep (L): Chaos 2 upgraded to Chaos 3."
+	},
+	{
+		"DATE":43440,
+		"VERSION":3.36,
+		"TAGS":"Balance",
+		"COMMENT":"Damage was increased incrementally for the following hero equipments: Cobra Fangs, Gladiator's Spear, Iron Mace, Hunter's Bow, Karkinos Claw, Seeking Axe, Staff of Fire, Sticky Web, Bolt Axe, Crushing Stone, Eye Tyrant Staff, Horn of Oceans, Prism Stone, Rusalka Pearls, Sniper's Bow, Toxin Jar, Ashkar's Club, Cursed Skull, Firebrand, Lecherous Staff, Magebane Staff, Raio Blaster, Vortex Mask"
+	},
+	{
+		"DATE":43439,
+		"VERSION":3.36,
+		"TAGS":"Balance",
+		"COMMENT":"Iris Ruse now adds 4 copies of Flashdraft to the opponent's deck."
+	},
+	{
+		"DATE":43438,
+		"VERSION":3.36,
+		"TAGS":"Balance",
+		"COMMENT":"Lotus Ruse now adds 7 copies of Flashdraft to the opponent's deck."
+	},
+	{
+		"DATE":43437,
+		"VERSION":3.36,
+		"TAGS":"Balance",
+		"COMMENT":"Boar Ward now works for 7 turns."
+	},
+	{
+		"DATE":43436,
+		"VERSION":3.36,
+		"TAGS":"Balance",
+		"COMMENT":"Armadillo Ward now works for 10 turns."
 	},
 	{
 		"DATE":43605,
@@ -10646,13 +11162,13 @@
 	{
 		"DATE":43622,
 		"VERSION":3.4,
-		"TAGS":"",
+		"TAGS":"Balance",
 		"COMMENT":"Fenris’s Rush ability has been replaced with Growl, which is the same except that it cannot target other units with Growl."
 	},
 	{
 		"DATE":43622,
 		"VERSION":3.4,
-		"TAGS":"",
+		"TAGS":"Balance",
 		"COMMENT":"Skoll (E + L): +1 Time"
 	},
 	{
@@ -10734,6 +11250,12 @@
 		"COMMENT":"A clarificationfor v 3.39 patch notes: in 3.39 we improved the reroll rate for Epic equipments. This happens behind the scenes, giving players higher odds of finding new equipment when opening boxes. The rerollsare not manual or otherwise visible to players."
 	},
 	{
+		"DATE":43627,
+		"VERSION":3.4,
+		"TAGS":"",
+		"COMMENT":"Due to the nerf to Fenris, and how overwhelmingly it has been bought into recently, All Fenris cards have been automatically refunded for their full gem investment AND replaced with podromoi cards."
+	},
+	{
 		"DATE":43623,
 		"VERSION":3.41,
 		"TAGS":"",
@@ -10750,6 +11272,12 @@
 		"VERSION":3.41,
 		"TAGS":"",
 		"COMMENT":"Fenris (E + L): -1 Time"
+	},
+	{
+		"DATE":43683,
+		"VERSION":3.41,
+		"TAGS":"",
+		"COMMENT":"First ten players to enter a tournament will now get their entry fee refunded"
 	},
 	{
 		"DATE":43696,
@@ -10960,4 +11488,136 @@
 		"VERSION":3.45,
 		"TAGS":"Balance",
 		"COMMENT":"Ring of Visions now gives 2 cards on turn 3 instead of turn 1."
+	},
+	{
+		"DATE":44008,
+		"VERSION":3.46,
+		"TAGS":"",
+		"COMMENT":"Monumental officially acquires Storm Wars"
+	},
+	{
+		"DATE":44074,
+		"VERSION":3.47,
+		"TAGS":"",
+		"COMMENT":"www.stormwarsgame.com retired/shut down"
+	},
+	{
+		"DATE":44074,
+		"VERSION":3.47,
+		"TAGS":"",
+		"COMMENT":"In game mail will only be retained for up to 365 days instead of indefinitely. messages older than this will be deleted"
+	},
+	{
+		"DATE":44098,
+		"VERSION":3.48,
+		"TAGS":"",
+		"COMMENT":"The Blight hero special is no longer ranged."
+	},
+	{
+		"DATE":44099,
+		"VERSION":3.48,
+		"TAGS":"",
+		"COMMENT":"Aegis and Stoneform are now circumvented by Sunder."
+	},
+	{
+		"DATE":44100,
+		"VERSION":3.48,
+		"TAGS":"",
+		"COMMENT":"Specials that apply a buff special will now ignore cards that already have the buff applied when choosing a target."
+	},
+	{
+		"DATE":44101,
+		"VERSION":3.48,
+		"TAGS":"",
+		"COMMENT":"Charge has been fixed to actually double damage rather than trigger a second attack."
+	},
+	{
+		"DATE":44102,
+		"VERSION":3.48,
+		"TAGS":"",
+		"COMMENT":"Shield Breaker and Dulluk’s Demolish now remove Tower Shield."
+	},
+	{
+		"DATE":44103,
+		"VERSION":3.48,
+		"TAGS":"",
+		"COMMENT":"Specials which react to card death are now triggered consistently. For example, Wolfpack bonuses are now properly removed when a wolf card leaves play."
+	},
+	{
+		"DATE":44148,
+		"VERSION":"",
+		"TAGS":"",
+		"COMMENT":"Arena season length will be changed from 7 days to 6 days, 19 hours. The end time for seasons will rotate across all 24 hours to better accommodate players in all time zones. This change in season length will first take effect with the arena season starting on 11/22."
+	},
+	{
+		"DATE":44149,
+		"VERSION":"",
+		"TAGS":"",
+		"COMMENT":"The minimum crew size for battles has been increased from 2 to 5 (for both attacking and defending)."
+	},
+	{
+		"DATE":44150,
+		"VERSION":"",
+		"TAGS":"",
+		"COMMENT":"Crews may not attack another crew within 3 days of their last attack on them (or until the crew season ends, whichever comes first). This is in addition to the existing restriction that crews may not attack the same crew twice in a row."
+	},
+	{
+		"DATE":44217,
+		"VERSION":3.49,
+		"TAGS":"",
+		"COMMENT":"Improved Tutorial!"
+	},
+	{
+		"DATE":44217,
+		"VERSION":3.49,
+		"TAGS":"",
+		"COMMENT":"Battle engine improvements:"
+	},
+	{
+		"DATE":44217,
+		"VERSION":3.49,
+		"TAGS":"",
+		"COMMENT":"QuickBolter now works as described in the game"
+	},
+	{
+		"DATE":44217,
+		"VERSION":3.49,
+		"TAGS":"",
+		"COMMENT":"Fixed checks for Puncture/Pierce on Hero Block"
+	},
+	{
+		"DATE":44217,
+		"VERSION":3.49,
+		"TAGS":"",
+		"COMMENT":"Fixed Luminaire's handling of cards leaving play"
+	},
+	{
+		"DATE":44217,
+		"VERSION":3.49,
+		"TAGS":"",
+		"COMMENT":"Sunder on Heroes now works against Stoneform"
+	},
+	{
+		"DATE":44217,
+		"VERSION":3.49,
+		"TAGS":"",
+		"COMMENT":"Fixed Blight special (non-ranged)"
+	},
+	{
+		"DATE":44223,
+		"VERSION":3.49,
+		"TAGS":"",
+		"COMMENT":"3.49 Re-released"
+	},
+	{
+		"DATE":44281,
+		"VERSION":3.5,
+		"TAGS":"",
+		"COMMENT":"Grimalkin/Bloodbath interaction fixed"
+	},
+	{
+		"DATE":44281,
+		"VERSION":3.5,
+		"TAGS":"",
+		"COMMENT":"Previews of the forthcoming Soulbound cards are available. Card details aren't necessarily final, and are subject to change before the actual release of the cards."
 	}]

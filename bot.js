@@ -2,6 +2,7 @@ const Discord = require('discord.js');
 const fs = require("fs");
 const express = require('express');
 const oAuthCallbackHandler = require('./commands/update.js');
+const DraftSetup = require('./draft/DraftSetup.js');
 
 const discord_token = process.env.DISCORD_BOT_TOKEN;
 const prefix = process.env.PREFIX;
@@ -65,16 +66,21 @@ client.on('message', message => {
     if(logUser){logUser.send(logMessage).catch(console.log);}
 
     //strip characters that aren't allowed, e.g. @ for mentions
-    const sanitisedMessage = message.content.replace(/[@#]+/g,'');
   
-    const args = sanitisedMessage.slice(prefix.length).split(/ +/);    
+    let args = message.content.slice(prefix.length).split(/ +/);    
   
     // Find the Command
     const commandName = args.shift().toLowerCase();
-    if (commandName.includes('wombat')) { return message.channel.send('We don\'t serve your kind here'); }
+    if (commandName.includes('wombat') || (message.author.username.includes('wombat'))) { return message.channel.send('We don\'t serve your kind here'); }
     const command = client.commands.get(commandName) || client.commands.find(cmd => cmd.aliases && cmd.aliases.includes(commandName));
     if (!command) {
         return message.channel.send('I don\'t understand that command. Please type !help for more options.');
+    }
+
+    //sanitise unless explictly told not to
+    if(command.rawArgs === undefined || command.rawArgs !== true){
+        args = message.content.replace(/[@#]+/g,'').slice(prefix.length).split(/ +/);
+        args.shift();
     }
 
     // Check GuildOnly
@@ -82,7 +88,7 @@ client.on('message', message => {
         return message.reply('I can\'t execute that command inside DMs!');
     }
     // Check Permission
-    if(command.admin && message.member && !message.member.hasPermission("MANAGE_GUILD")){
+    if(command.admin && !(message.member && message.member.hasPermission("MANAGE_GUILD"))){
         return message.channel.send(`You don\'t have permission for that command ${message.author}!`);
     }
 
@@ -151,6 +157,8 @@ app.get('/Privacy', function(request, response) {
 });
 //for google to send the authorisation code back to
 app.get('/oauth2callback', oAuthCallbackHandler.AuthorisationCallback);
+//setup all the draft stuff
+DraftSetup(app);
 
 var listener = app.listen(process.env.PORT, function() {
   console.log('Your app is listening on port ' + listener.address().port);

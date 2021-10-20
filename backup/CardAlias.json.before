@@ -1,2253 +1,2336 @@
 [
 	{
-		"KEYWORD":"Absolute Zero Legendary",
 		"CARDNAME":"Absolute Zero Legendary",
-		"ALIAS":"Absolute Zero;|0|;Absolute Zero L;|test|;|test2|"
+		"ALIAS":"Absolute Zero;|0|;Absolute Zero L",
+		"FLAVOR":"The absence of everything is itself something."
 	},
 	{
-		"KEYWORD":"Agar",
-		"CARDNAME":"Agar"
+		"CARDNAME":"Agar",
+		"ALIAS":"",
+		"FLAVOR":"The Agar thrive in fields of harmless, similar-looking peat mushrooms. They are all the more dangerous for this natural camouflage."
 	},
 	{
-		"KEYWORD":"Agar Legendary",
 		"CARDNAME":"Agar Legendary",
-		"ALIAS":"Agar L"
+		"ALIAS":"Agar L",
+		"FLAVOR":"The Agar thrive in fields of harmless, similar-looking peat mushrooms. They are all the more dangerous for this natural camouflage."
 	},
 	{
-		"KEYWORD":"Air Elemental",
 		"CARDNAME":"Air Elemental",
-		"ALIAS":"Air Ele"
+		"ALIAS":"Air Ele",
+		"FLAVOR":"Wild and capricious, air elementals embody the nature of wind."
 	},
 	{
-		"KEYWORD":"Alastair",
 		"CARDNAME":"Alastair",
-		"ALIAS":"Alastar;Alistair;Alister"
+		"ALIAS":"Alastar;Alistair;Alister",
+		"FLAVOR":"Though born into nobility, Alastair gave up his title to pursue his passion in the forge. He is an unparalleled smith, able to armor an entire battlegroup in a matter of hours."
 	},
 	{
-		"KEYWORD":"Alastair Legendary",
 		"CARDNAME":"Alastair Legendary",
-		"ALIAS":"Alastar L;Alistair L;Alastair L;Alister L"
+		"ALIAS":"Alastar L;Alistair L;Alastair L;Alister L",
+		"FLAVOR":"Though born into nobility, Alastair gave up his title to pursue his passion in the forge. He is an unparalleled smith, able to armor an entire battlegroup in a matter of hours."
 	},
 	{
-		"KEYWORD":"Alloy Elemental",
 		"CARDNAME":"Alloy Elemental",
-		"ALIAS":"Alloy;Alloy Ele"
+		"ALIAS":"Alloy;Alloy Ele",
+		"FLAVOR":"Alloy elementals enjoy powers as varied and as volatile as their consitituent metals."
 	},
 	{
-		"KEYWORD":"Ambusher",
 		"CARDNAME":"Ambusher",
-		"ALIAS":"Ambush"
+		"ALIAS":"Ambush",
+		"FLAVOR":"Longbows are supposed to be for distance, but in an ambush, with the opportunity to strike up close, they can inflict major damage."
 	},
 	{
-		"KEYWORD":"Anakaga",
-		"CARDNAME":"Anakaga"
+		"CARDNAME":"Anakaga",
+		"ALIAS":"",
+		"FLAVOR":"Silkskin spiders have a natural proclivity for stealth and disguise. That Anakaga appears human makes her even more dangerous, and willing to venture out of the Caves in search of prey."
 	},
 	{
-		"KEYWORD":"Anakaga Legendary",
 		"CARDNAME":"Anakaga Legendary",
-		"ALIAS":"Anakaga L"
+		"ALIAS":"Anakaga L",
+		"FLAVOR":"Silkskin spiders have a natural proclivity for stealth and disguise. That Anakaga appears human makes her even more dangerous, and willing to venture out of the Caves in search of prey."
 	},
 	{
-		"KEYWORD":"Apep",
-		"CARDNAME":"Apep"
+		"CARDNAME":"Apep",
+		"ALIAS":"",
+		"FLAVOR":"The battles of Apep, Scion of Chaos, rarely see any victors amidst the wholesale destruction."
 	},
 	{
-		"KEYWORD":"Apep Legendary",
 		"CARDNAME":"Apep Legendary",
-		"ALIAS":"Apep L"
+		"ALIAS":"Apep L",
+		"FLAVOR":"The battles of Apep, Scion of Chaos, rarely see any victors amidst the wholesale destruction."
 	},
 	{
-		"KEYWORD":"Arachne Legendary",
 		"CARDNAME":"Arachne Legendary",
-		"ALIAS":"Arachne;Arachne L"
+		"ALIAS":"Arachne;Arachne L",
+		"FLAVOR":"The spider goddess, Arachne, was not always bent on evil. But eons without light have twisted her almost beyond recognition."
 	},
 	{
-		"KEYWORD":"Arachnos Mage",
 		"CARDNAME":"Arachnos Mage",
-		"ALIAS":"Arachmage;Arachnos M"
+		"ALIAS":"Arachmage;Arachnos M",
+		"FLAVOR":"Illusionism, telekinesis and psionics ... spider mages specialize in magic that manipulates, and attacks, the mind."
 	},
 	{
-		"KEYWORD":"Arachnos Priest",
 		"CARDNAME":"Arachnos Priest",
-		"ALIAS":"Arachpriest;Arachnos P"
+		"ALIAS":"Arachpriest;Arachnos P",
+		"FLAVOR":"Spider mages are not exactly known for healing spells, but in the Caves antidotes are more useful anyway."
 	},
 	{
-		"KEYWORD":"Aranea",
-		"CARDNAME":"Aranea"
+		"CARDNAME":"Aranea",
+		"ALIAS":"",
+		"FLAVOR":"The aranea are large, vicious, sentient spiders who above all consider themselves the \"original\" inhabitants of the greater caves of Atlantea."
 	},
 	{
-		"KEYWORD":"Arbalest",
 		"CARDNAME":"Arbalest",
-		"ALIAS":"Arba"
+		"ALIAS":"Arba",
+		"FLAVOR":"Medium-range devices, arbalests are designed to blunt the point and scatter the front lines of enemy assaults."
 	},
 	{
-		"KEYWORD":"Arsenic",
-		"CARDNAME":"Arsenic"
+		"CARDNAME":"Arsenic",
+		"ALIAS":"",
+		"FLAVOR":"A legend in spider society, Arsenic is named for one of the great Poisons."
 	},
 	{
-		"KEYWORD":"Arsenic Legendary",
 		"CARDNAME":"Arsenic Legendary",
-		"ALIAS":"Arsenic L"
+		"ALIAS":"Arsenic L",
+		"FLAVOR":"A legend in spider society, Arsenic is named for one of the great Poisons."
 	},
 	{
-		"KEYWORD":"Astaroth",
 		"CARDNAME":"Astaroth",
-		"ALIAS":"Asta"
+		"ALIAS":"Asta",
+		"FLAVOR":"Astaroth is known to demons as the Scion of Hate. He is an unrelenting and merciless foe."
 	},
 	{
-		"KEYWORD":"Astaroth Legendary",
 		"CARDNAME":"Astaroth Legendary",
-		"ALIAS":"Astaroth L;Asta L"
+		"ALIAS":"Astaroth L;Asta L",
+		"FLAVOR":"Astaroth is known to demons as the Scion of Hate. He is an unrelenting and merciless foe."
 	},
 	{
-		"KEYWORD":"Axe Thrower",
-		"CARDNAME":"Axe Thrower"
+		"CARDNAME":"Axe Thrower",
+		"ALIAS":"",
+		"FLAVOR":"One of the subtle ways humans and orcs differ is that humans might throw a spear but will always wield an axe; and orcs are the exact opposite."
 	},
 	{
-		"KEYWORD":"Ballistic Mek",
 		"CARDNAME":"Ballistic Mek",
-		"ALIAS":"Ballistic;Ballista Mek"
+		"ALIAS":"Ballistic;Ballista Mek",
+		"FLAVOR":"Bomber divisions of Dark Elves may be considered \"mad.\" But, for good reason, a heavy mek equipped with explosives is taken a bit more seriously on the battlefield."
 	},
 	{
-		"KEYWORD":"Ballistic Mek Legendary",
 		"CARDNAME":"Ballistic Mek Legendary",
-		"ALIAS":"Ballistic Mek L;Ballistic L;Ballista Mek L"
+		"ALIAS":"Ballistic Mek L;Ballistic L;Ballista Mek L",
+		"FLAVOR":"Bomber divisions of Dark Elves may be considered \"mad.\" But, for good reason, a heavy mek equipped with explosives is taken a bit more seriously on the battlefield."
 	},
 	{
-		"KEYWORD":"Balor",
 		"CARDNAME":"Balor",
-		"ALIAS":"Balrog"
+		"ALIAS":"Balrog",
+		"FLAVOR":"The demonic word for balor translates as \"tremor bringer.\" Just so, because when a balor approaches, hearts tremor as does the very ground."
 	},
 	{
-		"KEYWORD":"Bard",
-		"CARDNAME":"Bard"
+		"CARDNAME":"Bard",
+		"ALIAS":"",
+		"FLAVOR":"A fighting minstrel of battles gone by, he is simply called \"Bard\" because no one knows his real name."
 	},
 	{
-		"KEYWORD":"Bard Legendary",
 		"CARDNAME":"Bard Legendary",
-		"ALIAS":"Bard L"
+		"ALIAS":"Bard L",
+		"FLAVOR":"A fighting minstrel of battles gone by, he is simply called \"Bard\" because no one knows his real name."
 	},
 	{
-		"KEYWORD":"Baskervor",
 		"CARDNAME":"Baskervor",
-		"ALIAS":"Baskervoir;Baskerville"
+		"ALIAS":"Baskervoir;Baskerville",
+		"FLAVOR":"Great demonic hounds, baskervors guards hellish keeps from all who would dare to enter."
 	},
 	{
-		"KEYWORD":"Beastmaster",
-		"CARDNAME":"Beastmaster"
+		"CARDNAME":"Beastmaster",
+		"ALIAS":"",
+		"FLAVOR":"Masters of feral magic, some orcs speak to the inner nature of beasts."
 	},
 	{
-		"KEYWORD":"Beezleblub",
 		"CARDNAME":"Beezleblub",
-		"ALIAS":"Beelzebub;Beez"
+		"ALIAS":"Beelzebub;Beez",
+		"FLAVOR":"Demonic leaders often travel with a cohort of \"heavies\" -- usually the big, violent type."
 	},
 	{
-		"KEYWORD":"Beholder Legendary",
 		"CARDNAME":"Beholder Legendary",
-		"ALIAS":"Beholder;Beholder L"
+		"ALIAS":"Beholder;Beholder L",
+		"FLAVOR":"Many breeds of lesser beholders exist, but the major demons from whence they spawn are truly fell creatures."
 	},
 	{
-		"KEYWORD":"Belcher Imp",
 		"CARDNAME":"Belcher Imp",
-		"ALIAS":"Belcher;Belch"
+		"ALIAS":"Belcher;Belch",
+		"FLAVOR":"Sometimes called the Toad Imp, the fire Belcher looks pretty harmless until roused by magical energy."
 	},
 	{
-		"KEYWORD":"Belcher Imp Legendary",
 		"CARDNAME":"Belcher Imp Legendary",
-		"ALIAS":"Belcher L;Belcher Imp L;Belch L"
+		"ALIAS":"Belcher L;Belcher Imp L;Belch L",
+		"FLAVOR":"Sometimes called the Toad Imp, the fire Belcher looks pretty harmless until roused by magical energy."
 	},
 	{
-		"KEYWORD":"Bender of Blades Legendary",
 		"CARDNAME":"Bender of Blades Legendary",
-		"ALIAS":"Bender of Blades;Bender;BoB;Bender of Blades L;Bender L;BoB L"
+		"ALIAS":"Bender of Blades;Bender;BoB;Bender of Blades L;Bender L;BoB L",
+		"FLAVOR":"To humans, Painter is the best-known orc of the Wind Tribe. But to orcs, her sister has the reputation as the tribe's greatest warrior."
 	},
 	{
-		"KEYWORD":"Berith",
-		"CARDNAME":"Berith"
+		"CARDNAME":"Berith",
+		"ALIAS":"",
+		"FLAVOR":"The berith is a twisted devil possessed of powerful mind control. She is said even to sow jealousy and violence amongst her demonic kin."
 	},
 	{
-		"KEYWORD":"Berith Legendary",
 		"CARDNAME":"Berith Legendary",
-		"ALIAS":"Berith L"
+		"ALIAS":"Berith L",
+		"FLAVOR":"The berith is a twisted devil possessed of powerful mind control. She is said even to sow jealousy and violence amongst her demonic kin."
 	},
 	{
-		"KEYWORD":"Berserker Rage",
 		"CARDNAME":"Berserker Rage",
-		"ALIAS":"Rage Spell"
+		"ALIAS":"Rage Spell",
+		"FLAVOR":"Functionally, invocation is like enchantment: the target is flooded with property-altering magic. However, invocation specifically draws these energies from an intelligent source."
 	},
 	{
-		"KEYWORD":"Black Dragon",
 		"CARDNAME":"Black Dragon",
-		"ALIAS":"Black D"
+		"ALIAS":"Black D",
+		"FLAVOR":"Black dragons are not native to Atlantea, but abound on the Dragon Isles. Some may have also emerged through the vortex with the Nameless Horde, implying that they thrive in demonic worlds too."
 	},
 	{
-		"KEYWORD":"Black Dragon Egg",
 		"CARDNAME":"Black Dragon Egg",
-		"ALIAS":"Black Egg"
+		"ALIAS":"Black Egg",
+		"FLAVOR":"A black dragon egg is only about four feet across, but it is incredibly difficult to crack."
 	},
 	{
-		"KEYWORD":"Black Whelp",
 		"CARDNAME":"Black Whelp",
-		"ALIAS":"Black W"
+		"ALIAS":"Black W",
+		"FLAVOR":"Some dragons cannot project their breath until maturity: in this way, blacks are like greens. And also like greens, young black dragons are deadly in close combat."
 	},
 	{
-		"KEYWORD":"Black Widow Legendary",
 		"CARDNAME":"Black Widow Legendary",
-		"ALIAS":"Widow;Black Widow;Black Widow L;Widow L"
+		"ALIAS":"Widow;Black Widow;Black Widow L;Widow L",
+		"FLAVOR":"A speechless, terrible engine of destruction, the Black Widow can be found among the throngs of warlike spiders in Vak."
 	},
 	{
-		"KEYWORD":"Blade Spider",
-		"CARDNAME":"Blade Spider"
+		"CARDNAME":"Blade Spider",
+		"ALIAS":"",
+		"FLAVOR":"Most spiderkin are highly intelligent, but blade spiders are basically just mindless killing machines."
 	},
 	{
-		"KEYWORD":"Bloodbath",
 		"CARDNAME":"Bloodbath",
-		"ALIAS":"Frenzy Spell"
+		"ALIAS":"Frenzy Spell",
+		"FLAVOR":"Not all spells are designed to enhance the body; some of them enhance the mind."
 	},
 	{
-		"KEYWORD":"Blue Dragon",
 		"CARDNAME":"Blue Dragon",
-		"ALIAS":"Blue D"
+		"ALIAS":"Blue D",
+		"FLAVOR":"Wild blue dragons live in the northern mountains in Atlantea. They can be pests, occasionally venturing down to the outskirts of Delos to prey on livestock."
 	},
 	{
-		"KEYWORD":"Blue Dragon Egg",
 		"CARDNAME":"Blue Dragon Egg",
-		"ALIAS":"Blue Egg"
+		"ALIAS":"Blue Egg",
+		"FLAVOR":"Dragons don't brood over their eggs like most creatures, as the eggs are well enough protected by a thick shell, and further consequences for those who would draw too near."
 	},
 	{
-		"KEYWORD":"Blue Whelp",
 		"CARDNAME":"Blue Whelp",
-		"ALIAS":"Blue W"
+		"ALIAS":"Blue W",
+		"FLAVOR":"Old tales in Atlantea would have that blue dragons are blessed by the Storm. Whether they are really less \"evil\" than black dragons or not, they do enjoy the most exposure to humans."
 	},
 	{
-		"KEYWORD":"Bolter",
-		"CARDNAME":"Bolter"
+		"CARDNAME":"Bolter",
+		"ALIAS":"",
+		"FLAVOR":"Basic bolt gunners are a staple of dark elf armies."
 	},
 	{
-		"KEYWORD":"Bounce",
-		"CARDNAME":"Bounce"
+		"CARDNAME":"Bounce",
+		"ALIAS":"",
+		"FLAVOR":"Localized time bubbles can be used both to speed up armies and to slow them down."
 	},
 	{
-		"KEYWORD":"Bowmaster",
-		"CARDNAME":"Bowmaster"
+		"CARDNAME":"Bowmaster",
+		"ALIAS":"",
+		"FLAVOR":"High elves are amazingly quick with bows -- so much so that elvish quivers carry at least twice as many arrows as their Atlantean counterparts."
 	},
 	{
-		"KEYWORD":"Brainstorm",
 		"CARDNAME":"Brainstorm",
-		"ALIAS":"Draw Spell"
+		"ALIAS":"Draw Spell",
+		"FLAVOR":"The more absent-minded High Elf wizards invented this spell to help on particularly cloudy days."
 	},
 	{
-		"KEYWORD":"Brainstorm Legendary",
 		"CARDNAME":"Brainstorm Legendary",
-		"ALIAS":"Brainstorm L"
+		"ALIAS":"Brainstorm L",
+		"FLAVOR":"The more absent-minded High Elf wizards invented this spell to help on particularly cloudy days."
 	},
 	{
-		"KEYWORD":"Brood Mother",
 		"CARDNAME":"Brood Mother",
-		"ALIAS":"Brood;Spider Mom"
+		"ALIAS":"Brood;Spider Mom",
+		"FLAVOR":"Spider younglings are raised collectively in the breeding caves. Brood mothers are the giant spiders that keep watch."
 	},
 	{
-		"KEYWORD":"Brood Mother Legendary",
 		"CARDNAME":"Brood Mother Legendary",
-		"ALIAS":"Brood L;Spider Mom L"
+		"ALIAS":"Brood L;Spider Mom L",
+		"FLAVOR":"Spider younglings are raised collectively in the breeding caves. Brood mothers are the giant spiders that keep watch."
 	},
 	{
-		"KEYWORD":"Bug Hunter",
-		"CARDNAME":"Bug Hunter"
+		"CARDNAME":"Bug Hunter",
+		"ALIAS":"",
+		"FLAVOR":"Dark elves have night vision, naturally. Maybe that's why they are prone to explore caves ... and prone to make enemies with spiders."
 	},
 	{
-		"KEYWORD":"Burning Hands",
-		"CARDNAME":"Burning Hands"
+		"CARDNAME":"Burning Hands",
+		"ALIAS":"",
+		"FLAVOR":"Atlantean mage schools are not especially keen in elementalism, with the notable exception of fire magic."
 	},
 	{
-		"KEYWORD":"Cage Fighter",
 		"CARDNAME":"Cage Fighter",
-		"ALIAS":"Cage"
+		"ALIAS":"Cage",
+		"FLAVOR":"To tame a beast, an orc must first dominate it."
 	},
 	{
-		"KEYWORD":"Calliope",
-		"CARDNAME":"Calliope"
+		"CARDNAME":"Calliope",
+		"ALIAS":"",
+		"FLAVOR":"A priestess, an oracle ... some even call her a muse. The voices in the Storm speak to Calliope more freely than to other earthly beings."
 	},
 	{
-		"KEYWORD":"Calliope Legendary",
 		"CARDNAME":"Calliope Legendary",
-		"ALIAS":"Calliope L"
+		"ALIAS":"Calliope L",
+		"FLAVOR":"A priestess, an oracle ... some even call her a muse. The voices in the Storm speak to Calliope more freely than to other earthly beings."
 	},
 	{
-		"KEYWORD":"Caltrops",
-		"CARDNAME":"Caltrops"
+		"CARDNAME":"Caltrops",
+		"ALIAS":"",
+		"FLAVOR":"Caltrops have been a staple of the battlefield since soldiers have ridden mounts to battle."
 	},
 	{
-		"KEYWORD":"Caustic Spider",
 		"CARDNAME":"Caustic Spider",
-		"ALIAS":"Caustic"
+		"ALIAS":"Caustic",
+		"FLAVOR":"Even the common spiders in Vak seem corrosive to the touch."
 	},
 	{
-		"KEYWORD":"Chainer",
 		"CARDNAME":"Chainer",
-		"ALIAS":"Chainsaw"
+		"ALIAS":"Chainsaw",
+		"FLAVOR":"Chain saws are surprisingly effective in close encounters."
 	},
 	{
-		"KEYWORD":"Chaingunner",
 		"CARDNAME":"Chaingunner",
-		"ALIAS":"Chaingun"
+		"ALIAS":"Chaingun",
+		"FLAVOR":"Chaingunners carry heavier artillery than standard dark-elf troopers. Their weapon of choice is extra effective against swarming foes."
 	},
 	{
-		"KEYWORD":"Charioteer",
 		"CARDNAME":"Charioteer",
-		"ALIAS":"Chariot"
+		"ALIAS":"Chariot",
+		"FLAVOR":"Chariots are not the best for attack maneuverability but they do add some decent durability to ranks of Atlantean light cavalry."
 	},
 	{
-		"KEYWORD":"Cherufe",
-		"CARDNAME":"Cherufe"
+		"CARDNAME":"Cherufe",
+		"ALIAS":"",
+		"FLAVOR":"Cherufe is a dark and powerful elemental derived of magma and brimstone. He may be a child of nature, but he is far from benevolent."
 	},
 	{
-		"KEYWORD":"Cherufe Legendary",
 		"CARDNAME":"Cherufe Legendary",
-		"ALIAS":"Cherufe L"
+		"ALIAS":"Cherufe L",
+		"FLAVOR":"Cherufe is a dark and powerful elemental derived of magma and brimstone. He may be a child of nature, but he is far from benevolent."
 	},
 	{
-		"KEYWORD":"Chirurgeon",
 		"CARDNAME":"Chirurgeon",
-		"ALIAS":"Surgeon"
+		"ALIAS":"Surgeon",
+		"FLAVOR":"Ironically the title \"chirurgeon\" comes from the fact that these druids are capable tree surgeons. Their healing power is purely magical, however."
 	},
 	{
-		"KEYWORD":"Chort",
 		"CARDNAME":"Chort",
-		"ALIAS":"Chortle"
+		"ALIAS":"Chortle",
+		"FLAVOR":"A slow, stupid, ugly demon, Chort is extra cruel to injured enemies."
 	},
 	{
-		"KEYWORD":"Chort Legendary",
 		"CARDNAME":"Chort Legendary",
-		"ALIAS":"Chort L;Chortle L"
+		"ALIAS":"Chort L;Chortle L",
+		"FLAVOR":"A slow, stupid, ugly demon, Chort is extra cruel to injured enemies."
 	},
 	{
-		"KEYWORD":"Cicatrice",
 		"CARDNAME":"Cicatrice",
-		"ALIAS":"Cica"
+		"ALIAS":"Cica",
+		"FLAVOR":"It takes a spider as nasty -- and as able to withstand pain -- as Cicatrice to mate with the likes of Kutyr."
 	},
 	{
-		"KEYWORD":"Cicatrice Legendary",
 		"CARDNAME":"Cicatrice Legendary",
-		"ALIAS":"Cicatrice L; Cica L"
+		"ALIAS":"Cicatrice L; Cica L",
+		"FLAVOR":"It takes a spider as nasty -- and as able to withstand pain -- as Cicatrice to mate with the likes of Kutyr."
 	},
 	{
-		"KEYWORD":"Cimmerian",
 		"CARDNAME":"Cimmerian",
-		"ALIAS":"Cimm;Cimmeran"
+		"ALIAS":"Cimm;Cimmeran",
+		"FLAVOR":"As quiet as the strange little myconids are, Cimmerians are surprisingly aggressive when someone trespasses into those darkest corners of caves that they inhabit."
 	},
 	{
-		"KEYWORD":"Cimmerian Legendary",
 		"CARDNAME":"Cimmerian Legendary",
-		"ALIAS":"Cimm L;Cimmeran L;Cimmerian L"
+		"ALIAS":"Cimm L;Cimmeran L;Cimmerian L",
+		"FLAVOR":"As quiet as the strange little myconids are, Cimmerians are surprisingly aggressive when someone trespasses into those darkest corners of caves that they inhabit."
 	},
 	{
-		"KEYWORD":"Clockwork Mek",
 		"CARDNAME":"Clockwork Mek",
-		"ALIAS":"Clockwork"
+		"ALIAS":"Clockwork",
+		"FLAVOR":"Clockwork mechanisms power all kinds of dark-elvish devices, including some of the older mek designs."
 	},
 	{
-		"KEYWORD":"Clockwork Mek Legendary",
 		"CARDNAME":"Clockwork Mek Legendary",
-		"ALIAS":"Clockwork L;Clockwork Mek L"
+		"ALIAS":"Clockwork L;Clockwork Mek L",
+		"FLAVOR":"Clockwork mechanisms power all kinds of dark-elvish devices, including some of the older mek designs."
 	},
 	{
-		"KEYWORD":"Clone",
 		"CARDNAME":"Clone",
-		"ALIAS":"Copy Spell"
+		"ALIAS":"Copy Spell",
+		"FLAVOR":"A good trick for getting one's troops all to arrive at the same time is to copy the first one who shows up!"
 	},
 	{
-		"KEYWORD":"Constructor Alara",
 		"CARDNAME":"Constructor Alara",
-		"ALIAS":"Alara"
+		"ALIAS":"Alara",
+		"FLAVOR":"The oligarchs of greater dark elf society, the constructors often act independently of each other. Alara is a divisive figure, as she openly deals with humans and orcs."
 	},
 	{
-		"KEYWORD":"Constructor Alara Legendary",
 		"CARDNAME":"Constructor Alara Legendary",
-		"ALIAS":"Alara L;Constructor Alara L"
+		"ALIAS":"Alara L;Constructor Alara L",
+		"FLAVOR":"The oligarchs of greater dark elf society, the constructors often act independently of each other. Alara is a divisive figure, as she openly deals with humans and orcs."
 	},
 	{
-		"KEYWORD":"Constructor Aznik",
 		"CARDNAME":"Constructor Aznik",
-		"ALIAS":"Aznik"
+		"ALIAS":"Aznik",
+		"FLAVOR":"Aznik is no great warrior, but his skill with gadgets is unparalleled in dark elf society."
 	},
 	{
-		"KEYWORD":"Constructor Aznik Legendary",
 		"CARDNAME":"Constructor Aznik Legendary",
-		"ALIAS":"Aznik L;Constructor Aznik L"
+		"ALIAS":"Aznik L;Constructor Aznik L",
+		"FLAVOR":"Aznik is no great warrior, but his skill with gadgets is unparalleled in dark elf society."
 	},
 	{
-		"KEYWORD":"Constructor Darik",
-		"CARDNAME":"Constructor Darik",
-		"ALIAS":"Darik"
-	},
-	{
-		"KEYWORD":"Constructor Darik Legendary",
-		"CARDNAME":"Constructor Darik Legendary",
-		"ALIAS":"Darik L;Constructor Darik L"
-	},
-	{
-		"KEYWORD":"Constructor Liaric",
-		"CARDNAME":"Constructor Liaric",
-		"ALIAS":"Liaric"
-	},
-	{
-		"KEYWORD":"Constructor Liaric Legendary",
-		"CARDNAME":"Constructor Liaric Legendary",
-		"ALIAS":"Liaric L;Constructor Liaric L"
-	},
-	{
-		"KEYWORD":"Constructor Owa",
-		"CARDNAME":"Constructor Owa",
-		"ALIAS":"Owa"
-	},
-	{
-		"KEYWORD":"Constructor Owa Legendary",
-		"CARDNAME":"Constructor Owa Legendary",
-		"ALIAS":"Owa L;Constructor Owa L"
-	},
-	{
-		"KEYWORD":"Constructor Sapok",
-		"CARDNAME":"Constructor Sapok",
-		"ALIAS":"Sapok"
-	},
-	{
-		"KEYWORD":"Constructor Sapok Legendary",
-		"CARDNAME":"Constructor Sapok Legendary",
-		"ALIAS":"Sapok L;Constructor Sapok L"
-	},
-	{
-		"KEYWORD":"Constructor Ulnik",
-		"CARDNAME":"Constructor Ulnik",
-		"ALIAS":"Ulnik"
-	},
-	{
-		"KEYWORD":"Constructor Ulnik Legendary",
-		"CARDNAME":"Constructor Ulnik Legendary",
-		"ALIAS":"Ulnik L;Constructor Ulnik L"
-	},
-	{
-		"KEYWORD":"Corvina",
-		"CARDNAME":"Corvina",
-		"ALIAS":"Corv"
-	},
-	{
-		"KEYWORD":"Corvina Legendary",
-		"CARDNAME":"Corvina Legendary",
-		"ALIAS":"Corvina L;Corv L"
-	},
-	{
-		"KEYWORD":"Counterspell",
-		"CARDNAME":"Counterspell",
-		"ALIAS":"Counter;Counter Spell"
-	},
-	{
-		"KEYWORD":"Crusher of Shields",
-		"CARDNAME":"Crusher of Shields",
-		"ALIAS":"Crusher;CoS"
-	},
-	{
-		"KEYWORD":"Crusher of Shields Legendary",
-		"CARDNAME":"Crusher of Shields Legendary",
-		"ALIAS":"Crusher L;CoS L"
-	},
-	{
-		"KEYWORD":"Ctarath",
-		"CARDNAME":"Ctarath",
-		"ALIAS":"Cta;Ctareth;Ctar"
-	},
-	{
-		"KEYWORD":"Ctarath Legendary",
-		"CARDNAME":"Ctarath Legendary",
-		"ALIAS":"Ctarath L;Cta L;Ctareth L;Ctar L"
-	},
-	{
-		"KEYWORD":"Cytosian",
-		"CARDNAME":"Cytosian",
-		"ALIAS":"Cyt;Cyto"
-	},
-	{
-		"KEYWORD":"Daos",
-		"CARDNAME":"Daos"
-	},
-	{
-		"KEYWORD":"Daos Legendary",
-		"CARDNAME":"Daos Legendary",
-		"ALIAS":"Daos L"
-	},
-	{
-		"KEYWORD":"Darius",
-		"CARDNAME":"Darius"
-	},
-	{
-		"KEYWORD":"Darius Legendary",
-		"CARDNAME":"Darius Legendary",
-		"ALIAS":"Darius L"
-	},
-	{
-		"KEYWORD":"Dark Coercion",
-		"CARDNAME":"Dark Coercion",
-		"ALIAS":"Mill Spell"
-	},
-	{
-		"KEYWORD":"Darkbow",
-		"CARDNAME":"Darkbow"
-	},
-	{
-		"KEYWORD":"Darkling",
-		"CARDNAME":"Darkling"
-	},
-	{
-		"KEYWORD":"Darter",
-		"CARDNAME":"Darter"
-	},
-	{
-		"KEYWORD":"Dawn Guard",
-		"CARDNAME":"Dawn Guard",
-		"ALIAS":"Dawn"
-	},
-	{
-		"KEYWORD":"Despair",
-		"CARDNAME":"Despair"
-	},
-	{
-		"KEYWORD":"Devourer",
-		"CARDNAME":"Devourer"
-	},
-	{
-		"KEYWORD":"Dire Rabbit",
-		"CARDNAME":"Dire Rabbit",
-		"ALIAS":"Rabbit;Bunny"
-	},
-	{
-		"KEYWORD":"Disintegrate",
-		"CARDNAME":"Disintegrate",
-		"ALIAS":"Dis"
-	},
-	{
-		"KEYWORD":"Disintegrate Legendary",
-		"CARDNAME":"Disintegrate Legendary",
-		"ALIAS":"Dis L;Disintegrate L"
-	},
-	{
-		"KEYWORD":"Dominion Wall",
-		"CARDNAME":"Dominion Wall",
-		"ALIAS":"Dominion;W Dominion;W Dom;Dom"
-	},
-	{
-		"KEYWORD":"Dominion Wall Legendary",
-		"CARDNAME":"Dominion Wall Legendary",
-		"ALIAS":"Dominion L;Dominion Wall L;W Dominion L; W Dom L;Dom L"
-	},
-	{
-		"KEYWORD":"Doom",
-		"CARDNAME":"Doom"
-	},
-	{
-		"KEYWORD":"Doom Legendary",
-		"CARDNAME":"Doom Legendary",
-		"ALIAS":"Doom L"
-	},
-	{
-		"KEYWORD":"Dragon Clutch Legendary",
-		"CARDNAME":"Dragon Clutch Legendary",
-		"ALIAS":"Dragon Clutch;Clutch;Eggs;Dragon Eggs"
-	},
-	{
-		"KEYWORD":"Dragon Hunter",
-		"CARDNAME":"Dragon Hunter"
-	},
-	{
-		"KEYWORD":"Dragon Mek",
-		"CARDNAME":"Dragon Mek",
-		"ALIAS":"D Mek;Mek ED;Mek Elder Dragon"
-	},
-	{
-		"KEYWORD":"Dragon Mek Legendary",
-		"CARDNAME":"Dragon Mek Legendary",
-		"ALIAS":"D Mek L;Dragon Mek L;Mek ED L;Mek Elder Dragon L"
-	},
-	{
-		"KEYWORD":"Dream Dust",
-		"CARDNAME":"Dream Dust",
-		"ALIAS":"Paralyse Spell;Paralyze Spell;Paralyze;Paralyse"
-	},
-	{
-		"KEYWORD":"Drikkim",
-		"CARDNAME":"Drikkim",
-		"ALIAS":"Drik"
-	},
-	{
-		"KEYWORD":"Drikkim Legendary",
-		"CARDNAME":"Drikkim Legendary",
-		"ALIAS":"Drik L;Drikkim L"
-	},
-	{
-		"KEYWORD":"Drill Mek",
-		"CARDNAME":"Drill Mek",
-		"ALIAS":"Drill"
-	},
-	{
-		"KEYWORD":"Drill Mek Legendary",
-		"CARDNAME":"Drill Mek Legendary",
-		"ALIAS":"Drill L;Drill Mek L"
-	},
-	{
-		"KEYWORD":"Duskbringer",
-		"CARDNAME":"Duskbringer",
-		"ALIAS":"Dusk"
-	},
-	{
-		"KEYWORD":"Earth Elemental",
-		"CARDNAME":"Earth Elemental",
-		"ALIAS":"Earth Ele"
-	},
-	{
-		"KEYWORD":"Earth Mage",
-		"CARDNAME":"Earth Mage",
-		"ALIAS":"Earth M;E Mage"
-	},
-	{
-		"KEYWORD":"Efreet",
-		"CARDNAME":"Efreet",
-		"ALIAS":"Ifrit"
-	},
-	{
-		"KEYWORD":"Elder Cinder Legendary",
-		"CARDNAME":"Elder Cinder Legendary",
-		"ALIAS":"Cinder;Red ED;Red Elder Dragon"
-	},
-	{
-		"KEYWORD":"Elder Erisdar Legendary",
-		"CARDNAME":"Elder Erisdar Legendary",
-		"ALIAS":"Erisdar;Blue ED;Blue Elder Dragon"
-	},
-	{
-		"KEYWORD":"Elder Kindralt Legendary",
-		"CARDNAME":"Elder Kindralt Legendary",
-		"ALIAS":"Kindralt;Green ED;Green Elder Dragon"
-	},
-	{
-		"KEYWORD":"Elder Samurai",
-		"CARDNAME":"Elder Samurai",
-		"ALIAS":"Samurai"
-	},
-	{
-		"KEYWORD":"Elder Shorloth Legendary",
-		"CARDNAME":"Elder Shorloth Legendary",
-		"ALIAS":"Shorloth;Black ED;Black Elder Dragon"
-	},
-	{
-		"KEYWORD":"Elder Warrior",
-		"CARDNAME":"Elder Warrior",
-		"ALIAS":"E Warrior;Elder W"
-	},
-	{
-		"KEYWORD":"Elder Wurmryn Legendary",
-		"CARDNAME":"Elder Wurmryn Legendary",
-		"ALIAS":"Wurmryn;Purple ED;Purple Elder Dragon"
-	},
-	{
-		"KEYWORD":"Electrocute",
-		"CARDNAME":"Electrocute",
-		"ALIAS":"Elec"
-	},
-	{
-		"KEYWORD":"Elren, Summoner",
-		"CARDNAME":"Elren, Summoner",
-		"ALIAS":"Elren;Summoner"
-	},
-	{
-		"KEYWORD":"Elren, Summoner Legendary",
-		"CARDNAME":"Elren, Summoner Legendary",
-		"ALIAS":"Elren L;Elren, Summoner L;Summoner L"
-	},
-	{
-		"KEYWORD":"Ember Mage",
-		"CARDNAME":"Ember Mage",
-		"ALIAS":"Ember"
-	},
-	{
-		"KEYWORD":"Engineer",
-		"CARDNAME":"Engineer"
-	},
-	{
-		"KEYWORD":"Erinye",
-		"CARDNAME":"Erinye",
-		"ALIAS":"Erin"
-	},
-	{
-		"KEYWORD":"Expediter",
-		"CARDNAME":"Expediter",
-		"ALIAS":"Expedite"
-	},
-	{
-		"KEYWORD":"Eye Tyrant",
-		"CARDNAME":"Eye Tyrant",
-		"ALIAS":"Eye"
-	},
-	{
-		"KEYWORD":"Fallen Celestial",
-		"CARDNAME":"Fallen Celestial",
-		"ALIAS":"Celestial"
-	},
-	{
-		"KEYWORD":"Fenris",
-		"CARDNAME":"Fenris",
-		"ALIAS":"Fenrir"
-	},
-	{
-		"KEYWORD":"Fenris Legendary",
-		"CARDNAME":"Fenris Legendary",
-		"ALIAS":"Fenris L;Fenrir L"
-	},
-	{
-		"KEYWORD":"Feral Orc",
-		"CARDNAME":"Feral Orc",
-		"ALIAS":"Feral"
-	},
-	{
-		"KEYWORD":"Fetish Warrior",
-		"CARDNAME":"Fetish Warrior",
-		"ALIAS":"Fetish"
-	},
-	{
-		"KEYWORD":"Field Mage",
-		"CARDNAME":"Field Mage",
-		"ALIAS":"Field"
-	},
-	{
-		"KEYWORD":"Filch",
-		"CARDNAME":"Filch",
-		"ALIAS":"Steal Spell"
-	},
-	{
-		"KEYWORD":"Filch Legendary",
-		"CARDNAME":"Filch Legendary",
-		"ALIAS":"Filch L;Steal Spell L"
-	},
-	{
-		"KEYWORD":"Fire Blast",
-		"CARDNAME":"Fire Blast",
-		"ALIAS":"Fire Spell"
-	},
-	{
-		"KEYWORD":"Fire Elemental",
-		"CARDNAME":"Fire Elemental",
-		"ALIAS":"Fire Ele"
-	},
-	{
-		"KEYWORD":"Fire Imp",
-		"CARDNAME":"Fire Imp",
-		"ALIAS":"Fimp"
-	},
-	{
-		"KEYWORD":"Firecaster",
-		"CARDNAME":"Firecaster"
-	},
-	{
-		"KEYWORD":"Flameskull",
-		"CARDNAME":"Flameskull"
-	},
-	{
-		"KEYWORD":"Flashdraft",
-		"CARDNAME":"Flashdraft",
-		"ALIAS":"Flash;Draft"
-	},
-	{
-		"KEYWORD":"Flux Mage",
-		"CARDNAME":"Flux Mage",
-		"ALIAS":"Flux"
-	},
-	{
-		"KEYWORD":"Footman",
-		"CARDNAME":"Footman",
-		"ALIAS":"Foot"
-	},
-	{
-		"KEYWORD":"Frenetic Imp",
-		"CARDNAME":"Frenetic Imp",
-		"ALIAS":"Frenetic"
-	},
-	{
-		"KEYWORD":"Gemini Imp",
-		"CARDNAME":"Gemini Imp",
-		"ALIAS":"Gemini"
-	},
-	{
-		"KEYWORD":"Genocide",
-		"CARDNAME":"Genocide",
-		"ALIAS":"Geno"
-	},
-	{
-		"KEYWORD":"Genocide Legendary",
-		"CARDNAME":"Genocide Legendary",
-		"ALIAS":"Genocide L;Geno L"
-	},
-	{
-		"KEYWORD":"Gibberling Imp",
-		"CARDNAME":"Gibberling Imp",
-		"ALIAS":"Gibberling"
-	},
-	{
-		"KEYWORD":"Gladiator",
-		"CARDNAME":"Gladiator"
-	},
-	{
-		"KEYWORD":"Glen Hunter",
-		"CARDNAME":"Glen Hunter",
-		"ALIAS":"Glen"
-	},
-	{
-		"KEYWORD":"Gloom",
-		"CARDNAME":"Gloom"
-	},
-	{
-		"KEYWORD":"Gloom Legendary",
-		"CARDNAME":"Gloom Legendary",
-		"ALIAS":"Gloom L"
-	},
-	{
-		"KEYWORD":"Goldleaf Archer",
-		"CARDNAME":"Goldleaf Archer",
-		"ALIAS":"Goldleaf"
-	},
-	{
-		"KEYWORD":"Gorgon Song Legendary",
-		"CARDNAME":"Gorgon Song Legendary",
-		"ALIAS":"Gorgon;Song;Gorgon L;Song L;Gorgon Song L"
-	},
-	{
-		"KEYWORD":"Great Gorgu",
-		"CARDNAME":"Great Gorgu",
-		"ALIAS":"Gorgu"
-	},
-	{
-		"KEYWORD":"Great Gorgu Legendary",
-		"CARDNAME":"Great Gorgu Legendary",
-		"ALIAS":"Great Gorgu L;Gorgu L"
-	},
-	{
-		"KEYWORD":"Green Dragon",
-		"CARDNAME":"Green Dragon",
-		"ALIAS":"Green D"
-	},
-	{
-		"KEYWORD":"Green Dragon Egg",
-		"CARDNAME":"Green Dragon Egg",
-		"ALIAS":"Green Egg"
-	},
-	{
-		"KEYWORD":"Green Whelp",
-		"CARDNAME":"Green Whelp",
-		"ALIAS":"Green W"
-	},
-	{
-		"KEYWORD":"Griever",
-		"CARDNAME":"Griever",
-		"ALIAS":"Greiver"
-	},
-	{
-		"KEYWORD":"Griflet",
-		"CARDNAME":"Griflet",
-		"ALIAS":"Grif"
-	},
-	{
-		"KEYWORD":"Griflet Legendary",
-		"CARDNAME":"Griflet Legendary",
-		"ALIAS":"Grif L;Griflet L"
-	},
-	{
-		"KEYWORD":"Grimalkin",
-		"CARDNAME":"Grimalkin",
-		"ALIAS":"Grim"
-	},
-	{
-		"KEYWORD":"Grimalkin Legendary",
-		"CARDNAME":"Grimalkin Legendary",
-		"ALIAS":"Grim L;Grimalkin L"
-	},
-	{
-		"KEYWORD":"Grotesque",
-		"CARDNAME":"Grotesque",
-		"ALIAS":"Grot"
-	},
-	{
-		"KEYWORD":"Grotesque Legendary",
-		"CARDNAME":"Grotesque Legendary",
-		"ALIAS":"Grot L;Grotesque L"
-	},
-	{
-		"KEYWORD":"Guardian",
-		"CARDNAME":"Guardian"
-	},
-	{
-		"KEYWORD":"Hawk Warrior",
-		"CARDNAME":"Hawk Warrior",
-		"ALIAS":"Hawk"
-	},
-	{
-		"KEYWORD":"Headsplitter",
-		"CARDNAME":"Headsplitter"
-	},
-	{
-		"KEYWORD":"Healing Rays",
-		"CARDNAME":"Healing Rays",
-		"ALIAS":"Heal Spell"
-	},
-	{
-		"KEYWORD":"Heavy Mek",
-		"CARDNAME":"Heavy Mek",
-		"ALIAS":"Heavy"
-	},
-	{
-		"KEYWORD":"Hell Hound",
-		"CARDNAME":"Hell Hound",
-		"ALIAS":"Hound"
-	},
-	{
-		"KEYWORD":"Herd Runner",
-		"CARDNAME":"Herd Runner",
-		"ALIAS":"Runner"
-	},
-	{
-		"KEYWORD":"High Elf Druid",
-		"CARDNAME":"High Elf Druid",
-		"ALIAS":"HE Druid;Druid"
-	},
-	{
-		"KEYWORD":"High Elf Healer",
-		"CARDNAME":"High Elf Healer",
-		"ALIAS":"HE Healer"
-	},
-	{
-		"KEYWORD":"High Elf Scout",
-		"CARDNAME":"High Elf Scout",
-		"ALIAS":"HE Scout"
-	},
-	{
-		"KEYWORD":"Hipparch Solon",
-		"CARDNAME":"Hipparch Solon",
-		"ALIAS":"Solon;Hipparch"
-	},
-	{
-		"KEYWORD":"Hipparch Solon Legendary",
-		"CARDNAME":"Hipparch Solon Legendary",
-		"ALIAS":"Solon L;Hipparch L;Hipparch Solon L"
-	},
-	{
-		"KEYWORD":"Hippeus",
-		"CARDNAME":"Hippeus"
-	},
-	{
-		"KEYWORD":"Hippotoxote",
-		"CARDNAME":"Hippotoxote",
-		"ALIAS":"Hippo;Hippotoxtoe"
-	},
-	{
-		"KEYWORD":"Hob Archer",
-		"CARDNAME":"Hob Archer",
-		"ALIAS":"Hob A"
-	},
-	{
-		"KEYWORD":"Hob Mercenary",
-		"CARDNAME":"Hob Mercenary",
-		"ALIAS":"Hob M"
-	},
-	{
-		"KEYWORD":"Hoplite",
-		"CARDNAME":"Hoplite"
-	},
-	{
-		"KEYWORD":"Hulud Worm",
-		"CARDNAME":"Hulud Worm",
-		"ALIAS":"Hulud;Hulud Wurm"
-	},
-	{
-		"KEYWORD":"Hunter",
-		"CARDNAME":"Hunter"
-	},
-	{
-		"KEYWORD":"Hydra",
-		"CARDNAME":"Hydra"
-	},
-	{
-		"KEYWORD":"Hypnotic Mage",
-		"CARDNAME":"Hypnotic Mage",
-		"ALIAS":"Hypnotic;Hypnotic M"
-	},
-	{
-		"KEYWORD":"Imp Lord",
-		"CARDNAME":"Imp Lord",
-		"ALIAS":"Imp L"
-	},
-	{
-		"KEYWORD":"Imp Rider",
-		"CARDNAME":"Imp Rider",
-		"ALIAS":"Imp R"
-	},
-	{
-		"KEYWORD":"Implosion",
-		"CARDNAME":"Implosion",
-		"ALIAS":"Implode"
-	},
-	{
-		"KEYWORD":"Implosion Legendary",
-		"CARDNAME":"Implosion Legendary",
-		"ALIAS":"Implosion L;Implode L"
-	},
-	{
-		"KEYWORD":"Incognito",
-		"CARDNAME":"Incognito",
-		"ALIAS":"Incog"
-	},
-	{
-		"KEYWORD":"Infernal Gate",
-		"CARDNAME":"Infernal Gate",
-		"ALIAS":"Infernal;Gate"
-	},
-	{
-		"KEYWORD":"Infernal Gate Legendary",
-		"CARDNAME":"Infernal Gate Legendary",
-		"ALIAS":"Infernal L;Gate L;Infernal Gate L"
-	},
-	{
-		"KEYWORD":"Iole Arcfire",
-		"CARDNAME":"Iole Arcfire",
-		"ALIAS":"Iole;Arcfire"
-	},
-	{
-		"KEYWORD":"Iole Arcfire Legendary",
-		"CARDNAME":"Iole Arcfire Legendary",
-		"ALIAS":"Iole L;Arcfire L;Iole Arcfire L"
-	},
-	{
-		"KEYWORD":"Ippiko",
-		"CARDNAME":"Ippiko"
-	},
-	{
-		"KEYWORD":"Jester Spider",
-		"CARDNAME":"Jester Spider",
-		"ALIAS":"Jester"
-	},
-	{
-		"KEYWORD":"June Willowstar",
-		"CARDNAME":"June Willowstar",
-		"ALIAS":"June;Willow;Willowstar"
-	},
-	{
-		"KEYWORD":"June Willowstar Legendary",
-		"CARDNAME":"June Willowstar Legendary",
-		"ALIAS":"June L;Willow L;Willowstar L;June Willowstar L"
-	},
-	{
-		"KEYWORD":"Kathoras",
-		"CARDNAME":"Kathoras",
-		"ALIAS":"Kath"
-	},
-	{
-		"KEYWORD":"Kathoras Legendary",
-		"CARDNAME":"Kathoras Legendary",
-		"ALIAS":"Kath L;Kathoras L"
-	},
-	{
-		"KEYWORD":"Kongon Betar",
-		"CARDNAME":"Kongon Betar",
-		"ALIAS":"Kongon"
-	},
-	{
-		"KEYWORD":"Krag Worm",
-		"CARDNAME":"Krag Worm",
-		"ALIAS":"Krag;Krag Wurm"
-	},
-	{
-		"KEYWORD":"Labyrinth",
-		"CARDNAME":"Labyrinth",
-		"ALIAS":"Laby"
-	},
-	{
-		"KEYWORD":"Lady Steele Legendary",
-		"CARDNAME":"Lady Steele Legendary",
-		"ALIAS":"Steele;Steele L;Lady Steele L;Lady;Lady L;Lady Steel;Lady Steel L"
-	},
-	{
-		"KEYWORD":"Lancer",
-		"CARDNAME":"Lancer",
-		"ALIAS":"Lance"
-	},
-	{
-		"KEYWORD":"Land Mine",
-		"CARDNAME":"Land Mine",
-		"ALIAS":"Mine"
-	},
-	{
-		"KEYWORD":"Last Resort Legendary",
-		"CARDNAME":"Last Resort Legendary",
-		"ALIAS":"Last;Resort;Last Resort L;Last L;Resort L;Last Resort"
-	},
-	{
-		"KEYWORD":"Leshy",
-		"CARDNAME":"Leshy"
-	},
-	{
-		"KEYWORD":"LesInk Legendary",
-		"CARDNAME":"LesInk Legendary",
-		"ALIAS":"Les;Les Ink;Les L;Les Ink L; LesInk L"
-	},
-	{
-		"KEYWORD":"Lifetapper",
-		"CARDNAME":"Lifetapper"
-	},
-	{
-		"KEYWORD":"Lightning Mek",
-		"CARDNAME":"Lightning Mek",
-		"ALIAS":"Lightning"
-	},
-	{
-		"KEYWORD":"Limeshard Spider",
-		"CARDNAME":"Limeshard Spider",
-		"ALIAS":"Limeshard;Lime"
-	},
-	{
-		"KEYWORD":"Lord Fax",
-		"CARDNAME":"Lord Fax",
-		"ALIAS":"Fax"
-	},
-	{
-		"KEYWORD":"Lord Fax Legendary",
-		"CARDNAME":"Lord Fax Legendary",
-		"ALIAS":"Fax L;Lord Fax L"
-	},
-	{
-		"KEYWORD":"Machinist",
-		"CARDNAME":"Machinist"
-	},
-	{
-		"KEYWORD":"Mad Bomber",
-		"CARDNAME":"Mad Bomber",
-		"ALIAS":"Bomber"
-	},
-	{
-		"KEYWORD":"Mage Lord",
-		"CARDNAME":"Mage Lord"
-	},
-	{
-		"KEYWORD":"Magic Vortex",
-		"CARDNAME":"Magic Vortex",
-		"ALIAS":"Vortex"
-	},
-	{
-		"KEYWORD":"Magma Spider",
-		"CARDNAME":"Magma Spider",
-		"ALIAS":"Magma"
-	},
-	{
-		"KEYWORD":"Magnet Turret",
-		"CARDNAME":"Magnet Turret",
-		"ALIAS":"Magnet"
-	},
-	{
-		"KEYWORD":"Mago Breaker",
-		"CARDNAME":"Mago Breaker",
-		"ALIAS":"Mago;Breaker;Magi Breaker"
-	},
-	{
-		"KEYWORD":"Mago Breaker Legendary",
-		"CARDNAME":"Mago Breaker Legendary",
-		"ALIAS":"Mago L;Breaker L;Mago Breaker L;Magi Breaker L"
-	},
-	{
-		"KEYWORD":"Malebranche",
-		"CARDNAME":"Malebranche",
-		"ALIAS":"Malebranch"
-	},
-	{
-		"KEYWORD":"Malediction",
-		"CARDNAME":"Malediction",
-		"ALIAS":"Curse Spell"
-	},
-	{
-		"KEYWORD":"Mammon",
-		"CARDNAME":"Mammon"
-	},
-	{
-		"KEYWORD":"Mammon Legendary",
-		"CARDNAME":"Mammon Legendary",
-		"ALIAS":"Mammon L"
-	},
-	{
-		"KEYWORD":"Manavore",
-		"CARDNAME":"Manavore",
-		"ALIAS":"Vore"
-	},
-	{
-		"KEYWORD":"Marilith",
-		"CARDNAME":"Marilith"
-	},
-	{
-		"KEYWORD":"Marksman",
-		"CARDNAME":"Marksman"
-	},
-	{
-		"KEYWORD":"Meat Stores",
-		"CARDNAME":"Meat Stores",
-		"ALIAS":"Stores;Beast Wall;W Beast"
-	},
-	{
-		"KEYWORD":"Meat Stores Legendary",
-		"CARDNAME":"Meat Stores Legendary",
-		"ALIAS":"Stores L;Meat Stores L;Beast Wall L;W Beast L"
-	},
-	{
-		"KEYWORD":"Medic",
-		"CARDNAME":"Medic"
-	},
-	{
-		"KEYWORD":"Medicine Orc",
-		"CARDNAME":"Medicine Orc",
-		"ALIAS":"Medicine"
-	},
-	{
-		"KEYWORD":"Mele Rainmaker",
-		"CARDNAME":"Mele Rainmaker",
-		"ALIAS":"Rainmaker"
-	},
-	{
-		"KEYWORD":"Mele Rainmaker Legendary",
-		"CARDNAME":"Mele Rainmaker Legendary",
-		"ALIAS":"Rainmaker L;Mele Rainmaker L"
-	},
-	{
-		"KEYWORD":"Mephit",
-		"CARDNAME":"Mephit"
-	},
-	{
-		"KEYWORD":"Mindflayer",
-		"CARDNAME":"Mindflayer",
-		"ALIAS":"Flayer"
-	},
-	{
-		"KEYWORD":"Moon Spirit",
-		"CARDNAME":"Moon Spirit",
-		"ALIAS":"Moon"
-	},
-	{
-		"KEYWORD":"Moves as Sand",
-		"CARDNAME":"Moves as Sand",
-		"ALIAS":"Moves;Moves as;Sand"
-	},
-	{
-		"KEYWORD":"Moves as Sand Legendary",
-		"CARDNAME":"Moves as Sand Legendary",
-		"ALIAS":"Moves L;Moves as Sand L;Moves as L;Sand L"
-	},
-	{
-		"KEYWORD":"Mud Shaman",
-		"CARDNAME":"Mud Shaman",
-		"ALIAS":"Mud"
-	},
-	{
-		"KEYWORD":"Mycophage",
-		"CARDNAME":"Mycophage",
-		"ALIAS":"Mycosian Devourer"
-	},
-	{
-		"KEYWORD":"Mycophage Legendary",
-		"CARDNAME":"Mycophage Legendary",
-		"ALIAS":"Mycophage L;Mycosian Devourer L"
-	},
-	{
-		"KEYWORD":"Mycosian Leech",
-		"CARDNAME":"Mycosian Leech",
-		"ALIAS":"Leech"
-	},
-	{
-		"KEYWORD":"Mycosian Puffer",
-		"CARDNAME":"Mycosian Puffer",
-		"ALIAS":"Puffer"
-	},
-	{
-		"KEYWORD":"Mycosian Shaman",
-		"CARDNAME":"Mycosian Shaman",
-		"ALIAS":"Myco S;Mycosian S;M Shaman"
-	},
-	{
-		"KEYWORD":"Mycosian Shrieker",
-		"CARDNAME":"Mycosian Shrieker",
-		"ALIAS":"Shrieker"
-	},
-	{
-		"KEYWORD":"Mystic Archer",
-		"CARDNAME":"Mystic Archer",
-		"ALIAS":"Mystic"
-	},
-	{
-		"KEYWORD":"Netweaver",
-		"CARDNAME":"Netweaver",
-		"ALIAS":"Weaver"
-	},
-	{
-		"KEYWORD":"Night Hag",
-		"CARDNAME":"Night Hag",
-		"ALIAS":"Hag"
-	},
-	{
-		"KEYWORD":"Nightmare",
-		"CARDNAME":"Nightmare"
-	},
-	{
-		"KEYWORD":"Niven Stoutbow",
-		"CARDNAME":"Niven Stoutbow",
-		"ALIAS":"Niven"
-	},
-	{
-		"KEYWORD":"Niven Stoutbow Legendary",
-		"CARDNAME":"Niven Stoutbow Legendary",
-		"ALIAS":"Niven L;Niven Stoutbow L"
-	},
-	{
-		"KEYWORD":"Nokosa",
-		"CARDNAME":"Nokosa",
-		"ALIAS":"Nosoka"
-	},
-	{
-		"KEYWORD":"Nokosa Legendary",
-		"CARDNAME":"Nokosa Legendary",
-		"ALIAS":"Nokosa L;Nosoka L"
-	},
-	{
-		"KEYWORD":"Noxious Spray",
-		"CARDNAME":"Noxious Spray",
-		"ALIAS":"Nox;Noxious;Poison Spell"
-	},
-	{
-		"KEYWORD":"Null Bug",
-		"CARDNAME":"Null Bug",
-		"ALIAS":"Null"
-	},
-	{
-		"KEYWORD":"Null Bug Legendary",
-		"CARDNAME":"Null Bug Legendary",
-		"ALIAS":"Null L;Null Bug L"
-	},
-	{
-		"KEYWORD":"Odan, Hierophant Legendary",
-		"CARDNAME":"Odan, Hierophant Legendary",
-		"ALIAS":"Odan;Odan L;Odan, Hierophant;Odan, Hierophant L"
-	},
-	{
-		"KEYWORD":"Odysseus",
-		"CARDNAME":"Odysseus",
-		"ALIAS":"Ody"
-	},
-	{
-		"KEYWORD":"Odysseus Legendary",
-		"CARDNAME":"Odysseus Legendary",
-		"ALIAS":"Odysseus L;Ody L"
-	},
-	{
-		"KEYWORD":"Olifant",
-		"CARDNAME":"Olifant",
-		"ALIAS":"Olifaunt;Elephant"
-	},
-	{
-		"KEYWORD":"Omegon",
-		"CARDNAME":"Omegon"
-	},
-	{
-		"KEYWORD":"Omegon Legendary",
-		"CARDNAME":"Omegon Legendary",
-		"ALIAS":"Omegon L"
-	},
-	{
-		"KEYWORD":"Operations Mek",
-		"CARDNAME":"Operations Mek",
-		"ALIAS":"OP Mek"
-	},
-	{
-		"KEYWORD":"Operations Mek Legendary",
-		"CARDNAME":"Operations Mek Legendary",
-		"ALIAS":"OP Mek L;Operations Mek L"
-	},
-	{
-		"KEYWORD":"Oracle",
-		"CARDNAME":"Oracle"
-	},
-	{
-		"KEYWORD":"Outrider",
-		"CARDNAME":"Outrider"
-	},
-	{
-		"KEYWORD":"Owlbear",
-		"CARDNAME":"Owlbear",
-		"ALIAS":"Owl"
-	},
-	{
-		"KEYWORD":"Page",
-		"CARDNAME":"Page"
-	},
-	{
-		"KEYWORD":"Painter of Winds",
-		"CARDNAME":"Painter of Winds",
-		"ALIAS":"Painter"
-	},
-	{
-		"KEYWORD":"Painter of Winds Legendary",
-		"CARDNAME":"Painter of Winds Legendary",
-		"ALIAS":"Painter L;Painter of Winds L"
-	},
-	{
-		"KEYWORD":"Paladin",
-		"CARDNAME":"Paladin",
-		"ALIAS":"Pala"
-	},
-	{
-		"KEYWORD":"Pallcaster",
-		"CARDNAME":"Pallcaster",
-		"ALIAS":"Pall"
-	},
-	{
-		"KEYWORD":"Pandemonium",
-		"CARDNAME":"Pandemonium",
-		"ALIAS":"Panda;Pande"
-	},
-	{
-		"KEYWORD":"Pandemonium Legendary",
-		"CARDNAME":"Pandemonium Legendary",
-		"ALIAS":"Panda L;Pande L;Pandemonium L"
-	},
-	{
-		"KEYWORD":"Peltast",
-		"CARDNAME":"Peltast",
-		"ALIAS":"Pelt"
-	},
-	{
-		"KEYWORD":"Perseus",
-		"CARDNAME":"Perseus"
-	},
-	{
-		"KEYWORD":"Perseus Legendary",
-		"CARDNAME":"Perseus Legendary",
-		"ALIAS":"Perseus L"
-	},
-	{
-		"KEYWORD":"Pestilent",
-		"CARDNAME":"Pestilent"
-	},
-	{
-		"KEYWORD":"Pestilent Legendary",
-		"CARDNAME":"Pestilent Legendary",
-		"ALIAS":"Pestilent L"
-	},
-	{
-		"KEYWORD":"Philosopher",
-		"CARDNAME":"Philosopher",
-		"ALIAS":"Phil;Philo"
-	},
-	{
-		"KEYWORD":"Pike Thrower",
-		"CARDNAME":"Pike Thrower",
-		"ALIAS":"Pike"
-	},
-	{
-		"KEYWORD":"Plains Burner",
-		"CARDNAME":"Plains Burner",
-		"ALIAS":"Burner"
-	},
-	{
-		"KEYWORD":"Poet",
-		"CARDNAME":"Poet"
-	},
-	{
-		"KEYWORD":"Poison Imp",
-		"CARDNAME":"Poison Imp",
-		"ALIAS":"Pimp"
-	},
-	{
-		"KEYWORD":"Potion Master",
-		"CARDNAME":"Potion Master",
-		"ALIAS":"Potion"
-	},
-	{
-		"KEYWORD":"Pouncer",
-		"CARDNAME":"Pouncer"
-	},
-	{
-		"KEYWORD":"Prince Seval",
-		"CARDNAME":"Prince Seval",
-		"ALIAS":"Seval"
-	},
-	{
-		"KEYWORD":"Prince Seval Legendary",
-		"CARDNAME":"Prince Seval Legendary",
-		"ALIAS":"Seval L;Prince Seval L"
-	},
-	{
-		"KEYWORD":"Princess Khima",
-		"CARDNAME":"Princess Khima",
-		"ALIAS":"Khima"
-	},
-	{
-		"KEYWORD":"Princess Khima Legendary",
-		"CARDNAME":"Princess Khima Legendary",
-		"ALIAS":"Khima L;Princess Khima L"
-	},
-	{
-		"KEYWORD":"Prismatic Mage",
-		"CARDNAME":"Prismatic Mage",
-		"ALIAS":"Prismage"
-	},
-	{
-		"KEYWORD":"Prismatic Spray",
-		"CARDNAME":"Prismatic Spray",
-		"ALIAS":"Prism Spell;Prismatic Spell"
-	},
-	{
-		"KEYWORD":"Prodromoi",
-		"CARDNAME":"Prodromoi",
-		"ALIAS":"Prod"
-	},
-	{
-		"KEYWORD":"Purple Dragon",
-		"CARDNAME":"Purple Dragon",
-		"ALIAS":"Purple D"
-	},
-	{
-		"KEYWORD":"Purple Dragon Egg",
-		"CARDNAME":"Purple Dragon Egg",
-		"ALIAS":"Purple Egg"
-	},
-	{
-		"KEYWORD":"Purple Whelp",
-		"CARDNAME":"Purple Whelp",
-		"ALIAS":"Purple W"
-	},
-	{
-		"KEYWORD":"Queen Huloth",
-		"CARDNAME":"Queen Huloth",
-		"ALIAS":"Huloth"
-	},
-	{
-		"KEYWORD":"Queen Huloth Legendary",
-		"CARDNAME":"Queen Huloth Legendary",
-		"ALIAS":"Huloth L;Queen Huloth L"
-	},
-	{
-		"KEYWORD":"Quetzalcoatl",
-		"CARDNAME":"Quetzalcoatl",
-		"ALIAS":"Quetz"
-	},
-	{
-		"KEYWORD":"Quetzalcoatl Legendary",
-		"CARDNAME":"Quetzalcoatl Legendary",
-		"ALIAS":"Quetz L;Quetzalcoatl L"
-	},
-	{
-		"KEYWORD":"Rainbow Spirit Legendary",
-		"CARDNAME":"Rainbow Spirit Legendary",
-		"ALIAS":"Rainbow;Rainbow L;Rainbow Spirit;Rainbow Spirit L"
-	},
-	{
-		"KEYWORD":"Rampaging Saurian",
-		"CARDNAME":"Rampaging Saurian",
-		"ALIAS":"Rampasaur"
-	},
-	{
-		"KEYWORD":"Rampaging Saurian Legendary",
-		"CARDNAME":"Rampaging Saurian Legendary",
-		"ALIAS":"Rampasaur L;Rampaging Saurian L"
-	},
-	{
-		"KEYWORD":"Raps and Taps",
-		"CARDNAME":"Raps and Taps",
-		"ALIAS":"Raps;RapsnTaps"
-	},
-	{
-		"KEYWORD":"Raps and Taps Legendary",
-		"CARDNAME":"Raps and Taps Legendary",
-		"ALIAS":"Raps L;Raps and Taps L;RapsnTaps L"
-	},
-	{
-		"KEYWORD":"Raycatcher",
-		"CARDNAME":"Raycatcher"
-	},
-	{
-		"KEYWORD":"Recluse Spider",
-		"CARDNAME":"Recluse Spider",
-		"ALIAS":"Recluse"
-	},
-	{
-		"KEYWORD":"Red Dragon",
-		"CARDNAME":"Red Dragon",
-		"ALIAS":"Red D"
-	},
-	{
-		"KEYWORD":"Red Dragon Egg",
-		"CARDNAME":"Red Dragon Egg",
-		"ALIAS":"Red Egg"
-	},
-	{
-		"KEYWORD":"Red Whelp",
-		"CARDNAME":"Red Whelp",
-		"ALIAS":"Red W"
-	},
-	{
-		"KEYWORD":"Repair Mek",
-		"CARDNAME":"Repair Mek"
-	},
-	{
-		"KEYWORD":"Resist Magic",
-		"CARDNAME":"Resist Magic"
-	},
-	{
-		"KEYWORD":"Revitalize",
-		"CARDNAME":"Revitalize",
-		"ALIAS":"Revita"
-	},
-	{
-		"KEYWORD":"Revitalize Legendary",
-		"CARDNAME":"Revitalize Legendary",
-		"ALIAS":"Revita L;Revitalize L"
-	},
-	{
-		"KEYWORD":"Rust Monster",
-		"CARDNAME":"Rust Monster"
-	},
-	{
-		"KEYWORD":"Salahudin",
-		"CARDNAME":"Salahudin",
-		"ALIAS":"Saluman;Junay;Al Junay"
-	},
-	{
-		"KEYWORD":"Salahudin Legendary",
-		"CARDNAME":"Salahudin Legendary",
-		"ALIAS":"Salahudin L;Saluman L;Junay L; Al Junay L"
-	},
-	{
-		"KEYWORD":"Salamander",
-		"CARDNAME":"Salamander"
-	},
-	{
-		"KEYWORD":"Salamander Legendary",
-		"CARDNAME":"Salamander Legendary",
-		"ALIAS":"Salamander L"
-	},
-	{
-		"KEYWORD":"Sapper",
-		"CARDNAME":"Sapper"
-	},
-	{
-		"KEYWORD":"Saurian Herder",
-		"CARDNAME":"Saurian Herder",
-		"ALIAS":"Herder;S Herder"
-	},
-	{
-		"KEYWORD":"Saurian Rider",
-		"CARDNAME":"Saurian Rider",
-		"ALIAS":"S Rider"
-	},
-	{
-		"KEYWORD":"Saurian Scout",
-		"CARDNAME":"Saurian Scout",
-		"ALIAS":"S Scout"
-	},
-	{
-		"KEYWORD":"Saurian Trampler",
-		"CARDNAME":"Saurian Trampler",
-		"ALIAS":"Trampler"
-	},
-	{
-		"KEYWORD":"Scout Mek",
-		"CARDNAME":"Scout Mek",
-		"ALIAS":"Scout M"
-	},
-	{
-		"KEYWORD":"Scythoner Mek",
-		"CARDNAME":"Scythoner Mek",
-		"ALIAS":"Scythoner"
-	},
-	{
-		"KEYWORD":"Sela Stormcaller",
-		"CARDNAME":"Sela Stormcaller",
-		"ALIAS":"Sela"
-	},
-	{
-		"KEYWORD":"Sela Stormcaller Legendary",
-		"CARDNAME":"Sela Stormcaller Legendary",
-		"ALIAS":"Sela L;Sela Stormcaller L"
-	},
-	{
-		"KEYWORD":"Sentinel",
-		"CARDNAME":"Sentinel"
-	},
-	{
-		"KEYWORD":"Sentry Mek",
-		"CARDNAME":"Sentry Mek",
-		"ALIAS":"Sentry"
-	},
-	{
-		"KEYWORD":"Shadow Mage",
-		"CARDNAME":"Shadow Mage"
-	},
-	{
-		"KEYWORD":"Shadows",
-		"CARDNAME":"Shadows",
-		"ALIAS":"Stealth Spell"
-	},
-	{
-		"KEYWORD":"Shadowspinner",
-		"CARDNAME":"Shadowspinner"
-	},
-	{
-		"KEYWORD":"Shaman Elder",
-		"CARDNAME":"Shaman Elder",
-		"ALIAS":"S Elder;Sh Elder"
-	},
-	{
-		"KEYWORD":"Shaman Healer",
-		"CARDNAME":"Shaman Healer",
-		"ALIAS":"S Healer;Sh Healer"
-	},
-	{
-		"KEYWORD":"Shield",
-		"CARDNAME":"Shield"
-	},
-	{
-		"KEYWORD":"Shield Breaker",
-		"CARDNAME":"Shield Breaker",
-		"ALIAS":"Breaker"
-	},
-	{
-		"KEYWORD":"Shield Breaker Legendary",
-		"CARDNAME":"Shield Breaker Legendary",
-		"ALIAS":"Breaker L;Shield Breaker L"
-	},
-	{
-		"KEYWORD":"Shield Warrior",
-		"CARDNAME":"Shield Warrior",
-		"ALIAS":"S Warrior;Sh Warrior;Sd Warrior"
-	},
-	{
-		"KEYWORD":"Singer",
-		"CARDNAME":"Singer"
-	},
-	{
-		"KEYWORD":"Singularity",
-		"CARDNAME":"Singularity",
-		"ALIAS":"Wrath;Wrath Of God"
-	},
-	{
-		"KEYWORD":"Sir Valimont Legendary",
-		"CARDNAME":"Sir Valimont Legendary",
-		"ALIAS":"Sir V; Sir V L;Sir Valimont L;Valimont;Valimont L;Vali;Vali L;Sir Valimont;Sir"
-	},
-	{
-		"KEYWORD":"Skirmisher",
-		"CARDNAME":"Skirmisher",
-		"ALIAS":"Skirm"
-	},
-	{
-		"KEYWORD":"Sklirosaur",
-		"CARDNAME":"Sklirosaur",
-		"ALIAS":"Skliro"
-	},
-	{
-		"KEYWORD":"Sklirosaur Legendary",
-		"CARDNAME":"Sklirosaur Legendary",
-		"ALIAS":"Skilosaur L;Skliro L"
-	},
-	{
-		"KEYWORD":"Skoll",
-		"CARDNAME":"Skoll"
-	},
-	{
-		"KEYWORD":"Skoll Legendary",
-		"CARDNAME":"Skoll Legendary",
-		"ALIAS":"Skoll L"
-	},
-	{
-		"KEYWORD":"Sleeping Gas",
-		"CARDNAME":"Sleeping Gas",
-		"ALIAS":"Gas Trap"
-	},
-	{
-		"KEYWORD":"Slinger",
-		"CARDNAME":"Slinger"
-	},
-	{
-		"KEYWORD":"Slow Time",
-		"CARDNAME":"Slow Time",
-		"ALIAS":"Slow"
-	},
-	{
-		"KEYWORD":"Slow Time Legendary",
-		"CARDNAME":"Slow Time Legendary",
-		"ALIAS":"Slow Time L;Slow L"
-	},
-	{
-		"KEYWORD":"Speaks like Snakes",
-		"CARDNAME":"Speaks like Snakes",
-		"ALIAS":"Speaks;SlS;Snakes"
-	},
-	{
-		"KEYWORD":"Speaks like Snakes Legendary",
-		"CARDNAME":"Speaks like Snakes Legendary",
-		"ALIAS":"Speaks L;SlS L;Snakes L;Speaks like Snakes L"
-	},
-	{
-		"KEYWORD":"Spider-Rider",
-		"CARDNAME":"Spider-Rider",
-		"ALIAS":"Spider Rider;S Rider;SpiderRider"
-	},
-	{
-		"KEYWORD":"Spiderling",
-		"CARDNAME":"Spiderling"
-	},
-	{
-		"KEYWORD":"Spiked Imp",
-		"CARDNAME":"Spiked Imp"
-	},
-	{
-		"KEYWORD":"Stone Deacon",
-		"CARDNAME":"Stone Deacon",
-		"ALIAS":"Deacon"
-	},
-	{
-		"KEYWORD":"Stone Wall",
-		"CARDNAME":"Stone Wall",
-		"ALIAS":"W Stone"
-	},
-	{
-		"KEYWORD":"Storm Legendary",
-		"CARDNAME":"Storm Legendary",
-		"ALIAS":"Storm L;Storm"
-	},
-	{
-		"KEYWORD":"Storm Elemental",
-		"CARDNAME":"Storm Elemental",
-		"ALIAS":"Storm Ele"
-	},
-	{
-		"KEYWORD":"Storm Mage",
-		"CARDNAME":"Storm Mage",
-		"ALIAS":"S Mage"
-	},
-	{
-		"KEYWORD":"Storm Shaman",
-		"CARDNAME":"Storm Shaman",
-		"ALIAS":"S Shaman"
-	},
-	{
-		"KEYWORD":"Strength",
-		"CARDNAME":"Strength"
-	},
-	{
-		"KEYWORD":"Strobe Mek",
-		"CARDNAME":"Strobe Mek",
-		"ALIAS":"Strobe"
-	},
-	{
-		"KEYWORD":"Strobe Mek Legendary",
-		"CARDNAME":"Strobe Mek Legendary",
-		"ALIAS":"Strobe L;Strobe Mek L"
-	},
-	{
-		"KEYWORD":"Strychnos",
-		"CARDNAME":"Strychnos"
-	},
-	{
-		"KEYWORD":"Strychnos Legendary",
-		"CARDNAME":"Strychnos Legendary",
-		"ALIAS":"Strychnos L"
-	},
-	{
-		"KEYWORD":"Subterfuge",
-		"CARDNAME":"Subterfuge",
-		"ALIAS":"Backstab Spell"
-	},
-	{
-		"KEYWORD":"Sulfras Wall",
-		"CARDNAME":"Sulfras Wall",
-		"ALIAS":"Sulfras;W Sulfras"
-	},
-	{
-		"KEYWORD":"Summon Elementals",
-		"CARDNAME":"Summon Elementals",
-		"ALIAS":"Summon Ele"
-	},
-	{
-		"KEYWORD":"Swamp Gas",
-		"CARDNAME":"Swamp Gas",
-		"ALIAS":"W Gas"
-	},
-	{
-		"KEYWORD":"Swordsman",
-		"CARDNAME":"Swordsman",
-		"ALIAS":"Swordman"
-	},
-	{
-		"KEYWORD":"Syran Gemcaster",
-		"CARDNAME":"Syran Gemcaster",
-		"ALIAS":"Syran;Gemcaster"
-	},
-	{
-		"KEYWORD":"Syran Gemcaster Legendary",
-		"CARDNAME":"Syran Gemcaster Legendary",
-		"ALIAS":"Syran L;Gemcaster L;Syran Gemcaster L"
-	},
-	{
-		"KEYWORD":"Tarrasque",
-		"CARDNAME":"Tarrasque",
-		"ALIAS":"Tarr"
-	},
-	{
-		"KEYWORD":"Tarrasque Legendary",
-		"CARDNAME":"Tarrasque Legendary",
-		"ALIAS":"Tarr L;Tarrasque L"
-	},
-	{
-		"KEYWORD":"Temper of Beasts",
-		"CARDNAME":"Temper of Beasts",
-		"ALIAS":"ToB"
-	},
-	{
-		"KEYWORD":"Temper of Beasts Legendary",
-		"CARDNAME":"Temper of Beasts Legendary",
-		"ALIAS":"ToB L;Temper of Beasts L"
-	},
-	{
-		"KEYWORD":"Temple Monk",
-		"CARDNAME":"Temple Monk",
-		"ALIAS":"Monk;Temple"
-	},
-	{
-		"KEYWORD":"Timber Wolf",
-		"CARDNAME":"Timber Wolf",
-		"ALIAS":"Frenzy Wolf"
-	},
-	{
-		"KEYWORD":"Time Bomb",
-		"CARDNAME":"Time Bomb",
-		"ALIAS":"T Bomb"
-	},
-	{
-		"KEYWORD":"Time Elemental",
-		"CARDNAME":"Time Elemental",
-		"ALIAS":"Time Ele"
-	},
-	{
-		"KEYWORD":"Tracker",
-		"CARDNAME":"Tracker"
-	},
-	{
-		"KEYWORD":"Trapper",
-		"CARDNAME":"Trapper"
-	},
-	{
-		"KEYWORD":"Trash Collector",
-		"CARDNAME":"Trash Collector",
-		"ALIAS":"Trash;Collector"
-	},
-	{
-		"KEYWORD":"Trebuchet",
-		"CARDNAME":"Trebuchet",
-		"ALIAS":"Treb"
-	},
-	{
-		"KEYWORD":"Tree Fortress",
-		"CARDNAME":"Tree Fortress",
-		"ALIAS":"Tree Wall;W Tree;W Wood"
-	},
-	{
-		"KEYWORD":"Treespeaker",
-		"CARDNAME":"Treespeaker",
-		"ALIAS":"Treant"
-	},
-	{
-		"KEYWORD":"Triceras",
-		"CARDNAME":"Triceras"
-	},
-	{
-		"KEYWORD":"Triceras Legendary",
-		"CARDNAME":"Triceras Legendary",
-		"ALIAS":"Triceras L"
-	},
-	{
-		"KEYWORD":"Trident Warrior",
-		"CARDNAME":"Trident Warrior",
-		"ALIAS":"Trident"
-	},
-	{
-		"KEYWORD":"Tunnel Stalker",
-		"CARDNAME":"Tunnel Stalker",
-		"ALIAS":"Tunnel"
-	},
-	{
-		"KEYWORD":"Underminer",
-		"CARDNAME":"Underminer"
-	},
-	{
-		"KEYWORD":"Unsummon",
-		"CARDNAME":"Unsummon",
-		"ALIAS":"Bounce 2"
-	},
-	{
-		"KEYWORD":"Unsummon Legendary",
-		"CARDNAME":"Unsummon Legendary",
-		"ALIAS":"Unsummon L;Bounce 3"
-	},
-	{
-		"KEYWORD":"Vexling Imp",
-		"CARDNAME":"Vexling Imp",
-		"ALIAS":"Vexling"
-	},
-	{
-		"KEYWORD":"Volt Turret",
-		"CARDNAME":"Volt Turret",
-		"ALIAS":"Volt"
-	},
-	{
-		"KEYWORD":"Vox",
-		"CARDNAME":"Vox"
-	},
-	{
-		"KEYWORD":"Vox Legendary",
-		"CARDNAME":"Vox Legendary",
-		"ALIAS":"Vox L"
-	},
-	{
-		"KEYWORD":"Vyrecall",
-		"CARDNAME":"Vyrecall",
-		"ALIAS":"Drain Spell"
-	},
-	{
-		"KEYWORD":"Walks with Sorrow",
-		"CARDNAME":"Walks with Sorrow",
-		"ALIAS":"Walks;Walks with;Sorrow"
-	},
-	{
-		"KEYWORD":"Walks with Sorrow Legendary",
-		"CARDNAME":"Walks with Sorrow Legendary",
-		"ALIAS":"Walks L;Walks with Sorrow L;Walks with L;Sorrow L"
-	},
-	{
-		"KEYWORD":"Wall Crawler",
-		"CARDNAME":"Wall Crawler",
-		"ALIAS":"Crawler"
-	},
-	{
-		"KEYWORD":"Wall of Acid",
-		"CARDNAME":"Wall of Acid",
-		"ALIAS":"W Acid"
-	},
-	{
-		"KEYWORD":"Wall of Flames",
-		"CARDNAME":"Wall of Flames",
-		"ALIAS":"W Flames, Wall of Fire, Wall of Flame"
-	},
-	{
-		"KEYWORD":"Wall of Souls",
-		"CARDNAME":"Wall of Souls",
-		"ALIAS":"W Souls"
-	},
-	{
-		"KEYWORD":"Wall of Spears",
-		"CARDNAME":"Wall of Spears",
-		"ALIAS":"W Spears"
-	},
-	{
-		"KEYWORD":"Wall of Webs",
-		"CARDNAME":"Wall of Webs",
-		"ALIAS":"W Webs"
-	},
-	{
-		"KEYWORD":"Wall of Wind",
-		"CARDNAME":"Wall of Wind",
-		"ALIAS":"W Wind"
-	},
-	{
-		"KEYWORD":"War Pig",
-		"CARDNAME":"War Pig",
-		"ALIAS":"Pig"
-	},
-	{
-		"KEYWORD":"Warden Mek",
-		"CARDNAME":"Warden Mek",
-		"ALIAS":"Warden"
-	},
-	{
-		"KEYWORD":"Warden Mek Legendary",
-		"CARDNAME":"Warden Mek Legendary",
-		"ALIAS":"Warden L;Warden Mek L"
-	},
-	{
-		"KEYWORD":"Water Elemental",
-		"CARDNAME":"Water Elemental",
-		"ALIAS":"Water Ele"
-	},
-	{
-		"KEYWORD":"Water Mage",
-		"CARDNAME":"Water Mage",
-		"ALIAS":"W Mage;Water M"
-	},
-	{
-		"KEYWORD":"Webthrower",
-		"CARDNAME":"Webthrower"
-	},
-	{
-		"KEYWORD":"Will-o-Wisp",
-		"CARDNAME":"Will-o-Wisp",
-		"ALIAS":"Will o Wisp;Willowisp"
-	},
-	{
-		"KEYWORD":"Wind Shaman",
-		"CARDNAME":"Wind Shaman",
-		"ALIAS":"W Shaman"
-	},
-	{
-		"KEYWORD":"Wind Storm",
-		"CARDNAME":"Wind Storm",
-		"ALIAS":"Wind Spell"
-	},
-	{
-		"KEYWORD":"Wolf Lord",
-		"CARDNAME":"Wolf Lord",
-		"ALIAS":"W Lord"
-	},
-	{
-		"KEYWORD":"Wolf Rider",
-		"CARDNAME":"Wolf Rider",
-		"ALIAS":"W Rider"
-	},
-	{
-		"KEYWORD":"Wolf Scout",
-		"CARDNAME":"Wolf Scout",
-		"ALIAS":"W Scout"
-	},
-	{
-		"KEYWORD":"Wolf Spider",
-		"CARDNAME":"Wolf Spider",
-		"ALIAS":"W Spider"
-	},
-	{
-		"KEYWORD":"Wood Spirit",
-		"CARDNAME":"Wood Spirit",
-		"ALIAS":"Wood"
-	},
-	{
-		"KEYWORD":"Wren Moondancer",
-		"CARDNAME":"Wren Moondancer",
-		"ALIAS":"Wren"
-	},
-	{
-		"KEYWORD":"Wren Moondancer Legendary",
-		"CARDNAME":"Wren Moondancer Legendary",
-		"ALIAS":"Wren L;Wren Moondancer L"
-	},
-	{
-		"KEYWORD":"Wulf",
-		"CARDNAME":"Wulf"
-	},
-	{
-		"KEYWORD":"Wulf Legendary",
-		"CARDNAME":"Wulf Legendary",
-		"ALIAS":"Wulf L"
-	},
-	{
-		"KEYWORD":"Xenosaur Legendary",
-		"CARDNAME":"Xenosaur Legendary",
-		"ALIAS":"Xeno;Xeno L;Xenosaur;Xenosaur L"
-	},
-	{
-		"KEYWORD":"Yuta Dusksong",
-		"CARDNAME":"Yuta Dusksong",
-		"ALIAS":"Yuta"
-	},
-	{
-		"KEYWORD":"Yuta Dusksong Legendary",
-		"CARDNAME":"Yuta Dusksong Legendary",
-		"ALIAS":"Yuta L;Yuta Dusksong L"
-	},
-	{
-		"KEYWORD":"Zenia, Werewolf",
-		"CARDNAME":"Zenia, Werewolf",
-		"ALIAS":"Zenia;Zenia Werewolf;Xenia"
-	},
-	{
-		"KEYWORD":"Zenia, Werewolf Legendary",
-		"CARDNAME":"Zenia, Werewolf Legendary",
-		"ALIAS":"Zenia L;Zenia Werewolf L;Zenia, Werewolf L;Xenia L"
-	},
-	{
-		"KEYWORD":"Zink Legendary",
-		"CARDNAME":"Zink Legendary",
-		"ALIAS":"Zink L;Zink"
-	},
-	{
-		"KEYWORD":"Zorak the Mace",
-		"CARDNAME":"Zorak the Mace",
-		"ALIAS":"Zorak;Mace"
-	},
-	{
-		"KEYWORD":"Zorak the Mace Legendary",
-		"CARDNAME":"Zorak the Mace Legendary",
-		"ALIAS":"Zorak L;Zorak the Mace L;Mace L"
-	},
-	{
-		"KEYWORD":"Jezebel",
-		"CARDNAME":"Jezebel"
-	},
-	{
-		"KEYWORD":"Jezebel Legendary",
-		"CARDNAME":"Jezebel Legendary",
-		"ALIAS":"Jezebel L"
-	},
-	{
-		"KEYWORD":"Xorgum",
-		"CARDNAME":"Xorgum"
-	},
-	{
-		"KEYWORD":"Xorgum Legendary",
-		"CARDNAME":"Xorgum Legendary",
-		"ALIAS":"Xorgum L"
-	},
-	{
-		"KEYWORD":"Ward Kodesh",
-		"CARDNAME":"Ward Kodesh",
-		"ALIAS":"Kodesh"
-	},
-	{
-		"KEYWORD":"Ward Kodesh Legendary",
-		"CARDNAME":"Ward Kodesh Legendary",
-		"ALIAS":"Ward Kodesh L;Kodesh L"
-	},
-	{
-		"KEYWORD":"Ephei, Fated",
-		"CARDNAME":"Ephei, Fated",
-		"ALIAS":"Ephei Fated"
-	},
-	{
-		"KEYWORD":"Ephei, Fated Legendary",
-		"CARDNAME":"Ephei, Fated Legendary",
-		"ALIAS":"Ephei, Fated L;Ephei Fated L"
-	},
-	{
-		"KEYWORD":"Constructor Cetnic",
 		"CARDNAME":"Constructor Cetnic",
-		"ALIAS":"Cetnic"
+		"ALIAS":"Cetnic",
+		"FLAVOR":"Cetnic is one of the oldest Constructors and not particularly given to innovation ... or outsiders ... or other dark elves."
 	},
 	{
-		"KEYWORD":"Constructor Cetnic Legendary",
 		"CARDNAME":"Constructor Cetnic Legendary",
-		"ALIAS":"Constructor Cetnic L;Cetnic L"
+		"ALIAS":"Constructor Cetnic L;Cetnic L",
+		"FLAVOR":"Cetnic is one of the oldest Constructors and not particularly given to innovation ... or outsiders ... or other dark elves."
 	},
 	{
-		"KEYWORD":"Dances with Crows",
+		"CARDNAME":"Constructor Darik",
+		"ALIAS":"Darik",
+		"FLAVOR":"Many ranks in the Dark Elf army arise from the militarization of engineering posts. Darik spent years as an expediter -- originally a designer of clockwork -- before earning the title of Constructor."
+	},
+	{
+		"CARDNAME":"Constructor Darik Legendary",
+		"ALIAS":"Darik L;Constructor Darik L",
+		"FLAVOR":"Many ranks in the Dark Elf army arise from the militarization of engineering posts. Darik spent years as an expediter -- originally a designer of clockwork -- before earning the title of Constructor."
+	},
+	{
+		"CARDNAME":"Constructor Liaric",
+		"ALIAS":"Liaric",
+		"FLAVOR":"All constructors technically have equal seniority, but Liaric has no interest in politics. She is a mechanical genius, however, and is credited with inventing many of the most oft-used meks."
+	},
+	{
+		"CARDNAME":"Constructor Liaric Legendary",
+		"ALIAS":"Liaric L;Constructor Liaric L",
+		"FLAVOR":"All constructors technically have equal seniority, but Liaric has no interest in politics. She is a mechanical genius, however, and is credited with inventing many of the most oft-used meks."
+	},
+	{
+		"CARDNAME":"Constructor Owa",
+		"ALIAS":"Owa",
+		"FLAVOR":"Owa is a decisive and quick-witted strategist, making her a typically capable dark-elf general."
+	},
+	{
+		"CARDNAME":"Constructor Owa Legendary",
+		"ALIAS":"Owa L;Constructor Owa L",
+		"FLAVOR":"Owa is a decisive and quick-witted strategist, making her a typically capable dark-elf general."
+	},
+	{
+		"CARDNAME":"Constructor Sapok",
+		"ALIAS":"Sapok",
+		"FLAVOR":"The Divine Order treats Sapok with equal parts fear and respect. His specialty is covert operations, but it would be most accurate just to call him an assassin."
+	},
+	{
+		"CARDNAME":"Constructor Sapok Legendary",
+		"ALIAS":"Sapok L;Constructor Sapok L",
+		"FLAVOR":"The Divine Order treats Sapok with equal parts fear and respect. His specialty is covert operations, but it would be most accurate just to call him an assassin."
+	},
+	{
+		"CARDNAME":"Constructor Ulnik",
+		"ALIAS":"Ulnik",
+		"FLAVOR":"Many in the empire would have it that Ulnik became a constructor only because of Vyona and Aznik's political influence."
+	},
+	{
+		"CARDNAME":"Constructor Ulnik Legendary",
+		"ALIAS":"Ulnik L;Constructor Ulnik L",
+		"FLAVOR":"Many in the empire would have it that Ulnik became a constructor only because of Vyona and Aznik's political influence."
+	},
+	{
+		"CARDNAME":"Corvina",
+		"ALIAS":"Corv",
+		"FLAVOR":"Corvina's clan, the Hussars, consider themselves indomitable. They master their steeds as well as they master the harsh elements of their homeland."
+	},
+	{
+		"CARDNAME":"Corvina Legendary",
+		"ALIAS":"Corvina L;Corv L",
+		"FLAVOR":"Corvina's clan, the Hussars, consider themselves indomitable. They master their steeds as well as they master the harsh elements of their homeland."
+	},
+	{
+		"CARDNAME":"Counterspell",
+		"ALIAS":"Counter;Counter Spell",
+		"FLAVOR":"Fight fire with fire ... stop magic with magic."
+	},
+	{
+		"CARDNAME":"Crusher of Shields",
+		"ALIAS":"Crusher;CoS",
+		"FLAVOR":"She is the mightiest orc warrior, and that's saying something."
+	},
+	{
+		"CARDNAME":"Crusher of Shields Legendary",
+		"ALIAS":"Crusher L;CoS L",
+		"FLAVOR":"She is the mightiest orc warrior, and that's saying something."
+	},
+	{
+		"CARDNAME":"Ctarath",
+		"ALIAS":"Cta;Ctareth;Ctar",
+		"FLAVOR":"An explorer, Ctarath traveled to the farthest reaches of the Caves. No one knows what dark powers she encountered in those depths, but they seem to radiate from within her now."
+	},
+	{
+		"CARDNAME":"Ctarath Legendary",
+		"ALIAS":"Ctarath L;Cta L;Ctareth L;Ctar L",
+		"FLAVOR":"An explorer, Ctarath traveled to the farthest reaches of the Caves. No one knows what dark powers she encountered in those depths, but they seem to radiate from within her now."
+	},
+	{
+		"CARDNAME":"Cytosian",
+		"ALIAS":"Cyt;Cyto",
+		"FLAVOR":"In the caves, the debate is endless. What is more deadly: spider poison or mycosian poison?"
+	},
+	{
 		"CARDNAME":"Dances with Crows",
-		"ALIAS":"DwC;Dances;Crows"
+		"ALIAS":"DwC;Dances;Crows;Dance",
+		"FLAVOR":"Chief shaman of the thunder tribe is an \"important\" position, conferring all the reverence orcs have for birds."
 	},
 	{
-		"KEYWORD":"Dances with Crows Legendary",
 		"CARDNAME":"Dances with Crows Legendary",
-		"ALIAS":"Dances with Crows L;DwC L;Dances L;Crows L"
+		"ALIAS":"Dances with Crows L;DwC L;Dances L;Crows L;Dance L",
+		"FLAVOR":"Chief shaman of the thunder tribe is an \"important\" position, conferring all the reverence orcs have for birds."
+	},
+	{
+		"CARDNAME":"Daos",
+		"ALIAS":"",
+		"FLAVOR":"Daos is the master of the green Blade of Envy. Any warlord who would call on his aid must pay a dear price for his incredible power."
+	},
+	{
+		"CARDNAME":"Daos Legendary",
+		"ALIAS":"Daos L",
+		"FLAVOR":"Daos is the master of the green Blade of Envy. Any warlord who would call on his aid must pay a dear price for his incredible power."
+	},
+	{
+		"CARDNAME":"Darius",
+		"ALIAS":"",
+		"FLAVOR":"Darius wears no armor -- only a coat of fearlessness."
+	},
+	{
+		"CARDNAME":"Darius Legendary",
+		"ALIAS":"Darius L",
+		"FLAVOR":"Darius wears no armor -- only a coat of fearlessness."
+	},
+	{
+		"CARDNAME":"Dark Coercion",
+		"ALIAS":"Mill Spell",
+		"FLAVOR":"Spider magic is rare and tends to affect the mind. Spider mages take their inspiration from the many hallucinogenic toxins that permeate the Caves."
+	},
+	{
+		"CARDNAME":"Darkbow",
+		"ALIAS":"",
+		"FLAVOR":"The Darkbow brood are hairless and venomless, but have honed bow skills to make themselves as deadly as their acid-spitting cousins."
+	},
+	{
+		"CARDNAME":"Darkling",
+		"ALIAS":"",
+		"FLAVOR":"Darklings are often pets of greater demonic masters. They seem to sow bad luck and dissent wherever they tread."
+	},
+	{
+		"CARDNAME":"Darter",
+		"ALIAS":"",
+		"FLAVOR":"Darters can hit a moving target at 30 feet. They are a simple brood and keep to themselves, mostly."
+	},
+	{
+		"CARDNAME":"Dawn Guard",
+		"ALIAS":"Dawn",
+		"FLAVOR":"The dawn guard were an elite Atlantean task force, founded in days gone by when Atlantea warred with the Elves. The two factions are now at peace, but these soldiers still thrive against magical foes."
+	},
+	{
+		"CARDNAME":"Despair",
+		"ALIAS":"",
+		"FLAVOR":"Most demons revel in violence, but this one revels in fear."
+	},
+	{
+		"CARDNAME":"Devourer",
+		"ALIAS":"",
+		"FLAVOR":"The abyssal planes whence demonkind originates are absolutely crawling with imps ... and the predators that have taken advantage of this fact."
+	},
+	{
+		"CARDNAME":"Dire Rabbit",
+		"ALIAS":"Rabbit;Bunny",
+		"FLAVOR":"Even the most peaceful little creatures can be twisted by the sheer elemental power of the Glen."
+	},
+	{
+		"CARDNAME":"Disintegrate",
+		"ALIAS":"Dis",
+		"FLAVOR":"Disintegration is actually one of the more basic skills of the materian ... the more complex aemancy skills are the ones where you put things back together again."
+	},
+	{
+		"CARDNAME":"Disintegrate Legendary",
+		"ALIAS":"Dis L;Disintegrate L",
+		"FLAVOR":"Disintegration is actually one of the more basic skills of the materian ... the more complex aemancy skills are the ones where you put things back together again."
+	},
+	{
+		"CARDNAME":"Dominion Wall",
+		"ALIAS":"Dominion;W Dominion;W Dom;Dom",
+		"FLAVOR":"There are walls to gird a city, and then there are walls to gird an empire."
+	},
+	{
+		"CARDNAME":"Dominion Wall Legendary",
+		"ALIAS":"Dominion L;Dominion Wall L;W Dominion L; W Dom L;Dom L",
+		"FLAVOR":"There are walls to gird a city, and then there are walls to gird an empire."
+	},
+	{
+		"CARDNAME":"Doom",
+		"ALIAS":"",
+		"FLAVOR":"Death spells are forbidden by many orders of mages. That is, until they are beset by hordes of monsters. Then, suddenly, death spells are incredibly useful."
+	},
+	{
+		"CARDNAME":"Doom Legendary",
+		"ALIAS":"Doom L",
+		"FLAVOR":"Death spells are forbidden by many orders of mages. That is, until they are beset by hordes of monsters. Then, suddenly, death spells are incredibly useful."
+	},
+	{
+		"CARDNAME":"Dragon Clutch Legendary",
+		"ALIAS":"Dragon Clutch;Clutch;Eggs;Dragon Eggs",
+		"FLAVOR":"Dragon eggs take years to hatch, but it seems dragons can actually hatch early, spontaneously, when they feel threatened."
+	},
+	{
+		"CARDNAME":"Dragon Hunter",
+		"ALIAS":"",
+		"FLAVOR":"Only blue dragons nest on Atlantea, but other dragons do fly down from the Dragon Isles to hunt. Dragon hunters claim blues as their mounts and specialize in fighting off such invaders."
+	},
+	{
+		"CARDNAME":"Dragon Mek",
+		"ALIAS":"D Mek;Mek ED;Mek Elder Dragon",
+		"FLAVOR":"Dark elves have traveled throughout the Storm, primarily thanks to their capability in designing airborne vehicles. Appropriately, this one was built to explore the Dragon Isles."
+	},
+	{
+		"CARDNAME":"Dragon Mek Legendary",
+		"ALIAS":"D Mek L;Dragon Mek L;Mek ED L;Mek Elder Dragon L",
+		"FLAVOR":"Dark elves have traveled throughout the Storm, primarily thanks to their capability in designing airborne vehicles. Appropriately, this one was built to explore the Dragon Isles."
+	},
+	{
+		"CARDNAME":"Dream Dust",
+		"ALIAS":"Paralyse Spell;Paralyze Spell;Paralyze;Paralyse",
+		"FLAVOR":"Interestingly, Dream Dust is not a mind-altering spell, but rather a conjuration of magical nerve toxin."
+	},
+	{
+		"CARDNAME":"Drikkim",
+		"ALIAS":"Drik",
+		"FLAVOR":"A wicked little demon, the Drikkim preys on those who would think it too innocent-looking to cause any harm."
+	},
+	{
+		"CARDNAME":"Drikkim Legendary",
+		"ALIAS":"Drik L;Drikkim L",
+		"FLAVOR":"A wicked little demon, the Drikkim preys on those who would think it too innocent-looking to cause any harm."
+	},
+	{
+		"CARDNAME":"Drill Mek",
+		"ALIAS":"Drill",
+		"FLAVOR":"Although they were designed to dig tunnels, Drill Meks are easily repurposed as war machines."
+	},
+	{
+		"CARDNAME":"Drill Mek Legendary",
+		"ALIAS":"Drill L;Drill Mek L",
+		"FLAVOR":"Although they were designed to dig tunnels, Drill Meks are easily repurposed as war machines."
+	},
+	{
+		"CARDNAME":"Duskbringer",
+		"ALIAS":"Dusk",
+		"FLAVOR":"Those born of magic thrive in its presence."
+	},
+	{
+		"CARDNAME":"Earth Elemental",
+		"ALIAS":"Earth Ele",
+		"FLAVOR":"Earth elementals are drawn from the steady and stern nature of earth."
+	},
+	{
+		"CARDNAME":"Earth Mage",
+		"ALIAS":"Earth M;E Mage",
+		"FLAVOR":"For elves, conjuring sandstorms takes years of study, but defensive earth magic can be learned in a pinch."
+	},
+	{
+		"CARDNAME":"Efreet",
+		"ALIAS":"Ifrit",
+		"FLAVOR":"All genies are powerful sorcerors, and only the more treacherous when they take on human form. The efreet are genies born of magical fire."
+	},
+	{
+		"CARDNAME":"Elder Cinder Legendary",
+		"ALIAS":"Cinder;Red ED;Red Elder Dragon",
+		"FLAVOR":"As a rule, a dragon will honor its word; however dragons don't necessarily think lesser creatures are worthy of parley. Cinder is a powerful ally, but not a reliable one."
+	},
+	{
+		"CARDNAME":"Elder Erisdar Legendary",
+		"ALIAS":"Erisdar;Blue ED;Blue Elder Dragon",
+		"FLAVOR":"Lord of the blue dragons and king of the mountain, Erisdar has entreated with humans in the past."
+	},
+	{
+		"CARDNAME":"Elder Kindralt Legendary",
+		"ALIAS":"Kindralt;Green ED;Green Elder Dragon",
+		"FLAVOR":"Master of the forest-dwelling green dragons, Kindralt does not suffer the weak. Those the dragonlord deems worthy are dubbed fellow \"predators,\" so long as they respect the dominion of nature."
+	},
+	{
+		"CARDNAME":"Elder Samurai",
+		"ALIAS":"Samurai",
+		"FLAVOR":"The samurai of Eido train by fighting many opponents at once."
+	},
+	{
+		"CARDNAME":"Elder Shorloth Legendary",
+		"ALIAS":"Shorloth;Black ED;Black Elder Dragon",
+		"FLAVOR":"Dragons consider the affairs of men and elves ephemeral in the larger scheme of Balance. Shorloth allied with demons long ago and has grown to distrust all humans."
+	},
+	{
+		"CARDNAME":"Elder Warrior",
+		"ALIAS":"E Warrior;Elder W",
+		"FLAVOR":"Becoming a veteran in as violent and murderous a society as one of the orcish tribes is a well respected accomplishment."
+	},
+	{
+		"CARDNAME":"Elder Wurmryn Legendary",
+		"ALIAS":"Wurmryn;Purple ED;Purple Elder Dragon",
+		"FLAVOR":"The reaches of the Caves are as yet unknown to all but spiders. Somehow, the unfathomable depths are connected to other worlds -- including the vast underground kingdom of Wurmryn."
+	},
+	{
+		"CARDNAME":"Electrocute",
+		"ALIAS":"Elec",
+		"FLAVOR":"Man or beast, elf or orc -- not many creatures can withstand a direct hit from a lightning bolt."
+	},
+	{
+		"CARDNAME":"Elren, Summoner",
+		"ALIAS":"Elren;Summoner",
+		"FLAVOR":"Elren and his consort Amariel are the greatest summoners of high-elf kind."
+	},
+	{
+		"CARDNAME":"Elren, Summoner Legendary",
+		"ALIAS":"Elren L;Elren, Summoner L;Summoner L",
+		"FLAVOR":"Elren and his consort Amariel are the greatest summoners of high-elf kind."
+	},
+	{
+		"CARDNAME":"Ember Mage",
+		"ALIAS":"Ember",
+		"FLAVOR":"A junior firecaster."
+	},
+	{
+		"CARDNAME":"Engineer",
+		"ALIAS":"",
+		"FLAVOR":"The stonebuilders' guild in Delos has no peer in Atlantea."
+	},
+	{
+		"CARDNAME":"Ephei, Fated",
+		"ALIAS":"Ephei Fated;Ephei",
+		"FLAVOR":"The elven heroine of Bantam's eyes gleam with purpose."
+	},
+	{
+		"CARDNAME":"Ephei, Fated Legendary",
+		"ALIAS":"Ephei, Fated L;Ephei Fated L;Ephei L",
+		"FLAVOR":"The elven heroine of Bantam's eyes gleam with purpose."
+	},
+	{
+		"CARDNAME":"Erinye",
+		"ALIAS":"Erin",
+		"FLAVOR":"The erinye is a spirit of vengeance, but she is far from righteous."
+	},
+	{
+		"CARDNAME":"Expediter",
+		"ALIAS":"Expedite",
+		"FLAVOR":"Expediters, the clockwork experts of the empire, blend magic and technology in a brilliant fashion typical of dark elves."
+	},
+	{
+		"CARDNAME":"Eye Tyrant",
+		"ALIAS":"Eye",
+		"FLAVOR":"A minor beholder, the eye tyrant's draining rays are as deadly as any."
+	},
+	{
+		"CARDNAME":"Fallen Celestial",
+		"ALIAS":"Celestial",
+		"FLAVOR":"Demons take on terrifying forms, and as a result myths arise about their origins."
+	},
+	{
+		"CARDNAME":"Fenris",
+		"ALIAS":"Fenrir",
+		"FLAVOR":"The Prince of Elves has not been seen in an age, but his legendary companion still roams the westerly forest borders, hunting the orcs and men that would dare enter."
+	},
+	{
+		"CARDNAME":"Fenris Legendary",
+		"ALIAS":"Fenris L;Fenrir L",
+		"FLAVOR":"The Prince of Elves has not been seen in an age, but his legendary companion still roams the westerly forest borders, hunting the orcs and men that would dare enter."
+	},
+	{
+		"CARDNAME":"Feral Orc",
+		"ALIAS":"Feral",
+		"FLAVOR":"To be wild by orc standards takes some doing."
+	},
+	{
+		"CARDNAME":"Fetish Warrior",
+		"ALIAS":"Fetish",
+		"FLAVOR":"A touch of the occult is not uncommon even among orcish skirmishers."
+	},
+	{
+		"CARDNAME":"Field Mage",
+		"ALIAS":"Field",
+		"FLAVOR":"Dark elves rarely carry armor or shields, but their magical technology has afforded them some alternatives."
+	},
+	{
+		"CARDNAME":"Filch",
+		"ALIAS":"Steal Spell",
+		"FLAVOR":"The idea to say \"there's honor amongst thieves\" was probably stolen."
+	},
+	{
+		"CARDNAME":"Filch Legendary",
+		"ALIAS":"Filch L;Steal Spell L",
+		"FLAVOR":"The idea to say \"there's honor amongst thieves\" was probably stolen."
+	},
+	{
+		"CARDNAME":"Fire Blast",
+		"ALIAS":"Fire Spell",
+		"FLAVOR":"Nameless Horde magic 101."
+	},
+	{
+		"CARDNAME":"Fire Elemental",
+		"ALIAS":"Fire Ele",
+		"FLAVOR":"Fire elementals burn with the aggressive and rapacious nature of fire."
+	},
+	{
+		"CARDNAME":"Fire Imp",
+		"ALIAS":"Fimp",
+		"FLAVOR":"Imps are bred to be expendable but that doesn't mean they're harmless."
+	},
+	{
+		"CARDNAME":"Firecaster",
+		"ALIAS":"",
+		"FLAVOR":"Fire magic isn't subtle, but it gets the job done."
+	},
+	{
+		"CARDNAME":"Flameskull",
+		"ALIAS":"",
+		"FLAVOR":"Demons take on all manner of forms. The more terrifying to mortal enemies, the better."
+	},
+	{
+		"CARDNAME":"Flashdraft",
+		"ALIAS":"Flash;Draft",
+		"FLAVOR":"Magical power can come in bursts, and that's great for fast results ... but it can also backfire if the mage is not prepared."
+	},
+	{
+		"CARDNAME":"Flux Mage",
+		"ALIAS":"Flux",
+		"FLAVOR":"Flux mages are like the mad scientists of dark elf society. Experimentation is the mother of innovation, they say."
+	},
+	{
+		"CARDNAME":"Footman",
+		"ALIAS":"Foot",
+		"FLAVOR":"One advantage of the class system in Eido is that every warrior comes with a retinue of assistants."
+	},
+	{
+		"CARDNAME":"Frenetic Imp",
+		"ALIAS":"Frenetic",
+		"FLAVOR":"Frenetic imps are kept in heavy shackles and only released on the battlefield. When freed, they take to the fray with incredible vigor."
+	},
+	{
+		"CARDNAME":"Gemini Imp",
+		"ALIAS":"Gemini",
+		"FLAVOR":"What imps lack in strength, they make up for in numbers."
+	},
+	{
+		"CARDNAME":"Genocide",
+		"ALIAS":"Geno",
+		"FLAVOR":"A very powerful, very unpleasant, and very deadly spell."
+	},
+	{
+		"CARDNAME":"Genocide Legendary",
+		"ALIAS":"Genocide L;Geno L",
+		"FLAVOR":"A very powerful, very unpleasant, and very deadly spell."
+	},
+	{
+		"CARDNAME":"Gibberling Imp",
+		"ALIAS":"Gibberling",
+		"FLAVOR":"The constant, annoying tittering of these imps probably led them to need to defend themselves from many a thrown projectile. Thus the shields."
+	},
+	{
+		"CARDNAME":"Gladiator",
+		"ALIAS":"",
+		"FLAVOR":"The Kings of Delos put an end to the death matches in the Coliseum years ago. Now gladiators are known for their prowess in single combat and not for thirsting after violence."
+	},
+	{
+		"CARDNAME":"Glen Hunter",
+		"ALIAS":"Glen",
+		"FLAVOR":"The Glen is the deepest part of the Easterwood on Atlantea, and home to some of its most dangerous inhabitants."
+	},
+	{
+		"CARDNAME":"Gloom",
+		"ALIAS":"",
+		"FLAVOR":"Not all moon-worshippers are elves."
+	},
+	{
+		"CARDNAME":"Gloom Legendary",
+		"ALIAS":"Gloom L",
+		"FLAVOR":"Not all moon-worshippers are elves."
+	},
+	{
+		"CARDNAME":"Goldleaf Archer",
+		"ALIAS":"Goldleaf",
+		"FLAVOR":"Charisma is a boon even in war."
+	},
+	{
+		"CARDNAME":"Gorgon Song Legendary",
+		"ALIAS":"Gorgon;Song;Gorgon L;Song L;Gorgon Song L",
+		"FLAVOR":"The tune is melodious but the results are discordant, to say the least."
+	},
+	{
+		"CARDNAME":"Great Gorgu",
+		"ALIAS":"Gorgu",
+		"FLAVOR":"Known as the forebear of all mycosians, the Great Gorgu is also revered by spiders."
+	},
+	{
+		"CARDNAME":"Great Gorgu Legendary",
+		"ALIAS":"Great Gorgu L;Gorgu L",
+		"FLAVOR":"Known as the forebear of all mycosians, the Great Gorgu is also revered by spiders."
+	},
+	{
+		"CARDNAME":"Green Dragon",
+		"ALIAS":"Green D",
+		"FLAVOR":"Mature green dragons are ferocious predators, and the bane of birds everywhere in Atlantea."
+	},
+	{
+		"CARDNAME":"Green Dragon Egg",
+		"ALIAS":"Green Egg",
+		"FLAVOR":"Green dragon auras are so strong that even their shells shimmer with magical protection."
+	},
+	{
+		"CARDNAME":"Green Whelp",
+		"ALIAS":"Green W",
+		"FLAVOR":"Young green dragons are famously curious, like cats. But, they're a lot more dangerous to run across in the Glen."
+	},
+	{
+		"CARDNAME":"Griever",
+		"ALIAS":"Greiver",
+		"FLAVOR":"It is said that the wounds inflicted by a griever never heal."
+	},
+	{
+		"CARDNAME":"Griflet",
+		"ALIAS":"Grif",
+		"FLAVOR":"Though just a boy, Griflet has served as page to some of the mightiest kings of men, and is often entrusted with their most precious armaments."
+	},
+	{
+		"CARDNAME":"Griflet Legendary",
+		"ALIAS":"Grif L;Griflet L",
+		"FLAVOR":"Though just a boy, Griflet has served as page to some of the mightiest kings of men, and is often entrusted with their most precious armaments."
+	},
+	{
+		"CARDNAME":"Grimalkin",
+		"ALIAS":"Grim",
+		"FLAVOR":"The Grimalkin is a companion bot specced for search and destroy missions, when a scout needs to be sent ahead (and not necessarily return)."
+	},
+	{
+		"CARDNAME":"Grimalkin Legendary",
+		"ALIAS":"Grim L;Grimalkin L",
+		"FLAVOR":"The Grimalkin is a companion bot specced for search and destroy missions, when a scout needs to be sent ahead (and not necessarily return)."
+	},
+	{
+		"CARDNAME":"Grotesque",
+		"ALIAS":"Grot",
+		"FLAVOR":"Although her power rivals that of the archdemons, Grotesque is never found on a throne, but rather always in the thick of battle."
+	},
+	{
+		"CARDNAME":"Grotesque Legendary",
+		"ALIAS":"Grot L;Grotesque L",
+		"FLAVOR":"Although her power rivals that of the archdemons, Grotesque is never found on a throne, but rather always in the thick of battle."
+	},
+	{
+		"CARDNAME":"Guardian",
+		"ALIAS":"",
+		"FLAVOR":"Guardians are dark elf mages tasked with creating safe zones for gunners on the battlefield."
+	},
+	{
+		"CARDNAME":"Hawk Warrior",
+		"ALIAS":"Hawk",
+		"FLAVOR":"The hawk tribe is a small band of desert fighters known for their lanky stature and long reach, made even longer by their spears."
+	},
+	{
+		"CARDNAME":"Headsplitter",
+		"ALIAS":"",
+		"FLAVOR":"Someone gave this wreckless bestial demon a huge axe. Typical."
+	},
+	{
+		"CARDNAME":"Healing Rays",
+		"ALIAS":"Heal Spell",
+		"FLAVOR":"Mass healing spells are a powerful cornerstone of white magic."
+	},
+	{
+		"CARDNAME":"Heavy Mek",
+		"ALIAS":"Heavy",
+		"FLAVOR":"The standard-issue front-line assault robots of the dark elf armies."
+	},
+	{
+		"CARDNAME":"Hell Hound",
+		"ALIAS":"Hound",
+		"FLAVOR":"Its bite is worse than its bark."
+	},
+	{
+		"CARDNAME":"Herd Runner",
+		"ALIAS":"Runner",
+		"FLAVOR":"Shepherd or \"hunter\" of saurians ... it's all a matter of perspective."
+	},
+	{
+		"CARDNAME":"High Elf Druid",
+		"ALIAS":"HE Druid;Druid",
+		"FLAVOR":"Herblore is one of the oldest and most respected wisdoms in elf society."
+	},
+	{
+		"CARDNAME":"High Elf Healer",
+		"ALIAS":"HE Healer",
+		"FLAVOR":"Healing comes naturally to high elves, among myriad other magical gifts."
+	},
+	{
+		"CARDNAME":"High Elf Scout",
+		"ALIAS":"HE Scout",
+		"FLAVOR":"Scouts have a very simple modus operandi: see your enemy before he sees you."
+	},
+	{
+		"CARDNAME":"Hipparch Solon",
+		"ALIAS":"Solon;Hipparch",
+		"FLAVOR":"Delos has a paper monarchy, as rule is shared between the Senate and Military. Hipparch Solon, the city's most respected general, is charged to protect it, and by extension all of greater Atlantea."
+	},
+	{
+		"CARDNAME":"Hipparch Solon Legendary",
+		"ALIAS":"Solon L;Hipparch L;Hipparch Solon L",
+		"FLAVOR":"Delos has a paper monarchy, as rule is shared between the Senate and Military. Hipparch Solon, the city's most respected general, is charged to protect it, and by extension all of greater Atlantea."
+	},
+	{
+		"CARDNAME":"Hippeus",
+		"ALIAS":"",
+		"FLAVOR":"Serving under the Hipparch, the Atlantean cavalry wields devastating wrought-iron spears."
+	},
+	{
+		"CARDNAME":"Hippotoxote",
+		"ALIAS":"Hippo;Hippotoxtoe",
+		"FLAVOR":"It takes a great deal of equestrian skill to steady a charging horse well enough to use bow and arrow."
+	},
+	{
+		"CARDNAME":"Hob Archer",
+		"ALIAS":"Hob A",
+		"FLAVOR":"Orcish leaders are always the tall ones... and that's why they never last long. Too easy to pick out from a crowd."
+	},
+	{
+		"CARDNAME":"Hob Mercenary",
+		"ALIAS":"Hob M",
+		"FLAVOR":"The hob tribe are so named because they scuffle rather than walk, but they are solid warriors nonetheless."
+	},
+	{
+		"CARDNAME":"Hoplite",
+		"ALIAS":"",
+		"FLAVOR":"Hoplites are the heavy infantry units that make up the core of the Atlantean army."
+	},
+	{
+		"CARDNAME":"Hulud Worm",
+		"ALIAS":"Hulud;Hulud Wurm",
+		"FLAVOR":"In bygone ages, spider nomads lived in caves dug by giant worms, ever in fear of running across their masters. Now, the spider people have taken control of the beasts and manage their tunneling."
+	},
+	{
+		"CARDNAME":"Hunter",
+		"ALIAS":"",
+		"FLAVOR":"Elvish hunters prefer a single perfectly notched, studded arrow to the softwood thin-fletched arrows balanced for rapid fire barrages."
+	},
+	{
+		"CARDNAME":"Hydra",
+		"ALIAS":"",
+		"FLAVOR":"Xenobiologists may argue whether the hydra is technically a gorgon or a totally independent species of demon, but they won't argue that it's a fearsome foe."
+	},
+	{
+		"CARDNAME":"Hypnotic Mage",
+		"ALIAS":"Hypnotic;Hypnotic M",
+		"FLAVOR":"Nothing is more efficient than turning your enemies against each other."
+	},
+	{
+		"CARDNAME":"Imp Lord",
+		"ALIAS":"Imp L",
+		"FLAVOR":"Calling an imp a \"lord\" is basically an oxymoron. But, at least other imps respect them …"
+	},
+	{
+		"CARDNAME":"Imp Rider",
+		"ALIAS":"Imp R",
+		"FLAVOR":"Imp cavalry successfully mimics Atlantean cavalry in some aspects … but in the end, they're still just imps."
+	},
+	{
+		"CARDNAME":"Implosion",
+		"ALIAS":"Implode",
+		"FLAVOR":"The bigger they are, the harder they implode."
+	},
+	{
+		"CARDNAME":"Implosion Legendary",
+		"ALIAS":"Implosion L;Implode L",
+		"FLAVOR":"The bigger they are, the harder they implode."
+	},
+	{
+		"CARDNAME":"Incognito",
+		"ALIAS":"Incog",
+		"FLAVOR":"Subtler incursions require subtler warriors. For that reason, dark elves excel at the finer aspects of war: espionage, sabotage, and assassination."
+	},
+	{
+		"CARDNAME":"Infernal Gate",
+		"ALIAS":"Infernal;Gate",
+		"FLAVOR":"Demon mages are always working on ways to deliver more imps to the battlefield. This spell is a fiendish success."
+	},
+	{
+		"CARDNAME":"Infernal Gate Legendary",
+		"ALIAS":"Infernal L;Gate L;Infernal Gate L",
+		"FLAVOR":"Demon mages are always working on ways to deliver more imps to the battlefield. This spell is a fiendish success."
+	},
+	{
+		"CARDNAME":"Iole Arcfire",
+		"ALIAS":"Iole;Arcfire",
+		"FLAVOR":"Iole is of the House of Faenor, renowned for the learning of its sages. In wartime she has demonstrated that from knowledge one can indeed derive great power."
+	},
+	{
+		"CARDNAME":"Iole Arcfire Legendary",
+		"ALIAS":"Iole L;Arcfire L;Iole Arcfire L",
+		"FLAVOR":"Iole is of the House of Faenor, renowned for the learning of its sages. In wartime she has demonstrated that from knowledge one can indeed derive great power."
+	},
+	{
+		"CARDNAME":"Ippiko",
+		"ALIAS":"",
+		"FLAVOR":"On the battlefield, light cavalry typically serve as agile contingents able to flank opposing mages and archers while heavy cavalry takes the front."
+	},
+	{
+		"CARDNAME":"Jester Spider",
+		"ALIAS":"Jester",
+		"FLAVOR":"Jester spiders are so named for their colors and comical scuttle, but their bite is undoubtedly the deadliest of all spiderkin."
+	},
+	{
+		"CARDNAME":"Jezebel",
+		"ALIAS":"Jez",
+		"FLAVOR":"Jezebel is said to be born of a similar black flame to her kindred, Gorm, though she burns with cruelty rather than fire."
+	},
+	{
+		"CARDNAME":"Jezebel Legendary",
+		"ALIAS":"Jezebel L;Jez L",
+		"FLAVOR":"Jezebel is said to be born of a similar black flame to her kindred, Gorm, though she burns with cruelty rather than fire."
+	},
+	{
+		"CARDNAME":"June Willowstar",
+		"ALIAS":"June;Willow;Willowstar",
+		"FLAVOR":"Lady June is only a quarter elvish, but she spent so long living in Aludan that the elves finally accorded her an elven name."
+	},
+	{
+		"CARDNAME":"June Willowstar Legendary",
+		"ALIAS":"June L;Willow L;Willowstar L;June Willowstar L",
+		"FLAVOR":"Lady June is only a quarter elvish, but she spent so long living in Aludan that the elves finally accorded her an elven name."
+	},
+	{
+		"CARDNAME":"Kathoras",
+		"ALIAS":"Kath",
+		"FLAVOR":"Kathoras declared himself master of the Hellfort and ruler of Atlantea during the Nameless Horde's invasion of the island."
+	},
+	{
+		"CARDNAME":"Kathoras Legendary",
+		"ALIAS":"Kath L;Kathoras L",
+		"FLAVOR":"Kathoras declared himself master of the Hellfort and ruler of Atlantea during the Nameless Horde's invasion of the island."
+	},
+	{
+		"CARDNAME":"Kongon Betar",
+		"ALIAS":"Kongon",
+		"FLAVOR":"Only the first warlords hearing Sister Amelia's call were able to face this Nameless Horde commander, who fell before Kathoras entered Atlantea."
+	},
+	{
+		"CARDNAME":"Krag Worm",
+		"ALIAS":"Krag;Krag Wurm",
+		"FLAVOR":"The great worms in Medina are as frightening as the ones in Atlantea, it turns out."
+	},
+	{
+		"CARDNAME":"Labyrinth",
+		"ALIAS":"Laby",
+		"FLAVOR":"Many would-be infiltrators, after breaching the outer walls, suddenly find that they are not actually inside the dark elven compound, but another layer of defense!"
+	},
+	{
+		"CARDNAME":"Lady Steele Legendary",
+		"ALIAS":"Steele;Steele L;Lady Steele L;Lady;Lady L;Lady Steel;Lady Steel L",
+		"FLAVOR":"Left-handed, two meters tall, adept with white magic ... there is no other quite like Lady Steele."
+	},
+	{
+		"CARDNAME":"Lancer",
+		"ALIAS":"Lance",
+		"FLAVOR":"Lances were never quite ornamental, but they were originally used for jousting and not balanced for real battle. Much has changed in recent years!"
+	},
+	{
+		"CARDNAME":"Land Mine",
+		"ALIAS":"Mine",
+		"FLAVOR":"Sometimes the best traps are the simplest traps."
+	},
+	{
+		"CARDNAME":"Last Resort Legendary",
+		"ALIAS":"Last;Resort;Last Resort L;Last L;Resort L;Last Resort",
+		"FLAVOR":"Deliverance can promise forgiveness, but it also can promise wrath."
+	},
+	{
+		"CARDNAME":"Leshy",
+		"ALIAS":"",
+		"FLAVOR":"The mischievous Leshy are not violent, but will protect their groves. Leshy are naturally resistant to magic."
+	},
+	{
+		"CARDNAME":"LesInk Legendary",
+		"ALIAS":"Les;Les Ink;Les L;Les Ink L; LesInk L",
+		"FLAVOR":"He's seldom seen and then only briefly. But when he appears, justice swiftly follows."
+	},
+	{
+		"CARDNAME":"Lifetapper",
+		"ALIAS":"",
+		"FLAVOR":"Dark magic turned to dark elvish use."
+	},
+	{
+		"CARDNAME":"Lightning Mek",
+		"ALIAS":"Lightning",
+		"FLAVOR":"The intensely insulated shell of the lightning mek was designed to prevent leakage from their massive electric generators; but it protects them from foreign electrical attacks as well."
+	},
+	{
+		"CARDNAME":"Limeshard Spider",
+		"ALIAS":"Limeshard;Lime",
+		"FLAVOR":"The xenophobic limeshards hail from a great crystalline cavern. They are remarkably resistant where other spiders are frail."
+	},
+	{
+		"CARDNAME":"Lord Fax",
+		"ALIAS":"Fax",
+		"FLAVOR":"The private militia of Lord Fax rivals Solon's high cavalry. But while the Hipparch is preoccupied with political strategy, Fax spends his time pursuing mounted \"spectacles\" at the Coliseum."
+	},
+	{
+		"CARDNAME":"Lord Fax Legendary",
+		"ALIAS":"Fax L;Lord Fax L",
+		"FLAVOR":"The private militia of Lord Fax rivals Solon's high cavalry. But while the Hipparch is preoccupied with political strategy, Fax spends his time pursuing mounted \"spectacles\" at the Coliseum."
+	},
+	{
+		"CARDNAME":"Machinist",
+		"ALIAS":"",
+		"FLAVOR":"Tinker, tailor, soldier, spy. And mechanic, obviously."
+	},
+	{
+		"CARDNAME":"Mad Bomber",
+		"ALIAS":"Bomber",
+		"FLAVOR":"While most dark elves are cautious, bombers have a tendency to quite the opposite."
+	},
+	{
+		"CARDNAME":"Mage Lord",
+		"ALIAS":"",
+		"FLAVOR":"Before the dark elves developed magical technology, their society was ruled by mages. The mage lords are the last vestiges of that old way of life, but they still are potent wizards."
+	},
+	{
+		"CARDNAME":"Magic Vortex",
+		"ALIAS":"Vortex",
+		"FLAVOR":"One of Amelia's spells, it is typical of the Vortex elders: avoidance rather than direct aggression."
+	},
+	{
+		"CARDNAME":"Magma Spider",
+		"ALIAS":"Magma",
+		"FLAVOR":"Some caves are volcanic. So are some spiders."
+	},
+	{
+		"CARDNAME":"Magnet Turret",
+		"ALIAS":"Magnet",
+		"FLAVOR":"The handy Magnet Turret trap draws enemy fire while constructors go about repairing their meks on the battlefield."
+	},
+	{
+		"CARDNAME":"Mago Breaker",
+		"ALIAS":"Mago;Breaker;Magi Breaker",
+		"FLAVOR":"For all their shamans, many of the tribes still loathe magos (magic users) of all types. The steeljaw hero of the desert orcs maybe more than any other."
+	},
+	{
+		"CARDNAME":"Mago Breaker Legendary",
+		"ALIAS":"Mago L;Breaker L;Mago Breaker L;Magi Breaker L",
+		"FLAVOR":"For all their shamans, many of the tribes still loathe magos (magic users) of all types. The steeljaw hero of the desert orcs maybe more than any other."
+	},
+	{
+		"CARDNAME":"Malebranche",
+		"ALIAS":"Malebranch",
+		"FLAVOR":"Though the malebranche appear calm on the surface, they are fueled by pride and fury."
+	},
+	{
+		"CARDNAME":"Malediction",
+		"ALIAS":"Curse Spell",
+		"FLAVOR":"A spell straight out of Saa-Ras' repertoire. A curseall, as it were."
+	},
+	{
+		"CARDNAME":"Mammon",
+		"ALIAS":"",
+		"FLAVOR":"Mammon might seem civilized compared to his chaotic brethren, but the abyssal bloodlord is as savage as they come."
+	},
+	{
+		"CARDNAME":"Mammon Legendary",
+		"ALIAS":"Mammon L",
+		"FLAVOR":"Mammon might seem civilized compared to his chaotic brethren, but the abyssal bloodlord is as savage as they come."
+	},
+	{
+		"CARDNAME":"Manavore",
+		"ALIAS":"Vore",
+		"FLAVOR":"A manavore is a demon cursed forever to thirst after magical power, but always to remain hollow and never able to be satisfied."
+	},
+	{
+		"CARDNAME":"Marilith",
+		"ALIAS":"",
+		"FLAVOR":"A marilith's lust for battle is nearly unprecedented, even amongst demons."
+	},
+	{
+		"CARDNAME":"Marksman",
+		"ALIAS":"",
+		"FLAVOR":"Speed, accuracy and stealth are the most known qualities of elven archers, and in all combinations it's a deadly package."
+	},
+	{
+		"CARDNAME":"Meat Stores",
+		"ALIAS":"Stores;Beast Wall;W Beast",
+		"FLAVOR":"Many a desert orc has learned the hard way: If you're going to keep a pet saurian, you'd better have a steady supply of meat. Saurians are not picky when hungry."
+	},
+	{
+		"CARDNAME":"Meat Stores Legendary",
+		"ALIAS":"Stores L;Meat Stores L;Beast Wall L;W Beast L",
+		"FLAVOR":"Many a desert orc has learned the hard way: If you're going to keep a pet saurian, you'd better have a steady supply of meat. Saurians are not picky when hungry."
+	},
+	{
+		"CARDNAME":"Medic",
+		"ALIAS":"",
+		"FLAVOR":"One of the most basic, and most necessary, elements of large-scale armies."
+	},
+	{
+		"CARDNAME":"Medicine Orc",
+		"ALIAS":"Medicine",
+		"FLAVOR":"Orcish medicine only works on orcs. Well, actually it works on non-orcs too, but with opposite results."
+	},
+	{
+		"CARDNAME":"Mele Rainmaker",
+		"ALIAS":"Rainmaker",
+		"FLAVOR":"Her charm precedes her. Mele is as much a celebrity in High Elf society as a war hero."
+	},
+	{
+		"CARDNAME":"Mele Rainmaker Legendary",
+		"ALIAS":"Rainmaker L;Mele Rainmaker L",
+		"FLAVOR":"Her charm precedes her. Mele is as much a celebrity in High Elf society as a war hero."
+	},
+	{
+		"CARDNAME":"Mephit",
+		"ALIAS":"",
+		"FLAVOR":"Mephits look like imps, but they are actually small demons conjured up from dust and ashes."
+	},
+	{
+		"CARDNAME":"Mindflayer",
+		"ALIAS":"Flayer",
+		"FLAVOR":"The exact origin of these semi-insectoid, semi-myconid monsters is unknown, but mind flayers are powerful mages."
+	},
+	{
+		"CARDNAME":"Moon Spirit",
+		"ALIAS":"Moon",
+		"FLAVOR":"Moon spirits are as rare to glimpse as an elvish city, some say."
+	},
+	{
+		"CARDNAME":"Moves as Sand",
+		"ALIAS":"Moves;Moves as;Sand",
+		"FLAVOR":"Moves as Sand does not speak -- not even in orcish. In fact he is completely silent, and opponents will discover him behind their lines before they realize it."
+	},
+	{
+		"CARDNAME":"Moves as Sand Legendary",
+		"ALIAS":"Moves L;Moves as Sand L;Moves as L;Sand L",
+		"FLAVOR":"Moves as Sand does not speak -- not even in orcish. In fact he is completely silent, and opponents will discover him behind their lines before they realize it."
+	},
+	{
+		"CARDNAME":"Mud Shaman",
+		"ALIAS":"Mud",
+		"FLAVOR":"Like elves, orcs have some natural affinity for the elements."
+	},
+	{
+		"CARDNAME":"Mycophage",
+		"ALIAS":"Mycosian Devourer",
+		"FLAVOR":"Spiders and mycosians do enjoy a symbiotic relationship, but in the Caves, there are plenty of other threats to mushroom kind."
+	},
+	{
+		"CARDNAME":"Mycophage Legendary",
+		"ALIAS":"Mycophage L;Mycosian Devourer L",
+		"FLAVOR":"Spiders and mycosians do enjoy a symbiotic relationship, but in the Caves, there are plenty of other threats to mushroom kind."
+	},
+	{
+		"CARDNAME":"Mycosian Leech",
+		"ALIAS":"Leech",
+		"FLAVOR":"Draining energy from a foe with pseudopods takes some time. That's why injecting diplegic toxins comes in handy."
+	},
+	{
+		"CARDNAME":"Mycosian Puffer",
+		"ALIAS":"Puffer",
+		"FLAVOR":"The relationship between spiders and mycosians is symbiotic. Mycosians are the less aggressive, but can be just as deadly."
+	},
+	{
+		"CARDNAME":"Mycosian Shaman",
+		"ALIAS":"Myco S;Mycosian S;M Shaman",
+		"FLAVOR":"Mycosians have a natural talent for healing."
+	},
+	{
+		"CARDNAME":"Mycosian Shrieker",
+		"ALIAS":"Shrieker",
+		"FLAVOR":"Very few creatures can co-exist peacefully with spiders, but the mycosians do so brilliantly."
+	},
+	{
+		"CARDNAME":"Mystic Archer",
+		"ALIAS":"Mystic",
+		"FLAVOR":"The denizens of the Bantam Forest in Eido are no more friendly to outsiders than most elves."
+	},
+	{
+		"CARDNAME":"Netweaver",
+		"ALIAS":"Weaver",
+		"FLAVOR":"The only thing stupider than destroying a spider's nest is to try to kill one of its weavers."
+	},
+	{
+		"CARDNAME":"Night Hag",
+		"ALIAS":"Hag",
+		"FLAVOR":"Hags are malevolent spirits associated with water and earth."
+	},
+	{
+		"CARDNAME":"Nightmare",
+		"ALIAS":"",
+		"FLAVOR":"Only the most powerful archdemons would dare try to tame a nightmare, let alone ride one."
+	},
+	{
+		"CARDNAME":"Niven Stoutbow",
+		"ALIAS":"Niven",
+		"FLAVOR":"A nomad of unknown motives, Niven nonetheless tends to show up in battle when his allies need him most. And that's fortunate, as he may well be the deadliest shot in all of Atlantea."
+	},
+	{
+		"CARDNAME":"Niven Stoutbow Legendary",
+		"ALIAS":"Niven L;Niven Stoutbow L",
+		"FLAVOR":"A nomad of unknown motives, Niven nonetheless tends to show up in battle when his allies need him most. And that's fortunate, as he may well be the deadliest shot in all of Atlantea."
+	},
+	{
+		"CARDNAME":"Nokosa",
+		"ALIAS":"Nosoka",
+		"FLAVOR":"Although just a child, Nokosi shows deadly promise with a blade."
+	},
+	{
+		"CARDNAME":"Nokosa Legendary",
+		"ALIAS":"Nokosa L;Nosoka L",
+		"FLAVOR":"Although just a child, Nokosi shows deadly promise with a blade."
+	},
+	{
+		"CARDNAME":"Noxious Spray",
+		"ALIAS":"Nox;Noxious;Poison Spell",
+		"FLAVOR":"The spider people's poisons are derived of two parts inheritance and one part magic."
+	},
+	{
+		"CARDNAME":"Null Bug",
+		"ALIAS":"Null",
+		"FLAVOR":"Living in dark caves among vicious spiders and toxic fungi, it's no surprise that even the bugs have adapted to monstrous effect."
+	},
+	{
+		"CARDNAME":"Null Bug Legendary",
+		"ALIAS":"Null L;Null Bug L",
+		"FLAVOR":"Living in dark caves among vicious spiders and toxic fungi, it's no surprise that even the bugs have adapted to monstrous effect."
+	},
+	{
+		"CARDNAME":"Odan, Hierophant Legendary",
+		"ALIAS":"Odan;Odan L;Odan, Hierophant;Odan, Hierophant L",
+		"FLAVOR":"Even to the elves, Odan is ancient. Keeper of the Glen, he is as wise and gnarled as the very trees."
+	},
+	{
+		"CARDNAME":"Odysseus",
+		"ALIAS":"Ody",
+		"FLAVOR":"Champion of the Coliseum, Odysseus also serves as general of the Atlantean boot camp, training recruits in all aspects of basic combat."
+	},
+	{
+		"CARDNAME":"Odysseus Legendary",
+		"ALIAS":"Odysseus L;Ody L",
+		"FLAVOR":"Champion of the Coliseum, Odysseus also serves as general of the Atlantean boot camp, training recruits in all aspects of basic combat."
+	},
+	{
+		"CARDNAME":"Olifant",
+		"ALIAS":"Olifaunt;Elephant;Oliphaunt;Oliphant",
+		"FLAVOR":"The men of Medina fear the wild olifant, and for good reason. It takes an orc to tame one of these monstrous quadrupeds."
+	},
+	{
+		"CARDNAME":"Omegon",
+		"ALIAS":"",
+		"FLAVOR":"The great demonic archmage Omegon was more interested in destroying Atlantea than conquering it."
+	},
+	{
+		"CARDNAME":"Omegon Legendary",
+		"ALIAS":"Omegon L",
+		"FLAVOR":"The great demonic archmage Omegon was more interested in destroying Atlantea than conquering it."
+	},
+	{
+		"CARDNAME":"Operations Mek",
+		"ALIAS":"OP Mek",
+		"FLAVOR":"The recent peace between dark and high elves has seen a disappearance of meks once designed for forest invasions. After all, stealth tactics are only so useful in caves."
+	},
+	{
+		"CARDNAME":"Operations Mek Legendary",
+		"ALIAS":"OP Mek L;Operations Mek L",
+		"FLAVOR":"The recent peace between dark and high elves has seen a disappearance of meks once designed for forest invasions. After all, stealth tactics are only so useful in caves."
+	},
+	{
+		"CARDNAME":"Oracle",
+		"ALIAS":"",
+		"FLAVOR":"Those who seek to unravel the whispers in the Storm hope to achieve great wisdom."
+	},
+	{
+		"CARDNAME":"Outrider",
+		"ALIAS":"",
+		"FLAVOR":"The cavalry of the Brass City is generally reserved for scouting the opponent rather than for direct confrontation."
+	},
+	{
+		"CARDNAME":"Owlbear",
+		"ALIAS":"Owl",
+		"FLAVOR":"Owlbears can be remarkably docile and friendly to well-meaning elves, and remarkably savage to foes."
+	},
+	{
+		"CARDNAME":"Page",
+		"ALIAS":"",
+		"FLAVOR":"The lesser fighters carry shields for the greater. So it goes."
+	},
+	{
+		"CARDNAME":"Painter of Winds",
+		"ALIAS":"Painter",
+		"FLAVOR":"Leader of the wind tribe, under instruction from the chief orcish shaman, she helped the demons build the Wind Portal in Atlantea's northern mountains."
+	},
+	{
+		"CARDNAME":"Painter of Winds Legendary",
+		"ALIAS":"Painter L;Painter of Winds L",
+		"FLAVOR":"Leader of the wind tribe, under instruction from the chief orcish shaman, she helped the demons build the Wind Portal in Atlantea's northern mountains."
+	},
+	{
+		"CARDNAME":"Paladin",
+		"ALIAS":"Pala",
+		"FLAVOR":"Chivalry and white magic go hand-in-hand."
+	},
+	{
+		"CARDNAME":"Pallcaster",
+		"ALIAS":"Pall",
+		"FLAVOR":"To master shadows is to conquer darkness."
+	},
+	{
+		"CARDNAME":"Pandemonium",
+		"ALIAS":"Panda;Pande",
+		"FLAVOR":"This spell calls out to the essence of \"all demons\" -- that of chaos."
+	},
+	{
+		"CARDNAME":"Pandemonium Legendary",
+		"ALIAS":"Panda L;Pande L;Pandemonium L",
+		"FLAVOR":"This spell calls out to the essence of \"all demons\" -- that of chaos."
+	},
+	{
+		"CARDNAME":"Peltast",
+		"ALIAS":"Pelt",
+		"FLAVOR":"Peltasts are mobile spearmen most often used to bolster weak positions or cut off enemy movements in large-scale battles."
+	},
+	{
+		"CARDNAME":"Perseus",
+		"ALIAS":"",
+		"FLAVOR":"From a young age Perseus had a great affinity for horses. As an adult, he is a true champion of cavalrymen everywhere."
+	},
+	{
+		"CARDNAME":"Perseus Legendary",
+		"ALIAS":"Perseus L",
+		"FLAVOR":"From a young age Perseus had a great affinity for horses. As an adult, he is a true champion of cavalrymen everywhere."
+	},
+	{
+		"CARDNAME":"Pestilent",
+		"ALIAS":"",
+		"FLAVOR":"As inscrutable as the night itself, this shadowy demon is known for its manaical laughter, and the death it leaves in its wake."
+	},
+	{
+		"CARDNAME":"Pestilent Legendary",
+		"ALIAS":"Pestilent L",
+		"FLAVOR":"As inscrutable as the night itself, this shadowy demon is known for its manaical laughter, and the death it leaves in its wake."
+	},
+	{
+		"CARDNAME":"Philosopher",
+		"ALIAS":"Phil;Philo",
+		"FLAVOR":"Cogito, ergo sum."
+	},
+	{
+		"CARDNAME":"Pike Thrower",
+		"ALIAS":"Pike",
+		"FLAVOR":"That this desert orc has been trained to target a particular foe says a lot about the patience of its instructors. And about their violence towards disobedient troops."
+	},
+	{
+		"CARDNAME":"Plains Burner",
+		"ALIAS":"Burner",
+		"FLAVOR":"In order to capture saurians, orcs have become adept at creating flashfires. The rapidly spreading walls of flame are used to force the beasts in a desired direction."
+	},
+	{
+		"CARDNAME":"Poet",
+		"ALIAS":"",
+		"FLAVOR":"Weaving ballads to bolster one's allies is a subtle magic."
+	},
+	{
+		"CARDNAME":"Poison Imp",
+		"ALIAS":"Pimp",
+		"FLAVOR":"Demons prefer fire to poison, but an imp will take what it can get."
+	},
+	{
+		"CARDNAME":"Potion Master",
+		"ALIAS":"Potion",
+		"FLAVOR":"Although the spider people's expertise with toxins is originally an accident of nature, their mage-alchemists have taken these talents to a whole new level."
+	},
+	{
+		"CARDNAME":"Pouncer",
+		"ALIAS":"",
+		"FLAVOR":"Pouncers are a giant brown spider breed typically found guarding the outermost tunnels of spider cities."
+	},
+	{
+		"CARDNAME":"Prince Seval",
+		"ALIAS":"Seval",
+		"FLAVOR":"Prince Seval is a vicious, deadly spider who delights more in torturing slaves than ruling over the Great Cave."
+	},
+	{
+		"CARDNAME":"Prince Seval Legendary",
+		"ALIAS":"Seval L;Prince Seval L",
+		"FLAVOR":"Prince Seval is a vicious, deadly spider who delights more in torturing slaves than ruling over the Great Cave."
+	},
+	{
+		"CARDNAME":"Princess Khima",
+		"ALIAS":"Khima",
+		"FLAVOR":"She's even more reclusive than her brother Seval, but no less nasty."
+	},
+	{
+		"CARDNAME":"Princess Khima Legendary",
+		"ALIAS":"Khima L;Princess Khima L",
+		"FLAVOR":"She's even more reclusive than her brother Seval, but no less nasty."
+	},
+	{
+		"CARDNAME":"Prismatic Mage",
+		"ALIAS":"Prismage",
+		"FLAVOR":"While high elves are the more studied mages, in some ways dark elves are more versatile, with an affinity for both light and dark magic."
+	},
+	{
+		"CARDNAME":"Prismatic Spray",
+		"ALIAS":"Prism Spell;Prismatic Spell",
+		"FLAVOR":"Prismatic magic overwhelms the senses and can deliver all sorts of harm."
+	},
+	{
+		"CARDNAME":"Prodromoi",
+		"ALIAS":"Prod",
+		"FLAVOR":"Prodromoi are better known as \"light cavalry\" and for riding at the fore of an army."
+	},
+	{
+		"CARDNAME":"Purple Dragon",
+		"ALIAS":"Purple D",
+		"FLAVOR":"Purple dragons are cave-dwellers but they venture out to surrounding farmland once in a while. By all accounts, they are much worse pests than locusts and horseflies."
+	},
+	{
+		"CARDNAME":"Purple Dragon Egg",
+		"ALIAS":"Purple Egg",
+		"FLAVOR":"Purple dragon eggs seem constantly embalmed in a highly noxious spray."
+	},
+	{
+		"CARDNAME":"Purple Whelp",
+		"ALIAS":"Purple W",
+		"FLAVOR":"Purple whelps seem completely harmless, like unmolted insects ... but their corrosive spit is not to be trifled with."
+	},
+	{
+		"CARDNAME":"Queen Huloth",
+		"ALIAS":"Huloth",
+		"FLAVOR":"Ruler of the Great Cave on Atlantea, she has her many children carry out her war schemes. But that's not to say she's any less fearsome an opponent in battle, herself."
+	},
+	{
+		"CARDNAME":"Queen Huloth Legendary",
+		"ALIAS":"Huloth L;Queen Huloth L",
+		"FLAVOR":"Ruler of the Great Cave on Atlantea, she has her many children carry out her war schemes. But that's not to say she's any less fearsome an opponent in battle, herself."
+	},
+	{
+		"CARDNAME":"Quetzalcoatl",
+		"ALIAS":"Quetz",
+		"FLAVOR":"The high elves commune with the elements, and so the great thunder spirit is their natural ally."
+	},
+	{
+		"CARDNAME":"Quetzalcoatl Legendary",
+		"ALIAS":"Quetz L;Quetzalcoatl L",
+		"FLAVOR":"The high elves commune with the elements, and so the great thunder spirit is their natural ally."
+	},
+	{
+		"CARDNAME":"Rainbow Spirit Legendary",
+		"ALIAS":"Rainbow;Rainbow L;Rainbow Spirit;Rainbow Spirit L",
+		"FLAVOR":"Humans have legends about what's at the end of the rainbow ... Elves have legends about what's at the start of the rainbow."
+	},
+	{
+		"CARDNAME":"Rampaging Saurian",
+		"ALIAS":"Rampasaur",
+		"FLAVOR":"A saurian on the rampage is easier to kill than it is to calm. And it's not easy to kill."
+	},
+	{
+		"CARDNAME":"Rampaging Saurian Legendary",
+		"ALIAS":"Rampasaur L;Rampaging Saurian L",
+		"FLAVOR":"A saurian on the rampage is easier to kill than it is to calm. And it's not easy to kill."
+	},
+	{
+		"CARDNAME":"Raps and Taps",
+		"ALIAS":"Raps;RapsnTaps",
+		"FLAVOR":"Never underestimate a dancing orc."
+	},
+	{
+		"CARDNAME":"Raps and Taps Legendary",
+		"ALIAS":"Raps L;Raps and Taps L;RapsnTaps L",
+		"FLAVOR":"Never underestimate a dancing orc."
+	},
+	{
+		"CARDNAME":"Raycatcher",
+		"ALIAS":"",
+		"FLAVOR":"The Raycatcher is a junior augur, having been trained in the basics of divination."
+	},
+	{
+		"CARDNAME":"Recluse Spider",
+		"ALIAS":"Recluse",
+		"FLAVOR":"Even more xenophobic than other spiders."
+	},
+	{
+		"CARDNAME":"Red Dragon",
+		"ALIAS":"Red D",
+		"FLAVOR":"Red dragons delight in destruction. That they consider human and elvish designs insignificant only furthers their practice of it."
+	},
+	{
+		"CARDNAME":"Red Dragon Egg",
+		"ALIAS":"Red Egg",
+		"FLAVOR":"In addition to the standard thick shell, red dragon eggs have such great internal heat, they can explode when disturbed by predators."
+	},
+	{
+		"CARDNAME":"Red Whelp",
+		"ALIAS":"Red W",
+		"FLAVOR":"Dragonbreath is highly volatile in nature, and the primary difference between dragon species is the breath type. Reds are able firebreathers minutes after they emerge from their eggs."
+	},
+	{
+		"CARDNAME":"Repair Mek",
+		"ALIAS":"",
+		"FLAVOR":"Housing self-sustaining repair mechanisms in a mobile automaton was undoubtedly one of Liaric's greatest innovations."
+	},
+	{
+		"CARDNAME":"Resist Magic",
+		"ALIAS":"",
+		"FLAVOR":"Back when Atlantea warred with the elves, and specifically the magically-prone Dusk elves, the Dawn guard was founded, and this spell invented."
+	},
+	{
+		"CARDNAME":"Revitalize",
+		"ALIAS":"Revita",
+		"FLAVOR":"When heading into battle, packing a healing spell is never a bad idea."
+	},
+	{
+		"CARDNAME":"Revitalize Legendary",
+		"ALIAS":"Revita L;Revitalize L",
+		"FLAVOR":"When heading into battle, packing a healing spell is never a bad idea."
+	},
+	{
+		"CARDNAME":"Rust Monster",
+		"ALIAS":"",
+		"FLAVOR":"An elusive desert beast, the Rust Monster actually feasts on metal."
+	},
+	{
+		"CARDNAME":"Salahudin",
+		"ALIAS":"Saluman;Junay;Al Junay",
+		"FLAVOR":"The general of the armies of the Brass City, Salahudin is known by many names -- Whirlwind, Sir Saluman, Al Junay -- and in all cases the name confers respect."
+	},
+	{
+		"CARDNAME":"Salahudin Legendary",
+		"ALIAS":"Salahudin L;Saluman L;Junay L; Al Junay L",
+		"FLAVOR":"The general of the armies of the Brass City, Salahudin is known by many names -- Whirlwind, Sir Saluman, Al Junay -- and in all cases the name confers respect."
+	},
+	{
+		"CARDNAME":"Salamander",
+		"ALIAS":"",
+		"FLAVOR":"Many elves fear the great fire spirit Salamander, as fire is so often wielded by those bent on destruction. Nonetheless the lacertilian elemental is peaceful and benevolent."
+	},
+	{
+		"CARDNAME":"Salamander Legendary",
+		"ALIAS":"Salamander L",
+		"FLAVOR":"Many elves fear the great fire spirit Salamander, as fire is so often wielded by those bent on destruction. Nonetheless the lacertilian elemental is peaceful and benevolent."
+	},
+	{
+		"CARDNAME":"Sapper",
+		"ALIAS":"",
+		"FLAVOR":"Orcs can make bombs too! They just tend to be the kind that you have to set off manually."
+	},
+	{
+		"CARDNAME":"Saurian Herder",
+		"ALIAS":"Herder;S Herder",
+		"FLAVOR":"Herders control the merchant saurian trade in orcish society. Invariably the most skilled riders of the beasts, they will fight off would-be rustlers on their own."
+	},
+	{
+		"CARDNAME":"Saurian Rider",
+		"ALIAS":"S Rider",
+		"FLAVOR":"Saurians are orcish cavalry. Where horses provide speed and are best charging the enemy, however, saurians provide power and are best at close quarters."
+	},
+	{
+		"CARDNAME":"Saurian Scout",
+		"ALIAS":"S Scout",
+		"FLAVOR":"The more junior the orc, the lesser the mount. Orc generals take true saurians; veteran soldiers take giant lizards; and the greenest orcs are relegated to hadrocamps."
+	},
+	{
+		"CARDNAME":"Saurian Trampler",
+		"ALIAS":"Trampler",
+		"FLAVOR":"The larger the saurian, the angrier it seems to get."
+	},
+	{
+		"CARDNAME":"Scout Mek",
+		"ALIAS":"Scout M",
+		"FLAVOR":"An all-purpose bot, the Scout Mek is not very good at fighting, but it is decent for battlefield intel."
+	},
+	{
+		"CARDNAME":"Scythoner Mek",
+		"ALIAS":"Scythoner",
+		"FLAVOR":"A sputtering, clattering mess of farming equipment ... at least that's what Scythoner Meks look like. They're not to be underestimated in battle, however."
+	},
+	{
+		"CARDNAME":"Sela Stormcaller",
+		"ALIAS":"Sela",
+		"FLAVOR":"Elvish bloodlines betray the common ancestry of high and dark elves. Sela is the ruling wizard of the Dusk elves, a group of high elves who might appear dark-elvish to the common observer."
+	},
+	{
+		"CARDNAME":"Sela Stormcaller Legendary",
+		"ALIAS":"Sela L;Sela Stormcaller L",
+		"FLAVOR":"Elvish bloodlines betray the common ancestry of high and dark elves. Sela is the ruling wizard of the Dusk elves, a group of high elves who might appear dark-elvish to the common observer."
+	},
+	{
+		"CARDNAME":"Sentinel",
+		"ALIAS":"",
+		"FLAVOR":"Sentinels make up a highly trained dark-elf taskforce. They provide on-site surveillance and protection of the empire's most important outposts."
+	},
+	{
+		"CARDNAME":"Sentry Mek",
+		"ALIAS":"Sentry",
+		"FLAVOR":"A mek's sensors are superior even to dark-elvish eyes."
+	},
+	{
+		"CARDNAME":"Shadow Mage",
+		"ALIAS":"",
+		"FLAVOR":"Spinners twisted by black magic, shadow mages manipulate the darkness to isolate and dominate their prey."
+	},
+	{
+		"CARDNAME":"Shadows",
+		"ALIAS":"Stealth Spell",
+		"FLAVOR":"A dark-elven parlour trick, nonetheless casting a contingent out of the light is highly useful in battle."
+	},
+	{
+		"CARDNAME":"Shadowspinner",
+		"ALIAS":"",
+		"FLAVOR":"This spider breed drinks in and subsists on toxic energy."
+	},
+	{
+		"CARDNAME":"Shaman Elder",
+		"ALIAS":"S Elder;Sh Elder",
+		"FLAVOR":"Orcish shamans' magic is ritualistic, and as such many of their spells grow in power as more orcs come together."
+	},
+	{
+		"CARDNAME":"Shaman Healer",
+		"ALIAS":"S Healer;Sh Healer",
+		"FLAVOR":"All orcish tribes have shamans, and almost all orcish shamans have some skill in healing."
+	},
+	{
+		"CARDNAME":"Shield",
+		"ALIAS":"",
+		"FLAVOR":"The Shields of the divine order serve as the honor guard for the constructors."
+	},
+	{
+		"CARDNAME":"Shield Breaker",
+		"ALIAS":"Breaker",
+		"FLAVOR":"Shredding the Atlantean forces' powerful shields is a useful trick up any demon wizard's sleeve. Or carapace."
+	},
+	{
+		"CARDNAME":"Shield Breaker Legendary",
+		"ALIAS":"Breaker L;Shield Breaker L",
+		"FLAVOR":"Shredding the Atlantean forces' powerful shields is a useful trick up any demon wizard's sleeve. Or carapace."
+	},
+	{
+		"CARDNAME":"Shield Warrior",
+		"ALIAS":"S Warrior;Sh Warrior;Sd Warrior",
+		"FLAVOR":"Once in a while an orc might occasionally think about defense."
+	},
+	{
+		"CARDNAME":"Singer",
+		"ALIAS":"",
+		"FLAVOR":"Mystical songs call on the aid of the spirits of the Storm."
+	},
+	{
+		"CARDNAME":"Singularity",
+		"ALIAS":"Wrath;Wrath Of God;Singu",
+		"FLAVOR":"Only channel the power of the vortex as a last resort!"
+	},
+	{
+		"CARDNAME":"Sir Valimont Legendary",
+		"ALIAS":"Sir V; Sir V L;Valimont;Valimont L;Vali;Vali L;Sir Valimont;Sir",
+		"FLAVOR":"It's a good thing he wears armor, if only to protect from the slings and arrows of outrageous complaints."
+	},
+	{
+		"CARDNAME":"Skirmisher",
+		"ALIAS":"Skirm",
+		"FLAVOR":"The lightest Atlantean infantry are outfitted for close-in fighting in mixed terrain."
+	},
+	{
+		"CARDNAME":"Sklirosaur",
+		"ALIAS":"Skliro",
+		"FLAVOR":"Raptors are not as powerful as bigger saurians, but they attack swiftly and in packs, often making their assaults deadlier."
+	},
+	{
+		"CARDNAME":"Sklirosaur Legendary",
+		"ALIAS":"Skilosaur L;Skliro L",
+		"FLAVOR":"Raptors are not as powerful as bigger saurians, but they attack swiftly and in packs, often making their assaults deadlier."
+	},
+	{
+		"CARDNAME":"Skoll",
+		"ALIAS":"",
+		"FLAVOR":"Most wolves are beloved by elves, and revered as children of nature. Skoll is born of shadows, however, and so many elves fear him."
+	},
+	{
+		"CARDNAME":"Skoll Legendary",
+		"ALIAS":"Skoll L",
+		"FLAVOR":"Most wolves are beloved by elves, and revered as children of nature. Skoll is born of shadows, however, and so many elves fear him."
+	},
+	{
+		"CARDNAME":"Sleeping Gas",
+		"ALIAS":"Gas Trap",
+		"FLAVOR":"Early trap constructors found that gas bombs were only so effective: one had to aim perfectly. Gas traps work well because the trespasser strolls into the perfect position all by himself."
+	},
+	{
+		"CARDNAME":"Slinger",
+		"ALIAS":"",
+		"FLAVOR":"Orc children like to throw rocks. Orc parents like to conscript their children."
+	},
+	{
+		"CARDNAME":"Slow Time",
+		"ALIAS":"Slow",
+		"FLAVOR":"Chronomancy is a tricky school of magic to learn, but luckily those who might teach it always have plenty of time!"
+	},
+	{
+		"CARDNAME":"Slow Time Legendary",
+		"ALIAS":"Slow Time L;Slow L",
+		"FLAVOR":"Chronomancy is a tricky school of magic to learn, but luckily those who might teach it always have plenty of time!"
+	},
+	{
+		"CARDNAME":"Speaks like Snakes",
+		"ALIAS":"Speaks;SlS;Snakes",
+		"FLAVOR":"Speaks and her brood are nomadic orcs, not belonging to a particular tribe, and living amongst the large climbing lizards at the foot of the Atlantean mountains."
+	},
+	{
+		"CARDNAME":"Speaks like Snakes Legendary",
+		"ALIAS":"Speaks L;SlS L;Snakes L;Speaks like Snakes L",
+		"FLAVOR":"Speaks and her brood are nomadic orcs, not belonging to a particular tribe, and living amongst the large climbing lizards at the foot of the Atlantean mountains."
+	},
+	{
+		"CARDNAME":"Spider-Rider",
+		"ALIAS":"Spider Rider;S Rider;SpiderRider",
+		"FLAVOR":"The Spider-Riders are actually Silkskin spiders. Through magic and trickery, they have taken on the appearance of dark elves riding atop spiders -- a cruel and demoralizing war-tactic."
+	},
+	{
+		"CARDNAME":"Spiderling",
+		"ALIAS":"",
+		"FLAVOR":"Spiderlings may all look the same, but they rapidly develop into many types of monstrous spiders."
+	},
+	{
+		"CARDNAME":"Spiked Imp",
+		"ALIAS":"",
+		"FLAVOR":"Spiked imps were originally bred by demonic masters worried that their chattel would be stolen from their slave pens."
+	},
+	{
+		"CARDNAME":"Stone Deacon",
+		"ALIAS":"Deacon",
+		"FLAVOR":"Not all warriors in Medina are quick to anger."
+	},
+	{
+		"CARDNAME":"Stone Wall",
+		"ALIAS":"W Stone",
+		"FLAVOR":"Atlantean cities are usually surrounded by rings of massive stone walls."
+	},
+	{
+		"CARDNAME":"Storm Elemental",
+		"ALIAS":"Storm Ele",
+		"FLAVOR":"The power and fury of a lightning storm, embodied."
+	},
+	{
+		"CARDNAME":"Storm Legendary",
+		"ALIAS":"Storm L;Storm",
+		"FLAVOR":"The Master of the Storm is all-powerful, but no Warlord can summon more than just his shade."
+	},
+	{
+		"CARDNAME":"Storm Mage",
+		"ALIAS":"S Mage",
+		"FLAVOR":"Storm mages are ascetic mountain-dwellers that most Atlanteans consider a bit mad ... but they sure are useful on the battlefield."
+	},
+	{
+		"CARDNAME":"Storm Shaman",
+		"ALIAS":"S Shaman",
+		"FLAVOR":"The thunder tribe is a large orcish nation more known for its warriors than its mages."
+	},
+	{
+		"CARDNAME":"Strength",
+		"ALIAS":"",
+		"FLAVOR":"The standard mercenary's spell: power on demand."
+	},
+	{
+		"CARDNAME":"Strobe Mek",
+		"ALIAS":"Strobe",
+		"FLAVOR":"A utility bot intended for use in Dark Elf cities, the Strobe Mek's powerful beam projectors are surprisingly effective tools in battle."
+	},
+	{
+		"CARDNAME":"Strobe Mek Legendary",
+		"ALIAS":"Strobe L;Strobe Mek L",
+		"FLAVOR":"A utility bot intended for use in Dark Elf cities, the Strobe Mek's powerful beam projectors are surprisingly effective tools in battle."
+	},
+	{
+		"CARDNAME":"Strychnos",
+		"ALIAS":"",
+		"FLAVOR":"It's not that the redling shaman's thirst for violence is entirely the result of Dark Elf incursions ... but he does now give them \"special\" treatment."
+	},
+	{
+		"CARDNAME":"Strychnos Legendary",
+		"ALIAS":"Strychnos L",
+		"FLAVOR":"It's not that the redling shaman's thirst for violence is entirely the result of Dark Elf incursions ... but he does now give them \"special\" treatment."
+	},
+	{
+		"CARDNAME":"Subterfuge",
+		"ALIAS":"Backstab Spell",
+		"FLAVOR":"This spell is a little bit more than just smoke and mirrors."
+	},
+	{
+		"CARDNAME":"Sulfras Wall",
+		"ALIAS":"Sulfras;W Sulfras",
+		"FLAVOR":"Adept spiders have learned to contain some of the more toxic gases of the Caves and unleash them as an assault tactic."
+	},
+	{
+		"CARDNAME":"Summon Elementals",
+		"ALIAS":"Summon Ele",
+		"FLAVOR":"Elren and Amariel used to teach summoning more liberally, but have since grown cautious of putting such powerful magic to parchment."
+	},
+	{
+		"CARDNAME":"Swamp Gas",
+		"ALIAS":"W Gas",
+		"FLAVOR":"The only above-ground setting that spiders will home are deep swamps. The lack of sunlight and the noxious fumes are each a plus."
+	},
+	{
+		"CARDNAME":"Swordsman",
+		"ALIAS":"Swordman",
+		"FLAVOR":"The legions of Atlantea are less famous than the cavalry, but are just as capable on the battlefield."
+	},
+	{
+		"CARDNAME":"Syran Gemcaster",
+		"ALIAS":"Syran;Gemcaster",
+		"FLAVOR":"Originally a jewel cutter, after journeys to many foreign lands, Syran became a powerful mage and a masterful practitioner of earth magic."
+	},
+	{
+		"CARDNAME":"Syran Gemcaster Legendary",
+		"ALIAS":"Syran L;Gemcaster L;Syran Gemcaster L",
+		"FLAVOR":"Originally a jewel cutter, after journeys to many foreign lands, Syran became a powerful mage and a masterful practitioner of earth magic."
+	},
+	{
+		"CARDNAME":"Tarrasque",
+		"ALIAS":"Tarr",
+		"FLAVOR":"The enormous rock lizards, Tarrasques, have never been known to be tamed, even by orcs."
+	},
+	{
+		"CARDNAME":"Tarrasque Legendary",
+		"ALIAS":"Tarr L;Tarrasque L",
+		"FLAVOR":"The enormous rock lizards, Tarrasques, have never been known to be tamed, even by orcs."
+	},
+	{
+		"CARDNAME":"Temper of Beasts",
+		"ALIAS":"ToB",
+		"FLAVOR":"Orcs are truly masters of beasts. Temper is known in her tribe for being able to subdue even the most feral of opponents."
+	},
+	{
+		"CARDNAME":"Temper of Beasts Legendary",
+		"ALIAS":"ToB L;Temper of Beasts L",
+		"FLAVOR":"Orcs are truly masters of beasts. Temper is known in her tribe for being able to subdue even the most feral of opponents."
+	},
+	{
+		"CARDNAME":"Temple Monk",
+		"ALIAS":"Monk;Temple",
+		"FLAVOR":"The monks of Eido bring a sense of calm and confidence to their allies."
+	},
+	{
+		"CARDNAME":"Timber Wolf",
+		"ALIAS":"Frenzy Wolf",
+		"FLAVOR":"Most warriors can handle a single wolf, but a pack of wolves can be absolutely deadly."
+	},
+	{
+		"CARDNAME":"Time Bomb",
+		"ALIAS":"T Bomb",
+		"FLAVOR":"The most destructive mines are best suited for a timed detonation."
+	},
+	{
+		"CARDNAME":"Time Elemental",
+		"ALIAS":"Time Ele",
+		"FLAVOR":"Elementals are given sentience but not all are given intelligence. Although minor spirits, time elementals are nonetheless endowed with a wisdom derived from the inexorable nature of time itself."
+	},
+	{
+		"CARDNAME":"Tracker",
+		"ALIAS":"",
+		"FLAVOR":"The best elven trackers boast the truest shot."
+	},
+	{
+		"CARDNAME":"Trapper",
+		"ALIAS":"",
+		"FLAVOR":"Trappers are monstrous spider mutants from the Outer caves."
+	},
+	{
+		"CARDNAME":"Trash Collector",
+		"ALIAS":"Trash;Collector",
+		"FLAVOR":"Ironically, dark elves pick up after themselves as a matter of good economics."
+	},
+	{
+		"CARDNAME":"Trebuchet",
+		"ALIAS":"Treb",
+		"FLAVOR":"A simple lever driven by a counterweight, the trebuchet is nonetheless possibly the most brilliant orcish invention, ever."
+	},
+	{
+		"CARDNAME":"Tree Fortress",
+		"ALIAS":"Tree Wall;W Tree;W Wood",
+		"FLAVOR":"The forest's walls are not made of stone, but they grow back all on their own."
+	},
+	{
+		"CARDNAME":"Treespeaker",
+		"ALIAS":"Treant",
+		"FLAVOR":"Treant is the term reserved for the oldest and wisest of treespeakers, the sentient trees."
+	},
+	{
+		"CARDNAME":"Triceras",
+		"ALIAS":"",
+		"FLAVOR":"The triceras is so deadly because it's slightly smarter than other saurians. Slightly."
+	},
+	{
+		"CARDNAME":"Triceras Legendary",
+		"ALIAS":"Triceras L",
+		"FLAVOR":"The triceras is so deadly because it's slightly smarter than other saurians. Slightly."
+	},
+	{
+		"CARDNAME":"Trident Warrior",
+		"ALIAS":"Trident",
+		"FLAVOR":"Atlantean infantry are remarkably capable of wielding heavy arms and armor without a terrible loss to mobility."
+	},
+	{
+		"CARDNAME":"Tunnel Stalker",
+		"ALIAS":"Tunnel",
+		"FLAVOR":"Tunnels that give access to the most vulnerable caverns -- like breeding grounds -- are guarded by a particularly vicious breed of spider."
+	},
+	{
+		"CARDNAME":"Underminer",
+		"ALIAS":"",
+		"FLAVOR":"The small incendiary device laced with debilitating plasma is yet another fruit of the dark elves' magical technology."
+	},
+	{
+		"CARDNAME":"Unsummon",
+		"ALIAS":"Bounce 2",
+		"FLAVOR":"Creating a full wormhole -- essentially a time warp -- is only achievable by the most capable wizards."
+	},
+	{
+		"CARDNAME":"Unsummon Legendary",
+		"ALIAS":"Unsummon L;Bounce 3",
+		"FLAVOR":"Creating a full wormhole -- essentially a time warp -- is only achievable by the most capable wizards."
+	},
+	{
+		"CARDNAME":"Vexling Imp",
+		"ALIAS":"Vexling",
+		"FLAVOR":"Some imps seem to exist only to annoy their foes."
+	},
+	{
+		"CARDNAME":"Volt Turret",
+		"ALIAS":"Volt",
+		"FLAVOR":"The traps designed by Dark Elves to keep trespassers out of their workshops are often as dangerous as the war machines found within."
+	},
+	{
+		"CARDNAME":"Vox",
+		"ALIAS":"",
+		"FLAVOR":"Uttering those darkest words of power has twisted this demon into a profane form."
+	},
+	{
+		"CARDNAME":"Vox Legendary",
+		"ALIAS":"Vox L",
+		"FLAVOR":"Uttering those darkest words of power has twisted this demon into a profane form."
+	},
+	{
+		"CARDNAME":"Vyrecall",
+		"ALIAS":"Drain Spell",
+		"FLAVOR":"The lust for power has a voice, if one will only listen."
+	},
+	{
+		"CARDNAME":"Walks with Sorrow",
+		"ALIAS":"Walks;Walks with;Sorrow",
+		"FLAVOR":"Walks with Sorrow is wisest of the orc shamans, but was tricked into aiding the Nameless Horde when they posed as orcish deities."
+	},
+	{
+		"CARDNAME":"Walks with Sorrow Legendary",
+		"ALIAS":"Walks L;Walks with Sorrow L;Walks with L;Sorrow L",
+		"FLAVOR":"Walks with Sorrow is wisest of the orc shamans, but was tricked into aiding the Nameless Horde when they posed as orcish deities."
+	},
+	{
+		"CARDNAME":"Wall Crawler",
+		"ALIAS":"Crawler",
+		"FLAVOR":"Wall Crawlers are large even by spider standards, and their size belies how stealthily they move."
+	},
+	{
+		"CARDNAME":"Wall of Acid",
+		"ALIAS":"W Acid",
+		"FLAVOR":"The very rivers of Khar's homeland flow with acid."
+	},
+	{
+		"CARDNAME":"Wall of Flames",
+		"ALIAS":"W Flames, Wall of Fire, Wall of Flame",
+		"FLAVOR":"Managing walls of fire is a key orcish skill in hunting and trapping wild animals."
+	},
+	{
+		"CARDNAME":"Wall of Souls",
+		"ALIAS":"W Souls",
+		"FLAVOR":"The demonic wall of souls serves as a portal wherein a spirit can be trapped indefinitely if not summoned back into reality."
+	},
+	{
+		"CARDNAME":"Wall of Spears",
+		"ALIAS":"W Spears",
+		"FLAVOR":"There's just no way to remove such a barricade quickly without suffering for it."
+	},
+	{
+		"CARDNAME":"Wall of Webs",
+		"ALIAS":"W Webs",
+		"FLAVOR":"Webs serve many purposes in spider society, from bedding and insulation to weaponry and deadly traps."
+	},
+	{
+		"CARDNAME":"Wall of Wind",
+		"ALIAS":"W Wind",
+		"FLAVOR":"The nomadic wind shaman tribe spends each season visiting a different group of their kin. While on the open plain, however, a conjured wall has its uses."
+	},
+	{
+		"CARDNAME":"War Pig",
+		"ALIAS":"Pig",
+		"FLAVOR":"Orcs prefer a dusty climate, though plenty of orclands border on forests. Wild boar are a natural fit for orcish pet owners, and war is a natural pastime for their masters."
+	},
+	{
+		"CARDNAME":"Ward Kodesh",
+		"ALIAS":"Kodesh",
+		"FLAVOR":"Himself a foreigner in Medina, Kodesh is shrouded by the mystery of what he protects. A mystery well protected by the bite of his throwing spears."
+	},
+	{
+		"CARDNAME":"Ward Kodesh Legendary",
+		"ALIAS":"Ward Kodesh L;Kodesh L",
+		"FLAVOR":"Himself a foreigner in Medina, Kodesh is shrouded by the mystery of what he protects. A mystery well protected by the bite of his throwing spears."
+	},
+	{
+		"CARDNAME":"Warden Mek",
+		"ALIAS":"Warden",
+		"FLAVOR":"Designed for massive war action, the Warden Mek is meant to shield allies from major assaults."
+	},
+	{
+		"CARDNAME":"Warden Mek Legendary",
+		"ALIAS":"Warden L;Warden Mek L",
+		"FLAVOR":"Designed for massive war action, the Warden Mek is meant to shield allies from major assaults."
+	},
+	{
+		"CARDNAME":"Water Elemental",
+		"ALIAS":"Water Ele",
+		"FLAVOR":"Water elementals embody the relentless but diffusing nature of water."
+	},
+	{
+		"CARDNAME":"Water Mage",
+		"ALIAS":"W Mage;Water M",
+		"FLAVOR":"As water is the least volatile of the elements, water magic is considered the easiest to learn. Still, high-elvish water mages are capable wizards."
+	},
+	{
+		"CARDNAME":"Webthrower",
+		"ALIAS":"",
+		"FLAVOR":"Lysing spiders use webs to immobilize enemies not merely by binding them: the webs themselves are laced with paralytic venom."
+	},
+	{
+		"CARDNAME":"Will-o-Wisp",
+		"ALIAS":"Will o Wisp;Willowisp",
+		"FLAVOR":"Will-o-Wisps are hard to catch, and harder still to tame."
+	},
+	{
+		"CARDNAME":"Wind Shaman",
+		"ALIAS":"W Shaman",
+		"FLAVOR":"The members of the wind tribe are adept at channeling and redirecting the powers of air."
+	},
+	{
+		"CARDNAME":"Wind Storm",
+		"ALIAS":"Wind Spell",
+		"FLAVOR":"The eponymous spell of the wind tribe, it binds the power of whirlwinds into personal forcefields."
+	},
+	{
+		"CARDNAME":"Wolf Lord",
+		"ALIAS":"W Lord",
+		"FLAVOR":"Dusk elf wolfriders are rare, and their bond with their animal companions is especially deep."
+	},
+	{
+		"CARDNAME":"Wolf Rider",
+		"ALIAS":"W Rider",
+		"FLAVOR":"A major difference between elves and orcs is that elves commune with animals rather than subduing them."
+	},
+	{
+		"CARDNAME":"Wolf Scout",
+		"ALIAS":"W Scout",
+		"FLAVOR":"When a wolf is large enough for an elf to ride it into battle, it is more than just a woodland pest."
+	},
+	{
+		"CARDNAME":"Wolf Spider",
+		"ALIAS":"W Spider",
+		"FLAVOR":"The Outer caves border on forested lands rife with wolves, and are noted for sightings of bizarre spider-wolf hybrids."
+	},
+	{
+		"CARDNAME":"Wood Spirit",
+		"ALIAS":"Wood",
+		"FLAVOR":"A treant sapling, the wood spirit is still green."
+	},
+	{
+		"CARDNAME":"Wren Moondancer",
+		"ALIAS":"Wren",
+		"FLAVOR":"Commander of the irregular Dusk elf forces, Wren uses the same stealth tactics as many high elves ... but she prefers the longsword to the bow."
+	},
+	{
+		"CARDNAME":"Wren Moondancer Legendary",
+		"ALIAS":"Wren L;Wren Moondancer L",
+		"FLAVOR":"Commander of the irregular Dusk elf forces, Wren uses the same stealth tactics as many high elves ... but she prefers the longsword to the bow."
+	},
+	{
+		"CARDNAME":"Wulf",
+		"ALIAS":"",
+		"FLAVOR":"Wulf was a simple borderland farmer until wild orcs overran his village. Now serving in the irregular corps in Delos, his tactics are messy, but effective."
+	},
+	{
+		"CARDNAME":"Wulf Legendary",
+		"ALIAS":"Wulf L",
+		"FLAVOR":"Wulf was a simple borderland farmer until wild orcs overran his village. Now serving in the irregular corps in Delos, his tactics are messy, but effective."
+	},
+	{
+		"CARDNAME":"Xenosaur Legendary",
+		"ALIAS":"Xeno;Xeno L;Xenosaur;Xenosaur L",
+		"FLAVOR":"A saurian from another plane of existence, the Xenosaur is as alien as it is dangerous."
+	},
+	{
+		"CARDNAME":"Xorgum",
+		"ALIAS":"Xor",
+		"FLAVOR":"An exotic myconid cultivated by spider poisonmasters, the Xorgum explodes in a burst of anti-magic liquid when its cap is breached."
+	},
+	{
+		"CARDNAME":"Xorgum Legendary",
+		"ALIAS":"Xorgum L;Xor L",
+		"FLAVOR":"An exotic myconid cultivated by spider poisonmasters, the Xorgum explodes in a burst of anti-magic liquid when its cap is breached."
+	},
+	{
+		"CARDNAME":"Yuta Dusksong",
+		"ALIAS":"Yuta",
+		"FLAVOR":"On the whole, there is no love lost between high and dark elves; but it's rumored Yuta prefers the company of dark-elven mages to that of her more immediate kin."
+	},
+	{
+		"CARDNAME":"Yuta Dusksong Legendary",
+		"ALIAS":"Yuta L;Yuta Dusksong L",
+		"FLAVOR":"On the whole, there is no love lost between high and dark elves; but it's rumored Yuta prefers the company of dark-elven mages to that of her more immediate kin."
+	},
+	{
+		"CARDNAME":"Zenia, Werewolf",
+		"ALIAS":"Zenia;Zenia Werewolf;Xenia",
+		"FLAVOR":"Part wolf, part elf, Zenia is a feral opponent. She does not live amongst other elves, but fights to protect the forest just the same."
+	},
+	{
+		"CARDNAME":"Zenia, Werewolf Legendary",
+		"ALIAS":"Zenia L;Zenia Werewolf L;Zenia, Werewolf L;Xenia L",
+		"FLAVOR":"Part wolf, part elf, Zenia is a feral opponent. She does not live amongst other elves, but fights to protect the forest just the same."
+	},
+	{
+		"CARDNAME":"Zink Legendary",
+		"ALIAS":"Zink L;Zink",
+		"FLAVOR":"He's possibly the only constructor ever to give up the title willingly. By the accounts of most, Zink puts the \"mad\" into the term mad scientist."
+	},
+	{
+		"CARDNAME":"Zorak the Mace",
+		"ALIAS":"Zorak;Mace",
+		"FLAVOR":"The highest honorific for an orcish general is to be named after a favorite weapon. This is hard to achieve and usually involves settling all dissident opinion with the weapon in question."
+	},
+	{
+		"CARDNAME":"Zorak the Mace Legendary",
+		"ALIAS":"Zorak L;Zorak the Mace L;Mace L",
+		"FLAVOR":"The highest honorific for an orcish general is to be named after a favorite weapon. This is hard to achieve and usually involves settling all dissident opinion with the weapon in question."
 	}]

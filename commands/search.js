@@ -6,7 +6,7 @@ const { CARD_SEARCH_PATH } = require('../strings.js');
 const searchTypes = ['name','type','skill','time','attack','health','attacktype', 'show', 'limit','set','rarity','faction'];
 
 const relativeSearchTypes = ['time','cd','cooldown','attack','power','health','toughness','rarity']
-const numericSearchTypes = ['time', 'cd', 'cooldown','attack','power','health','toughness'];
+const numericSearchTypes = ['time', 'cd','cooldown','attack','power','health','toughness'];
 const otherSearchTypes = ['name','type','skill','attacktype','show', 'limit','set','faction'];
 
 const publicSearchTypes = ['name','type','skill','time','attack','health','attacktype','set','rarity','faction'];
@@ -14,7 +14,7 @@ const publicRelativeSearchTypes = ['time','attack','health','rarity']
 
 
 const factionAliases = [
-  {key : 'a', aliases : ['atlantean', 'blue']},
+  {key : 'a', aliases : ['atlantean', 'atlantian', 'blue']},
   {key : 'e', aliases : ['he', 'high', 'highe', 'highelf', 'highelves', 'highelfs', 'green']},
   {key : 'd', aliases : ['de', 'dark', 'darke', 'darkelf', 'darkelves', 'darkelfs', 'grey', 'black']},
   {key : 'o', aliases : ['ot', 'orc', 'orcs', 'orcish', 'orcishtribe', 'tribe', 'orcishtribes', 'tribes', 'orctribe', 'orctribes', 'ork', 'orks', 'red']},
@@ -46,7 +46,9 @@ const relativeOperators = [
     //subsets must come after supersets. e.g. "==", "<=", ">=", "!=" all contain "=", so "=" must be after them
   {key : '==', operation : (a,b) => a==b },
   {key : '>=', operation : (a,b) => a>=b },
+  {key : '=>', operation : (a,b) => a>=b },
   {key : '<=', operation : (a,b) => a<=b },
+  {key : '=<', operation : (a,b) => a<=b },
   {key : '!=', operation : (a,b) => a!=b },
   {key : '<>', operation : (a,b) => a!=b },
   {key : '>',  operation : (a,b) => a>b  },
@@ -250,9 +252,9 @@ function CreateAliasMapCollection(aliases){
 };
 
 
-function reparse(){
+function reparse(debug = false){
     return Promise.resolve(console.log("reparse search"))
-    .then(() => DbEx.GetLargeObject(CARD_SEARCH_PATH))
+    .then(() => DbEx.GetLargeObject(CARD_SEARCH_PATH, debug))
     .then((cards) => {
         console.log("rebuilding search");
         //return;
@@ -267,8 +269,8 @@ function reparse(){
             if(card.SKILL) { card.SKILL = card.SKILL.replace(/ +/g,'').toLowerCase(); }
             if(card.ATTACKTYPE) { 
                 card.ATTACKTYPE = card.ATTACKTYPE.replace(/ +/g,'').toLowerCase();
-                card.ATTACKTYPESEARCHSTRING = (card.ATTACKTYPE === 'r' ? 'ranged' : 'basicmelee');
-            } else if (!card.TYPE === 'spell') {
+                card.ATTACKTYPESEARCHSTRING = (card.ATTACKTYPE === 'r' ? 'rangedranger' : 'basicmelee');
+            } else if (card.TYPE !== 'spell') {
                 card.ATTACKTYPE = 'x'
                 card.ATTACKTYPESEARCHSTRING = 'none'
             }

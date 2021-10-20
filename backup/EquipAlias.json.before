@@ -16,7 +16,7 @@
 	},
 	{
 		"EQUIPNAME":"Aether Orb",
-		"ALIAS":"Aether; Hero Magic Shield"
+		"ALIAS":"Aether;Hero Magic Shield"
 	},
 	{
 		"EQUIPNAME":"Anniversary Gift",
@@ -85,7 +85,7 @@
 	},
 	{
 		"EQUIPNAME":"Black Orb",
-		"ALIAS":"Orb;",
+		"ALIAS":"",
 		"SEARCH":"Start;First Turn;Draw Counterspells"
 	},
 	{
@@ -320,6 +320,11 @@
 		"SEARCH":"Attacked;Poisoned"
 	},
 	{
+		"EQUIPNAME":"Ghostform Periapt",
+		"ALIAS":"Ghost Periapt;Fade Periapt;Fade Amulet;Ghost Amulet",
+		"SEARCH":"Fade;ETB"
+	},
+	{
 		"EQUIPNAME":"Gladiator's Spear",
 		"ALIAS":"Glad;Spear;Gladiators;G Spear;Gladiator Spear",
 		"SEARCH":"Physical Damage;Wounded;Leftmost"
@@ -450,6 +455,11 @@
 	{
 		"EQUIPNAME":"Lava Orb",
 		"ALIAS":"L Orb;Lava;Hero Fireproof"
+	},
+	{
+		"EQUIPNAME":"Lavablood Rhyton",
+		"ALIAS":"Lavablood;Rhyton",
+		"SEARCH":"Burning;Cursed"
 	},
 	{
 		"EQUIPNAME":"Leather Boots",
@@ -634,14 +644,14 @@
 		"SEARCH":"Magic Damage"
 	},
 	{
-		"EQUIPNAME":"Pyrovitre",
-		"ALIAS":"Pyro;Burn Periapt;Burning Periapt",
-		"SEARCH":"ETB"
-	},
-	{
 		"EQUIPNAME":"Pulverizer",
 		"ALIAS":"Pulveriser",
 		"SEARCH":"Physical Damage"
+	},
+	{
+		"EQUIPNAME":"Pyrovitre",
+		"ALIAS":"Pyro;Burn Periapt;Burning Periapt",
+		"SEARCH":"ETB"
 	},
 	{
 		"EQUIPNAME":"Quickbolter",
@@ -685,7 +695,7 @@
 	},
 	{
 		"EQUIPNAME":"Ring of the Furrows",
-		"ALIAS":"Furrows;Mycosian Ring",
+		"ALIAS":"Furrows;Mycosian Ring;RoF",
 		"SEARCH":"Mycosians;Recover;ETB"
 	},
 	{
@@ -695,7 +705,7 @@
 	},
 	{
 		"EQUIPNAME":"Ring of Visions",
-		"ALIAS":"Visions",
+		"ALIAS":"Visions;RoV",
 		"SEARCH":"Draw Cards;Third Turn"
 	},
 	{
@@ -852,7 +862,8 @@
 	},
 	{
 		"EQUIPNAME":"Steelflight Quiver",
-		"ALIAS":"Steelflight"
+		"ALIAS":"Steelflight",
+		"SEARCH":"Wind Shield"
 	},
 	{
 		"EQUIPNAME":"Steelpoint Flail",
@@ -978,11 +989,6 @@
 	},
 	{
 		"EQUIPNAME":"Zamzam Gourd",
-		"ALIAS":"Zamzam;Gourd",
+		"ALIAS":"Zamzam;Gourd;Zam",
 		"SEARCH":"Remedy;Heal"
-	},
-	{
-		"EQUIPNAME":"Lavablood Rhyton",
-		"ALIAS":"Lavablood;Rhyton",
-		"SEARCH":"Burning;Cursed"
 	}]
