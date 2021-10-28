@@ -101,7 +101,7 @@
 		"SKILL":"Halt;Smoke Burst;Augury",
 		"TIME":7,
 		"ATTACK":3,
-		"HEALTH":7,
+		"HEALTH":6,
 		"ATTACKTYPE":"B"
 	},
 	{
@@ -113,7 +113,7 @@
 		"SKILL":"Halt;Smoke Burst;Augury",
 		"TIME":6,
 		"ATTACK":4,
-		"HEALTH":8,
+		"HEALTH":7,
 		"ATTACKTYPE":"B"
 	},
 	{
@@ -369,7 +369,7 @@
 		"RARITY":"E",
 		"FACTION":"H",
 		"SET":"Crew",
-		"TYPE":"INFANTRY",
+		"TYPE":"INFANTRY;IMP",
 		"SKILL":"Afterburner",
 		"TIME":4,
 		"ATTACK":0,
@@ -381,7 +381,7 @@
 		"RARITY":"L",
 		"FACTION":"H",
 		"SET":"Crew",
-		"TYPE":"INFANTRY",
+		"TYPE":"INFANTRY;IMP",
 		"SKILL":"Afterburner;Twin",
 		"TIME":4,
 		"ATTACK":1,
@@ -767,7 +767,7 @@
 		"SKILL":"Bloodlust 2;Flamelust",
 		"TIME":7,
 		"ATTACK":2,
-		"HEALTH":8,
+		"HEALTH":10,
 		"ATTACKTYPE":"B"
 	},
 	{
@@ -779,7 +779,7 @@
 		"SKILL":"Bloodlust 3;Flamelust",
 		"TIME":7,
 		"ATTACK":3,
-		"HEALTH":9,
+		"HEALTH":11,
 		"ATTACKTYPE":"B"
 	},
 	{
@@ -1061,7 +1061,7 @@
 		"FACTION":"A",
 		"SET":"Crew",
 		"TYPE":"CAVALRY",
-		"SKILL":"Spellproof;Remedy",
+		"SKILL":"Spellproof;Remedy 2",
 		"TIME":5,
 		"ATTACK":2,
 		"HEALTH":8,
@@ -1073,7 +1073,7 @@
 		"FACTION":"A",
 		"SET":"Crew",
 		"TYPE":"CAVALRY",
-		"SKILL":"Spellproof;Remedy;Shield",
+		"SKILL":"Spellproof;Remedy 2;Shield",
 		"TIME":5,
 		"ATTACK":2,
 		"HEALTH":9,
@@ -1097,7 +1097,7 @@
 		"SKILL":"Pierce",
 		"TIME":8,
 		"ATTACK":5,
-		"HEALTH":7,
+		"HEALTH":8,
 		"ATTACKTYPE":"B"
 	},
 	{
@@ -1109,7 +1109,7 @@
 		"SKILL":"Pierce",
 		"TIME":7,
 		"ATTACK":6,
-		"HEALTH":8,
+		"HEALTH":9,
 		"ATTACKTYPE":"B"
 	},
 	{
@@ -1235,7 +1235,7 @@
 		"FACTION":"S",
 		"SET":"Core",
 		"TYPE":"RANGED",
-		"SKILL":"",
+		"SKILL":"Halt",
 		"TIME":6,
 		"ATTACK":2,
 		"HEALTH":8,
@@ -1378,7 +1378,7 @@
 		"SET":"Dragons",
 		"TYPE":"SPELL",
 		"SKILL":"",
-		"TIME":8
+		"TIME":7
 	},
 	{
 		"CARDNAME":"Dragon Hunter",
@@ -2698,7 +2698,7 @@
 		"SKILL":"Triple Attack;Hide",
 		"TIME":7,
 		"ATTACK":2,
-		"HEALTH":5,
+		"HEALTH":4,
 		"ATTACKTYPE":"R"
 	},
 	{
@@ -2766,7 +2766,7 @@
 		"FACTION":"D",
 		"SET":"Dragons",
 		"TYPE":"SUPPORT",
-		"SKILL":"Boost Mek",
+		"SKILL":"Boost Mek;Halt",
 		"TIME":5,
 		"ATTACK":1,
 		"HEALTH":6,
@@ -3076,7 +3076,7 @@
 		"SKILL":"Pierce;Devour Mycosian",
 		"TIME":5,
 		"ATTACK":1,
-		"HEALTH":6,
+		"HEALTH":8,
 		"ATTACKTYPE":"B"
 	},
 	{
@@ -3249,7 +3249,7 @@
 		"FACTION":"S",
 		"SET":"Frontiers",
 		"TYPE":"INFANTRY",
-		"SKILL":"Venomous;Leech Magic",
+		"SKILL":"Halt;Leech Magic",
 		"TIME":6,
 		"ATTACK":3,
 		"HEALTH":6,
@@ -3261,7 +3261,7 @@
 		"FACTION":"S",
 		"SET":"Frontiers",
 		"TYPE":"INFANTRY",
-		"SKILL":"Venomous;Leech Magic;Rust",
+		"SKILL":"Halt;Leech Magic;Rust",
 		"TIME":5,
 		"ATTACK":3,
 		"HEALTH":7,
@@ -3358,7 +3358,7 @@
 		"SKILL":"Bomb;Smoke Burst;Machine",
 		"TIME":7,
 		"ATTACK":3,
-		"HEALTH":9,
+		"HEALTH":8,
 		"ATTACKTYPE":"B"
 	},
 	{
@@ -3975,7 +3975,7 @@
 		"FACTION":"E",
 		"SET":"Reliquary",
 		"TYPE":"ELEMENTAL",
-		"SKILL":"Flare;Burn 2;Fireproof",
+		"SKILL":"Flare;Burn;Fireproof",
 		"TIME":6,
 		"ATTACK":2,
 		"HEALTH":4,
@@ -3987,7 +3987,7 @@
 		"FACTION":"E",
 		"SET":"Reliquary",
 		"TYPE":"ELEMENTAL",
-		"SKILL":"Flare;Burn 3;Fireproof",
+		"SKILL":"Flare;Burn 2;Fireproof",
 		"TIME":6,
 		"ATTACK":2,
 		"HEALTH":6,
@@ -4273,7 +4273,7 @@
 		"TYPE":"BEAST;SAURIAN",
 		"SKILL":"Charge;Rush 2",
 		"TIME":7,
-		"ATTACK":3,
+		"ATTACK":2,
 		"HEALTH":8,
 		"ATTACKTYPE":"B"
 	},
@@ -4285,7 +4285,7 @@
 		"TYPE":"BEAST;SAURIAN",
 		"SKILL":"Charge;Rush 4;Wound",
 		"TIME":7,
-		"ATTACK":3,
+		"ATTACK":2,
 		"HEALTH":9,
 		"ATTACKTYPE":"B"
 	},
@@ -4535,7 +4535,7 @@
 		"SKILL":"Halt;Slay Dark Elf;Fearless",
 		"TIME":7,
 		"ATTACK":4,
-		"HEALTH":8,
+		"HEALTH":6,
 		"ATTACKTYPE":"B"
 	},
 	{
@@ -4622,7 +4622,7 @@
 		"TYPE":"BEAST;SAURIAN",
 		"SKILL":"Frenzy;Shockproof",
 		"TIME":10,
-		"ATTACK":1,
+		"ATTACK":2,
 		"HEALTH":16,
 		"ATTACKTYPE":"B"
 	},
@@ -4635,7 +4635,7 @@
 		"SKILL":"Frenzy;Shockproof;Armored",
 		"TIME":10,
 		"ATTACK":2,
-		"HEALTH":16,
+		"HEALTH":17,
 		"ATTACKTYPE":"B"
 	},
 	{
@@ -4831,7 +4831,7 @@
 		"FACTION":"D",
 		"SET":"Core",
 		"TYPE":"RANGED",
-		"SKILL":"Weaken",
+		"SKILL":"Weaken;Halt",
 		"TIME":5,
 		"ATTACK":1,
 		"HEALTH":5,
@@ -4917,7 +4917,7 @@
 		"FACTION":"O",
 		"SET":"Core",
 		"TYPE":"MAGE",
-		"SKILL":"Heal 2",
+		"SKILL":"Heal 2;Heal",
 		"TIME":8,
 		"ATTACK":3,
 		"HEALTH":8,
@@ -4929,7 +4929,7 @@
 		"FACTION":"O",
 		"SET":"Core",
 		"TYPE":"MAGE",
-		"SKILL":"Heal 3",
+		"SKILL":"Heal 3;Heal",
 		"TIME":8,
 		"ATTACK":3,
 		"HEALTH":10,
@@ -5314,7 +5314,7 @@
 		"TYPE":"BEAST;WOLF",
 		"SKILL":"Bloodlust 3;Wolfpack",
 		"TIME":4,
-		"ATTACK":3,
+		"ATTACK":2,
 		"HEALTH":6,
 		"ATTACKTYPE":"B"
 	},
@@ -5326,7 +5326,7 @@
 		"TYPE":"BEAST;WOLF",
 		"SKILL":"Bloodlust 4;Wolfpack",
 		"TIME":3,
-		"ATTACK":3,
+		"ATTACK":2,
 		"HEALTH":7,
 		"ATTACKTYPE":"B"
 	},
@@ -5339,7 +5339,7 @@
 		"SKILL":"Equivalence;Immune",
 		"TIME":7,
 		"ATTACK":6,
-		"HEALTH":6,
+		"HEALTH":7,
 		"ATTACKTYPE":"B"
 	},
 	{

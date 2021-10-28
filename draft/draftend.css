@@ -1,0 +1,19 @@
+.draft-layout {
+    display: flex;
+}
+
+.card {
+    position: relative;
+    height: 6vw;
+    max-height: 45px;
+}
+
+.card:hover{
+    z-index: 1000;
+}
+
+/* Format the image */
+.pool img {
+    width: 20vw;
+    max-width: 150px;
+}

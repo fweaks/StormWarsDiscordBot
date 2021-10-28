@@ -21,22 +21,35 @@
     <main>
       <form action="/drafting">
             <div id="rarity">
-                <h4>Included Rarities</h4>
-                <input type="checkbox" name="rarity[C]" value="true">Common</input>
-                <input type="checkbox" name="rarity[U]" value="true">Uncommon</input>
-                <input type="checkbox" name="rarity[R]" value="true">Rare</input>
-                <input type="checkbox" name="rarity[E]" value="true">Epic</input>
-                <input type="checkbox" name="rarity[L]" value="true">Legendary</input>
+                <h4>Pick order</h4>
+                <input type="radio" name="pickOrder" value="CURCURCURECURELUREURELURE" checked>All rarities</input>
+                <input type="radio" name="pickOrder" value="UURUURUUREUURELUREURELURE">Uncommon or better</input>
+                <input type="radio" name="pickOrder" value="CUUCUUCUUUCUUUUUUUUUUUUUU">Uncommon or below</input>
+                <input type="radio" name="pickOrder" value="CURCURCURECUREEUREUREEURE">Epic or below</input>
+                <input type="radio" name="pickOrder" value="RRRRRRRRRRRRRRRRRRRRRRRRR">All rares</input>
+                <input type="radio" name="pickOrder" value="EEEEEEEEEEEEEEEEEEEEEEEEE">All Epics</input>
+                <input type="radio" name="pickOrder" value="CUSTOM">Custom:</input>
+                <input type="text" name="customPickOrder" value="CURCURCURECURELUREURELURE"></input>
             </div>
             <div>
-                <h4>Included Factions</h4>
-                <input type="checkbox" name="faction[A]" value="true">Atlanteans</input>
-                <input type="checkbox" name="faction[E]" value="true">High Elves</input>
-                <input type="checkbox" name="faction[D]" value="true">Dark Elves</input>
-                <input type="checkbox" name="faction[O]" value="true">Orcs</input>
-                <input type="checkbox" name="faction[S]" value="true">Spiders</input>
-                <input type="checkbox" name="faction[H]" value="true">Horde</input>
-                <input type="checkbox" name="faction[X]" value="true">Spells</input>
+                <h4>Included Factions (Please don't pick spells on it's own)</h4>
+                <input type="checkbox" name="faction[A]" value="true" checked>Atlanteans</input>
+                <input type="checkbox" name="faction[E]" value="true" checked>High Elves</input>
+                <input type="checkbox" name="faction[D]" value="true" checked>Dark Elves</input>
+                <input type="checkbox" name="faction[O]" value="true" checked>Orcs</input>
+                <input type="checkbox" name="faction[S]" value="true" checked>Spiders</input>
+                <input type="checkbox" name="faction[H]" value="true" checked>Horde</input>
+                <input type="checkbox" name="faction[X]" value="true" checked>Spells</input>
+            </div>
+            <div>
+                <h4>Included Sets (Currently ignored)</h4>
+                <input type="checkbox" name="set[core]" value="true" checked>Core</input>
+                <input type="checkbox" name="set[dragons]" value="true" checked>Dragons</input>
+                <input type="checkbox" name="set[frontiers]" value="true" checked>Frontiers</input>
+                <input type="checkbox" name="set[crew]" value="true" checked>Crew</input>
+                <input type="checkbox" name="set[reliquary]" value="true" checked>Reliquary</input>
+                <input type="checkbox" name="set[developer]" value="true" checked>Developer</input>
+                <input type="checkbox" name="set[soulbound]" value="true" checked>Soulbound</input>
             </div>
 
          <input type="submit"/>

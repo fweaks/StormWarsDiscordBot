@@ -14,7 +14,7 @@ const {ReparseHistory} = require('./history.js');
 module.exports = {
     name: 'update',
     description: 'Updates different types of data from the google spreadsheet',
-    usage: '<starttoken|finishtoken <code>|cards|equips|skills|search|history>',
+    usage: '<starttoken|finishtoken <code>|starttokenauto|cards|equips|skills|search|history>',
     args: true,
     hidden: true,
     admin: true,

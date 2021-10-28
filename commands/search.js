@@ -2,6 +2,7 @@ const Discord = require('discord.js');
 const DbEx = require('../common/DbExtensions.js');
 const ImageHandler = require('../common/CardImageHandler.js')
 const { CARD_SEARCH_PATH } = require('../strings.js'); 
+const v8 = require('v8');
   
 const searchTypes = ['name','type','skill','time','attack','health','attacktype', 'show', 'limit','set','rarity','faction'];
 
@@ -252,19 +253,19 @@ function CreateAliasMapCollection(aliases){
 };
 
 
-function reparse(debug = false){
-    return Promise.resolve(console.log("reparse search"))
-    .then(() => DbEx.GetLargeObject(CARD_SEARCH_PATH, debug))
-    .then((cards) => {
+async function reparse(debug = false){
+    console.log("reparse search")
+    try {
+        cards = await DbEx.GetLargeObject(CARD_SEARCH_PATH, debug);
         console.log("rebuilding search");
-        //return;
         cardCollection = [];
-        for (let card of cards) {  
+        for (let originalCard of cards) {  
+            let card = v8.deserialize(v8.serialize(originalCard));//deep copy
             card.NAME = card.CARDNAME.replace(/ +/g,'').toLowerCase();
             card.SET = card.SET.replace(/ +/g,'').toLowerCase();
             card.RARITY = card.RARITY.replace(/ +/g,'').toLowerCase();
             card.RARITYLEVEL = rarityMap.get(card.RARITY);
-            if(card.FACTION) { card.FACTION = card.FACTION.replace(/ +/g,'').toLowerCase(); }
+            card.FACTION = card.FACTION.replace(/ +/g,'').toLowerCase();
             if(card.TYPE){ card.TYPE = card.TYPE.replace(/ +/g,'').toLowerCase(); }
             if(card.SKILL) { card.SKILL = card.SKILL.replace(/ +/g,'').toLowerCase(); }
             if(card.ATTACKTYPE) { 
@@ -281,6 +282,7 @@ function reparse(debug = false){
             cardCollection.push(card);
         }
         console.log("finished rebuilding search");
-    })
-    .catch(console.log);
+    } catch (error) {
+        console.log(error);
+    }
 };
