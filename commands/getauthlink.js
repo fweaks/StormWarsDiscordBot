@@ -1,3 +1,5 @@
+const REQUESTED_PERMISSIONS = 117824;
+
 module.exports = {
     name: 'getauthlink',
     description: 'Gets the authentication link for adding the bot to a server',
@@ -8,7 +10,7 @@ module.exports = {
     cooldown: 5,
   
     run : async (message, args, botClient) => {  
-      botClient.generateInvite([117824])
+      botClient.generateInvite([REQUESTED_PERMISSIONS])
           .then(link => console.log(`Generated bot invite link: ${link}`))
           .catch(console.error);
     }

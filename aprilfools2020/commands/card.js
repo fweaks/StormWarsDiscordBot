@@ -1,14 +1,14 @@
-//this is just a backup because i didn't do it properly
 const Discord = require('discord.js');
-const ImageHandler = require('../aprilfools2020/CardImageHandler.js');
+const {CARD_IMAGE_URL} = require('../../strings.js');
+const {Encode} = require('./encode.js');
 
 //pre-prepare the mapping of names and aliases to canonical card names
-const aliases = require('../CardAlias.json');
+const aliases = require('../../CardAlias.json');
 const aliasMap = new Discord.Collection();
 for (let aliasObject of aliases) {
-    const URLCardName = aliasObject.CARDNAME.toLowerCase().replace(/ +/g,'_');  
-    aliasMap.set(aliasObject.KEYWORD.replace(/ +/g,'').toLowerCase(), URLCardName);  
-    for (let alias of (aliasObject.ALIAS || "").replace(/ +/g,'').toLowerCase().split(';')) {    
+    const URLCardName = aliasObject.Cardname.replace(/ +/g,'_');  
+    aliasMap.set(aliasObject.Keyword.replace(/ +/g,'').toLowerCase(), URLCardName);  
+    for (let alias of (aliasObject.Alias || "").replace(/ +/g,'').toLowerCase().split(';')) {    
         aliasMap.set(alias, URLCardName);
     }
 }
@@ -17,7 +17,7 @@ module.exports = {
     name: 'card',
     aliases: ['cards'],
     description: 'Displays the named card',
-    usage: '<CARD NAME>',
+    usage: 'CARD NAME',
     args: true,
   
     run : async (message, args) => {
@@ -25,14 +25,12 @@ module.exports = {
 
         const URLCardName = aliasMap.get(cardNameArg);
         if (URLCardName !== undefined) {
-          ImageHandler.GetImageAttachment(URLCardName)
-                      .then(attachment => {
-                          message.channel.send(attachment)
-                                         .catch(err => { console.log(err); });
-                      })
-                      .catch(err => { console.log(err); });
+            var cardImageURL = CARD_IMAGE_URL.replace('${URLCardName}', URLCardName);
+            const attachment = new Discord.Attachment(cardImageURL);
+            message.channel.send(attachment)
+                .catch(err => { console.log(`"${URLCardName}" was requested which exists but has no image @ ${cardImageURL}`); });
         } else {
-            message.channel.send(`Card name "${args.join(' ')}" not found. Please check your spelling, or narrow your search terms.`);
+            message.channel.send(Encode(`Card name "${args.join(' ')}" not found. Please check your spelling, or narrow your search terms.`));
         }
     }
 }

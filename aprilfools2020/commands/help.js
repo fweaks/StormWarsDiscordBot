@@ -1,5 +1,5 @@
-var morse = require('../MorseCode.js');
 const { HelpMessage } = require('../../strings.js')
+const {Encode} = require('./encode.js');
 
 module.exports = {
     name: 'help',
@@ -8,6 +8,6 @@ module.exports = {
     cooldown: 5,
   
     run : async (message, args) => {
-      message.channel.send(morse.encode(HelpMessage));
+      message.channel.send('try the encode and decode commands :D');
   }
 }

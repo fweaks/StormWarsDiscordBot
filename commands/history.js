@@ -26,7 +26,7 @@ const relativeOperators = [
 const standardLimit = 30;
 //pre-prepare the mapping of names and aliases to canonical card names
 let historyArray;
-reparse();
+//reparse();
 
 module.exports = {
     name: 'history',
@@ -34,6 +34,7 @@ module.exports = {
     description: 'Digs through the patch notes of the games history',
     usage: '(a series of search criteria. use `!history help` for more info)',
     args: true,
+    admin: true,
     
     run : async (message, args) => {
         if (args.length === 1 && args[0] === 'help'){

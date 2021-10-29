@@ -1,12 +1,13 @@
-var morse = require('./MorseCode.js');
+//this is just a copy, because i didn't do it properly
 const Discord = require('discord.js');
 const fs = require("fs");
 const child_process = require('child_process');
 var express = require('express');
+const {Encode} = require('./aprilfools2020/commands/encode.js');
 
 const discord_token = process.env.DISCORD_BOT_TOKEN;
 const prefix = process.env.PREFIX;
-const { WelcomeMessage, HelpMessage } = require('../strings.js');
+const { WelcomeMessage, HelpMessage } = require('./strings.js');
 
 // Create an instance of a Discord client
 const client = new Discord.Client();
@@ -20,20 +21,25 @@ for (const file of commandFiles) {
         const command = require(`./commands/${file}`);
         client.commands.set(command.name, command);
     } catch(err) {
-        try{
-            const command = require(`../commands/${file}`);
-            client.commands.set(command.name, command);
-        }catch(err){
-            console.log(`Error while reading command ${file}`, err);
-        }
-    } 
+        console.log(`Error while reading command ${file}`, err);
+    }
+}
+//This loop reads the /commands/ folder and maps the commands for later execution
+const aprilFoolsCommandFiles = fs.readdirSync('./aprilfools2020/commands').filter(file => file.endsWith('.js'));
+for (const file of aprilFoolsCommandFiles) {
+    try{
+        const command = require(`./aprilfools2020/commands/${file}`);
+        client.commands.set(command.name, command);
+    } catch(err) {
+        console.log(`Error while reading command ${file}`, err);
+    }
 }
 
 // This loop reads the /events/ folder and attaches each event file to the appropriate event.
 const eventFiles = fs.readdirSync('./events').filter(file => file.endsWith('.js'));
 for (const file of eventFiles) {
     try{
-        const event = require(`../events/${file}`);
+        const event = require(`./events/${file}`);
         // super-secret recipe to call events with all their proper arguments *after* the `client` var.
         client.on(event.trigger, (...args) => event.run(client, ...args));
     } catch(err) {
@@ -41,17 +47,12 @@ for (const file of eventFiles) {
     }
 }
 
-
 // Create an event listener for messages
 client.on('message', message => {
-    if (!(message.content.startsWith(prefix) || message.content.startsWith(morse.encode(prefix))) || message.author.bot) return;
-    var messageString = message.content;
-    if(messageString.startsWith(prefix)){
-        messageString = morse.encode(prefix) + messageString.slice(prefix.length);
-    }
-    messageString = messageString.replace(/\//g,' / ')
-    //strip characters that aren't allowed, e.g. not morse code 
-    const sanitisedMessage = morse.decode(messageString);
+    if (!message.content.startsWith(prefix) || message.author.bot) return;
+  
+    //strip characters that aren't allowed, e.g. @ for mentions
+    const sanitisedMessage = message.content.replace(/[@#]+/g,'');
   
     const args = sanitisedMessage.slice(prefix.length).split(/ +/);    
   
@@ -59,26 +60,26 @@ client.on('message', message => {
     const commandName = args.shift().toLowerCase();
     const command = client.commands.get(commandName) || client.commands.find(cmd => cmd.aliases && cmd.aliases.includes(commandName));
     if (!command) {
-        return message.channel.send(morse.encode('I don\'t understand that command. Please type !help for more options.'));
+        return message.channel.send(Encode('I don\'t understand that command. Please type !help for more options.'));
     }
 
     // Check GuildOnly
     if (command.guildOnly && message.channel.type !== 'text') {
-        return message.reply('I can\'t execute that command inside DMs!');
+        return message.reply(Encode('I can\'t execute that command inside DMs!'));
     }
     // Check Permission
     if(command.admin && !message.member.hasPermission("MANAGE_GUILD")){
-        return message.channel.send(`You don\'t have permission for that command ${message.author}!`);
+        return message.channel.send(Encode(`You don\'t have permission for that command ${message.author}!`));
     }
 
     // Check proper usage
     if (command.args && !args.length) {
-        let reply = `You didn't provide any arguments, ${message.author}!`;
+        let reply = Encode(`You didn't provide any arguments, ${message.author}!`);
         if (command.usage) {
-            reply += `\nThe proper usage would be: \`${prefix}${command.name} ${command.usage}\``;
+            reply += '\n'+Encode(`The proper usage would be: \`${prefix}${command.name} ${command.usage}\``);
         }
-        return message.channel.send(morse.encode(reply));
-    }   
+        return message.channel.send(reply);
+    }
 
     // Check cooldown
     if(command.cooldown){
@@ -116,13 +117,13 @@ client.on('message', message => {
     }
     catch (error) {
         console.error(error);
-        message.reply('There was an error trying to execute that command!');
+        message.reply(Encode('There was an error trying to execute that command!'));
     }
     return;
 });
 
 // Log our bot in using the token from https://discordapp.com/developers/applications/me
-client.login(discord_token);
+client.login(discord_token).then(console.log).catch(console.error);
 
 //Implement an http server and expose a route so that uptimerobot.com can keep the bot alive
 var app = express();

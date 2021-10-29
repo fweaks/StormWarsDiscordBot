@@ -1,6 +1,6 @@
 module.exports = {
     name: 'setavatar',
-    description: "Set's the display picture for the bot in your server",
+    description: "Set's the display picture for the bot",
     usage: '<imageURL>',
     meta:true,
     hidden:true,

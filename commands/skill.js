@@ -8,10 +8,10 @@ var descriptionMap;
 reparse()
 
 module.exports = {  
-    name: 'skill',
-    aliases: ['ability','skills', 'abilities'],
-    description: 'Displays the skill description',
-    usage: 'SKILL NAME',
+    name: 'ability',
+    aliases: ['skill','skills', 'abilities'],
+    description: 'Displays the ability description',
+    usage: 'ability NAME',
     args: true,
   
     run : async (message, args) => {
@@ -21,14 +21,14 @@ module.exports = {
         if (SkillName !== undefined) {
             const SkillDescription = descriptionMap.get(SkillName);
             if (SkillDescription !== undefined) {
-                message.channel.send(`------- Skill: ${SkillName} -------`+'\n' +
+                message.channel.send(`------- Ability: ${SkillName} -------`+'\n' +
                                       SkillDescription)
                     .catch(err => { console.log(`failed to send message for ${skillNameArg}`); });
             } else {
                 console.log(`"${SkillName}" was requested which exists but has no description`);
             }
         } else {
-            message.channel.send(`Skill "${args.join(' ')}" not found. Please check your spelling, or narrow your search terms.`);
+            message.channel.send(`Ability "${args.join(' ')}" not found. Please check your spelling, or narrow your search terms.`);
         }        
     },
 
@@ -44,10 +44,10 @@ function reparse(debug = false){
         skillAliasMap = new Discord.Collection();
         descriptionMap = new Discord.Collection();
         for (let skill of skillData) {
-            descriptionMap.set(skill.SKILLNAME, skill.CARDSKILLDESCRIPTION);
-            skillAliasMap.set(skill.SKILLNAME.replace(/ +/g,'').toLowerCase(), skill.SKILLNAME);  
+            descriptionMap.set(skill.ABILITY, skill.DESCRIPTION);
+            skillAliasMap.set(skill.ABILITY.replace(/ +/g,'').toLowerCase(), skill.ABILITY);  
             for (let alias of (skill.ALIAS || "").replace(/ +/g,'').toLowerCase().split(';')) {    
-                skillAliasMap.set(alias, skill.SKILLNAME);
+                skillAliasMap.set(alias, skill.ABILITY);
             }
         }
         console.log("finished skills");

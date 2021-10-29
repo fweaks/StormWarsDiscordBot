@@ -22,7 +22,7 @@ let draftCollection;
 lock.acquire('reparse', reparse);
 
 module.exports = function(expressApp) {
-    expressApp.get('/draft', (request, response) => {
+    /*expressApp.get('/draft', (request, response) => {
         console.log('received draft');
         response.sendFile(__dirname + '/draftoptions.html');
     });
@@ -53,7 +53,7 @@ module.exports = function(expressApp) {
         lock.acquire('reparse', () => { DraftEndHandler(request, response); } );
     });
 
-    console.log('Finished Draft Setup')
+    console.log('Finished Draft Setup')*/
 }
 
 function DraftingHandler(request, response) {
@@ -339,10 +339,9 @@ async function reparse(debug = false){
             card.ID = identity;
             identity++
 
-            card.SET = card.SET.replace(/ +/g,'').toLowerCase();
             card.RARITY = card.RARITY.replace(/ +/g,'').toUpperCase();
             card.FACTION = card.FACTION.replace(/ +/g,'').toUpperCase();
-            card.URLCardName = card.CARDNAME.toLowerCase().replace(/ +/g,'_');
+            card.URLCardName = card.CARDNAME.replace(/ +/g,'_');
         
             draftCollection[card.ID] = card;
         }
