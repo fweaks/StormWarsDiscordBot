@@ -4,42 +4,40 @@ const ImageHandler = require('../common/CardImageHandler.js')
 const { CARD_SEARCH_PATH } = require('../strings.js'); 
 const v8 = require('v8');
   
-const searchTypes = ['name','type','skill','time','attack','health','attacktype', 'show', 'limit','set','rarity','faction'];
+const relativeSearchTypes = ['gold', 'cost','attack','power','health','toughness','rarity']
+const numericSearchTypes = ['gold', 'cost','attack','power','health','toughness'];
+const otherSearchTypes = ['name','type','ability','skill','tag','show','limit','faction'];
 
-const relativeSearchTypes = ['time','cd','cooldown','attack','power','health','toughness','rarity']
-const numericSearchTypes = ['time', 'cd','cooldown','attack','power','health','toughness'];
-const otherSearchTypes = ['name','type','skill','attacktype','show', 'limit','set','faction'];
-
-const publicSearchTypes = ['name','type','skill','time','attack','health','attacktype','set','rarity','faction'];
-const publicRelativeSearchTypes = ['time','attack','health','rarity']
+const publicSearchTypes = ['name','type','ability','gold','attack','health','rarity','faction','tag'];
+const publicRelativeSearchTypes = ['gold','attack','health','rarity']
 
 
 const factionAliases = [
-  {key : 'a', aliases : ['atlantean', 'atlantian', 'blue']},
-  {key : 'e', aliases : ['he', 'high', 'highe', 'highelf', 'highelves', 'highelfs', 'green']},
-  {key : 'd', aliases : ['de', 'dark', 'darke', 'darkelf', 'darkelves', 'darkelfs', 'grey', 'black']},
-  {key : 'o', aliases : ['ot', 'orc', 'orcs', 'orcish', 'orcishtribe', 'tribe', 'orcishtribes', 'tribes', 'orctribe', 'orctribes', 'ork', 'orks', 'red']},
-  {key : 's', aliases : ['sp', 'spider', 'spiders', 'spiderpeople', 'spiderpeoples', 'pink', 'fuchsia']},
-  {key : 'h', aliases : ['nh', 'nameless', 'horde', 'hordes', 'nameless horde', 'demon', 'demons', 'hell', 'purple', 'violet', 'indigo']},
-  {key : 'x', aliases : ['none', 'spell', 'spells', 'nofaction', 'teal', 'aquamarine', 'turquoise']}
+  {key : 'pirates', aliases : ['pirate', 'green']},
+  {key : 'ninjas', aliases : ['ninja', 'purple']},
+  {key : 'warlocks', aliases : ['warlock', 'red']},
+  {key : 'vikings', aliases : ['viking', 'blue']},
+  {key : 'druids', aliases : ['druid', 'white']},
+  {key : 'crusaders', aliases : ['crusader', 'crusade', 'yellow']},
+  {key : 'neutral', aliases : ['neutrals', 'none', 'brown']}
 ];
 const factionMap = CreateAliasMapCollection(factionAliases);
 
 const rarityAliases = [
-  {key : 0, aliases : ['c', 'common', 'brown', 'bronze', 'black']},
-  {key : 1, aliases : ['u', 'uncommon', 'grey', 'silver']},
-  {key : 2, aliases : ['r', 'rare', 'yellow', 'gold']},
-  {key : 3, aliases : ['e', 'epic', 'purple', 'timeshifted']},
-  {key : 4, aliases : ['l', 'legend', 'legendary', 'red', 'mythic']}
+  {key : 0, aliases : ['b', 'none']},
+  {key : 1, aliases : ['c', 'common', 'wood', 'steel', 'silver', 'brown', 'grey', 'tan']},
+  {key : 2, aliases : ['r', 'rare', 'blue', 'teal']},
+  {key : 3, aliases : ['e', 'epic', 'purple', 'pink']},
+  {key : 4, aliases : ['l', 'legend', 'legendary', 'gold', 'yellow']}
 ];
 const rarityMap = CreateAliasMapCollection(rarityAliases);
 
-const attackTypeAliases = [
-    {key : 'b', aliases : ['basic', 'base', 'melee']},
-    {key : 'r', aliases : ['range', 'ranged', 'ranger']},
-    {key : 'x', aliases : ['n', 'none', 'neither', 'noattack']}
+const typeAliases = [
+    {key : 'unit', aliases : ['units', 'creature', 'creatures']},
+    {key : 'spell', aliases : ['spells', 'instant', 'sorcery']},
+    {key : 'building', aliases : ['buildings', 'structure', 'structures']}
 ];
-const attackTypeMap = CreateAliasMapCollection(attackTypeAliases);
+const typeMap = CreateAliasMapCollection(typeAliases);
 
 const defaultOperator = {key : '=',  operation : (a,b) => a==b };
 relativeOperatorTypes = ['=','!=','>=','<=','>','<']
@@ -66,7 +64,7 @@ reparse();
 module.exports = {
     name: 'search',
     aliases: ['find'],
-    description: 'Finds cards matching the given criteria',
+    description: 'Finds cards matching the given criteria (use !search help for more info)',
     usage: '(a series of search criteria. use `!search help` for more info)',
     args: true,
     
@@ -81,11 +79,11 @@ module.exports = {
                                  `\t• Accepted comparisons are: \`${relativeOperatorTypes.join(', ')}\`.\n` + 
                                  '\n' +
                                  'Examples:\n' + 
-                                 '•`!search wolf` will search for "wolf" anywhere on the card.\n' + 
-                                 '•`!search type wolf` will search for "wolf" only in the card types.\n' + 
-                                 '•`!search health 5; type infantry` will search for all infantry with 5 health.\n' + 
-                                 '•`!search type infantry; shield` will search for all infantry with "shield" anywhere on the card.\n' + 
-                                 '•`!search skill wind shield; attack>3` will search for all units with "wind shield" as a skill that also have attack greater than 3.\n' +
+                                 '•`!search dragon` will search for "dragon" anywhere on the card.\n' + 
+                                 '•`!search tag dragon` will search for "dragon" only in the card tags.\n' + 
+                                 '•`!search health 5; tag dragon` will search for all cards with the "dragon" tag that have 5 health.\n' + 
+                                 '•`!search faction crusaders; armor` will search for all crusader cards with "armor" anywhere on the card.\n' + 
+                                 '•`!search ability armor; attack>2` will search for all units with "armor" as an ability that also have attack greater than 3.\n' +
                                  '\n' + 
                                  'Results are automatically limited to the first 30 results, but this can be overriden with the `show` or `limit` prefixes.\n' + 
                                  'E.g. `!search type infantry;show all` will search for and show all infantry type units instead of just showing the first 30.\n' 
@@ -97,45 +95,52 @@ module.exports = {
             let limit = standardLimit;
           
             //Loop over the constraints presented and attempt to apply each one
-            for(let constraint of searchConstraints){
+            for (let constraint of searchConstraints) {
                 if (otherSearchTypes.includes(constraint[0])) {
                     const searchType = constraint.shift();
                     const searchString = constraint.join(' ');
                     constraint = constraint.join('');
                     
-                    if (searchType === 'name') {
-                        matchingCards = matchingCards.filter(card => card.NAME.includes(constraint));
-                    } else if (searchType === 'type') {  
-                        matchingCards = matchingCards.filter(card => card.TYPE && card.TYPE.includes(constraint));  
-                    } else if (searchType === 'set') {
-                        matchingCards = matchingCards.filter(card => card.SET.includes(constraint));
-                    } else if (searchType === 'skill') {
-                        matchingCards = matchingCards.filter(card => card.SKILL && card.SKILL.includes(constraint));    
-                    } else if (searchType === 'faction') {
-                        const factionKey = factionMap.get(constraint);
-                        if (factionKey) {
-                            matchingCards = matchingCards.filter(card => card.FACTION === factionKey);
-                        } else {
-                            message.reply(`I didn\'t recognise the faction "${searchString}", so I ignored it`);
-                        }
-                    } else if (searchType === 'attacktype') {
-                        const attackTypeKey = attackTypeMap.get(constraint);
-                        if (attackTypeKey) {
-                            matchingCards = matchingCards.filter(card => card.ATTACKTYPE === attackTypeKey);
-                        } else {
-                            message.reply(`I didn\'t recognise the attacktype "${searchString}", so I ignored it`);
-                        }
-                    } else if(searchType === 'show' || searchType === 'limit'){
-                        if(constraint === 'all'){
-                            limit = Infinity;
-                        } else {
-                            const constraintNum = parseInt(constraint,10);
-                            if  (!isNaN(constraintNum)) {
-                                limit = constraintNum;
+                    switch (searchType) {
+                        case 'name':
+                            matchingCards = matchingCards.filter(card => card.NAME.includes(constraint));
+                            break;
+                        case 'tag':
+                            matchingCards = matchingCards.filter(card => card.TAG && card.TAG.includes(constraint));                              
+                            break;
+                        case 'ability':
+                        case 'skill':
+                            matchingCards = matchingCards.filter(card => card.ABILITY && card.ABILITY.includes(constraint));    
+                            break;
+                        case 'faction':
+                            const factionKey = factionMap.get(constraint);
+                            if (factionKey) {
+                                matchingCards = matchingCards.filter(card => card.FACTION === factionKey);
                             } else {
-                                message.reply(`I didn\'t recognise the limit "${searchString}" as a number, so I ignored it`);
+                                message.reply(`I didn\'t recognise the faction "${searchString}", so I ignored it`);
                             }
-                        }
+                            break;
+                        case 'type':
+                            const typeKey = typeMap.get(constraint);
+                            if (typeKey) {
+                                matchingCards = matchingCards.filter(card => card.TYPE === typeKey);
+                            } else {
+                                message.reply(`I didn\'t recognise the type "${searchString}", so I ignored it`);
+                            }
+                            break;
+                        case 'show':
+                        case 'limit':
+                            if(constraint === 'all'){
+                                limit = Infinity;
+                            } else {
+                                const constraintNum = parseInt(constraint,10);
+                                if  (!isNaN(constraintNum)) {
+                                    limit = constraintNum;
+                                } else {
+                                    message.reply(`I didn\'t recognise the limit "${searchString}" as a number, so I ignored it`);
+                                }
+                            }
+                            break;
                     }
                 } else if (relativeSearchTypes.some(type => constraint[0].startsWith(type))){   
                     let originalConstraint = constraint.join(' ');
@@ -168,13 +173,20 @@ module.exports = {
                     } else if (numericSearchTypes.includes(searchType)){
                         constraint = constraint.join('');
                         const numConstraint = parseFloat(constraint,10);
-                        if  (!isNaN(numConstraint)) {
-                            if (searchType === 'time' || searchType === 'cd' || searchType === 'cooldown') {
-                                matchingCards = matchingCards.filter(card => operator.operation(card.TIME,numConstraint));
-                            } else if (searchType === 'attack' || searchType === 'power') {
-                                matchingCards = matchingCards.filter(card => operator.operation(card.ATTACK,numConstraint));  
-                            } else if (searchType === 'health' || searchType === 'toughness') {
-                                matchingCards = matchingCards.filter(card => operator.operation(card.HEALTH,numConstraint));  
+                        if (!isNaN(numConstraint)) {
+                            switch (searchType) {
+                                case 'cost':
+                                case 'gold':
+                                    matchingCards = matchingCards.filter(card => operator.operation(card.GOLD,numConstraint));
+                                    break;
+                                case 'attack':
+                                case 'power':
+                                    matchingCards = matchingCards.filter(card => operator.operation(card.ATTACK,numConstraint));  
+                                    break;
+                                case 'health':
+                                case 'toughness':
+                                    matchingCards = matchingCards.filter(card => operator.operation(card.HEALTH,numConstraint));  
+                                    break;
                             }
                         } else {
                             message.reply(`I didn\'t recognise the ${searchType} "${constraint}" as a number, so I ignored it`).catch(console.log);
@@ -262,22 +274,15 @@ async function reparse(debug = false){
         for (let originalCard of cards) {  
             let card = v8.deserialize(v8.serialize(originalCard));//deep copy
             card.NAME = card.CARDNAME.replace(/ +/g,'').toLowerCase();
-            card.SET = card.SET.replace(/ +/g,'').toLowerCase();
+            card.TAG = card.TAG.replace(/ +/g,'').toLowerCase();
             card.RARITY = card.RARITY.replace(/ +/g,'').toLowerCase();
             card.RARITYLEVEL = rarityMap.get(card.RARITY);
             card.FACTION = card.FACTION.replace(/ +/g,'').toLowerCase();
-            if(card.TYPE){ card.TYPE = card.TYPE.replace(/ +/g,'').toLowerCase(); }
-            if(card.SKILL) { card.SKILL = card.SKILL.replace(/ +/g,'').toLowerCase(); }
-            if(card.ATTACKTYPE) { 
-                card.ATTACKTYPE = card.ATTACKTYPE.replace(/ +/g,'').toLowerCase();
-                card.ATTACKTYPESEARCHSTRING = (card.ATTACKTYPE === 'r' ? 'rangedranger' : 'basicmelee');
-            } else if (card.TYPE !== 'spell') {
-                card.ATTACKTYPE = 'x'
-                card.ATTACKTYPESEARCHSTRING = 'none'
-            }
+            card.TYPE = card.TYPE.replace(/ +/g,'').toLowerCase();
+            if(card.ABILITY) { card.ABILITY = card.ABILITY.replace(/ +/g,'').toLowerCase(); }
         
             card.SearchString = Object.values(card).join(';');
-            card.URLCardName = card.CARDNAME.toLowerCase().replace(/ +/g,'_');
+            card.URLCardName = card.CARDNAME.replace(/ +/g,'_');
         
             cardCollection.push(card);
         }

@@ -4,12 +4,11 @@ const DbEx = require('../common/DbExtensions.js');
 const fs = require('fs');
 const { google } = require('googleapis');
 const url = require('url');
-const { CARD_ALIAS_PATH, EQUIP_ALIAS_PATH, SKILL_ALIAS_PATH, CARD_SEARCH_PATH, HISTORY_PATH } = require('../strings.js'); 
-const {ReparseEquips} = require('./equip.js');
+const { CARD_ALIAS_PATH, SKILL_ALIAS_PATH, CARD_SEARCH_PATH, HISTORY_PATH } = require('../strings.js'); 
 const {ReparseCards} = require('./card.js');
 const {ReparseSkills} = require('./skill.js');
 const {ReparseSearch} = require('./search.js');
-const {ReparseHistory} = require('./history.js');
+//const {ReparseHistory} = require('./history.js');
 
 module.exports = {
     name: 'update',
@@ -21,47 +20,44 @@ module.exports = {
   
     run : async (message, args) => {
         let promise = null;
-        if (args[0] === 'starttoken') {          
-            StartTokenProcessManual(message)
-        }
-        else if(args[0] === 'starttokenauto') {
-            StartTokenProcessAuto(message);
-        }
-        else if(args[0] === 'finishtoken') {
-            GetAndSaveTokenManual(args[1], message);
-        }
-        else if(['cards', 'card'].includes(args[0])) {
-            promise = Promise.resolve(console.log("promise start"))
-            .then(() => UpdateJSONData('Cards!A1:C', CARD_ALIAS_PATH, 'cards', message))
-            .then(() => ReparseCards(true))
-        }
-        else if(['equips', 'equip'].includes(args[0])) {
-            promise = Promise.resolve(console.log("promise start"))
-            .then(() => UpdateJSONData('equips!A1:C', EQUIP_ALIAS_PATH, 'equips', message))
-            .then(() => ReparseEquips(true));
-        }
-        else if(['skills', 'skill'].includes(args[0])) {
-            promise = Promise.resolve(console.log("promise start"))
-            .then(() => UpdateJSONData('skills!A1:C', SKILL_ALIAS_PATH, 'skills', message))
-            .then(() => ReparseSkills(true));
-        }
-        else if(args[0] === 'search') {
-            promise = Promise.resolve(console.log("promise start"))
-            .then(() => UpdateJSONData('traits!A1:J', CARD_SEARCH_PATH, 'search', message))
-            .then(() => ReparseSearch(true));
-        }
-        else if(args[0] === 'history') {
-            promise = Promise.resolve(console.log("promise start"))
-            .then(() => UpdateJSONData('history!A1:D', HISTORY_PATH, 'history', message))
-            .then(() => ReparseHistory(true));
-        }
-        else if(args[0] === 'test') {
-            promise = Promise.resolve(console.log("promise start"))
-            .then(() => UpdateJSONData('test!A1:D', 'test.json', 'test', message))
-            .then(() => ReparseHistory(true));
-        } else {
-            message.reply(`I didn't recognise the update type: "${args[0]}"`);
-            message.reply(`Valid usage is: \`!update <${this.usage}>\``);
+        switch (args[0]) {
+            case 'starttoken':
+                StartTokenProcessManual(message)
+                break;
+            case 'starttokenauto':
+                StartTokenProcessAuto(message);
+                break;
+            case 'finishtoken':
+                GetAndSaveTokenManual(args[1], message);
+                break;
+            case 'cards':
+            case 'card':
+                promise = Promise.resolve(console.log("promise start"))
+                .then(() => UpdateJSONData('Cards!A1:C', CARD_ALIAS_PATH, 'cards', message))
+                .then(() => ReparseCards(true));
+                break;
+            case 'skills':
+            case 'skill':
+            case 'ability':
+            case 'abilities':
+                promise = Promise.resolve(console.log("promise start"))
+                .then(() => UpdateJSONData('Abilities!A1:B', SKILL_ALIAS_PATH, 'skills', message))
+                .then(() => ReparseSkills(true));
+                break;
+            case 'search':
+                promise = Promise.resolve(console.log("promise start"))
+                .then(() => UpdateJSONData('Traits!A1:I', CARD_SEARCH_PATH, 'search', message))
+                .then(() => ReparseSearch(true));
+                break;
+            /*case 'history':
+                promise = Promise.resolve(console.log("promise start"))
+                .then(() => UpdateJSONData('history!A1:D', HISTORY_PATH, 'history', message))
+                .then(() => ReparseHistory(true));
+                break;*/
+            default:
+                message.reply(`I didn't recognise the update type: "${args[0]}"`);
+                message.reply(`Valid usage is: \`!update <${this.usage}>\``);
+                break;
         }
 
         if(promise){

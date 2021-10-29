@@ -9,20 +9,26 @@ module.exports = {
     cooldown: 5,
   
     run : async (message, args) => {
+        //this is for an unknown other so don't mention the user
         let messageToSend = WelcomeMessage.replace(', ${member}', '');
 
         // Make the message point to the dev channel if it exists:
         if(message.guild){
-            const devChannel = message.guild.channels.cache.find(ch => ch.name === 'dev-chat');
-            if (devChannel) {
-                messageToSend = messageToSend.replace('${channel}', devChannel.toString());
-            } else {
-                messageToSend = messageToSend.replace('${channel}', message.channel.toString());
-            }
+            messageToSend = messageToSend.replace(/#[^#]+#/g, function (match) {
+                const channelName = match.substr(1, match.length-2);
+                const channel = message.guild.channels.cache.find(ch => ch.name === channelName && ch.type === 'text');
+                if (channel) {
+                    return channel.toString();
+                } else {
+                    return '**'+channelName+'**';
+                }
+            }); 
         } else {
-            messageToSend = messageToSend.replace('on the ${channel} channel', 'in the dev-chat channel in the official Storm Wars discord server');
+            messageToSend = messageToSend.replace(/#[^#]+#/g, function (match) {
+                return '**'+channelName+'**';
+            });
         }
-        // Send the message, mentioning the member
+
         message.channel.send(messageToSend);
   }
 }

@@ -1,8 +1,6 @@
 module.exports = {
-  WelcomeMessage : 'Welcome to the Storm Wars Card Game official dedicated chat server, ${member}!\n' +
-                   '\n' + 
-                   'Please note the various chat-topic channels listed along the left panel. There are channels for clan recruitment, deck strategy and technical questions, along with many places to find links to utilities and help files. You can also chat directly with the development team on the ${channel} channel.\n' +
-                   '\n' +
+  WelcomeMessage : 'Welcome to the official Cards and Castles discord server, ${member}!\n' + 
+                   'Please take time to read the server rules in #rules#. After that, hang out in #discussion# for general conversation, check out #deck-building# to ask for advice, or take a look at polished decks from veteran players in #deck-showcase#.\n' +
                    'Enjoy your stay, and please feel free to ask any questions!',
   
   /*HelpMessage : 'Hello, thanks for using the Storm Wars Chatbot!\n' +

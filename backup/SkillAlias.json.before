@@ -1,1320 +1,177 @@
 [
 	{
-		"SKILLNAME":"Absorb",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any magic damage dealt to this unit heals it. Absorb cannot be removed by Drain Magic."
+		"Ability":"Resolve",
+		"Description":"The first time this unit would die, its health reduces to 1 instead."
 	},
 	{
-		"SKILLNAME":"Acid Blood",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit is immune to the status effects of Poisoned and Corroded and poison-based and corrode-based attacks."
+		"Ability":"Treasure",
+		"Description":"Gain extra gold on your next turn."
 	},
 	{
-		"SKILLNAME":"Aegis",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit enters play in the Aegis status. Aegis absorbs and negates all damage from all sources. If 6 damage is absorbed this way, Aegis dissipates."
+		"Ability":"Last Will",
+		"Description":"Activate an ability after being destroyed."
 	},
 	{
-		"SKILLNAME":"Afterburner",
-		"ALIAS":"Afterburn",
-		"CARDSKILLDESCRIPTION":"Whenever either player casts a spell, this unit deals its attack value to the enemy hero in magic fire damage."
+		"Ability":"Stun",
+		"Description":"Disables a unit for one turn."
 	},
 	{
-		"SKILLNAME":"Aggression",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, whenever the opposing player enters a unit into play, this unit gets +1 attack."
+		"Ability":"Freeze",
+		"Description":"Cannot move or attack for one turn, and counterattacks are delayed."
 	},
 	{
-		"SKILLNAME":"Amnesia",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, while this unit is in play, 1 card is removed from the opponent's deck."
+		"Ability":"Bleed",
+		"Description":"Bleeding units will take damage at the beginning of their turn."
 	},
 	{
-		"SKILLNAME":"Armored",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit ignores 1 damage from any source."
+		"Ability":"Slow",
+		"Description":"Moves 1 less space than normal, and takes one turn to get ready."
 	},
 	{
-		"SKILLNAME":"Armorer",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit grants the Armored skill to a random allied unit."
+		"Ability":"Fast",
+		"Description":"Moves 1 more space than normal."
 	},
 	{
-		"SKILLNAME":"Assassinate",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit damaged by this unit's main attack is dealt a deathstrike."
+		"Ability":"Flying",
+		"Description":"Can move through enemies."
 	},
 	{
-		"SKILLNAME":"Assault",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 2 damage directly to the enemy hero."
+		"Ability":"Armor",
+		"Description":"Absorbs the first X damage taken each turn."
 	},
 	{
-		"SKILLNAME":"Assault 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 4 damage directly to the enemy hero."
+		"Ability":"Deflect",
+		"Description":"Cannot be the target of enemy spells."
 	},
 	{
-		"SKILLNAME":"Augury",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, each turn its controlling player draws one additional card."
+		"Ability":"Victory Rush",
+		"Description":"Activate an ability after the unit slays an enemy."
 	},
 	{
-		"SKILLNAME":"Backstab",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When attacking, if this unit is in the Hidden status, it deals double damage."
+		"Ability":"First Strike",
+		"Description":"The unit will deal its attack damage FIRST, before the enemy can strike. (Restrictions: Takes one turn to get ready, and cannot knock back enemies)"
 	},
 	{
-		"SKILLNAME":"Bane",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit deals double damage to any unit that has the Poisoned status already inflicted on it."
+		"Ability":"Ranged",
+		"Description":"Moves slower and attacks from range, but takes one turn to get ready."
 	},
 	{
-		"SKILLNAME":"Battle Drums",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, the enemy hero will take double damage from all sources. Does not stack with other Battle Drums."
+		"Ability":"Initiative",
+		"Description":"Activate an ability when entering the field."
 	},
 	{
-		"SKILLNAME":"Battle Song",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit grants +1 attack to a random allied unit."
+		"Ability":"Rampage",
+		"Description":"May move and attack another unit after the first attack."
 	},
 	{
-		"SKILLNAME":"Beam",
-		"ALIAS":"Beam 1",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1-2 magic damage to the opposing enemy unit, or to the enemy hero if there is no opposing enemy unit."
+		"Ability":"Rebound",
+		"Description":"You may cast this spell on a second target."
 	},
 	{
-		"SKILLNAME":"Beam 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 2-3 magic damage to the opposing enemy unit, or to the enemy hero if there is no opposing enemy unit."
+		"Ability":"Stalwart",
+		"Description":"Immune to all knockback, pull, and fear effects."
 	},
 	{
-		"SKILLNAME":"Beam 3",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 3-4 magic damage to the opposing enemy unit, or to the enemy hero if there is no opposing enemy unit."
+		"Ability":"Siege",
+		"Description":"Activate an ability after attacking an enemy building or castle."
 	},
 	{
-		"SKILLNAME":"Beam X",
-		"ALIAS":"Beam formula",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 0-1 +X magic damage to the opposing enemy unit, or to the enemy hero if there is no opposing enemy unit."
+		"Ability":"Awaken",
+		"Description":"Activate an ability at the start of your next turn."
 	},
 	{
-		"SKILLNAME":"Blast",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1 magic fire damage to all enemy units. Cannot target enemy hero."
+		"Ability":"Combo",
+		"Description":"Activate an ability after dealing combat damage."
 	},
 	{
-		"SKILLNAME":"Blast 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1-2 magic fire damage to all enemy units. Cannot target enemy hero."
+		"Ability":"Chain Lightning",
+		"Description":"Deal extra damage that chains to nearby enemies."
 	},
 	{
-		"SKILLNAME":"Blast 3",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1-3 magic fire damage to all enemy units. Cannot target enemy hero."
+		"Ability":"Building",
+		"Description":"Can be played next to other units but cannot move."
 	},
 	{
-		"SKILLNAME":"Blood Scent",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, all allied that have the Drain skill are granted +2 attack."
+		"Ability":"Judgment",
+		"Description":"Deals damage to enemies that attack this unit."
 	},
 	{
-		"SKILLNAME":"Bloodlust",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit deals double damage to any unit that is currently below its maximum life."
+		"Ability":"Unique",
+		"Description":"Multiple copies of this effect do not stack."
 	},
 	{
-		"SKILLNAME":"Bloodlust 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit deals 2 extra damage when attacking units that are below their maximum life. Does not affect attacks on enemy hero. "
+		"Ability":"Knockback",
+		"Description":"Enemies struck are pushed backwards."
 	},
 	{
-		"SKILLNAME":"Bloodlust 3",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit deals 3 extra damage when attacking units that are below their maximum life. Does not affect attacks on enemy hero."
+		"Ability":"Evasive",
+		"Description":"May move again after attacking."
 	},
 	{
-		"SKILLNAME":"Bloodlust 4",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit deals 4 extra damage when attacking units that are below their maximum life. Does not affect attacks on enemy hero. "
+		"Ability":"Inferno",
+		"Description":"Deals damage to EVERYTHING nearby when your turn begins."
 	},
 	{
-		"SKILLNAME":"Bomb",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1-2 explosion damage to a random enemy unit. Adjacent enemy units receive 1 splash damage. Can target enemy hero."
+		"Ability":"Stealth",
+		"Description":"Invisible to the enemy until your next turn. Stealth is removed after attacking."
 	},
 	{
-		"SKILLNAME":"Bombard",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1-2 fire damage and inflicts the Burning status on a random enemy unit and adjacent units. Can target enemy hero."
+		"Ability":"Explosive",
+		"Description":"Strike all enemies near the target."
 	},
 	{
-		"SKILLNAME":"Boost",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit grants +1 attack and +1 life to a random allied unit of the given type."
+		"Ability":"Trap",
+		"Description":"Sets a secret trap that only activates on your opponent's turn."
 	},
 	{
-		"SKILLNAME":"Burn",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1-2 magic fire damage and inflicts the Burning status on a random enemy unit."
+		"Ability":"Thunderstrike",
+		"Description":"Strikes all enemies in a frontal cone and knocks them back."
 	},
 	{
-		"SKILLNAME":"Burn 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 2-3 magic fire damage and inflicts the Burning status on a random enemy unit."
+		"Ability":"Spirit Link",
+		"Description":"Enemy combat damage is redirected to this unit."
 	},
 	{
-		"SKILLNAME":"Burn 3",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 3-4 magic fire damage and inflicts the Burning status on a random enemy unit."
+		"Ability":"Companion",
+		"Description":"Can be played next to one of your units."
 	},
 	{
-		"SKILLNAME":"Burn X",
-		"ALIAS":"Burn Formula",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 0-1 +X magic fire damage and inflicts the Burning status on a random enemy unit."
+		"Ability":"Upkeep",
+		"Description":"Owner must pay gold at the start of their turn."
 	},
 	{
-		"SKILLNAME":"Burning",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"(Status) This unit will take 1 fire damage each turn."
+		"Ability":"Survival Instinct",
+		"Description":"Activate an ability after being attacked."
 	},
 	{
-		"SKILLNAME":"Champion",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, all allied units are granted +1 attack and +1 life."
+		"Ability":"Riposte",
+		"Description":"Counterattacks deal double damage."
 	},
 	{
-		"SKILLNAME":"Chaos",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit enters play, 1 copy of the Flashdraft spell is added to the opponent's deck in random positions."
+		"Ability":"Lifesteal",
+		"Description":"Gains health equal to damage dealt."
 	},
 	{
-		"SKILLNAME":"Chaos 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit enters play, 2 copies of the Flashdraft spell are added to the opponent's deck in random positions."
+		"Ability":"Nearby",
+		"Description":"Affects valid targets in a surrounding 3x3 grid."
 	},
 	{
-		"SKILLNAME":"Chaos X",
-		"ALIAS":"Chaos formula",
-		"CARDSKILLDESCRIPTION":"When this unit enters play, X copies of the Flashdraft spell are added to the opponent's deck in random positions."
+		"Ability":"Rainbow Shield",
+		"Description":"Cannot be hurt by spell cards, auras and abilities."
 	},
 	{
-		"SKILLNAME":"Charge",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit enters play in the Charge status. Units with Charge deal double damage when attacking. At the end of a unit's turn, the Charge status is removed."
+		"Ability":"Blood Price",
+		"Description":"Cannot be played unless you sacrificed a unit in your previous turn."
 	},
 	{
-		"SKILLNAME":"Confuse",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit forces the opposing enemy unit to strike its adjacent allied units with physical damage, in the amount of its regular attack."
+		"Ability":"Fear Aura",
+		"Description":"Causes a unit to run away, ignoring movement collision."
 	},
 	{
-		"SKILLNAME":"Confuse Ray",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit forces a random enemy unit to strike its adjacent allied units with physical damage, in the amount of its regular attack."
+		"Ability":"Cleave",
+		"Description":"Strikes all surrounding enemies."
 	},
 	{
-		"SKILLNAME":"Consume",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, each turn a random card is milled from its owner's deck."
-	},
-	{
-		"SKILLNAME":"Corrosive Aura",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit that attacks this unit has the Corroded status inflicted on it. Corroded units lose one non-magical non-inherent skill at the end of each turn."
-	},
-	{
-		"SKILLNAME":"Corrosive Bite",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit damaged by this unit's main attack has the Corrosive status inflicted on it. Corroded units lose one non-magical non-inherent skill at the end of each turn."
-	},
-	{
-		"SKILLNAME":"Corrosive Nova",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1-2 damage and inflicts the Corroded status on all enemy units. Corroded units lose one non-magical non-inherent skill at the end of each turn. Can target enemy hero."
-	},
-	{
-		"SKILLNAME":"Corrosive Spit",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1-2 damage and inflicts the Corroded status on the opposing enemy unit. Corroded units lose one non-magical non-inherent skill at the end of each turn. Can target enemy hero."
-	},
-	{
-		"SKILLNAME":"Corrosive Spray",
-		"ALIAS":"Corrosive Cone",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1-2 damage and inflicts the Corroded status on the opposing enemy unit and adjacent units. Can target enemy hero."
-	},
-	{
-		"SKILLNAME":"Corrupt 1",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Deals 2-4 ranged damage to a random enemy and corrodes them. Corroded units will lose non-magic abilities each turn."
-	},
-	{
-		"SKILLNAME":"Corrupt 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Deals 2-4 ranged damage to 2 random enemies and corrodes them. Corroded units will lose non-magic abilities each turn."
-	},
-	{
-		"SKILLNAME":"Corrupt 3",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Deals 2-4 ranged damage to three random enemy and corrodes them. Corroded units will lose non-magic abilities each turn."
-	},
-	{
-		"SKILLNAME":"Create Trap",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit summons 1 random allied Trap unit onto the battlefield."
-	},
-	{
-		"SKILLNAME":"Create Trap 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit summons 2 random allied Trap units onto the battlefield."
-	},
-	{
-		"SKILLNAME":"Crush",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1-2 magic earth damage to a random enemy unit. This skill deals double damage to enemy units with 5 Speed or faster. Cannot target enemy hero."
-	},
-	{
-		"SKILLNAME":"Crush 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 2-3 magic earth damage to a random enemy unit. This skill deals double damage to enemy units with 5 Speed or faster. Cannot target enemy hero."
-	},
-	{
-		"SKILLNAME":"Crush 3",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 3-4 magic earth damage to a random enemy unit. This skill deals double damage to enemy units with 5 Speed or faster. Cannot target enemy hero."
-	},
-	{
-		"SKILLNAME":"Cull",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"After attacking, this unit deals a deathstrike to each enemy unit with 1 or fewer life remaining."
-	},
-	{
-		"SKILLNAME":"Cull 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"After attacking, this unit deals a deathstrike to each enemy unit with 2 or fewer life remaining."
-	},
-	{
-		"SKILLNAME":"Curse",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit damaged by this unit's main attack has the Cursed status inflicted on it. Cursed units lose one attack power and cannot be healed by any means."
-	},
-	{
-		"SKILLNAME":"Dampener",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit grants the Gravity Shield skill to a random allied unit."
-	},
-	{
-		"SKILLNAME":"Dark Gift",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit is destroyed, all allied units are given the Stealth status."
-	},
-	{
-		"SKILLNAME":"Dart",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Deals 1-2 ranged damage to a random enemy each turn."
-	},
-	{
-		"SKILLNAME":"Dart 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Deals 2-3 ranged damage to a random enemy each turn."
-	},
-	{
-		"SKILLNAME":"Dart 3",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Deals 3-4 ranged damage to a random enemy each turn."
-	},
-	{
-		"SKILLNAME":"Daze",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit's basic attack will stun enemy units it damages. Stunned units can not take action for 1 turn."
-	},
-	{
-		"SKILLNAME":"Death Strike",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"If this unit deals damage to an enemy unit, it is destroyed. Does not affect machines or walls."
-	},
-	{
-		"SKILLNAME":"Demolish",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, deals 1-3 physical damage to the closest 2 enemy units and removes all shields. Deals 1 extra damage if shield is removed."
-	},
-	{
-		"SKILLNAME":"Demolish 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, deals 2-3 physical damage to the closest 2 enemy units and removes all shields. Deals 1 extra damage if shield is removed."
-	},
-	{
-		"SKILLNAME":"Demolish 3",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, deals 2-4 physical damage to the closest 2 enemy units and removes all shields. Deals 1 extra damage if shield is removed."
-	},
-	{
-		"SKILLNAME":"Destroy Wall",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals a deathstrike to a random enemy Wall unit."
-	},
-	{
-		"SKILLNAME":"Detect",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit removes the Stealth skill from one enemy unit. If successful, it also deals 2 physical damage to that unit."
-	},
-	{
-		"SKILLNAME":"Devour Imp",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals a deathstrike to a random allied Imp unit and is granted +2 attack and +4 life."
-	},
-	{
-		"SKILLNAME":"Devour Mycosian",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn devours one friendly mycosian and gains 2 attack and 4 life"
-	},
-	{
-		"SKILLNAME":"Devour Mycosian 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn devours one friendly mycosian and gains 3 attack and 6 life"
-	},
-	{
-		"SKILLNAME":"Disarm",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Deals 1-2 physical damage to enemy units entering play. If that unit has ranged attack, it is removed and that unit takes 4 damage instead."
-	},
-	{
-		"SKILLNAME":"Drain",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When attacking an enemy unit or hero, this unit will heal for the amount of damage dealt. Does not work on enemy heroes."
-	},
-	{
-		"SKILLNAME":"Drain Bolt",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1-2 damage to a random enemy unit and heals itself for the amount of damage inflicted. Can target enemy hero."
-	},
-	{
-		"SKILLNAME":"Drain Magic",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1 damage to a random enemy unit, favoring units with at least 1 magic skill. If applicable, the ray removes a random magic skill and then grants +2 life to this unit."
-	},
-	{
-		"SKILLNAME":"Drain Nova",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1-2 damage to all enemy units and heals itself for the amount of damage inflicted. Can target enemy hero."
-	},
-	{
-		"SKILLNAME":"Drain Strength",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1-2 damage to a random enemy unit, favoring units with at least 1 attack power. If applicable, the ray weakens by 1 and then grants +2 life to this unit."
-	},
-	{
-		"SKILLNAME":"Drench",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1 magic water damage to all enemy units, and removes the Burning status and all Aura skills from all units in play. Cannot target enemy hero."
-	},
-	{
-		"SKILLNAME":"Drench 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 2 magic water damage to all enemy units, and removes the Burning status and all Aura skills from all units in play. Cannot target enemy hero."
-	},
-	{
-		"SKILLNAME":"Enrage",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit grants +1 attack to a random allied unit of the given type."
-	},
-	{
-		"SKILLNAME":"Entrap",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit that attacks this unit with a basic attack has the Paralyzed status inflicted on it. Paralyzed units do not activate during their turn. The Paralyzed status is removed when a unit is damaged."
-	},
-	{
-		"SKILLNAME":"Equivalence",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"At the start of each turn, this unit's attack power is set to its current life value."
-	},
-	{
-		"SKILLNAME":"Ethereal",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit is immune to physical and ranged attacks."
-	},
-	{
-		"SKILLNAME":"Evil Eye 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Deals 2-4 magic damage to a random enemy unit and curses it. Cursed units lose 1 attack and cannot be healed or repaired."
-	},
-	{
-		"SKILLNAME":"Evolve",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"If this unit survives 3 turns, it will transform into a random Spider unit."
-	},
-	{
-		"SKILLNAME":"Explode",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit is destroyed, it deals 2 explosive damage to the opposing enemy unit and adjacent enemy units."
-	},
-	{
-		"SKILLNAME":"Extra Attack",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, immediately after attacking, this unit attacks a second time."
-	},
-	{
-		"SKILLNAME":"Fade",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit will lose 1 life each turn. This damage is not blockable or avoidable."
-	},
-	{
-		"SKILLNAME":"Fearless",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit is immune to the status effects of Intimidated and Terrified and cannot be weakened."
-	},
-	{
-		"SKILLNAME":"Fire Aura",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit that attacks this unit has the Burning status inflicted on it. Burning units take 1 fire damage each turn."
-	},
-	{
-		"SKILLNAME":"Fire Breath",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 2 damage and inflicts the Burning status on the opposing enemy unit."
-	},
-	{
-		"SKILLNAME":"Fire Spray",
-		"ALIAS":"Fire Cone",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 2 fire damage and inflicts the Burning status on the opposing enemy unit and adjacent units. Can target enemy hero."
-	},
-	{
-		"SKILLNAME":"Fire Storm",
-		"ALIAS":"Fire Nova",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 2 fire damage and inflicts the Burning status on all enemy units. Can target enemy hero."
-	},
-	{
-		"SKILLNAME":"Firebolt",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Deals 1 magic fire damage to a random enemy and sets them on fire. Burning units take 1 fire damage each turn."
-	},
-	{
-		"SKILLNAME":"Firebolt 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Deals 2 magic fire damage to a random enemy and sets them on fire. Burning units take 1 fire damage each turn."
-	},
-	{
-		"SKILLNAME":"Firebolt 3",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Deals 3 magic fire damage to a random enemy and sets them on fire. Burning units take 1 fire damage each turn."
-	},
-	{
-		"SKILLNAME":"Fireproof",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit is immune to fire-based attacks and the Burning status."
-	},
-	{
-		"SKILLNAME":"Flamelust",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit deals double damage to any unit that has the Burning status already inflicted on it."
-	},
-	{
-		"SKILLNAME":"Flare",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit enters play, it deals 2 magic fire damage and inflicts the Burning status on all enemy units."
-	},
-	{
-		"SKILLNAME":"Frenzy",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Every time this unit attacks it gains +1 attack."
-	},
-	{
-		"SKILLNAME":"Frenzy 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Every time this unit attacks it gains +2 attack."
-	},
-	{
-		"SKILLNAME":"Frenzy X",
-		"ALIAS":"Frenzy formula",
-		"CARDSKILLDESCRIPTION":"Every time this unit attacks it gains +X attack."
-	},
-	{
-		"SKILLNAME":"Fugue Aura",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Whenever this unit is damaged by a hero, that hero has 1 card milled from its deck."
-	},
-	{
-		"SKILLNAME":"Gravity Shield",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit ignores all damage beyond 3 damage from any source."
-	},
-	{
-		"SKILLNAME":"Greater Wind Shield",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, all allied units are granted the Wind Shield skill."
-	},
-	{
-		"SKILLNAME":"Green Blood",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit is granted +2 attack power for each allied saurian unit in play."
-	},
-	{
-		"SKILLNAME":"Guard",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, its adjacent allies receive the Guarded status. Guarded units have damage from normal or ranged attacks reduced by 1."
-	},
-	{
-		"SKILLNAME":"Guard Ally",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, a random ally receives the Guarded status. Guarded units have damage from normal or ranged attacks reduced by 1."
-	},
-	{
-		"SKILLNAME":"Halt",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Enemy units entering the battle across from this unit are instantly stunned for 1 turn. "
-	},
-	{
-		"SKILLNAME":"Harbinger",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When entering play, removes 1 cooldown from all allied cards in staging. "
-	},
-	{
-		"SKILLNAME":"Hasten",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit reduces the cooldown by 1 for a random allied unit with the highest remaining cooldown in the staging area."
-	},
-	{
-		"SKILLNAME":"Hasten 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit reduces the cooldown by 2 for a random allied unit with the highest remaining cooldown in the staging area."
-	},
-	{
-		"SKILLNAME":"Hatch",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"If this unit survives 3 turns, it will transform into the given unit."
-	},
-	{
-		"SKILLNAME":"Heal",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit heals the most damaged allied unit for 1-2 life and removes status effects besides Cursed."
-	},
-	{
-		"SKILLNAME":"Heal 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit heals the most damaged allied unit for 2-4 life and removes status effects besides Cursed."
-	},
-	{
-		"SKILLNAME":"Heal 3",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit heals the most damaged allied unit for 3-6 life and removes status effects besides Cursed."
-	},
-	{
-		"SKILLNAME":"Heal Beast",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit heals the most damaged allied beast or cavalry unit for 2-4 life and removes status effects besides Cursed."
-	},
-	{
-		"SKILLNAME":"Heal Mycosian",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit heals the most damaged allied mycosian unit for 2-4 life and removes status effects besides Cursed."
-	},
-	{
-		"SKILLNAME":"Heal X",
-		"ALIAS":"Heal Formula",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit heals the most damaged allied unit for X-2*X life and removes status effects besides Cursed."
-	},
-	{
-		"SKILLNAME":"Heavy Shield",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit ignores 1-2 damage from any physical or ranged attack."
-	},
-	{
-		"SKILLNAME":"Hellfire",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Allied units get +1 attack. All enemy units catch on fire when entering play. Burning units take 1 fire damage per turn."
-	},
-	{
-		"SKILLNAME":"Heroic Ballad",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit grants +1-2 life to a random allied unit."
-	},
-	{
-		"SKILLNAME":"Hex Bolt",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1-2 magic damage to a random enemy unit and inflicts the Cursed status on it. Cursed units lose one attack power and cannot be healed by any means."
-	},
-	{
-		"SKILLNAME":"Hex Bolt 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 2-3 magic damage to a random enemy unit and inflicts the Cursed status on it. Cursed units lose one attack power and cannot be healed by any means."
-	},
-	{
-		"SKILLNAME":"Hex Bolt X",
-		"ALIAS":"Hex Formula",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1-2 +X magic damage to a random enemy unit and inflicts the Cursed status on it. Cursed units lose one attack power and cannot be healed by any means."
-	},
-	{
-		"SKILLNAME":"Hide",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit enters play in the Hidden status, and re-applies the Hidden status to itself at the start of each turn. Hidden units completely ignore damage once and then Hidden is removed."
-	},
-	{
-		"SKILLNAME":"Homing Missile",
-		"ALIAS":"Missile",
-		"CARDSKILLDESCRIPTION":"Every other turn, this unit deals 8 explosion damage to a random enemy unit. Can target enemy hero."
-	},
-	{
-		"SKILLNAME":"Igniter",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit damaged by this unit's main attack has the Burning status inflicted on it. Burning units take 1 fire damage each turn."
-	},
-	{
-		"SKILLNAME":"Immune",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit is immune to all debuffs."
-	},
-	{
-		"SKILLNAME":"Inspire",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, all allied units of the given type are granted +1 attack."
-	},
-	{
-		"SKILLNAME":"Inspire Saurian",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, all allied saurians are granted +1 attack."
-	},
-	{
-		"SKILLNAME":"Intimidate",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, the opposing enemy unit has its attack reduced by 1. Does not affect Walls, Machines or Dragons."
-	},
-	{
-		"SKILLNAME":"Invocant",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When entering play, a random allied unit gains +1 life for each 7 cards in the hero's deck."
-	},
-	{
-		"SKILLNAME":"Leech Magic",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit damaged by this unit's main attack has all magic skills removed. For each skill removed this way, this unit gains +2 attack."
-	},
-	{
-		"SKILLNAME":"Light Shield",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit ignores 0-1 damage from any physical or ranged attack."
-	},
-	{
-		"SKILLNAME":"Lightning Breath",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 2-3 magic electric damage to the opposing enemy unit."
-	},
-	{
-		"SKILLNAME":"Lightning Cone",
-		"ALIAS":"Lightning Spray",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 2-3 magic electric damage to the opposing enemy unit and adjacent units. Can target enemy hero."
-	},
-	{
-		"SKILLNAME":"Lightning Nova",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 2-3 magic electric damage to all enemy units. Can target enemy hero."
-	},
-	{
-		"SKILLNAME":"Luminaire",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit is granted +2/+1 for each unique elemental unit in play."
-	},
-	{
-		"SKILLNAME":"Machine",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit is immune to the status effects of Poisoned, Wounded and Paralyzed, and cannot be healed."
-	},
-	{
-		"SKILLNAME":"Magic Dome",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, all allied units are granted the Magic Shield skill."
-	},
-	{
-		"SKILLNAME":"Magic Shield",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit ignores 1-2 damage from any magic attack."
-	},
-	{
-		"SKILLNAME":"Magnet",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, all enemy ranged attacks will target this unit first, regardless of Snipe or other seeking abilities."
-	},
-	{
-		"SKILLNAME":"Miasma",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"All enemy units are stunned the first turn that they enter play. Stunned units cannot take any actions for 1 turn."
-	},
-	{
-		"SKILLNAME":"Mindsteal",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Whenever this unit damages an enemy unit with its main attack, it steals a random skill or buff. Mindsteal will not work if this unit has 4 or more skills already."
-	},
-	{
-		"SKILLNAME":"Obstacle",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Only 1 friendly or enemy unit can enter battle from staging each turn."
-	},
-	{
-		"SKILLNAME":"Paralyzing Bite",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit damaged by this unit's main attack has the Paralyzed status inflicted on it. Paralyzed units do not activate during their turn. The Paralyzed status is removed when a unit is damaged."
-	},
-	{
-		"SKILLNAME":"Pierce",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit's attacks ignore shields and other protective abilities."
-	},
-	{
-		"SKILLNAME":"Pin",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit enters play, it Time Locks one card in the enemy's staging area, preventing that card's timer from counting down for 1 turn."
-	},
-	{
-		"SKILLNAME":"Platebearer",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit enters play, it grants a random allied unit the Armored skill. This skill will not target units that have the Armored skill already."
-	},
-	{
-		"SKILLNAME":"Poach",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit successfully damages the enemy hero with a basic attack, it will destroy a random equipment item and leave play."
-	},
-	{
-		"SKILLNAME":"Poison Aura",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit that attacks this unit has the Poisoned status inflicted on it. Poisoned units take 1 poison damage each turn."
-	},
-	{
-		"SKILLNAME":"Poison Spit",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, instead of attacking, this unit deals its attack power in ranged damage and inflicts the Poisoned status on an enemy unit."
-	},
-	{
-		"SKILLNAME":"Poison Spit 3",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, instead of attacking, this unit deals its attack power in ranged damage to three random enemies and inflicts the Poisoned status on an enemy unit."
-	},
-	{
-		"SKILLNAME":"Portal",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Draws one additional card every other turn"
-	},
-	{
-		"SKILLNAME":"Prism Beam",
-		"ALIAS":"Prismatic Beam;Prism Beam 1;Prismatic Beam 1",
-		"CARDSKILLDESCRIPTION":"Deals 1-3 magic damage and inflicts a random status effect to 1 random enemy unit"
-	},
-	{
-		"SKILLNAME":"Prism Beam 2",
-		"ALIAS":"Prismatic Beam 2",
-		"CARDSKILLDESCRIPTION":"Deals 1-3 magic damage and inflicts a random status effect to 2 random enemy units"
-	},
-	{
-		"SKILLNAME":"Prism Beam 3",
-		"ALIAS":"Prismatic Beam 3",
-		"CARDSKILLDESCRIPTION":"Deals 1-3 magic damage and inflicts a random status effect to 3 random enemy units"
-	},
-	{
-		"SKILLNAME":"Prism Beam X",
-		"ALIAS":"Prismatic Beam X;Prism Beam Formula;Prismatic Beam Formula",
-		"CARDSKILLDESCRIPTION":"Deals 1-3 magic damage and inflicts a random status effect to X random enemy units"
-	},
-	{
-		"SKILLNAME":"Prism Ray",
-		"ALIAS":"Prismatic Ray",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1-2 magic damage and inflicts a random status on an enemy unit."
-	},
-	{
-		"SKILLNAME":"Rage",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit gains +1 attack power every time it is damaged."
-	},
-	{
-		"SKILLNAME":"Rage 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit gains +2 attack power every time it is damaged."
-	},
-	{
-		"SKILLNAME":"Rage 3",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit gains +3 attack power every time it is damaged."
-	},
-	{
-		"SKILLNAME":"Rage X",
-		"ALIAS":"Rage Formula",
-		"CARDSKILLDESCRIPTION":"This unit gains +X attack power every time it is damaged."
-	},
-	{
-		"SKILLNAME":"Rebirth",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit enters play, four random cards in its owner's discard pile are returned to its owner's deck."
-	},
-	{
-		"SKILLNAME":"Reclaim",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, one random card in owner's discard pile is returned to owner's deck."
-	},
-	{
-		"SKILLNAME":"Regenerate",
-		"ALIAS":"Regen;Regenerate 1;Regen 1",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit heals itself for 1 life."
-	},
-	{
-		"SKILLNAME":"Regenerate 2",
-		"ALIAS":"Regen 2",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit heals itself for 2 life."
-	},
-	{
-		"SKILLNAME":"Regenerate 3",
-		"ALIAS":"Regen 3",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit heals itself for 3 life."
-	},
-	{
-		"SKILLNAME":"Regenerate 4",
-		"ALIAS":"Regen 4",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit heals itself for 4 life."
-	},
-	{
-		"SKILLNAME":"Regenerate X",
-		"ALIAS":"Regenerate formula;Regen Formula;Regen X",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit heals itself for X life."
-	},
-	{
-		"SKILLNAME":"Reinforce Wall",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit grants +1-3 life to a random allied Wall unit."
-	},
-	{
-		"SKILLNAME":"Rejuvenate",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit heals its hero for 2 life."
-	},
-	{
-		"SKILLNAME":"Remedy",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit removes status effects from a random allied unit."
-	},
-	{
-		"SKILLNAME":"Repair",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit heals the most damaged allied Machine unit for 2 life and removes status effects besides Cursed."
-	},
-	{
-		"SKILLNAME":"Repair 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit heals the most damaged allied Machine unit for 3 life and removes status effects besides Cursed."
-	},
-	{
-		"SKILLNAME":"Repair 3",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit heals the two most damaged allied Machine unit for 3 life and removes status effects besides Cursed."
-	},
-	{
-		"SKILLNAME":"Resistance",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit ignores damage from all attacks after being damaged 3 times."
-	},
-	{
-		"SKILLNAME":"Resistance 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit ignores damage from all attacks after being damaged 2 times."
-	},
-	{
-		"SKILLNAME":"Restoration",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit removes status effects from all allied units."
-	},
-	{
-		"SKILLNAME":"Retaliate",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit that attacks this unit receives 1-2 damage."
-	},
-	{
-		"SKILLNAME":"Rush 1",
-		"ALIAS":"Rush",
-		"CARDSKILLDESCRIPTION":"When this unit enters play, it reduces the cooldown by 1 of the allied unit with the highest CD in the staging area."
-	},
-	{
-		"SKILLNAME":"Rush 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit enters play, it reduces the cooldown by 2 of the allied unit with the highest CD in the staging area."
-	},
-	{
-		"SKILLNAME":"Rush 3",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit enters play, it reduces the cooldown by 3 of the allied unit with the highest CD in the staging area."
-	},
-	{
-		"SKILLNAME":"Rush 4",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit enters play, it reduces the cooldown by 4 of the allied unit with the highest CD in the staging area."
-	},
-	{
-		"SKILLNAME":"Rush X",
-		"ALIAS":"Rush formula",
-		"CARDSKILLDESCRIPTION":"When this unit enters play, it reduces the cooldown by X of the allied unit with the highest CD in the staging area."
-	},
-	{
-		"SKILLNAME":"Rust",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit removes the Pierce skill from one enemy unit. If successful, it also deals 2 poison damage to that unit."
-	},
-	{
-		"SKILLNAME":"Sacrifice",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit enters play, 2 randomly selected cards are removed from its owner's deck."
-	},
-	{
-		"SKILLNAME":"Sap",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit that attacks this unit with a basic attack has its attack reduced by 1."
-	},
-	{
-		"SKILLNAME":"Sap 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit that attacks this unit with a basic attack has its attack reduced by 2."
-	},
-	{
-		"SKILLNAME":"Sap X",
-		"ALIAS":"Sap Formula",
-		"CARDSKILLDESCRIPTION":"Any unit that attacks this unit with a basic attack has its attack reduced by X."
-	},
-	{
-		"SKILLNAME":"Shield",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit ignores 1 damage from any physical or ranged attack."
-	},
-	{
-		"SKILLNAME":"Shieldbearer",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit enters play, it grants a random allied unit the Shield skill. This skill will not target units that have either the Heavy Shield or Shield skill already."
-	},
-	{
-		"SKILLNAME":"Shockproof",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit is immune to electric-based attacks."
-	},
-	{
-		"SKILLNAME":"Silt",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Whenever an allied Mycosian unit enters play, it gains the Stealth buff."
-	},
-	{
-		"SKILLNAME":"Silt 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Whenever an allied Mycosian unit enters play, it gains the Stealth buff and hero draws additional card."
-	},
-	{
-		"SKILLNAME":"Slash",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit attacks, it deals attack damage to the opposing enemy unit and adjacent units."
-	},
-	{
-		"SKILLNAME":"Slay Dark Elf",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Deals double damage when attacking Dark Elf units or heroes."
-	},
-	{
-		"SKILLNAME":"Slay Dragon",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit deals double damage to Dragon units. This unit will favor Dragon units with its attacks."
-	},
-	{
-		"SKILLNAME":"Slay Hero",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit deals double damage to the enemy hero."
-	},
-	{
-		"SKILLNAME":"Slay High Elf",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Deals double damage when attacking High Elf units or heroes."
-	},
-	{
-		"SKILLNAME":"Slay Mage",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit deals double damage to Mage units. This unit will favor Mage units with its attacks."
-	},
-	{
-		"SKILLNAME":"Slow",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit increases the cooldown by 1 for a random enemy unit with the lowest remaining cooldown in the staging area."
-	},
-	{
-		"SKILLNAME":"Sluggish",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit does not activate on the same turn that it enters play."
-	},
-	{
-		"SKILLNAME":"Smoke Burst",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit enters play, it grants a random allied unit the Hidden status. This skill will not target units that have the Hidden status already."
-	},
-	{
-		"SKILLNAME":"Sneak Attack",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit enters play in the rightmost available position on the board."
-	},
-	{
-		"SKILLNAME":"Snipe",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit attacks, it targets the enemy unit with the lowest remaining health."
-	},
-	{
-		"SKILLNAME":"Soak",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 2 magic water damage to a random enemy unit, and removes the Burning status and all Aura skills from that unit. Cannot target enemy hero."
-	},
-	{
-		"SKILLNAME":"Soak 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 3 magic water damage to a random enemy unit, and removes the Burning status and all Aura skills from that unit. Cannot target enemy hero."
-	},
-	{
-		"SKILLNAME":"Spell Weaver",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When either players casts a spell, grants one allied unit +1 attack."
-	},
-	{
-		"SKILLNAME":"Spell Weaver 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When either players casts a spell, grants one allied unit +1 attack and 1 life."
-	},
-	{
-		"SKILLNAME":"Spell Weaver 3",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When either players casts a spell, grants one allied unit +2 attack and 1 life."
-	},
-	{
-		"SKILLNAME":"Spellpower",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, whenever either player casts a Spell, this unit gains +1 attack and +1 life."
-	},
-	{
-		"SKILLNAME":"Spellproof",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit is not affected by the opposing player's Spells."
-	},
-	{
-		"SKILLNAME":"Static Field",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit that attacks this unit receives 2 magic electric damage."
-	},
-	{
-		"SKILLNAME":"Stealth",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit enters play in the Hidden status. Hidden units completely ignore damage once and then Hidden is removed."
-	},
-	{
-		"SKILLNAME":"Stone Form",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit will not attack or take actions and is immune to damage for 1 turn."
-	},
-	{
-		"SKILLNAME":"Subdue",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1 physical damage to a random enemy Beast, Cavalry or Elemental unit and inflicts the Stunned status on it. Stunned is removed during a unit's turn instead of activating."
-	},
-	{
-		"SKILLNAME":"Summon Elemental",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Every other turn, this unit summons a random allied Elemental unit onto the battlefield."
-	},
-	{
-		"SKILLNAME":"Summon Spiderling",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit summons an allied Spiderling unit onto the battlefield."
-	},
-	{
-		"SKILLNAME":"Sunder",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit ignores magical shields (including Ethereal and Magic Shield)."
-	},
-	{
-		"SKILLNAME":"Surge",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit enters play, it grants all allied units the Charge status."
-	},
-	{
-		"SKILLNAME":"Surge Cavalry",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Gives all allied cavalry units the charge buff when entering play. "
-	},
-	{
-		"SKILLNAME":"Sustain",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, all allied units of the given type are granted +2 life."
-	},
-	{
-		"SKILLNAME":"Swallow",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Every 3 turns, destroy enemy unit in play with the lowest health and give all allied units +1 attack"
-	},
-	{
-		"SKILLNAME":"Terrify",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, the opposing enemy unit has its attack reduced by 2. Does not affect Walls, Machines or Dragons."
-	},
-	{
-		"SKILLNAME":"Thunderclap",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit enters play, it deals 1-3 magic electric damage to all enemy units."
-	},
-	{
-		"SKILLNAME":"Time Lock",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, a random enemy unit in staging is time locked, preventing any changes to that unit's time until the following turn."
-	},
-	{
-		"SKILLNAME":"Trigger",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"If this trap survives 3 turns, it explodes, dealing 5 explosive damage to the enemy hero, and 2 explosive damage to all enemy units."
-	},
-	{
-		"SKILLNAME":"Triple Attack",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, immediately after attacking, this unit attacks a second time, and then immediately a third time."
-	},
-	{
-		"SKILLNAME":"Twin",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit enters play with an exact copy of itself alongside."
-	},
-	{
-		"SKILLNAME":"Unstoppable",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit is immune to the status effects of Paralyzed and Stunned and paralysis-based and stun-based attacks."
-	},
-	{
-		"SKILLNAME":"Valor",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, adjacent allied units are granted +1 attack."
-	},
-	{
-		"SKILLNAME":"Valor 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, adjacent allied units are granted +2 attack."
-	},
-	{
-		"SKILLNAME":"Valor 3",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, adjacent allied units are granted +3 attack."
-	},
-	{
-		"SKILLNAME":"Valor X",
-		"ALIAS":"Valor formula",
-		"CARDSKILLDESCRIPTION":"While this unit is in play, adjacent allied units are granted +X attack."
-	},
-	{
-		"SKILLNAME":"Vanguard",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit attacks, it targets the leftmost enemy unit that has more than 0 life remaining."
-	},
-	{
-		"SKILLNAME":"Venomous",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit damaged by this unit's main attack has the Poisoned status inflicted on it. Poisoned units take 1 poison damage each turn."
-	},
-	{
-		"SKILLNAME":"Veteran",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit takes half damage (rounded down) from the attacks of enemy heroes."
-	},
-	{
-		"SKILLNAME":"Wall",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit is immune to the status effects of Poisoned, Wounded and Paralyzed, and cannot be healed. While this unit is in play, all allied units are granted +1 life."
-	},
-	{
-		"SKILLNAME":"Weaken",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit damaged by this unit's main attack has its attack reduced by 1."
-	},
-	{
-		"SKILLNAME":"Weaken 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit damaged by this unit's main attack has its attack reduced by 2."
-	},
-	{
-		"SKILLNAME":"Weaken X",
-		"ALIAS":"Weaken formula",
-		"CARDSKILLDESCRIPTION":"Any unit damaged by this unit's main attack has its attack reduced by X."
-	},
-	{
-		"SKILLNAME":"Weaken Ray",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1 magic damage to a random enemy unit, favoring units with more than 0 attack power, and reduces its attack by 1."
-	},
-	{
-		"SKILLNAME":"Web",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1 magic damage to a random enemy unit and inflicts the Paralyzed status on it. Paralyzed units do not activate during their turn. The Paralyzed status is removed when a unit is damaged."
-	},
-	{
-		"SKILLNAME":"Wind Shield",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"This unit ignores 1-2 damage from any ranged attack."
-	},
-	{
-		"SKILLNAME":"Wisdom",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"When this unit enters play, it gains +1 attack for every 10 cards remaining in its owner's deck."
-	},
-	{
-		"SKILLNAME":"Wolfpack",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"For each allied Wolf unit in play, this unit is granted +1 attack."
-	},
-	{
-		"SKILLNAME":"Wound",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Any unit damaged by this unit's main attack has the Wounded status inflicted on it. Wounded units take 1 damage each turn."
-	},
-	{
-		"SKILLNAME":"Zap",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1-3 magic electric damage to a random enemy units. Cannot target enemy hero."
-	},
-	{
-		"SKILLNAME":"Zap 2",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 1-3 magic electric damage to two random enemy units. Cannot target enemy hero."
-	},
-	{
-		"SKILLNAME":"Zap 3",
-		"ALIAS":"",
-		"CARDSKILLDESCRIPTION":"Each turn, this unit deals 2-4 magic electric damage to two random enemy units. Cannot target enemy hero."
-	},
-	{
-		"SKILLNAME":"Puncture"
-	},
-	{
-		"SKILLNAME":"Red Armour"
-	},
-	{
-		"SKILLNAME":"Red Armour 2"
-	},
-	{
-		"SKILLNAME":"Vengeance"
-	},
-	{
-		"SKILLNAME":"Vengeance 2"
-	},
-	{
-		"SKILLNAME":"Greed"
-	},
-	{
-		"SKILLNAME":"Hasten 3"
-	},
-	{
-		"SKILLNAME":"Impale"
-	},
-	{
-		"SKILLNAME":"Greater Heal"
-	},
-	{
-		"SKILLNAME":"Axe Throw"
-	},
-	{
-		"SKILLNAME":"Axe Throw 2"
-	},
-	{
-		"SKILLNAME":"Axe Throw 3"
-	},
-	{
-		"SKILLNAME":"Evade"
+		"Ability":"Dramatic Entrance",
+		"Description":"Plays to the center of the field."
 	}]

@@ -10,7 +10,7 @@ module.exports = {
             '*This bot was created/contributed to by:*\n' + 
             'Ongoing Development: **fweaks**\n' + 
             'Development Contributions: **Aleks_Dark**\n' +
-            'Data Entry Contributions: **Sir Valimont**, **fweaks**, **Aleks_Dark**, **Stratocumulus**, **eedjit**, **dragon447**\n' +
+            'Data Entry Contributions: **Josher**\n' +
             'Images: **The Devs**\n' +
             '***Please direct your praise and *constructive* criticism their way!***');
     }
