@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const fetch = require("node-fetch");
 
 module.exports = {  
-    CardImageURL: function (URLCardName) { return `https://raw.githubusercontent.com/Josher94/CardsandCastles/master/${URLCardName}.PNG`; },
+    CardImageURL: function (URLCardName) { return `https://raw.githubusercontent.com/Josher94/CardsandCastles2/master/${URLCardName}.png`; },
 
     GetImageAttachment: function(URLCardName){
         return new Promise((Resolve, Reject) => {

@@ -1,177 +1,197 @@
 [
 	{
-		"ABILITY":"Resolve",
-		"DESCRIPTION":"The first time this unit would die, its health reduces to 1 instead."
+		"ABILITY":"Absorb",
+		"DESCRIPTION":"Instead of taking damage, spells and abilities that hit these units heal them for 20% of the amount of damage that would have been dealt."
 	},
 	{
-		"ABILITY":"Treasure",
-		"DESCRIPTION":"Gain extra gold on your next turn."
+		"ABILITY":"Agile",
+		"DESCRIPTION":"Agile units do not consume an Action Point when they move/attack."
 	},
 	{
-		"ABILITY":"Last Will",
-		"DESCRIPTION":"Activate an ability after being destroyed."
+		"ABILITY":"Arrival",
+		"DESCRIPTION":"Effects that occur when the card is played."
 	},
 	{
-		"ABILITY":"Stun",
-		"DESCRIPTION":"Disables a unit for one turn."
+		"ABILITY":"Assassin",
+		"DESCRIPTION":"Assassins deal 100% more damage when attacking enemies from behind and take 30% less damage from counterattacks. They have 4 movement."
 	},
 	{
-		"ABILITY":"Freeze",
-		"DESCRIPTION":"Cannot move or attack for one turn, and counterattacks are delayed."
+		"ABILITY":"Backlash",
+		"DESCRIPTION":"Backlash units deal a stated percentage of your Castle’s current Health when played."
 	},
 	{
-		"ABILITY":"Bleed",
-		"DESCRIPTION":"Bleeding units will take damage at the beginning of their turn."
+		"ABILITY":"Beast",
+		"DESCRIPTION":"Beasts take 40% less counterattack damage when they slay an enemy. They have 3 movement."
 	},
 	{
-		"ABILITY":"Slow",
-		"DESCRIPTION":"Moves 1 less space than normal, and takes one turn to get ready."
+		"ABILITY":"Blizzard",
+		"DESCRIPTION":"Weather does not have any innate effects or properties, but it enables effects on other cards."
 	},
 	{
-		"ABILITY":"Fast",
-		"DESCRIPTION":"Moves 1 more space than normal."
+		"ABILITY":"Burst",
+		"DESCRIPTION":"Burst spells are playable any time, and do not consume Action Points. "
 	},
 	{
-		"ABILITY":"Flying",
-		"DESCRIPTION":"Can move through enemies."
-	},
-	{
-		"ABILITY":"Armor",
-		"DESCRIPTION":"Absorbs the first X damage taken each turn."
-	},
-	{
-		"ABILITY":"Deflect",
-		"DESCRIPTION":"Cannot be the target of enemy spells."
-	},
-	{
-		"ABILITY":"Victory Rush",
-		"DESCRIPTION":"Activate an ability after the unit slays an enemy."
-	},
-	{
-		"ABILITY":"First Strike",
-		"DESCRIPTION":"The unit will deal its attack damage FIRST, before the enemy can strike. (Restrictions: Takes one turn to get ready, and cannot knock back enemies)"
-	},
-	{
-		"ABILITY":"Ranged",
-		"DESCRIPTION":"Moves slower and attacks from range, but takes one turn to get ready."
-	},
-	{
-		"ABILITY":"Initiative",
-		"DESCRIPTION":"Activate an ability when entering the field."
-	},
-	{
-		"ABILITY":"Rampage",
-		"DESCRIPTION":"May move and attack another unit after the first attack."
-	},
-	{
-		"ABILITY":"Rebound",
-		"DESCRIPTION":"You may cast this spell on a second target."
-	},
-	{
-		"ABILITY":"Stalwart",
-		"DESCRIPTION":"Immune to all knockback, pull, and fear effects."
-	},
-	{
-		"ABILITY":"Siege",
-		"DESCRIPTION":"Activate an ability after attacking an enemy building or castle."
-	},
-	{
-		"ABILITY":"Awaken",
-		"DESCRIPTION":"Activate an ability at the start of your next turn."
-	},
-	{
-		"ABILITY":"Combo",
-		"DESCRIPTION":"Activate an ability after dealing combat damage."
-	},
-	{
-		"ABILITY":"Chain Lightning",
-		"DESCRIPTION":"Deal extra damage that chains to nearby enemies."
-	},
-	{
-		"ABILITY":"Building",
-		"DESCRIPTION":"Can be played next to other units but cannot move."
-	},
-	{
-		"ABILITY":"Judgment",
-		"DESCRIPTION":"Deals damage to enemies that attack this unit."
-	},
-	{
-		"ABILITY":"Unique",
-		"DESCRIPTION":"Multiple copies of this effect do not stack."
-	},
-	{
-		"ABILITY":"Knockback",
-		"DESCRIPTION":"Enemies struck are pushed backwards."
-	},
-	{
-		"ABILITY":"Evasive",
-		"DESCRIPTION":"May move again after attacking."
-	},
-	{
-		"ABILITY":"Inferno",
-		"DESCRIPTION":"Deals damage to EVERYTHING nearby when your turn begins."
-	},
-	{
-		"ABILITY":"Stealth",
-		"DESCRIPTION":"Invisible to the enemy until your next turn. Stealth is removed after attacking."
-	},
-	{
-		"ABILITY":"Explosive",
-		"DESCRIPTION":"Strike all enemies near the target."
-	},
-	{
-		"ABILITY":"Trap",
-		"DESCRIPTION":"Sets a secret trap that only activates on your opponent's turn."
-	},
-	{
-		"ABILITY":"Thunderstrike",
-		"DESCRIPTION":"Strikes all enemies in a frontal cone and knocks them back."
-	},
-	{
-		"ABILITY":"Spirit Link",
-		"DESCRIPTION":"Enemy combat damage is redirected to this unit."
-	},
-	{
-		"ABILITY":"Companion",
-		"DESCRIPTION":"Can be played next to one of your units."
-	},
-	{
-		"ABILITY":"Upkeep",
-		"DESCRIPTION":"Owner must pay gold at the start of their turn."
-	},
-	{
-		"ABILITY":"Survival Instinct",
-		"DESCRIPTION":"Activate an ability after being attacked."
-	},
-	{
-		"ABILITY":"Riposte",
-		"DESCRIPTION":"Counterattacks deal double damage."
-	},
-	{
-		"ABILITY":"Lifesteal",
-		"DESCRIPTION":"Gains health equal to damage dealt."
-	},
-	{
-		"ABILITY":"Nearby",
-		"DESCRIPTION":"Affects valid targets in a surrounding 3x3 grid."
-	},
-	{
-		"ABILITY":"Rainbow Shield",
-		"DESCRIPTION":"Cannot be hurt by spell cards, auras and abilities."
-	},
-	{
-		"ABILITY":"Blood Price",
-		"DESCRIPTION":"Cannot be played unless you sacrificed a unit in your previous turn."
-	},
-	{
-		"ABILITY":"Fear Aura",
-		"DESCRIPTION":"Causes a unit to run away, ignoring movement collision."
+		"ABILITY":"Cavalry",
+		"DESCRIPTION":"Cavalry deal 50% more damage alongside or behind enemies. They have 5 movement."
 	},
 	{
 		"ABILITY":"Cleave",
-		"DESCRIPTION":"Strikes all surrounding enemies."
+		"DESCRIPTION":"Units with Cleave deal 50% of whatever damage their primary target takes to secondary targets in an arc shape."
 	},
 	{
-		"ABILITY":"Dramatic Entrance",
-		"DESCRIPTION":"Plays to the center of the field."
+		"ABILITY":"Chain Lightning ",
+		"DESCRIPTION":"When a unit with Chain Lightning deals damage to its primary target, a “nearby” enemy (any hostile target in the 8 spaces immediately surrounding the original target) takes 80% of that damage as lightning damage. This can occur up to two times, with each bounce dealing 80% of the prior amount of damage. "
+	},
+	{
+		"ABILITY":"Colossus ",
+		"DESCRIPTION":"Colossi push enemy units aside if they enter the same space and deal 50% more damage to buildings (including the Castle!). They have 1 movement."
+	},
+	{
+		"ABILITY":"Cruiciform",
+		"DESCRIPTION":"Cross shaped effects that must be entirely within the battlefield"
+	},
+	{
+		"ABILITY":"Deflect",
+		"DESCRIPTION":"Units with Deflect cannot be the target of enemy spells or abilities. They can be damaged by area of effect spells or abilities."
+	},
+	{
+		"ABILITY":"Dragon",
+		"DESCRIPTION":"Dragons can melee Flying units and are immune to forced movement effects."
+	},
+	{
+		"ABILITY":"Drain Essance",
+		"DESCRIPTION":"Units or effects with Drain Essence return 50% of their damage dealt as healing to the player’s Castle. "
+	},
+	{
+		"ABILITY":"Entomb",
+		"DESCRIPTION":"Units that are Entombed are buried beneath a Tombstone, a neutral object that both players can damage or heal. Several spells and abilities interact with Tombstones. "
+	},
+	{
+		"ABILITY":"Explosive",
+		"DESCRIPTION":"Explosive units deal 50% of the damage they dealt to their primary target as an explosion to nearby (8 spaces around the primary target) enemies."
+	},
+	{
+		"ABILITY":"Fear",
+		"DESCRIPTION":"Fear causes targets to run away in a semi-random direction at a speed equal to their basic Movement value plus one additional space."
+	},
+	{
+		"ABILITY":"First Strike",
+		"DESCRIPTION":"If a unit has First Strike, its combat damage is calculated before a counterattack processes (i.e. if it kills the unit, that unit does not get a counterattack)."
+	},
+	{
+		"ABILITY":"Flying",
+		"DESCRIPTION":"Flying units can fly over enemies, cannot be targeted by most non-Flying melee attacks, and take 50% less damage from counterattacks. They have 3 movement."
+	},
+	{
+		"ABILITY":"Freeze",
+		"DESCRIPTION":"Targets that are Frozen have their maximum movement value reduced to 1 and take 30% additional damage from all sources. Freeze lasts until the end of the round. (If Freeze is applied by a ritual, that application technically takes place after the current round, and will last for the duration of the following round)"
+	},
+	{
+		"ABILITY":"Frenzy",
+		"DESCRIPTION":"Units with Frenzy have their current damage increased by 50% after slaying an enemy unit."
+	},
+	{
+		"ABILITY":"Guardian",
+		"DESCRIPTION":"Guardians take 30% less damage when attacked from the front or sides, and their counterattacks deal 25% more damage (i.e. full damage). They have 2 movement. "
+	},
+	{
+		"ABILITY":"Hearty",
+		"DESCRIPTION":"Units with a Hearty effect have an additional benefit from being at full Health."
+	},
+	{
+		"ABILITY":"Incantation",
+		"DESCRIPTION":"Incantations can only be played during Combat phase, consume an Action Point on your turn, and offer your opponent an opportunity to use an Incantation of their own, creating a “stack” of spells that resolve in the reverse order they were played in (last to first). "
+	},
+	{
+		"ABILITY":"Knight",
+		"DESCRIPTION":"Knights take 70% less damage when attacked from the front or from counterattacks. They have 2 movement."
+	},
+	{
+		"ABILITY":"Knockback",
+		"DESCRIPTION":"Whenever a unit with Knockback deals damage, it forces its victim one space away from itself."
+	},
+	{
+		"ABILITY":"Last Will",
+		"DESCRIPTION":"Last Will effects resolve when a unit dies."
+	},
+	{
+		"ABILITY":"Leap",
+		"DESCRIPTION":"Leap gives a unit +1 Movement speed and enables melee units to strike Flying units."
+	},
+	{
+		"ABILITY":"Lifesteal",
+		"DESCRIPTION":"Units with Lifesteal heal themselves for an amount equal to 50% of their damage dealt."
+	},
+	{
+		"ABILITY":"Mage",
+		"DESCRIPTION":"Mages have 2 movement and 2 range. They may attack and counterattack at their full range or in melee. "
+	},
+	{
+		"ABILITY":"Obliterate",
+		"DESCRIPTION":"Obliterate prevents any effects tied to a unit’s death (Last Will, Relentless, etc.)."
+	},
+	{
+		"ABILITY":"Offering",
+		"DESCRIPTION":"An Offering is a non-legendary card drawn from the bottom of the player’s deck by their opponent."
+	},
+	{
+		"ABILITY":"Quick Draw",
+		"DESCRIPTION":"Snipers with Quick Draw can attack and counterattack in melee range."
+	},
+	{
+		"ABILITY":"Rampage",
+		"DESCRIPTION":"After a unit with Rampage slays a unit or destroys a building, it can move and attack again."
+	},
+	{
+		"ABILITY":"Relentless ",
+		"DESCRIPTION":"The first time a unit with Relentless would be destroyed, it survives with 1 Health and gets +50% Attack."
+	},
+	{
+		"ABILITY":"Riposte ",
+		"DESCRIPTION":"A unit with Reposte deals 50% more damage on counterattacks."
+	},
+	{
+		"ABILITY":"Ritual",
+		"DESCRIPTION":"Rituals can only be played during Summon phase, and resolve sequentially at the end of the round."
+	},
+	{
+		"ABILITY":"Rune ",
+		"DESCRIPTION":"Any spell or ability that isn’t Burst speed leaves a Rune on the battlefield that other cards, spells, and abilities can interact with."
+	},
+	{
+		"ABILITY":"Sacrifice",
+		"DESCRIPTION":"Destroy a friendly unit to use a spell or ability."
+	},
+	{
+		"ABILITY":"Sniper",
+		"DESCRIPTION":"Snipers cannot attack in melee. They have 2 movement and 2-4 range."
+	},
+	{
+		"ABILITY":"Steal",
+		"DESCRIPTION":"Stealing a card takes the next non-legendary card from the bottom of your opponent’s deck."
+	},
+	{
+		"ABILITY":"Stealth",
+		"DESCRIPTION":"Units with Stealth cannot be seen by their opponent until the end of the round, unless they attack or are harmed by their opponent. "
+	},
+	{
+		"ABILITY":"Storm",
+		"DESCRIPTION":"Weather does not have any innate effects or properties, but it enables effects on other cards."
+	},
+	{
+		"ABILITY":"Structure",
+		"DESCRIPTION":"Structures can be summoned next to friendly units (anywhere on the battlefield, not just on the player’s side) and the Castle, cannot move, and take 30% reduced damage from spells. Playable cards are referred to as Structures; if an effect works on both Structures and Castles/Mana Towers/Tombstones, that combination is referred to as 'buildings'. Castles and Mana Towers take 60% reduced damage from spells."
+	},
+	{
+		"ABILITY":"Sustain",
+		"DESCRIPTION":"Units with Sustain effects must pay the listed price at the beginning of each round, or they trigger a penalty effect."
+	},
+	{
+		"ABILITY":"Vanish",
+		"DESCRIPTION":"Return a friendly unit to your hand and reduce its cost by 2 Gold and 2 Mana."
+	},
+	{
+		"ABILITY":"Warrior",
+		"DESCRIPTION":"Warriors deal 20% more damage when attacking (not counterattacking), and take 20% less damage when being attacked. They have 3 movement. "
 	}]

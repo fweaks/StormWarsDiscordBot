@@ -1,177 +1,177 @@
 [
 	{
-		"Ability":"Resolve",
-		"Description":"The first time this unit would die, its health reduces to 1 instead."
+		"ABILITY":"Resolve",
+		"DESCRIPTION":"The first time this unit would die, its health reduces to 1 instead."
 	},
 	{
-		"Ability":"Treasure",
-		"Description":"Gain extra gold on your next turn."
+		"ABILITY":"Treasure",
+		"DESCRIPTION":"Gain extra gold on your next turn."
 	},
 	{
-		"Ability":"Last Will",
-		"Description":"Activate an ability after being destroyed."
+		"ABILITY":"Last Will",
+		"DESCRIPTION":"Activate an ability after being destroyed."
 	},
 	{
-		"Ability":"Stun",
-		"Description":"Disables a unit for one turn."
+		"ABILITY":"Stun",
+		"DESCRIPTION":"Disables a unit for one turn."
 	},
 	{
-		"Ability":"Freeze",
-		"Description":"Cannot move or attack for one turn, and counterattacks are delayed."
+		"ABILITY":"Freeze",
+		"DESCRIPTION":"Cannot move or attack for one turn, and counterattacks are delayed."
 	},
 	{
-		"Ability":"Bleed",
-		"Description":"Bleeding units will take damage at the beginning of their turn."
+		"ABILITY":"Bleed",
+		"DESCRIPTION":"Bleeding units will take damage at the beginning of their turn."
 	},
 	{
-		"Ability":"Slow",
-		"Description":"Moves 1 less space than normal, and takes one turn to get ready."
+		"ABILITY":"Slow",
+		"DESCRIPTION":"Moves 1 less space than normal, and takes one turn to get ready."
 	},
 	{
-		"Ability":"Fast",
-		"Description":"Moves 1 more space than normal."
+		"ABILITY":"Fast",
+		"DESCRIPTION":"Moves 1 more space than normal."
 	},
 	{
-		"Ability":"Flying",
-		"Description":"Can move through enemies."
+		"ABILITY":"Flying",
+		"DESCRIPTION":"Can move through enemies."
 	},
 	{
-		"Ability":"Armor",
-		"Description":"Absorbs the first X damage taken each turn."
+		"ABILITY":"Armor",
+		"DESCRIPTION":"Absorbs the first X damage taken each turn."
 	},
 	{
-		"Ability":"Deflect",
-		"Description":"Cannot be the target of enemy spells."
+		"ABILITY":"Deflect",
+		"DESCRIPTION":"Cannot be the target of enemy spells."
 	},
 	{
-		"Ability":"Victory Rush",
-		"Description":"Activate an ability after the unit slays an enemy."
+		"ABILITY":"Victory Rush",
+		"DESCRIPTION":"Activate an ability after the unit slays an enemy."
 	},
 	{
-		"Ability":"First Strike",
-		"Description":"The unit will deal its attack damage FIRST, before the enemy can strike. (Restrictions: Takes one turn to get ready, and cannot knock back enemies)"
+		"ABILITY":"First Strike",
+		"DESCRIPTION":"The unit will deal its attack damage FIRST, before the enemy can strike. (Restrictions: Takes one turn to get ready, and cannot knock back enemies)"
 	},
 	{
-		"Ability":"Ranged",
-		"Description":"Moves slower and attacks from range, but takes one turn to get ready."
+		"ABILITY":"Ranged",
+		"DESCRIPTION":"Moves slower and attacks from range, but takes one turn to get ready."
 	},
 	{
-		"Ability":"Initiative",
-		"Description":"Activate an ability when entering the field."
+		"ABILITY":"Initiative",
+		"DESCRIPTION":"Activate an ability when entering the field."
 	},
 	{
-		"Ability":"Rampage",
-		"Description":"May move and attack another unit after the first attack."
+		"ABILITY":"Rampage",
+		"DESCRIPTION":"May move and attack another unit after the first attack."
 	},
 	{
-		"Ability":"Rebound",
-		"Description":"You may cast this spell on a second target."
+		"ABILITY":"Rebound",
+		"DESCRIPTION":"You may cast this spell on a second target."
 	},
 	{
-		"Ability":"Stalwart",
-		"Description":"Immune to all knockback, pull, and fear effects."
+		"ABILITY":"Stalwart",
+		"DESCRIPTION":"Immune to all knockback, pull, and fear effects."
 	},
 	{
-		"Ability":"Siege",
-		"Description":"Activate an ability after attacking an enemy building or castle."
+		"ABILITY":"Siege",
+		"DESCRIPTION":"Activate an ability after attacking an enemy building or castle."
 	},
 	{
-		"Ability":"Awaken",
-		"Description":"Activate an ability at the start of your next turn."
+		"ABILITY":"Awaken",
+		"DESCRIPTION":"Activate an ability at the start of your next turn."
 	},
 	{
-		"Ability":"Combo",
-		"Description":"Activate an ability after dealing combat damage."
+		"ABILITY":"Combo",
+		"DESCRIPTION":"Activate an ability after dealing combat damage."
 	},
 	{
-		"Ability":"Chain Lightning",
-		"Description":"Deal extra damage that chains to nearby enemies."
+		"ABILITY":"Chain Lightning",
+		"DESCRIPTION":"Deal extra damage that chains to nearby enemies."
 	},
 	{
-		"Ability":"Building",
-		"Description":"Can be played next to other units but cannot move."
+		"ABILITY":"Building",
+		"DESCRIPTION":"Can be played next to other units but cannot move."
 	},
 	{
-		"Ability":"Judgment",
-		"Description":"Deals damage to enemies that attack this unit."
+		"ABILITY":"Judgment",
+		"DESCRIPTION":"Deals damage to enemies that attack this unit."
 	},
 	{
-		"Ability":"Unique",
-		"Description":"Multiple copies of this effect do not stack."
+		"ABILITY":"Unique",
+		"DESCRIPTION":"Multiple copies of this effect do not stack."
 	},
 	{
-		"Ability":"Knockback",
-		"Description":"Enemies struck are pushed backwards."
+		"ABILITY":"Knockback",
+		"DESCRIPTION":"Enemies struck are pushed backwards."
 	},
 	{
-		"Ability":"Evasive",
-		"Description":"May move again after attacking."
+		"ABILITY":"Evasive",
+		"DESCRIPTION":"May move again after attacking."
 	},
 	{
-		"Ability":"Inferno",
-		"Description":"Deals damage to EVERYTHING nearby when your turn begins."
+		"ABILITY":"Inferno",
+		"DESCRIPTION":"Deals damage to EVERYTHING nearby when your turn begins."
 	},
 	{
-		"Ability":"Stealth",
-		"Description":"Invisible to the enemy until your next turn. Stealth is removed after attacking."
+		"ABILITY":"Stealth",
+		"DESCRIPTION":"Invisible to the enemy until your next turn. Stealth is removed after attacking."
 	},
 	{
-		"Ability":"Explosive",
-		"Description":"Strike all enemies near the target."
+		"ABILITY":"Explosive",
+		"DESCRIPTION":"Strike all enemies near the target."
 	},
 	{
-		"Ability":"Trap",
-		"Description":"Sets a secret trap that only activates on your opponent's turn."
+		"ABILITY":"Trap",
+		"DESCRIPTION":"Sets a secret trap that only activates on your opponent's turn."
 	},
 	{
-		"Ability":"Thunderstrike",
-		"Description":"Strikes all enemies in a frontal cone and knocks them back."
+		"ABILITY":"Thunderstrike",
+		"DESCRIPTION":"Strikes all enemies in a frontal cone and knocks them back."
 	},
 	{
-		"Ability":"Spirit Link",
-		"Description":"Enemy combat damage is redirected to this unit."
+		"ABILITY":"Spirit Link",
+		"DESCRIPTION":"Enemy combat damage is redirected to this unit."
 	},
 	{
-		"Ability":"Companion",
-		"Description":"Can be played next to one of your units."
+		"ABILITY":"Companion",
+		"DESCRIPTION":"Can be played next to one of your units."
 	},
 	{
-		"Ability":"Upkeep",
-		"Description":"Owner must pay gold at the start of their turn."
+		"ABILITY":"Upkeep",
+		"DESCRIPTION":"Owner must pay gold at the start of their turn."
 	},
 	{
-		"Ability":"Survival Instinct",
-		"Description":"Activate an ability after being attacked."
+		"ABILITY":"Survival Instinct",
+		"DESCRIPTION":"Activate an ability after being attacked."
 	},
 	{
-		"Ability":"Riposte",
-		"Description":"Counterattacks deal double damage."
+		"ABILITY":"Riposte",
+		"DESCRIPTION":"Counterattacks deal double damage."
 	},
 	{
-		"Ability":"Lifesteal",
-		"Description":"Gains health equal to damage dealt."
+		"ABILITY":"Lifesteal",
+		"DESCRIPTION":"Gains health equal to damage dealt."
 	},
 	{
-		"Ability":"Nearby",
-		"Description":"Affects valid targets in a surrounding 3x3 grid."
+		"ABILITY":"Nearby",
+		"DESCRIPTION":"Affects valid targets in a surrounding 3x3 grid."
 	},
 	{
-		"Ability":"Rainbow Shield",
-		"Description":"Cannot be hurt by spell cards, auras and abilities."
+		"ABILITY":"Rainbow Shield",
+		"DESCRIPTION":"Cannot be hurt by spell cards, auras and abilities."
 	},
 	{
-		"Ability":"Blood Price",
-		"Description":"Cannot be played unless you sacrificed a unit in your previous turn."
+		"ABILITY":"Blood Price",
+		"DESCRIPTION":"Cannot be played unless you sacrificed a unit in your previous turn."
 	},
 	{
-		"Ability":"Fear Aura",
-		"Description":"Causes a unit to run away, ignoring movement collision."
+		"ABILITY":"Fear Aura",
+		"DESCRIPTION":"Causes a unit to run away, ignoring movement collision."
 	},
 	{
-		"Ability":"Cleave",
-		"Description":"Strikes all surrounding enemies."
+		"ABILITY":"Cleave",
+		"DESCRIPTION":"Strikes all surrounding enemies."
 	},
 	{
-		"Ability":"Dramatic Entrance",
-		"Description":"Plays to the center of the field."
+		"ABILITY":"Dramatic Entrance",
+		"DESCRIPTION":"Plays to the center of the field."
 	}]

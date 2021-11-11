@@ -4,55 +4,76 @@ const ImageHandler = require('../common/CardImageHandler.js')
 const { CARD_SEARCH_PATH } = require('../strings.js'); 
 const v8 = require('v8');
   
-const relativeSearchTypes = ['gold', 'cost','attack','power','health','toughness','rarity']
-const numericSearchTypes = ['gold', 'cost','attack','power','health','toughness'];
-const otherSearchTypes = ['name','type','ability','skill','tag','show','limit','faction'];
+const relativeSearchTypes = ['gold','cost','attack','attackmin','attackmax','power','powermin','powermax','health','hp','toughness','level','mana','rarity']
+const numericSearchTypes = ['gold','cost','attack','attackmin','attackmax','power','powermin','powermax','health','hp','toughness','level','mana'];
+const otherSearchTypes = ['name','type','ability','skill','show','limit','faction','speed','tribe','class'];
 
-const publicSearchTypes = ['name','type','ability','gold','attack','health','rarity','faction','tag'];
-const publicRelativeSearchTypes = ['gold','attack','health','rarity']
+const publicSearchTypes = ['name','type','ability','gold','mana','attack','attackmin','attackmax','health','rarity','faction','speed','tribe','class','level'];
+const publicRelativeSearchTypes = ['gold','mana','attack','attackmin','attackmax','health','rarity','level']
 
+//TODO either finish this or get rid of it
+const searchTypeAliases = [
+    {key : 'gold', aliases : ['cost']},
+    {key : 'attack', aliases : ['power']},
+    {key : 'health', aliases : ['hp', 'toughness']},
+    {key : 'rarity', aliases : ['cost']},
+    {key : 'gold', aliases : ['cost']},
+    {key : 'gold', aliases : ['cost']},
+    {key : 'gold', aliases : ['cost']},
+    {key : 'gold', aliases : ['cost']},
+    {key : 'gold', aliases : ['cost']},
+    {key : 'gold', aliases : ['cost']},
+    {key : 'gold', aliases : ['cost']}
+];
+const searchTypeMap = CreateAliasMapCollection(searchTypeAliases);
 
 const factionAliases = [
-  {key : 'pirates', aliases : ['pirate', 'green']},
-  {key : 'ninjas', aliases : ['ninja', 'purple']},
-  {key : 'warlocks', aliases : ['warlock', 'red']},
-  {key : 'vikings', aliases : ['viking', 'blue']},
-  {key : 'druids', aliases : ['druid', 'white']},
-  {key : 'crusaders', aliases : ['crusader', 'crusade', 'yellow']},
-  {key : 'neutral', aliases : ['neutrals', 'none', 'brown']}
+    {key : 'pirates', aliases : ['pirate', 'green']},
+    {key : 'ninjas', aliases : ['ninja', 'purple', 'pink']},
+    {key : 'warlocks', aliases : ['warlock', 'red']},
+    {key : 'vikings', aliases : ['viking', 'blue']},
+    {key : 'druids', aliases : ['druid', 'white']},
+    {key : 'undead', aliases : ['zombies', 'grey','black']},
+    {key : 'crusaders', aliases : ['crusader', 'crusade', 'yellow','gold']},
+    {key : 'neutral', aliases : ['neutrals', 'none', 'brown', 'tan']}
 ];
 const factionMap = CreateAliasMapCollection(factionAliases);
 
 const rarityAliases = [
-  {key : 0, aliases : ['b', 'none']},
-  {key : 1, aliases : ['c', 'common', 'wood', 'steel', 'silver', 'brown', 'grey', 'tan']},
-  {key : 2, aliases : ['r', 'rare', 'blue', 'teal']},
-  {key : 3, aliases : ['e', 'epic', 'purple', 'pink']},
-  {key : 4, aliases : ['l', 'legend', 'legendary', 'gold', 'yellow']}
+    {key : 1, aliases : ['1', 'c', 'common', 'wood', 'steel', 'silver', 'brown', 'grey', 'tan']},
+    {key : 2, aliases : ['2', 'r', 'rare', 'blue', 'teal']},
+    {key : 3, aliases : ['4', 'l', 'legend', 'legendary', 'gold', 'yellow']}
 ];
 const rarityMap = CreateAliasMapCollection(rarityAliases);
 
 const typeAliases = [
     {key : 'unit', aliases : ['units', 'creature', 'creatures']},
     {key : 'spell', aliases : ['spells', 'instant', 'sorcery']},
-    {key : 'building', aliases : ['buildings', 'structure', 'structures']}
+    {key : 'structure', aliases : ['building', 'buildings', 'struct', 'structures']}
 ];
 const typeMap = CreateAliasMapCollection(typeAliases);
 
-const defaultOperator = {key : '=',  operation : (a,b) => a==b };
+const speedAliases = [
+    {key : 'ritual', aliases : ['r', 'rituals']},
+    {key : 'burst', aliases : ['b', 'bursts']},
+    {key : 'incantation', aliases : ['i', 'incantations']}
+];
+const speedMap = CreateAliasMapCollection(speedAliases);
+
+const defaultOperator = {key : '=',  operation : (a,b) => a===b };
 relativeOperatorTypes = ['=','!=','>=','<=','>','<']
 const relativeOperators = [
     //subsets must come after supersets. e.g. "==", "<=", ">=", "!=" all contain "=", so "=" must be after them
-  {key : '==', operation : (a,b) => a==b },
+  {key : '==', operation : (a,b) => a===b },
   {key : '>=', operation : (a,b) => a>=b },
   {key : '=>', operation : (a,b) => a>=b },
   {key : '<=', operation : (a,b) => a<=b },
   {key : '=<', operation : (a,b) => a<=b },
-  {key : '!=', operation : (a,b) => a!=b },
-  {key : '<>', operation : (a,b) => a!=b },
+  {key : '!=', operation : (a,b) => a!==b },
+  {key : '<>', operation : (a,b) => a!==b },
   {key : '>',  operation : (a,b) => a>b  },
   {key : '<',  operation : (a,b) => a<b  },
-  defaultOperator
+  defaultOperator // '='
 ]
 
 const standardLimit = 30;
@@ -86,7 +107,7 @@ module.exports = {
                                  '•`!search ability armor; attack>2` will search for all units with "armor" as an ability that also have attack greater than 3.\n' +
                                  '\n' + 
                                  'Results are automatically limited to the first 30 results, but this can be overriden with the `show` or `limit` prefixes.\n' + 
-                                 'E.g. `!search type infantry;show all` will search for and show all infantry type units instead of just showing the first 30.\n' 
+                                 'E.g. `!search type unit;show all` will search for and show all unit type cards instead of just showing the first 30.\n' 
                               );
         } else {
             //reparse args
@@ -99,7 +120,7 @@ module.exports = {
                 if (otherSearchTypes.includes(constraint[0])) {
                     const searchType = constraint.shift();
                     const searchString = constraint.join(' ');
-                    constraint = constraint.join('');
+                    constraint = constraint.join('').replace(/[ =]+/g,'');
                     
                     switch (searchType) {
                         case 'name':
@@ -108,25 +129,21 @@ module.exports = {
                         case 'tag':
                             matchingCards = matchingCards.filter(card => card.TAG && card.TAG.includes(constraint));                              
                             break;
+                        case 'class':
+                            matchingCards = matchingCards.filter(card => card.CLASS && card.CLASS.includes(constraint));                              
+                            break;
                         case 'ability':
                         case 'skill':
                             matchingCards = matchingCards.filter(card => card.ABILITY && card.ABILITY.includes(constraint));    
                             break;
                         case 'faction':
-                            const factionKey = factionMap.get(constraint);
-                            if (factionKey) {
-                                matchingCards = matchingCards.filter(card => card.FACTION === factionKey);
-                            } else {
-                                message.reply(`I didn\'t recognise the faction "${searchString}", so I ignored it`);
-                            }
+                            matchingCards = await MappedFilter(message, constraint, matchingCards, 'FACTION', factionMap);
                             break;
                         case 'type':
-                            const typeKey = typeMap.get(constraint);
-                            if (typeKey) {
-                                matchingCards = matchingCards.filter(card => card.TYPE === typeKey);
-                            } else {
-                                message.reply(`I didn\'t recognise the type "${searchString}", so I ignored it`);
-                            }
+                            matchingCards = await MappedFilter(message, constraint, matchingCards, 'TYPE', typeMap);
+                            break;
+                        case 'speed':
+                            matchingCards = await MappedFilter(message, constraint, matchingCards, 'SPEED', speedMap);
                             break;
                         case 'show':
                         case 'limit':
@@ -147,9 +164,9 @@ module.exports = {
                     let searchType;
                     let operator;
                     
-                    for(let i=0; i<relativeOperators.length; i++){
+                    for (let i = 0; i < relativeOperators.length; i++) {
                         let op = relativeOperators[i];
-                        if(originalConstraint.includes(op.key)){
+                        if (originalConstraint.includes(op.key)) {
                             //console.log('matched ' + op.key);
                             constraint = originalConstraint.split(op.key).map(a => a.replace(/^ +| +$/g,''));
                             searchType = constraint.shift();
@@ -157,12 +174,12 @@ module.exports = {
                             break;
                         }
                     }
-                    if(!operator){
+                    if (!operator) {
                         searchType = constraint.shift();
                         operator = defaultOperator;
                     }
 
-                    if(searchType === 'rarity'){ 
+                    if (searchType === 'rarity') { 
                         constraint = constraint.join('');
                         const rarityConstraint = rarityMap.get(constraint);
                         if(rarityConstraint){                            
@@ -170,22 +187,41 @@ module.exports = {
                         }else{
                             message.reply(`I didn\'t recognise the ${searchType} "${constraint}", so I ignored it`).catch(console.log);
                         }
-                    } else if (numericSearchTypes.includes(searchType)){
+                    } else if (numericSearchTypes.includes(searchType)) {
                         constraint = constraint.join('');
                         const numConstraint = parseFloat(constraint,10);
                         if (!isNaN(numConstraint)) {
                             switch (searchType) {
-                                case 'cost':
-                                case 'gold':
+                                case 'cost': case 'gold':
                                     matchingCards = matchingCards.filter(card => operator.operation(card.GOLD,numConstraint));
                                     break;
-                                case 'attack':
-                                case 'power':
-                                    matchingCards = matchingCards.filter(card => operator.operation(card.ATTACK,numConstraint));  
+                                case 'attack': case 'power':
+                                    switch (operator.key) {
+                                        case '==': case '=':
+                                            matchingCards = matchingCards.filter(card => (card.ATTACKMIN && card.ATTACKMIN <= numConstraint && numConstraint <= card.ATTACKMAX));  
+                                            break;
+                                        case '!=': case '<>':
+                                            matchingCards = matchingCards.filter(card => (card.ATTACKMIN && numConstraint < card.ATTACKMIN && card.ATTACKMAX < numConstraint));
+                                            break;
+                                        default:
+                                            matchingCards = matchingCards.filter(card => (card.ATTACKMIN && (operator.operation(card.ATTACKMIN,numConstraint) || operator.operation(card.ATTACKMAX,numConstraint))));  
+                                            break;
+                                    }
                                     break;
-                                case 'health':
-                                case 'toughness':
-                                    matchingCards = matchingCards.filter(card => operator.operation(card.HEALTH,numConstraint));  
+                                case 'attackmin': case 'powermin':
+                                    matchingCards = matchingCards.filter(card => card.ATTACKMIN && operator.operation(card.ATTACKMIN,numConstraint));  
+                                    break;
+                                case 'attackmax': case 'powermax':
+                                    matchingCards = matchingCards.filter(card => card.ATTACKMAX && operator.operation(card.ATTACKMAX,numConstraint));  
+                                    break;
+                                case 'health': case 'hp': case 'toughness':
+                                    matchingCards = matchingCards.filter(card => card.HEALTH && operator.operation(card.HEALTH,numConstraint));  
+                                    break;
+                                case 'level':
+                                    matchingCards = matchingCards.filter(card => operator.operation(card.LEVEL,numConstraint));  
+                                    break;
+                                case 'mana':
+                                    matchingCards = matchingCards.filter(card => operator.operation(card.MANA,numConstraint));  
                                     break;
                             }
                         } else {
@@ -264,27 +300,57 @@ function CreateAliasMapCollection(aliases){
     return map;
 };
 
+function StringFilter(cards, constraint, searchType){
+    let searchTypeEx = searchType.ToUpper();
+    return cards.filter(card => card[searchTypeEx] && card[searchTypeEx].includes(constraint));
+}
 
-async function reparse(debug = false){
+async function MappedFilter(message, constraint, cards, searchType, typeMap) {
+    console.log(constraint);
+    console.log(searchType);
+    console.log(typeMap);
+    const key = typeMap.get(constraint);
+    console.log(key);
+    if (key) {
+        return cards.filter(card => card[searchType] === key);
+    } else {
+        await message.reply(`I didn\'t recognise the ${searchType} "${constraint}", so I ignored it`);
+        return cards;
+    }
+}
+
+async function reparse(debug = false) {
     console.log("reparse search")
     try {
         cards = await DbEx.GetLargeObject(CARD_SEARCH_PATH, debug);
         console.log("rebuilding search");
         cardCollection = [];
         for (let originalCard of cards) {  
-            let card = v8.deserialize(v8.serialize(originalCard));//deep copy
-            card.NAME = card.CARDNAME.replace(/ +/g,'').toLowerCase();
-            card.TAG = card.TAG.replace(/ +/g,'').toLowerCase();
-            card.RARITY = card.RARITY.replace(/ +/g,'').toLowerCase();
-            card.RARITYLEVEL = rarityMap.get(card.RARITY);
-            card.FACTION = card.FACTION.replace(/ +/g,'').toLowerCase();
-            card.TYPE = card.TYPE.replace(/ +/g,'').toLowerCase();
-            if(card.ABILITY) { card.ABILITY = card.ABILITY.replace(/ +/g,'').toLowerCase(); }
-        
-            card.SearchString = Object.values(card).join(';');
-            card.URLCardName = card.CARDNAME.replace(/ +/g,'_');
-        
-            cardCollection.push(card);
+            try{
+                let card = v8.deserialize(v8.serialize(originalCard));//deep copy
+                card.NAME = card.CARDNAME.replace(/ +/g,'').toLowerCase();
+                card.RARITY = card.RARITY.replace(/ +/g,'').toLowerCase();
+                card.RARITYLEVEL = rarityMap.get(card.RARITY);
+                card.FACTION = card.FACTION.replace(/ +/g,'').toLowerCase();
+                card.TYPE = card.TYPE.replace(/ +/g,'').toLowerCase();
+                if (card.TRIBE) { card.TRIBE = card.TRIBE.replace(/ +/g,'').toLowerCase(); }
+                if (card.ABILITY) { card.ABILITY = card.ABILITY.replace(/ +/g,'').toLowerCase(); }
+                if (card.SPEED || card.SPEED == 0) { card.SPEED = card.SPEED.replace(/ +/g,'').toLowerCase(); }
+                if (card.CLASS) { card.CLASS = card.CLASS.replace(/ +/g,'').toLowerCase(); }
+                const hasAttackMin = card.ATTACKMIN || card.ATTACKMIN == 0;
+                const hasAttackMax = card.ATTACKMAX || card.ATTACKMAX == 0;
+                if (hasAttackMin && !hasAttackMax) { card.ATTACKMAX = card.ATTACKMMIN; }
+                if (hasAttackMax && !hasAttackMin) { card.ATTACKMIN = card.ATTACKMMAX; }
+
+                card.SearchString = Object.values(card).join(';');
+                card.URLCardName = card.CARDNAME.replace(/ +/g,'_');
+            
+                cardCollection.push(card);
+             }catch (error) {
+                console.log("error parsing search card");
+                console.log(originalCard);
+                console.log(error);
+            }
         }
         console.log("finished rebuilding search");
     } catch (error) {

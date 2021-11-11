@@ -1,27 +1,36 @@
 [
 	{
+		"KEYWORD":"Abandoned Archives",
+		"CARDNAME":"Abandoned Archives",
+		"ALIAS":"Archives"
+	},
+	{
 		"KEYWORD":"Acolyte",
 		"CARDNAME":"Acolyte",
 		"ALIAS":"Aco"
 	},
 	{
-		"KEYWORD":"Adaptive Armor",
-		"CARDNAME":"Adaptive Armor",
-		"ALIAS":"Adaptive;Adaptiv;Adaptiv Armor"
+		"KEYWORD":"Age of Fire",
+		"CARDNAME":"Age of Fire"
 	},
 	{
-		"KEYWORD":"Aeroth the Windrider",
-		"CARDNAME":"Aeroth the Windrider",
-		"ALIAS":"Aeroth;Aeroth Windrider;Aeroth the"
+		"KEYWORD":"Altar of Death",
+		"CARDNAME":"Altar of Death",
+		"ALIAS":"Altar"
 	},
 	{
-		"KEYWORD":"Alpha Strike",
-		"CARDNAME":"Alpha Strike",
-		"ALIAS":"Alphastrike;Alpha"
+		"KEYWORD":"Amergin the Bird",
+		"CARDNAME":"Amergin the Bird",
+		"ALIAS":"Bird;The Bird"
 	},
 	{
-		"KEYWORD":"Ambush",
-		"CARDNAME":"Ambush"
+		"KEYWORD":"Amergin the Wild",
+		"CARDNAME":"Amergin the Wild",
+		"ALIAS":"Amergin;Amerign the;the Wild;Wild"
+	},
+	{
+		"KEYWORD":"Amplify",
+		"CARDNAME":"Amplify"
 	},
 	{
 		"KEYWORD":"Ancient Arbor",
@@ -29,38 +38,14 @@
 		"ALIAS":"Arbor;Ancient"
 	},
 	{
-		"KEYWORD":"Andrew the Giant",
-		"CARDNAME":"Andrew the Giant",
-		"ALIAS":"Andrew;Andrew Giant;Andrew the;Giant Andrew"
+		"KEYWORD":"Apocalypse",
+		"CARDNAME":"Apocalypse",
+		"ALIAS":"Apoc"
 	},
 	{
-		"KEYWORD":"Arbiter's Return",
-		"CARDNAME":"Arbiter's Return",
-		"ALIAS":"Arbiter;Arbiters;Arbiter's;Arbiter Return"
-	},
-	{
-		"KEYWORD":"Arcfire",
-		"CARDNAME":"Arcfire"
-	},
-	{
-		"KEYWORD":"Arch Druid Leanna",
-		"CARDNAME":"Arch Druid Leanna",
-		"ALIAS":"Leanna;Arch Druid"
-	},
-	{
-		"KEYWORD":"Archanon General",
-		"CARDNAME":"Archanon General",
-		"ALIAS":"General"
-	},
-	{
-		"KEYWORD":"Archanon Magic Eater",
-		"CARDNAME":"Archanon Magic Eater",
-		"ALIAS":"Magic Eater;Eater;ME"
-	},
-	{
-		"KEYWORD":"Archanon, Lord of Chaos",
-		"CARDNAME":"Archanon, Lord of Chaos",
-		"ALIAS":"Archanon Lord;Archanon Lord of Chaos;Lord of Chaos;Archanon Chaos Lord;Chaos Lord;Chaoslord;ALoC;Archanon, Lord;Archanon, Lord of"
+		"KEYWORD":"Archdruid Leanna",
+		"CARDNAME":"Archdruid Leanna",
+		"ALIAS":"Leanna;Archdruid"
 	},
 	{
 		"KEYWORD":"Archer",
@@ -76,31 +61,43 @@
 		"CARDNAME":"Armory"
 	},
 	{
-		"KEYWORD":"Army of the Damned",
-		"CARDNAME":"Army of the Damned",
-		"ALIAS":"Army of Damned;Army of;Army of the;Army;Damned Army"
+		"KEYWORD":"Army of the Dead ",
+		"CARDNAME":"Army of the Dead ",
+		"ALIAS":"Army"
 	},
 	{
-		"KEYWORD":"Asarian Cultist",
-		"CARDNAME":"Asarian Cultist",
-		"ALIAS":"Cultist;Asarian"
+		"KEYWORD":"Assault Tower",
+		"CARDNAME":"Assault Tower",
+		"ALIAS":"Tower"
 	},
 	{
-		"KEYWORD":"Avalanche",
-		"CARDNAME":"Avalanche"
+		"KEYWORD":"Attack Parrot",
+		"CARDNAME":"Attack Parrot",
+		"ALIAS":"Parrot"
 	},
 	{
 		"KEYWORD":"Baby Dino",
 		"CARDNAME":"Baby Dino",
-		"ALIAS":"Dino Baby;Baby"
+		"ALIAS":"Baby"
 	},
 	{
 		"KEYWORD":"Backstab",
-		"CARDNAME":"Backstab"
+		"CARDNAME":"Backstab",
+		"ALIAS":"Back stab"
+	},
+	{
+		"KEYWORD":"Bank of Southport",
+		"CARDNAME":"Bank of Southport",
+		"ALIAS":"Bank"
 	},
 	{
 		"KEYWORD":"Banshee",
 		"CARDNAME":"Banshee"
+	},
+	{
+		"KEYWORD":"Baptism of Fire",
+		"CARDNAME":"Baptism of Fire",
+		"ALIAS":"Baptism"
 	},
 	{
 		"KEYWORD":"Barbarian",
@@ -108,23 +105,18 @@
 		"ALIAS":"Barb"
 	},
 	{
-		"KEYWORD":"Battering Ram",
-		"CARDNAME":"Battering Ram",
-		"ALIAS":"Battering"
+		"KEYWORD":"Basher",
+		"CARDNAME":"Basher"
 	},
 	{
-		"KEYWORD":"Battle Cry",
-		"CARDNAME":"Battle Cry",
-		"ALIAS":"Cry"
+		"KEYWORD":"Battle Squirrel",
+		"CARDNAME":"Battle Squirrel",
+		"ALIAS":"Squirrel"
 	},
 	{
-		"KEYWORD":"Battle Rage",
-		"CARDNAME":"Battle Rage"
-	},
-	{
-		"KEYWORD":"Battle Ready",
-		"CARDNAME":"Battle Ready",
-		"ALIAS":"Ready"
+		"KEYWORD":"Bear Patrol",
+		"CARDNAME":"Bear Patrol",
+		"ALIAS":"Patrol"
 	},
 	{
 		"KEYWORD":"Bearhog",
@@ -132,39 +124,46 @@
 		"ALIAS":"Hog"
 	},
 	{
+		"KEYWORD":"Beast Mode",
+		"CARDNAME":"Beast Mode"
+	},
+	{
 		"KEYWORD":"Beastial Rage",
-		"CARDNAME":"Beastial Rage",
-		"ALIAS":"Beastial;Bestial;Beast Rage;Bestial Rage"
+		"CARDNAME":"Beastial Rage"
+	},
+	{
+		"KEYWORD":"Beastmaster",
+		"CARDNAME":"Beastmaster"
 	},
 	{
 		"KEYWORD":"Behemothra",
 		"CARDNAME":"Behemothra",
-		"ALIAS":"Behemoth;Behe;Behemotra"
+		"ALIAS":"Moth"
 	},
 	{
 		"KEYWORD":"Berserker",
-		"CARDNAME":"Berserker",
-		"ALIAS":"Berserk"
+		"CARDNAME":"Berserker"
 	},
 	{
-		"KEYWORD":"Blacksmith",
-		"CARDNAME":"Blacksmith",
-		"ALIAS":"Smith;Smithy"
+		"KEYWORD":"Betrayal",
+		"CARDNAME":"Betrayal"
 	},
 	{
 		"KEYWORD":"Blaze",
-		"CARDNAME":"Blaze",
-		"ALIAS":"Blaze it"
+		"CARDNAME":"Blaze"
 	},
 	{
-		"KEYWORD":"Blessing of the Treants",
-		"CARDNAME":"Blessing of the Treants",
-		"ALIAS":"Blessing;Treant Blessing;Treants Blessing;Blessing Treant;Blessing Treants;Blessing of;Blessing of the;Blessing of the Treant"
+		"KEYWORD":"Blessed are the Meek",
+		"CARDNAME":"Blessed are the Meek",
+		"ALIAS":"Bless the Meek;Meek;Meek Blessing"
 	},
 	{
-		"KEYWORD":"Bluefire Bolt",
-		"CARDNAME":"Bluefire Bolt",
-		"ALIAS":"Bluefire;Blue Lightningbolt;Blue Lightning Bolt;Bluebolt;Blue Bolt"
+		"KEYWORD":"Blood Rite",
+		"CARDNAME":"Blood Rite"
+	},
+	{
+		"KEYWORD":"Bone Mage",
+		"CARDNAME":"Bone Mage"
 	},
 	{
 		"KEYWORD":"Brewery",
@@ -173,21 +172,30 @@
 	{
 		"KEYWORD":"Bridge Troll",
 		"CARDNAME":"Bridge Troll",
-		"ALIAS":"Bridge"
+		"ALIAS":"Troll"
 	},
 	{
-		"KEYWORD":"Burning Sun",
-		"CARDNAME":"Burning Sun",
-		"ALIAS":"Burning;Burning Suns;Suns"
+		"KEYWORD":"Brutal Weapons",
+		"CARDNAME":"Brutal Weapons"
 	},
 	{
-		"KEYWORD":"Call Beast",
-		"CARDNAME":"Call Beast"
+		"KEYWORD":"Brynjolf the Relentless",
+		"CARDNAME":"Brynjolf the Relentless",
+		"ALIAS":"Brynjolf;Jolf;the Relentless"
 	},
 	{
-		"KEYWORD":"Call for Aid",
-		"CARDNAME":"Call for Aid",
-		"ALIAS":"Call for;Aid;Call Aid;Aid Call"
+		"KEYWORD":"Burnout",
+		"CARDNAME":"Burnout"
+	},
+	{
+		"KEYWORD":"Burst of Strength",
+		"CARDNAME":"Burst of Strength",
+		"ALIAS":"Burst Strength; Strength Burst"
+	},
+	{
+		"KEYWORD":"Call of the Wild",
+		"CARDNAME":"Call of the Wild",
+		"ALIAS":"Call Wild"
 	},
 	{
 		"KEYWORD":"Call to War",
@@ -195,41 +203,29 @@
 		"ALIAS":"Call War"
 	},
 	{
-		"KEYWORD":"Camouflage",
-		"CARDNAME":"Camouflage",
-		"ALIAS":"Camou"
+		"KEYWORD":"Cannoneer",
+		"CARDNAME":"Cannoneer"
 	},
 	{
-		"KEYWORD":"Cannonball Barrage",
-		"CARDNAME":"Cannonball Barrage",
-		"ALIAS":"Cannonball;Barrage"
+		"KEYWORD":"Castle",
+		"CARDNAME":"Castle"
+	},
+	{
+		"KEYWORD":"Cemetery",
+		"CARDNAME":"Cemetery"
 	},
 	{
 		"KEYWORD":"Centaur",
-		"CARDNAME":"Centaur",
-		"ALIAS":"Centaure"
-	},
-	{
-		"KEYWORD":"Chaotic Storm",
-		"CARDNAME":"Chaotic Storm",
-		"ALIAS":"Chaotic"
+		"CARDNAME":"Centaur"
 	},
 	{
 		"KEYWORD":"Church",
 		"CARDNAME":"Church"
 	},
 	{
-		"KEYWORD":"Cleric",
-		"CARDNAME":"Cleric"
-	},
-	{
-		"KEYWORD":"Cloak and Daggers",
-		"CARDNAME":"Cloak and Daggers"
-	},
-	{
-		"KEYWORD":"Cloak of Ice",
-		"CARDNAME":"Cloak of Ice",
-		"ALIAS":"Gathering;Icecloak;Ice Cloak;Cloak of;Cloak Ice;Frost Cloak;Freeze Cloak;Cloak of Freeze"
+		"KEYWORD":"Circle of Life",
+		"CARDNAME":"Circle of Life",
+		"ALIAS":"Circle Life; Life Circle"
 	},
 	{
 		"KEYWORD":"Cockatrice",
@@ -237,85 +233,103 @@
 		"ALIAS":"Cock"
 	},
 	{
-		"KEYWORD":"Combustion",
-		"CARDNAME":"Combustion",
-		"ALIAS":"Combust"
-	},
-	{
 		"KEYWORD":"Con Artist",
 		"CARDNAME":"Con Artist",
-		"ALIAS":"Conartist"
-	},
-	{
-		"KEYWORD":"Courthouse",
-		"CARDNAME":"Courthouse",
-		"ALIAS":"Court House;Court"
+		"ALIAS":"Con"
 	},
 	{
 		"KEYWORD":"Craxus, God of the Arena",
 		"CARDNAME":"Craxus, God of the Arena",
-		"ALIAS":"Craxus;Crax;Arena God;Craxus God of the Arena;Craxus Arena God;God of the Arena"
+		"ALIAS":"Crax; Craxus"
 	},
 	{
-		"KEYWORD":"Crumbling Archive",
-		"CARDNAME":"Crumbling Archive",
-		"ALIAS":"Crumbling;Archive"
+		"KEYWORD":"Crypt",
+		"CARDNAME":"Crypt"
 	},
 	{
-		"KEYWORD":"Curse of Exhaustion",
-		"CARDNAME":"Curse of Exhaustion",
-		"ALIAS":"Curse;Exhaustion;Curse of;Exhaustion Curse"
+		"KEYWORD":"Crypt Guardian",
+		"CARDNAME":"Crypt Guardian"
 	},
 	{
-		"KEYWORD":"Daggerstorm",
-		"CARDNAME":"Daggerstorm",
-		"ALIAS":"Dagger Storm"
+		"KEYWORD":"Curse of Rot",
+		"CARDNAME":"Curse of Rot"
+	},
+	{
+		"KEYWORD":"Curse of Terror",
+		"CARDNAME":"Curse of Terror"
+	},
+	{
+		"KEYWORD":"Curse of the Moon",
+		"CARDNAME":"Curse of the Moon",
+		"ALIAS":"Moon;Moon Curse;Curse Moon"
+	},
+	{
+		"KEYWORD":"Curse of Will",
+		"CARDNAME":"Curse of Will"
+	},
+	{
+		"KEYWORD":"Cursed Vessel",
+		"CARDNAME":"Cursed Vessel",
+		"ALIAS":"Vessel"
+	},
+	{
+		"KEYWORD":"Demonic Mobster",
+		"CARDNAME":"Demonic Mobster",
+		"ALIAS":"Mobster"
+	},
+	{
+		"KEYWORD":"Dampen",
+		"CARDNAME":"Dampen"
 	},
 	{
 		"KEYWORD":"Dancing Swords",
 		"CARDNAME":"Dancing Swords",
-		"ALIAS":"Dancing;Dancing Sword"
+		"ALIAS":"Swords"
 	},
 	{
-		"KEYWORD":"Darkbender",
-		"CARDNAME":"Darkbender",
-		"ALIAS":"Bender"
+		"KEYWORD":"Dark Bargain",
+		"CARDNAME":"Dark Bargain",
+		"ALIAS":"Bargain"
 	},
 	{
-		"KEYWORD":"Darkfire",
-		"CARDNAME":"Darkfire",
-		"ALIAS":"Dark Fire"
+		"KEYWORD":"Dark Magician",
+		"CARDNAME":"Dark Magician"
+	},
+	{
+		"KEYWORD":"Dark Mirror",
+		"CARDNAME":"Dark Mirror",
+		"ALIAS":"Mirror"
+	},
+	{
+		"KEYWORD":"Dark Reaper",
+		"CARDNAME":"Dark Reaper",
+		"ALIAS":"Reaper"
+	},
+	{
+		"KEYWORD":"Deadeye",
+		"CARDNAME":"Deadeye"
+	},
+	{
+		"KEYWORD":"Decay",
+		"CARDNAME":"Decay"
+	},
+	{
+		"KEYWORD":"Decompose",
+		"CARDNAME":"Decompose"
 	},
 	{
 		"KEYWORD":"Defective Flamecannon",
 		"CARDNAME":"Defective Flamecannon",
-		"ALIAS":"Flamecannon;Defective;Defective Cannon;Defective Flame Canon;Defective Flame"
-	},
-	{
-		"KEYWORD":"Defiance",
-		"CARDNAME":"Defiance"
-	},
-	{
-		"KEYWORD":"Deflecting Shield",
-		"CARDNAME":"Deflecting Shield",
-		"ALIAS":"Deflecting;Deflect Shield"
+		"ALIAS":"Flamecannon; Defective"
 	},
 	{
 		"KEYWORD":"Demon Hunter",
 		"CARDNAME":"Demon Hunter"
 	},
 	{
-		"KEYWORD":"Demonic Rage",
-		"CARDNAME":"Demonic Rage",
-		"ALIAS":"Demonic"
-	},
-	{
-		"KEYWORD":"Detention",
-		"CARDNAME":"Detention"
-	},
-	{
-		"KEYWORD":"Detonate",
-		"CARDNAME":"Detonate"
+		"KEYWORD":"Den of Thieves",
+		"CARDNAME":"Den of Thieves",
+		"ALIAS":"Den"
 	},
 	{
 		"KEYWORD":"Dino Rider",
@@ -324,329 +338,260 @@
 	{
 		"KEYWORD":"Dinosaur Evolution",
 		"CARDNAME":"Dinosaur Evolution",
-		"ALIAS":"Evolution"
+		"ALIAS":"Evo;Evolution"
 	},
 	{
 		"KEYWORD":"Dinosaur Nest",
 		"CARDNAME":"Dinosaur Nest",
-		"ALIAS":"Nest;Dino Nest"
+		"ALIAS":"Dino Nest"
 	},
 	{
 		"KEYWORD":"Dire Badger",
 		"CARDNAME":"Dire Badger",
-		"ALIAS":"Dire;Badger;Dired Badger"
-	},
-	{
-		"KEYWORD":"Disable",
-		"CARDNAME":"Disable"
-	},
-	{
-		"KEYWORD":"Disintegrate",
-		"CARDNAME":"Disintegrate",
-		"ALIAS":"Disintigrate"
+		"ALIAS":"Badger"
 	},
 	{
 		"KEYWORD":"Dissipate",
 		"CARDNAME":"Dissipate"
 	},
 	{
-		"KEYWORD":"Divine Knowledge",
-		"CARDNAME":"Divine Knowledge",
-		"ALIAS":"Divine;Tree"
+		"KEYWORD":"Divert Magic",
+		"CARDNAME":"Divert Magic"
+	},
+	{
+		"KEYWORD":"Document Forgery",
+		"CARDNAME":"Document Forgery",
+		"ALIAS":"Document;Forgery"
+	},
+	{
+		"KEYWORD":"Dodge",
+		"CARDNAME":"Dodge"
+	},
+	{
+		"KEYWORD":"Dojo",
+		"CARDNAME":"Dojo"
 	},
 	{
 		"KEYWORD":"Doomship",
-		"CARDNAME":"Doomship",
-		"ALIAS":"Doom"
+		"CARDNAME":"Doomship"
 	},
 	{
-		"KEYWORD":"Dragon Bolt",
-		"CARDNAME":"Dragon Bolt",
-		"ALIAS":"Dragonbolt"
+		"KEYWORD":"Doormaster",
+		"CARDNAME":"Doormaster"
+	},
+	{
+		"KEYWORD":"Draconic Temple",
+		"CARDNAME":"Draconic Temple",
+		"ALIAS":"Dragon Temple;Draconic"
+	},
+	{
+		"KEYWORD":"Dracula",
+		"CARDNAME":"Dracula",
+		"ALIAS":"Drac"
+	},
+	{
+		"KEYWORD":"Dracula's Castle",
+		"CARDNAME":"Dracula's Castle",
+		"ALIAS":"Drac Castle"
 	},
 	{
 		"KEYWORD":"Dragon Crest Shield",
 		"CARDNAME":"Dragon Crest Shield",
-		"ALIAS":"Dragon Shield;Dragon Crest;Crest Shield;DCS"
+		"ALIAS":"Dragon Crest"
 	},
 	{
 		"KEYWORD":"Dragon Knight",
 		"CARDNAME":"Dragon Knight"
 	},
 	{
-		"KEYWORD":"Dragon Lore",
-		"CARDNAME":"Dragon Lore",
-		"ALIAS":"Lore"
-	},
-	{
-		"KEYWORD":"Dragon Search",
-		"CARDNAME":"Dragon Search",
-		"ALIAS":"Search Dragon"
-	},
-	{
-		"KEYWORD":"Dragon Siege",
-		"CARDNAME":"Dragon Siege"
-	},
-	{
-		"KEYWORD":"Dragon Temple",
-		"CARDNAME":"Dragon Temple"
-	},
-	{
-		"KEYWORD":"Dragon Training",
-		"CARDNAME":"Dragon Training"
-	},
-	{
 		"KEYWORD":"Dragon's Fire",
 		"CARDNAME":"Dragon's Fire",
-		"ALIAS":"Dragons Fire;Dragonfire;Dragonsfire;Dragon Fire;Dragon Flame"
-	},
-	{
-		"KEYWORD":"Dragon's Hoard",
-		"CARDNAME":"Dragon's Hoard",
-		"ALIAS":"Hoard;Dragon Hoard;Dragons Hoard"
+		"ALIAS":"Dragon Fire"
 	},
 	{
 		"KEYWORD":"Drain Life",
-		"CARDNAME":"Drain Life",
-		"ALIAS":"Life Drain"
+		"CARDNAME":"Drain Life"
+	},
+	{
+		"KEYWORD":"Drain Mana",
+		"CARDNAME":"Drain Mana"
 	},
 	{
 		"KEYWORD":"Dramoth the Eternal",
 		"CARDNAME":"Dramoth the Eternal",
-		"ALIAS":"Dramoth;Crusader Dragon;Crusaders Dragon;Yellow Dragon;Dramo;Dram"
+		"ALIAS":"Dramoth;The Eternal"
 	},
 	{
 		"KEYWORD":"Dread Pirate Robins",
 		"CARDNAME":"Dread Pirate Robins",
-		"ALIAS":"Robins;Dread Pirate;Pirate Robins;Dread;Robin;Pirate Robin"
-	},
-	{
-		"KEYWORD":"Dwarf Miner",
-		"CARDNAME":"Dwarf Miner",
-		"ALIAS":"Miner;Dwarven Miner"
+		"ALIAS":"Robins"
 	},
 	{
 		"KEYWORD":"Dwarf Paladin",
-		"CARDNAME":"Dwarf Paladin",
-		"ALIAS":"Paladin Dwarf;Dwarven Paladin"
-	},
-	{
-		"KEYWORD":"Dwarven Archives",
-		"CARDNAME":"Dwarven Archives",
-		"ALIAS":"Dwarf Archives;Archives"
-	},
-	{
-		"KEYWORD":"Dwarven Construction",
-		"CARDNAME":"Dwarven Construction",
-		"ALIAS":"Dwarf Construction;Construction"
+		"CARDNAME":"Dwarf Paladin"
 	},
 	{
 		"KEYWORD":"Dwarven Greed",
-		"CARDNAME":"Dwarven Greed",
-		"ALIAS":"Dwarf Greed"
+		"CARDNAME":"Dwarven Greed"
 	},
 	{
-		"KEYWORD":"Dwarven Mithril",
-		"CARDNAME":"Dwarven Mithril",
-		"ALIAS":"Mithril;Dwarf Mithril"
+		"KEYWORD":"Dwarven Miner",
+		"CARDNAME":"Dwarven Miner",
+		"ALIAS":"Miner"
 	},
 	{
-		"KEYWORD":"Dwarven Scope",
-		"CARDNAME":"Dwarven Scope",
-		"ALIAS":"Scope;Dwarf Scope"
-	},
-	{
-		"KEYWORD":"Dwarven Sharpshooter",
-		"CARDNAME":"Dwarven Sharpshooter",
-		"ALIAS":"Sharpshooter;Dwarf Sharpshooter;Shooter;Dwarf Shooter;Dwarfen Shooter;Dwarv Sniper;Dwarven Sniper;Dwarf Sniper;Dwarfen Sniper"
+		"KEYWORD":"Dwarven Repair Crew",
+		"CARDNAME":"Dwarven Repair Crew",
+		"ALIAS":"Repair Crew"
 	},
 	{
 		"KEYWORD":"Dwarven Weapons",
-		"CARDNAME":"Dwarven Weapons",
-		"ALIAS":"Dwarf Weapon;Dwarf Weapons"
+		"CARDNAME":"Dwarven Weapons"
+	},
+	{
+		"KEYWORD":"Dwarven Winterward",
+		"CARDNAME":"Dwarven Winterward",
+		"ALIAS":"Winterward"
 	},
 	{
 		"KEYWORD":"Earth Knight",
-		"CARDNAME":"Earth Knight",
-		"ALIAS":"Earth"
+		"CARDNAME":"Earth Knight"
 	},
 	{
-		"KEYWORD":"Elvish Hunter",
-		"CARDNAME":"Elvish Hunter",
-		"ALIAS":"Elvish"
+		"KEYWORD":"Earth Titan",
+		"CARDNAME":"Earth Titan"
 	},
 	{
-		"KEYWORD":"Elvish Thief",
-		"CARDNAME":"Elvish Thief",
-		"ALIAS":"Elf Thief;Thief Elf;Elv Thief;Thief Elv"
+		"KEYWORD":"Elsevar, Lord of Trees",
+		"CARDNAME":"Elsevar, Lord of Trees",
+		"ALIAS":"Elsevar;Lord of Trees"
 	},
 	{
-		"KEYWORD":"Energy Rush",
-		"CARDNAME":"Energy Rush",
-		"ALIAS":"Energy"
+		"KEYWORD":"Elvish Bandit",
+		"CARDNAME":"Elvish Bandit",
+		"ALIAS":"Bandit"
 	},
 	{
-		"KEYWORD":"Eternal Darkness",
-		"CARDNAME":"Eternal Darkness",
-		"ALIAS":"Darkness;ED"
+		"KEYWORD":"Enlightenment",
+		"CARDNAME":"Enlightenment"
 	},
 	{
-		"KEYWORD":"Eternal Judgment",
-		"CARDNAME":"Eternal Judgment",
-		"ALIAS":"Eternal Judgement"
+		"KEYWORD":"Escape",
+		"CARDNAME":"Escape"
 	},
 	{
-		"KEYWORD":"Eternity Strike",
-		"CARDNAME":"Eternity Strike",
-		"ALIAS":"E-Strike;Eternitystrike;E Strike"
+		"KEYWORD":"Exotic Growth",
+		"CARDNAME":"Exotic Growth",
+		"ALIAS":"Exotic"
 	},
 	{
-		"KEYWORD":"Ethereal Panda",
-		"CARDNAME":"Ethereal Panda",
-		"ALIAS":"Panda;Eternal Panda"
+		"KEYWORD":"Eye of Flame",
+		"CARDNAME":"Eye of Flame",
+		"ALIAS":"Eye"
 	},
 	{
-		"KEYWORD":"Face of the Dragon",
-		"CARDNAME":"Face of the Dragon",
-		"ALIAS":"Face of Dragon;Face of;Face of the"
-	},
-	{
-		"KEYWORD":"Faith Everlasting",
-		"CARDNAME":"Faith Everlasting",
-		"ALIAS":"Everlasting;Faith Ever"
+		"KEYWORD":"Face of Death",
+		"CARDNAME":"Face of Death"
 	},
 	{
 		"KEYWORD":"Faithful Drake",
-		"CARDNAME":"Faithful Drake",
-		"ALIAS":"Faithful;Faithfuldrake"
+		"CARDNAME":"Faithful Drake"
 	},
 	{
 		"KEYWORD":"Fat Bard",
 		"CARDNAME":"Fat Bard",
-		"ALIAS":"Bard;Fat Barb"
-	},
-	{
-		"KEYWORD":"Fear",
-		"CARDNAME":"Fear"
+		"ALIAS":"Bard"
 	},
 	{
 		"KEYWORD":"Fencer",
 		"CARDNAME":"Fencer"
 	},
 	{
-		"KEYWORD":"Fenrir",
-		"CARDNAME":"Fenrir"
+		"KEYWORD":"Fenrir, Beast of Lore",
+		"CARDNAME":"Fenrir, Beast of Lore",
+		"ALIAS":"Fenrir"
 	},
 	{
-		"KEYWORD":"Filthy Peasant",
-		"CARDNAME":"Filthy Peasant",
-		"ALIAS":"Peasant;Filthy;Peasent;Filthy Peasent"
+		"KEYWORD":"Ferocity",
+		"CARDNAME":"Ferocity"
 	},
 	{
 		"KEYWORD":"Fire Drake",
-		"CARDNAME":"Fire Drake",
-		"ALIAS":"Firedrake"
+		"CARDNAME":"Fire Drake"
 	},
 	{
-		"KEYWORD":"Fire Whirl",
-		"CARDNAME":"Fire Whirl",
-		"ALIAS":"Firewhirl;Whirl"
+		"KEYWORD":"Flame Blast",
+		"CARDNAME":"Flame Blast"
 	},
 	{
-		"KEYWORD":"Fist of Donek",
-		"CARDNAME":"Fist of Donek",
-		"ALIAS":"Fist;Fist of;Donek"
-	},
-	{
-		"KEYWORD":"Flame",
-		"CARDNAME":"Flame"
+		"KEYWORD":"Flame Entity",
+		"CARDNAME":"Flame Entity",
+		"ALIAS":"Entity"
 	},
 	{
 		"KEYWORD":"Flame Prince",
-		"CARDNAME":"Flame Prince",
-		"ALIAS":"Flameprince"
-	},
-	{
-		"KEYWORD":"Flame Shield",
-		"CARDNAME":"Flame Shield",
-		"ALIAS":"Flameshield"
-	},
-	{
-		"KEYWORD":"Flames of Eternity",
-		"CARDNAME":"Flames of Eternity",
-		"ALIAS":"Flames of;Flames"
-	},
-	{
-		"KEYWORD":"Flamestorm",
-		"CARDNAME":"Flamestorm"
+		"CARDNAME":"Flame Prince"
 	},
 	{
 		"KEYWORD":"Flash Grenade",
 		"CARDNAME":"Flash Grenade",
-		"ALIAS":"Flashgrenade;Flash"
-	},
-	{
-		"KEYWORD":"Flux Dabes",
-		"CARDNAME":"Flux Dabes",
-		"ALIAS":"Flux;Dabes"
+		"ALIAS":"Grenade"
 	},
 	{
 		"KEYWORD":"Flying Books",
 		"CARDNAME":"Flying Books",
-		"ALIAS":"Books;Flying Book"
+		"ALIAS":"Books"
+	},
+	{
+		"KEYWORD":"Flying Pumpkin",
+		"CARDNAME":"Flying Pumpkin",
+		"ALIAS":"Pumpkin"
 	},
 	{
 		"KEYWORD":"Forbidden City",
 		"CARDNAME":"Forbidden City"
 	},
 	{
-		"KEYWORD":"Forbidden Scroll",
-		"CARDNAME":"Forbidden Scroll",
-		"ALIAS":"Scroll"
-	},
-	{
 		"KEYWORD":"Forest Revolt",
-		"CARDNAME":"Forest Revolt",
-		"ALIAS":"Revolt"
-	},
-	{
-		"KEYWORD":"Forest Watcher",
-		"CARDNAME":"Forest Watcher",
-		"ALIAS":"Watcher;Forestwatcher"
-	},
-	{
-		"KEYWORD":"Forked Lightning",
-		"CARDNAME":"Forked Lightning",
-		"ALIAS":"Forked"
+		"CARDNAME":"Forest Revolt"
 	},
 	{
 		"KEYWORD":"Fortify",
-		"CARDNAME":"Fortify",
-		"ALIAS":"Clean;Cleanse"
+		"CARDNAME":"Fortify"
 	},
 	{
 		"KEYWORD":"Freezing Pillar",
-		"CARDNAME":"Freezing Pillar",
-		"ALIAS":"Freeze Pillar;Freezing;Ice Pillar"
+		"CARDNAME":"Freezing Pillar"
+	},
+	{
+		"KEYWORD":"Friend of Dragons",
+		"CARDNAME":"Friend of Dragons"
 	},
 	{
 		"KEYWORD":"Frog Prince",
 		"CARDNAME":"Frog Prince",
-		"ALIAS":"Frogprince;Frog"
+		"ALIAS":"Frog"
+	},
+	{
+		"KEYWORD":"Frost Blast",
+		"CARDNAME":"Frost Blast"
+	},
+	{
+		"KEYWORD":"Frost Drake",
+		"CARDNAME":"Frost Drake"
 	},
 	{
 		"KEYWORD":"Frost Giant",
 		"CARDNAME":"Frost Giant"
 	},
 	{
-		"KEYWORD":"Frost Slash",
-		"CARDNAME":"Frost Slash",
-		"ALIAS":"Frostslash"
+		"KEYWORD":"Frozen Halls",
+		"CARDNAME":"Frozen Halls",
+		"ALIAS":"Halls"
 	},
 	{
 		"KEYWORD":"Frozen Storm",
-		"CARDNAME":"Frozen Storm",
-		"ALIAS":"Freeze Storm"
+		"CARDNAME":"Frozen Storm"
 	},
 	{
 		"KEYWORD":"Furnace Knight",
@@ -655,91 +600,69 @@
 	{
 		"KEYWORD":"Furor of Battle",
 		"CARDNAME":"Furor of Battle",
-		"ALIAS":"Furor;Furor of"
+		"ALIAS":"Furor"
 	},
 	{
-		"KEYWORD":"Gift of the Shepherd",
-		"CARDNAME":"Gift of the Shepherd",
-		"ALIAS":"Gift of Shepherd;Gift;Gift of;Gift of the"
+		"KEYWORD":"Genesis",
+		"CARDNAME":"Genesis"
 	},
 	{
-		"KEYWORD":"Grave Stalker",
-		"CARDNAME":"Grave Stalker",
-		"ALIAS":"Grave;Stalker"
+		"KEYWORD":"Giant Sunflower",
+		"CARDNAME":"Giant Sunflower",
+		"ALIAS":"Sunflower"
+	},
+	{
+		"KEYWORD":"Gorilla Fighter",
+		"CARDNAME":"Gorilla Fighter",
+		"ALIAS":"Gorilla"
+	},
+	{
+		"KEYWORD":"Grave Knight",
+		"CARDNAME":"Grave Knight"
+	},
+	{
+		"KEYWORD":"Grave Robbery",
+		"CARDNAME":"Grave Robbery"
+	},
+	{
+		"KEYWORD":"Great White Shot",
+		"CARDNAME":"Great White Shot",
+		"ALIAS":"Great White"
 	},
 	{
 		"KEYWORD":"Green Drake",
-		"CARDNAME":"Green Drake",
-		"ALIAS":"Greendrake;Green"
+		"CARDNAME":"Green Drake"
 	},
 	{
 		"KEYWORD":"Grendel",
-		"CARDNAME":"Grendel",
-		"ALIAS":"Grendal"
+		"CARDNAME":"Grendel"
 	},
 	{
-		"KEYWORD":"Grimthal's Command",
-		"CARDNAME":"Grimthal's Command",
-		"ALIAS":"Grimthals Command;Grimthal Command;Grimthal;Grimthals;Grimthal's;Grimtal;Grimtals"
+		"KEYWORD":"Gryphon",
+		"CARDNAME":"Gryphon",
+		"ALIAS":"Gryph;Griffon"
 	},
 	{
-		"KEYWORD":"Gromok the Gorilla",
-		"CARDNAME":"Gromok the Gorilla",
-		"ALIAS":"Gromok;Gromok Gorilla;Gromok the;Gorilla"
+		"KEYWORD":"Harness Magic",
+		"CARDNAME":"Harness Magic"
 	},
 	{
-		"KEYWORD":"Grotesque Offering",
-		"CARDNAME":"Grotesque Offering",
-		"ALIAS":"Grotesque;Offering"
+		"KEYWORD":"Harpy",
+		"CARDNAME":"Harpy"
 	},
 	{
-		"KEYWORD":"Grudge Bearer",
-		"CARDNAME":"Grudge Bearer",
-		"ALIAS":"Grudge;Bearer"
+		"KEYWORD":"Hasan Legionnaire",
+		"CARDNAME":"Hasan Legionnaire",
+		"ALIAS":"Legionnaire"
 	},
 	{
-		"KEYWORD":"Guardian",
-		"CARDNAME":"Guardian"
-	},
-	{
-		"KEYWORD":"Hall of Winds",
-		"CARDNAME":"Hall of Winds",
-		"ALIAS":"Wind Hall;Hall of;of Winds;Hall"
-	},
-	{
-		"KEYWORD":"Hands of the Saint",
-		"CARDNAME":"Hands of the Saint",
-		"ALIAS":"Hands of Saint;Hands;HotS;Hands of;Hands of the;Hands;Hand of the Saint;Hand"
-	},
-	{
-		"KEYWORD":"Harmonic Balance",
-		"CARDNAME":"Harmonic Balance",
-		"ALIAS":"Harmonic;Balance"
-	},
-	{
-		"KEYWORD":"Hasan City Colossus",
-		"CARDNAME":"Hasan City Colossus",
-		"ALIAS":"City Coloss;City Colossus;Colossus;Coloss;Hasan Colossus;Hasan Coloss"
-	},
-	{
-		"KEYWORD":"Hasan City Guard",
-		"CARDNAME":"Hasan City Guard",
-		"ALIAS":"City Guards;Guards;Hasan City Guards;Hasan Guards"
-	},
-	{
-		"KEYWORD":"Hasan City Guard Tower",
-		"CARDNAME":"Hasan City Guard Tower",
-		"ALIAS":"Guard Tower;City Guard Tower;City Tower;Hasan Tower"
-	},
-	{
-		"KEYWORD":"Priest",
-		"CARDNAME":"Priest",
-		"ALIAS":"Missionary;Hasan Priest;Hasan Missionary"
+		"KEYWORD":"Hawk",
+		"CARDNAME":"Hawk"
 	},
 	{
 		"KEYWORD":"Headless Horseman",
 		"CARDNAME":"Headless Horseman",
-		"ALIAS":"Headless;Horseman;Headless Horsman;Horsman"
+		"ALIAS":"Headless"
 	},
 	{
 		"KEYWORD":"Headmaster Sarus",
@@ -747,70 +670,39 @@
 		"ALIAS":"Sarus;Headmaster"
 	},
 	{
-		"KEYWORD":"Heal",
-		"CARDNAME":"Heal"
+		"KEYWORD":"Hidden in the Walls",
+		"CARDNAME":"Hidden in the Walls",
+		"ALIAS":"In the walls"
 	},
 	{
-		"KEYWORD":"Heavenly Shield",
-		"CARDNAME":"Heavenly Shield",
-		"ALIAS":"Heaven;Heaven Shield;Heavenly"
+		"KEYWORD":"Hidden Mage",
+		"CARDNAME":"Hidden Mage"
 	},
 	{
-		"KEYWORD":"Hemorrhage",
-		"CARDNAME":"Hemorrhage"
-	},
-	{
-		"KEYWORD":"Hibernate",
-		"CARDNAME":"Hibernate"
-	},
-	{
-		"KEYWORD":"Hidden Fees",
-		"CARDNAME":"Hidden Fees",
-		"ALIAS":"Fees"
-	},
-	{
-		"KEYWORD":"Hidden Intent",
-		"CARDNAME":"Hidden Intent",
-		"ALIAS":"Intent"
-	},
-	{
-		"KEYWORD":"Holy Bulwark",
-		"CARDNAME":"Holy Bulwark",
-		"ALIAS":"Bulwark"
-	},
-	{
-		"KEYWORD":"House of Daggers",
-		"CARDNAME":"House of Daggers",
-		"ALIAS":"House Daggers;Dagger House;Daggers House;House of Dagger"
-	},
-	{
-		"KEYWORD":"Hungering Pumpkin",
-		"CARDNAME":"Hungering Pumpkin",
-		"ALIAS":"Pumpkin;Hungering"
+		"KEYWORD":"Honor the Fallen",
+		"CARDNAME":"Honor the Fallen",
+		"ALIAS":"Honor"
 	},
 	{
 		"KEYWORD":"Iaijutsu",
-		"CARDNAME":"Iaijutsu",
-		"ALIAS":"Jutsu"
+		"CARDNAME":"Iaijutsu"
 	},
 	{
-		"KEYWORD":"Ice Drake",
-		"CARDNAME":"Ice Drake",
-		"ALIAS":"Icedrake"
+		"KEYWORD":"Ice Weaver",
+		"CARDNAME":"Ice Weaver",
+		"ALIAS":"Weaver"
 	},
 	{
-		"KEYWORD":"Iceweaving",
-		"CARDNAME":"Iceweaving",
-		"ALIAS":"Weaving"
+		"KEYWORD":"Icy Death",
+		"CARDNAME":"Icy Death"
 	},
 	{
-		"KEYWORD":"Ignition",
-		"CARDNAME":"Ignition"
+		"KEYWORD":"Imp ",
+		"CARDNAME":"Imp "
 	},
 	{
-		"KEYWORD":"Ikken Hisatsu",
-		"CARDNAME":"Ikken Hisatsu",
-		"ALIAS":"Ikken;Hisatsu"
+		"KEYWORD":"Imperial Soldier",
+		"CARDNAME":"Imperial Soldier"
 	},
 	{
 		"KEYWORD":"Incinerate",
@@ -818,84 +710,56 @@
 	},
 	{
 		"KEYWORD":"Infernal Furnace",
-		"CARDNAME":"Infernal Furnace",
-		"ALIAS":"Infernal"
-	},
-	{
-		"KEYWORD":"Infiltrate",
-		"CARDNAME":"Infiltrate",
-		"ALIAS":"Infil"
-	},
-	{
-		"KEYWORD":"Injured Treant",
-		"CARDNAME":"Injured Treant",
-		"ALIAS":"Injured;Treant"
-	},
-	{
-		"KEYWORD":"Inner Life",
-		"CARDNAME":"Inner Life",
-		"ALIAS":"Inner;Life;Iner Life;Inner Live;Iner Live"
-	},
-	{
-		"KEYWORD":"Inspire",
-		"CARDNAME":"Inspire"
+		"CARDNAME":"Infernal Furnace"
 	},
 	{
 		"KEYWORD":"Jonviev the Dawnsword",
 		"CARDNAME":"Jonviev the Dawnsword",
-		"ALIAS":"Jonviev;the Dawnsword;Jonviev the;Jonview The Dawnsword;Jonview"
+		"ALIAS":"Jonviev"
 	},
 	{
-		"KEYWORD":"Journey of Faith",
-		"CARDNAME":"Journey of Faith"
+		"KEYWORD":"Journey into the Desert",
+		"CARDNAME":"Journey into the Desert",
+		"ALIAS":"Journey"
 	},
 	{
-		"KEYWORD":"Judge",
-		"CARDNAME":"Judge"
+		"KEYWORD":"Kage Satsujin",
+		"CARDNAME":"Kage Satsujin",
+		"ALIAS":"Kage;Satsujin"
 	},
 	{
 		"KEYWORD":"Kaijr",
 		"CARDNAME":"Kaijr"
 	},
 	{
-		"KEYWORD":"Karasumei",
-		"CARDNAME":"Karasumei",
-		"ALIAS":"Karasumai;Karasume;Karasumi;Kara"
-	},
-	{
 		"KEYWORD":"Kargrom the Oppressor",
 		"CARDNAME":"Kargrom the Oppressor",
-		"ALIAS":"Kargrom;Kargy;Oppressor;Kargrom the;Kargom"
+		"ALIAS":"Kargrom;Grom;Kargy"
 	},
 	{
-		"KEYWORD":"Keeper of the Doorway",
-		"CARDNAME":"Keeper of the Doorway",
-		"ALIAS":"Keeper of Doorway;Keeper of Door;Keeper of the Door;Door;Keeper;Door Keeper;Keeper of;Keeper of the;Doorway;Door Knight"
+		"KEYWORD":"Killer Crab",
+		"CARDNAME":"Killer Crab",
+		"ALIAS":"Crab"
+	},
+	{
+		"KEYWORD":"Killer Monkey",
+		"CARDNAME":"Killer Monkey",
+		"ALIAS":"Monkey"
 	},
 	{
 		"KEYWORD":"Killer Rabbit",
 		"CARDNAME":"Killer Rabbit",
-		"ALIAS":"Killer;Rabbit"
-	},
-	{
-		"KEYWORD":"King Crab",
-		"CARDNAME":"King Crab",
-		"ALIAS":"Crab;Crab King"
+		"ALIAS":"Rabbit"
 	},
 	{
 		"KEYWORD":"King Kaiju",
 		"CARDNAME":"King Kaiju",
-		"ALIAS":"Kaiju;Kaiju King;King Kaijr"
+		"ALIAS":"Kaiju"
 	},
 	{
 		"KEYWORD":"Knight of Flowers",
 		"CARDNAME":"Knight of Flowers",
-		"ALIAS":"Flower Knight;Knight of;Flowers Knight"
-	},
-	{
-		"KEYWORD":"Knock Out",
-		"CARDNAME":"Knock Out",
-		"ALIAS":"Knockout"
+		"ALIAS":"Flower Knight"
 	},
 	{
 		"KEYWORD":"Kunai",
@@ -903,36 +767,44 @@
 	},
 	{
 		"KEYWORD":"Kunoichi",
-		"CARDNAME":"Kunoichi",
-		"ALIAS":"Kuno"
+		"CARDNAME":"Kunoichi"
 	},
 	{
-		"KEYWORD":"Kurou the Assassin",
-		"CARDNAME":"Kurou the Assassin",
-		"ALIAS":"Kurou;Kuro;Kuru;the Hand;Kurou the;Kuro the;Kuru the;Kurou Assassin;Kuro Assassin;Assassin Kurou;Assassin Kuro"
-	},
-	{
-		"KEYWORD":"Last Stand",
-		"CARDNAME":"Last Stand"
+		"KEYWORD":"Landshark",
+		"CARDNAME":"Landshark",
+		"ALIAS":"Shark"
 	},
 	{
 		"KEYWORD":"Lava Font",
-		"CARDNAME":"Lava Font"
+		"CARDNAME":"Lava Font",
+		"ALIAS":"Font"
 	},
 	{
-		"KEYWORD":"Lich",
-		"CARDNAME":"Lich",
-		"ALIAS":"Lich King"
+		"KEYWORD":"Library of Hasan",
+		"CARDNAME":"Library of Hasan"
 	},
 	{
-		"KEYWORD":"Lightning Blade",
-		"CARDNAME":"Lightning Blade",
-		"ALIAS":"Blade"
+		"KEYWORD":"Lieutenant Joff",
+		"CARDNAME":"Lieutenant Joff",
+		"ALIAS":"Joff;Pepperwood"
+	},
+	{
+		"KEYWORD":"Lightning Blast",
+		"CARDNAME":"Lightning Blast"
+	},
+	{
+		"KEYWORD":"Lightning Overload",
+		"CARDNAME":"Lightning Overload"
+	},
+	{
+		"KEYWORD":"Lionel the Arbiter",
+		"CARDNAME":"Lionel the Arbiter",
+		"ALIAS":"Lionel;Arbiter"
 	},
 	{
 		"KEYWORD":"Living Vines",
 		"CARDNAME":"Living Vines",
-		"ALIAS":"Living;Vines"
+		"ALIAS":"Vines"
 	},
 	{
 		"KEYWORD":"Loremaster Tarius",
@@ -940,34 +812,48 @@
 		"ALIAS":"Loremaster;Tarius"
 	},
 	{
-		"KEYWORD":"Ludicrous Strength",
-		"CARDNAME":"Ludicrous Strength",
-		"ALIAS":"Ludicros Strength;Ludicrus Strength;Ludicrous;Strength"
+		"KEYWORD":"Lumbering Oak",
+		"CARDNAME":"Lumbering Oak"
 	},
 	{
-		"KEYWORD":"Lumberjack",
-		"CARDNAME":"Lumberjack",
-		"ALIAS":"Lumber"
+		"KEYWORD":"Lumberjack and Bear",
+		"CARDNAME":"Lumberjack and Bear",
+		"ALIAS":"Lumber;Lumberjack"
 	},
 	{
 		"KEYWORD":"Luminarus",
 		"CARDNAME":"Luminarus",
-		"ALIAS":"Lumin"
+		"ALIAS":"Lumi"
 	},
 	{
-		"KEYWORD":"Lunging Attack",
-		"CARDNAME":"Lunging Attack",
-		"ALIAS":"Lunging"
+		"KEYWORD":"Magic Eater",
+		"CARDNAME":"Magic Eater",
+		"ALIAS":"Eater"
 	},
 	{
-		"KEYWORD":"Mage Apprentice",
-		"CARDNAME":"Mage Apprentice",
-		"ALIAS":"Apprentice"
+		"KEYWORD":"Magma Titan",
+		"CARDNAME":"Magma Titan"
 	},
 	{
 		"KEYWORD":"Magmasaur",
-		"CARDNAME":"Magmasaur",
-		"ALIAS":"Magma;Magmar;Magmarsaur"
+		"CARDNAME":"Magmasaur"
+	},
+	{
+		"KEYWORD":"Man the Cannons",
+		"CARDNAME":"Man the Cannons",
+		"ALIAS":"Cannons"
+	},
+	{
+		"KEYWORD":"Mana Burn",
+		"CARDNAME":"Mana Burn"
+	},
+	{
+		"KEYWORD":"Mana Tower",
+		"CARDNAME":"Mana Tower"
+	},
+	{
+		"KEYWORD":"Mana Well",
+		"CARDNAME":"Mana Well"
 	},
 	{
 		"KEYWORD":"Manfish",
@@ -975,90 +861,60 @@
 	},
 	{
 		"KEYWORD":"Manticore",
-		"CARDNAME":"Manticore",
-		"ALIAS":"Manti;Core"
-	},
-	{
-		"KEYWORD":"Mark of the Fist",
-		"CARDNAME":"Mark of the Fist",
-		"ALIAS":"Mark of Fist;Mark;Mark of the;Mark of"
+		"CARDNAME":"Manticore"
 	},
 	{
 		"KEYWORD":"Master at Arms",
-		"CARDNAME":"Master at Arms",
-		"ALIAS":"Master of Arms;Master at;Master at Arm"
-	},
-	{
-		"KEYWORD":"Master Thief",
-		"CARDNAME":"Master Thief",
-		"ALIAS":"Masterthief"
-	},
-	{
-		"KEYWORD":"Masuta",
-		"CARDNAME":"Masuta"
-	},
-	{
-		"KEYWORD":"Medal of Bravery",
-		"CARDNAME":"Medal of Bravery",
-		"ALIAS":"Medal;Medal of;Bravery;Coin;Medal of Honor"
+		"CARDNAME":"Master at Arms"
 	},
 	{
 		"KEYWORD":"Meditation",
-		"CARDNAME":"Meditation"
+		"CARDNAME":"Meditation",
+		"ALIAS":"Meditate"
 	},
 	{
 		"KEYWORD":"Mercenary Execution",
 		"CARDNAME":"Mercenary Execution",
-		"ALIAS":"Mercenary;Execution"
+		"ALIAS":"Mercenary"
 	},
 	{
 		"KEYWORD":"Merchant's Estate",
 		"CARDNAME":"Merchant's Estate",
-		"ALIAS":"Estate"
-	},
-	{
-		"KEYWORD":"Merchant's Favor",
-		"CARDNAME":"Merchant's Favor",
-		"ALIAS":"Favor"
-	},
-	{
-		"KEYWORD":"Merciless Santa",
-		"CARDNAME":"Merciless Santa",
-		"ALIAS":"Merciless;Santa;Merciles Santa; Merciles"
-	},
-	{
-		"KEYWORD":"Might of the Minotaur",
-		"CARDNAME":"Might of the Minotaur",
-		"ALIAS":"Minotaur Trap;Mino Trap;Might of;Might of the;Might"
-	},
-	{
-		"KEYWORD":"Minor Upgrade",
-		"CARDNAME":"Minor Upgrade",
-		"ALIAS":"Minor;Upgrade"
-	},
-	{
-		"KEYWORD":"Minotaur",
-		"CARDNAME":"Minotaur",
-		"ALIAS":"Mino"
-	},
-	{
-		"KEYWORD":"Mischievous Imp",
-		"CARDNAME":"Mischievous Imp",
-		"ALIAS":"Imp;Mischievous"
+		"ALIAS":"Merchant's;Estate"
 	},
 	{
 		"KEYWORD":"Molten Pillar",
-		"CARDNAME":"Molten Pillar",
-		"ALIAS":"Molten"
+		"CARDNAME":"Molten Pillar"
 	},
 	{
-		"KEYWORD":"Monk",
-		"CARDNAME":"Monk"
+		"KEYWORD":"Moment of Despair",
+		"CARDNAME":"Moment of Despair"
+	},
+	{
+		"KEYWORD":"Monastry Protector",
+		"CARDNAME":"Monastry Protector"
+	},
+	{
+		"KEYWORD":"Mooncaster",
+		"CARDNAME":"Mooncaster"
+	},
+	{
+		"KEYWORD":"Mordanoth the Hungerer",
+		"CARDNAME":"Mordanoth the Hungerer",
+		"ALIAS":"Mordanoth;The Hungerer"
 	},
 	{
 		"KEYWORD":"Mordok the Dark Rider",
 		"CARDNAME":"Mordok the Dark Rider",
-		"ALIAS":"Mordok;Mordank;More Dank;Mordok Dark Rider;Mordok Rider;Dark Rider"
+		"ALIAS":"Mordok;The Dark Rider; Dark Rider"
+	},
+	{
+		"KEYWORD":"Mortar",
+		"CARDNAME":"Mortar"
+	},
+	{
+		"KEYWORD":"Mountain Giant",
+		"CARDNAME":"Mountain Giant"
 	},
 	{
 		"KEYWORD":"Mugging",
@@ -1066,93 +922,60 @@
 	},
 	{
 		"KEYWORD":"Multistrike",
-		"CARDNAME":"Multistrike",
-		"ALIAS":"Multi"
+		"CARDNAME":"Multistrike"
 	},
 	{
-		"KEYWORD":"Murder",
-		"CARDNAME":"Murder"
-	},
-	{
-		"KEYWORD":"Mystic Dojo",
-		"CARDNAME":"Mystic Dojo",
-		"ALIAS":"Trap Dojo"
-	},
-	{
-		"KEYWORD":"Mystic Journey",
-		"CARDNAME":"Mystic Journey"
-	},
-	{
-		"KEYWORD":"Mystic Pact",
-		"CARDNAME":"Mystic Pact",
-		"ALIAS":"Pact"
-	},
-	{
-		"KEYWORD":"Nala'kir Ajeera",
-		"CARDNAME":"Nala'kir Ajeera",
-		"ALIAS":"Nalakir;Ajeera;Nalakir Ajeera;Nala'kir"
-	},
-	{
-		"KEYWORD":"Necromancer",
-		"CARDNAME":"Necromancer",
-		"ALIAS":"Necro"
-	},
-	{
-		"KEYWORD":"Nimble Retreat",
-		"CARDNAME":"Nimble Retreat",
-		"ALIAS":"Nimble;Nimbel;Retreat;Nimbel Retreat"
+		"KEYWORD":"Natural Connection",
+		"CARDNAME":"Natural Connection"
 	},
 	{
 		"KEYWORD":"Ninja Training",
-		"CARDNAME":"Ninja Training",
-		"ALIAS":"Ninjatraining"
+		"CARDNAME":"Ninja Training"
 	},
 	{
-		"KEYWORD":"Northlands Bear",
-		"CARDNAME":"Northlands Bear",
-		"ALIAS":"Northland Bear"
+		"KEYWORD":"Norabon the Lich",
+		"CARDNAME":"Norabon the Lich",
+		"ALIAS":"Norabon;The Lich"
 	},
 	{
-		"KEYWORD":"Northlands Ranger",
-		"CARDNAME":"Northlands Ranger",
-		"ALIAS":"Northland Ranger;Ranger"
+		"KEYWORD":"Northwood Bear",
+		"CARDNAME":"Northwood Bear"
 	},
 	{
-		"KEYWORD":"Northlands Wolf",
-		"CARDNAME":"Northlands Wolf",
-		"ALIAS":"Northland Wolf;Wolf"
+		"KEYWORD":"Northwood Hunter",
+		"CARDNAME":"Northwood Hunter"
 	},
 	{
 		"KEYWORD":"Nunchuck Nun",
 		"CARDNAME":"Nunchuck Nun",
-		"ALIAS":"Nun;Nunchuck"
+		"ALIAS":"Nun"
+	},
+	{
+		"KEYWORD":"Odin's Blessing",
+		"CARDNAME":"Odin's Blessing"
+	},
+	{
+		"KEYWORD":"Omae Wa Mou Shindeiru",
+		"CARDNAME":"Omae Wa Mou Shindeiru",
+		"ALIAS":"Omae Wa;Omae Wa Mou"
 	},
 	{
 		"KEYWORD":"One-Eyed Maddy",
 		"CARDNAME":"One-Eyed Maddy",
-		"ALIAS":"Maddy;One-Eyed;One Eye Maddy;One Eyed Maddy;One-Eye;One Eyed"
+		"ALIAS":"Maddy"
 	},
 	{
-		"KEYWORD":"Onslaught",
-		"CARDNAME":"Onslaught"
-	},
-	{
-		"KEYWORD":"Pacifism",
-		"CARDNAME":"Pacifism"
+		"KEYWORD":"Owlbear",
+		"CARDNAME":"Owlbear"
 	},
 	{
 		"KEYWORD":"Pack of Wolves",
-		"CARDNAME":"Pack of Wolves",
-		"ALIAS":"Wolf Pack;Pack of Wolfs;Wolfpack;Pack"
+		"CARDNAME":"Pack of Wolves"
 	},
 	{
-		"KEYWORD":"Paladin",
-		"CARDNAME":"Paladin"
-	},
-	{
-		"KEYWORD":"Parrot Rush",
-		"CARDNAME":"Parrot Rush",
-		"ALIAS":"Parrot;Rush Parrot"
+		"KEYWORD":"Peasant on a Pig",
+		"CARDNAME":"Peasant on a Pig",
+		"ALIAS":"Peasant"
 	},
 	{
 		"KEYWORD":"Pegacorn",
@@ -1160,46 +983,24 @@
 		"ALIAS":"Pega"
 	},
 	{
-		"KEYWORD":"Perseverance",
-		"CARDNAME":"Perseverance"
+		"KEYWORD":"Power of God",
+		"CARDNAME":"Power of God"
 	},
 	{
-		"KEYWORD":"Phantom Strike",
-		"CARDNAME":"Phantom Strike",
-		"ALIAS":"Phantom"
+		"KEYWORD":"Power Surge",
+		"CARDNAME":"Power Surge"
 	},
 	{
-		"KEYWORD":"Pillage",
-		"CARDNAME":"Pillage"
+		"KEYWORD":"Preparation",
+		"CARDNAME":"Preparation"
 	},
 	{
-		"KEYWORD":"Pillar of Annoyance",
-		"CARDNAME":"Pillar of Annoyance",
-		"ALIAS":"Pillar of Annoying;Annoyance"
+		"KEYWORD":"Priest",
+		"CARDNAME":"Priest"
 	},
 	{
-		"KEYWORD":"Plea of the Righteous",
-		"CARDNAME":"Plea of the Righteous",
-		"ALIAS":"Plea;Plea of;Plea of the;Righteous;the Righteous;Plea of the Right"
-	},
-	{
-		"KEYWORD":"Plunder",
-		"CARDNAME":"Plunder"
-	},
-	{
-		"KEYWORD":"Primordial Flame",
-		"CARDNAME":"Primordial Flame",
-		"ALIAS":"Pflame;Primordial"
-	},
-	{
-		"KEYWORD":"Professor Headwood",
-		"CARDNAME":"Professor Headwood",
-		"ALIAS":"Headwood;Professor"
-	},
-	{
-		"KEYWORD":"Pulverize",
-		"CARDNAME":"Pulverize",
-		"ALIAS":"Pulver"
+		"KEYWORD":"Professor",
+		"CARDNAME":"Professor"
 	},
 	{
 		"KEYWORD":"Pyromancer",
@@ -1207,96 +1008,77 @@
 		"ALIAS":"Pyro"
 	},
 	{
-		"KEYWORD":"Quest for the Holy Grail",
-		"CARDNAME":"Quest for the Holy Grail",
-		"ALIAS":"Quest for Holy Grail;Holy Grail;Quest for;Quest for the;Quest for the Holy"
+		"KEYWORD":"Ragnar the Thunder King",
+		"CARDNAME":"Ragnar the Thunder King",
+		"ALIAS":"Ragnar;The Thunder King;Thunder King"
 	},
 	{
-		"KEYWORD":"Questing Knight",
-		"CARDNAME":"Questing Knight",
-		"ALIAS":"Quest Knight;Questing"
+		"KEYWORD":"Ragnarok",
+		"CARDNAME":"Ragnarok"
 	},
 	{
-		"KEYWORD":"Ragnar the Storm King",
-		"CARDNAME":"Ragnar the Storm King",
-		"ALIAS":"Ragnar;Ragnar Storm King;Ragnar the;Storm King"
+		"KEYWORD":"Raise Dead",
+		"CARDNAME":"Raise Dead"
 	},
 	{
-		"KEYWORD":"Rakanoth the World Breaker",
-		"CARDNAME":"Rakanoth the World Breaker",
-		"ALIAS":"Rakanoth;Raka;Rakanoth World Breaker;Raka the World Breaker;Warlock Dragon;Warlocks Dragon;Red Dragon;Rakanoth the;the World Breaker"
+		"KEYWORD":"Rakanoth the Fire Lord",
+		"CARDNAME":"Rakanoth the Fire Lord",
+		"ALIAS":"Raka;Rakanoth;The Fire Lord"
 	},
 	{
 		"KEYWORD":"Rally the Town",
 		"CARDNAME":"Rally the Town",
-		"ALIAS":"Rally;Rally the;Rally Town"
+		"ALIAS":"Rally"
 	},
 	{
 		"KEYWORD":"Ramrus",
 		"CARDNAME":"Ramrus"
 	},
 	{
-		"KEYWORD":"Rat",
-		"CARDNAME":"Rat"
+		"KEYWORD":"Ranger",
+		"CARDNAME":"Ranger"
 	},
 	{
-		"KEYWORD":"Rat-Infested Hovel",
-		"CARDNAME":"Rat-Infested Hovel",
-		"ALIAS":"Rat Hovel;Hovel;Rat Infested Hovel;Rat Infested;Rat-Infested;Rat Spawner;Rat House;Infested Hovel"
+		"KEYWORD":"Reconciliation",
+		"CARDNAME":"Reconciliation"
 	},
 	{
-		"KEYWORD":"Reanimate",
-		"CARDNAME":"Reanimate"
+		"KEYWORD":"Regenerate",
+		"CARDNAME":"Regenerate"
 	},
 	{
-		"KEYWORD":"Reclaim",
-		"CARDNAME":"Reclaim"
+		"KEYWORD":"Regrowth",
+		"CARDNAME":"Regrowth"
 	},
 	{
-		"KEYWORD":"Reinforce",
-		"CARDNAME":"Reinforce"
+		"KEYWORD":"Restore",
+		"CARDNAME":"Restore"
 	},
 	{
-		"KEYWORD":"Replacement Technique",
-		"CARDNAME":"Replacement Technique",
-		"ALIAS":"Replacement;Replacement Tech;Replace Tech"
-	},
-	{
-		"KEYWORD":"Risky Business",
-		"CARDNAME":"Risky Business",
-		"ALIAS":"Business;Risky"
-	},
-	{
-		"KEYWORD":"Rite of Awakening",
-		"CARDNAME":"Rite of Awakening",
-		"ALIAS":"Rite;Awakening;Rite of"
+		"KEYWORD":"Resurrection",
+		"CARDNAME":"Resurrection"
 	},
 	{
 		"KEYWORD":"Ronin",
 		"CARDNAME":"Ronin"
 	},
 	{
-		"KEYWORD":"Rune Warrior",
-		"CARDNAME":"Rune Warrior",
-		"ALIAS":"Runewarrior;Rune"
+		"KEYWORD":"Royal Guard",
+		"CARDNAME":"Royal Guard",
+		"ALIAS":"Penguin"
+	},
+	{
+		"KEYWORD":"Runic Blast",
+		"CARDNAME":"Runic Blast"
 	},
 	{
 		"KEYWORD":"Rusty Hooks",
 		"CARDNAME":"Rusty Hooks",
-		"ALIAS":"Rusty;Hooks"
+		"ALIAS":"Hooks"
 	},
 	{
-		"KEYWORD":"Sacred Quest",
-		"CARDNAME":"Sacred Quest",
-		"ALIAS":"Sacred"
-	},
-	{
-		"KEYWORD":"Sacrifice",
-		"CARDNAME":"Sacrifice"
-	},
-	{
-		"KEYWORD":"Salahar Rider",
-		"CARDNAME":"Salahar Rider"
+		"KEYWORD":"Sacred Ground",
+		"CARDNAME":"Sacred Ground"
 	},
 	{
 		"KEYWORD":"Salahar Soldier",
@@ -1313,14 +1095,20 @@
 		"ALIAS":"Voyager"
 	},
 	{
-		"KEYWORD":"School of Knowledge",
-		"CARDNAME":"School of Knowledge",
-		"ALIAS":"Knowledge;School Knowledge;Knowledge School"
+		"KEYWORD":"Salvage",
+		"CARDNAME":"Salvage"
+	},
+	{
+		"KEYWORD":"Salvation",
+		"CARDNAME":"Salvation"
+	},
+	{
+		"KEYWORD":"School of History",
+		"CARDNAME":"School of History"
 	},
 	{
 		"KEYWORD":"School of Magic",
-		"CARDNAME":"School of Magic",
-		"ALIAS":"Magic School"
+		"CARDNAME":"School of Magic"
 	},
 	{
 		"KEYWORD":"Scout",
@@ -1328,126 +1116,93 @@
 	},
 	{
 		"KEYWORD":"Sea Witch",
-		"CARDNAME":"Sea Witch",
-		"ALIAS":"Sea Bitch;Seaweed;See Witch;Sea Which;See Which"
+		"CARDNAME":"Sea Witch"
 	},
 	{
-		"KEYWORD":"Search for the Truth",
-		"CARDNAME":"Search for the Truth",
-		"ALIAS":"Search for Truth;Search for;Search for the;Truth"
+		"KEYWORD":"Season of Growth",
+		"CARDNAME":"Season of Growth"
 	},
 	{
-		"KEYWORD":"Secret Dragon",
-		"CARDNAME":"Secret Dragon",
-		"ALIAS":"Secret"
-	},
-	{
-		"KEYWORD":"Seed of Regrowth",
-		"CARDNAME":"Seed of Regrowth",
-		"ALIAS":"Seed;Regrowth;Seed of"
+		"KEYWORD":"Sensei",
+		"CARDNAME":"Sensei"
 	},
 	{
 		"KEYWORD":"Sentry Golem",
 		"CARDNAME":"Sentry Golem",
-		"ALIAS":"Sentry;Golem"
+		"ALIAS":"Golem"
 	},
 	{
 		"KEYWORD":"Serpent Witch",
-		"CARDNAME":"Serpent Witch",
-		"ALIAS":"Serpent"
-	},
-	{
-		"KEYWORD":"Shadow Dance",
-		"CARDNAME":"Shadow Dance"
+		"CARDNAME":"Serpent Witch"
 	},
 	{
 		"KEYWORD":"Shadow Drake",
-		"CARDNAME":"Shadow Drake",
-		"ALIAS":"Shadowdrake"
+		"CARDNAME":"Shadow Drake"
 	},
 	{
 		"KEYWORD":"Shadow Katana",
-		"CARDNAME":"Shadow Katana",
-		"ALIAS":"Katana"
+		"CARDNAME":"Shadow Katana"
 	},
 	{
-		"KEYWORD":"Shadow Slip",
-		"CARDNAME":"Shadow Slip",
-		"ALIAS":"Slip"
+		"KEYWORD":"Shadow Strike",
+		"CARDNAME":"Shadow Strike"
+	},
+	{
+		"KEYWORD":"Shadow Ward",
+		"CARDNAME":"Shadow Ward"
 	},
 	{
 		"KEYWORD":"Shaman",
-		"CARDNAME":"Shaman",
-		"ALIAS":"Shamen"
+		"CARDNAME":"Shaman"
 	},
 	{
-		"KEYWORD":"Sharpen Swords",
-		"CARDNAME":"Sharpen Swords",
-		"ALIAS":"Sharp Swords;Sharpen;Sharp Sword;Sharpen Sword"
+		"KEYWORD":"Sharpshooter",
+		"CARDNAME":"Sharpshooter"
 	},
 	{
-		"KEYWORD":"Sheep to the Slaughter",
-		"CARDNAME":"Sheep to the Slaughter",
-		"ALIAS":"Sheep;Sheep to;Sheep to the;Slaughter"
+		"KEYWORD":"Shattering Strike",
+		"CARDNAME":"Shattering Strike"
 	},
 	{
 		"KEYWORD":"Shield Runner",
-		"CARDNAME":"Shield Runner",
-		"ALIAS":"Shieldrunner;Runner"
+		"CARDNAME":"Shield Runner"
 	},
 	{
-		"KEYWORD":"Shifting Technique",
-		"CARDNAME":"Shifting Technique",
-		"ALIAS":"Shifting;Shift Technique"
+		"KEYWORD":"Shipwreck",
+		"CARDNAME":"Shipwreck"
 	},
 	{
-		"KEYWORD":"Ship of the Damned",
-		"CARDNAME":"Ship of the Damned",
-		"ALIAS":"Ship of Damned;Ship of;Ship of the"
+		"KEYWORD":"Shiva",
+		"CARDNAME":"Shiva"
 	},
 	{
-		"KEYWORD":"Shockwave",
-		"CARDNAME":"Shockwave",
-		"ALIAS":"Schock;Wave"
+		"KEYWORD":"Shredding Leaves",
+		"CARDNAME":"Shredding Leaves"
 	},
 	{
-		"KEYWORD":"Shoden, the Zen Master",
-		"CARDNAME":"Shoden, the Zen Master",
-		"ALIAS":"Shoden;Zen Master;Shoden Zen Master;Shoden the;Shoden the Zen"
+		"KEYWORD":"Sign of the Cross",
+		"CARDNAME":"Sign of the Cross"
 	},
 	{
-		"KEYWORD":"Shroud of the Redcloaks",
-		"CARDNAME":"Shroud of the Redcloaks",
-		"ALIAS":"Shroud;Redcloaks;Shroud of;Shroud of the;Redcloak;Schroud of the Redcloak"
+		"KEYWORD":"Skeletal Crewman",
+		"CARDNAME":"Skeletal Crewman"
 	},
 	{
-		"KEYWORD":"Skeletal Pirate",
-		"CARDNAME":"Skeletal Pirate",
-		"ALIAS":"Skeletal;Skeleton"
+		"KEYWORD":"Skeletal Squire",
+		"CARDNAME":"Skeletal Squire",
+		"ALIAS":"Squire"
 	},
 	{
-		"KEYWORD":"Sleeping Dojo",
-		"CARDNAME":"Sleeping Dojo",
-		"ALIAS":"Awaken Dojo;Sleep Dojo"
+		"KEYWORD":"Smithy",
+		"CARDNAME":"Smithy"
 	},
 	{
-		"KEYWORD":"Smuggling Ring",
-		"CARDNAME":"Smuggling Ring",
-		"ALIAS":"Smuggling;Ring"
+		"KEYWORD":"Soul Destroy",
+		"CARDNAME":"Soul Destroy"
 	},
 	{
-		"KEYWORD":"Sniper",
-		"CARDNAME":"Sniper"
-	},
-	{
-		"KEYWORD":"Southport Assassin",
-		"CARDNAME":"Southport Assassin",
-		"ALIAS":"Assassin;Southport Assasin"
-	},
-	{
-		"KEYWORD":"Southport Cannoneer",
-		"CARDNAME":"Southport Cannoneer",
-		"ALIAS":"Cannoneer;Cannoner;Canoneer"
+		"KEYWORD":"Soul Steal",
+		"CARDNAME":"Soul Steal"
 	},
 	{
 		"KEYWORD":"Southport Captain",
@@ -1455,58 +1210,59 @@
 		"ALIAS":"Captain"
 	},
 	{
-		"KEYWORD":"Spear Strike",
-		"CARDNAME":"Spear Strike",
-		"ALIAS":"Spear;Spearstrike"
+		"KEYWORD":"Southport Slayer",
+		"CARDNAME":"Southport Slayer",
+		"ALIAS":"Slayer"
 	},
 	{
-		"KEYWORD":"Special Delivery",
-		"CARDNAME":"Special Delivery",
-		"ALIAS":"Special;Delivery"
+		"KEYWORD":"Spelltrap",
+		"CARDNAME":"Spelltrap"
 	},
 	{
 		"KEYWORD":"Spiney",
-		"CARDNAME":"Spiney",
-		"ALIAS":"Spiny;Spinei"
+		"CARDNAME":"Spiney"
 	},
 	{
-		"KEYWORD":"Spirit Crash",
-		"CARDNAME":"Spirit Crash",
-		"ALIAS":"Crash"
+		"KEYWORD":"Spirit Blast",
+		"CARDNAME":"Spirit Blast"
+	},
+	{
+		"KEYWORD":"Spirit Bomb",
+		"CARDNAME":"Spirit Bomb"
+	},
+	{
+		"KEYWORD":"Spirit Panda",
+		"CARDNAME":"Spirit Panda",
+		"ALIAS":"Panda"
+	},
+	{
+		"KEYWORD":"Split Magic",
+		"CARDNAME":"Split Magic"
 	},
 	{
 		"KEYWORD":"Stables",
-		"CARDNAME":"Stables",
-		"ALIAS":"Stable"
-	},
-	{
-		"KEYWORD":"Stone Dragon Statue",
-		"CARDNAME":"Stone Dragon Statue",
-		"ALIAS":"Dragon Statue;Stone Statue"
+		"CARDNAME":"Stables"
 	},
 	{
 		"KEYWORD":"Stone Drake",
-		"CARDNAME":"Stone Drake",
-		"ALIAS":"Stonedrake"
+		"CARDNAME":"Stone Drake"
 	},
 	{
 		"KEYWORD":"Storm Strike",
-		"CARDNAME":"Storm Strike",
-		"ALIAS":"Stormstrike"
+		"CARDNAME":"Storm Strike"
 	},
 	{
-		"KEYWORD":"Stun Grenade",
-		"CARDNAME":"Stun Grenade"
+		"KEYWORD":"Strange Magician",
+		"CARDNAME":"Strange Magician"
 	},
 	{
-		"KEYWORD":"Suit of Armor",
-		"CARDNAME":"Suit of Armor",
-		"ALIAS":"Suit;Suit of"
+		"KEYWORD":"Sunsteel Cleric",
+		"CARDNAME":"Sunsteel Cleric",
+		"ALIAS":"Cleric"
 	},
 	{
-		"KEYWORD":"Sunburst",
-		"CARDNAME":"Sunburst",
-		"ALIAS":"Sun Burst"
+		"KEYWORD":"Sunsteel Paladin",
+		"CARDNAME":"Sunsteel Paladin"
 	},
 	{
 		"KEYWORD":"Sushi Shack",
@@ -1514,64 +1270,41 @@
 		"ALIAS":"Sushi"
 	},
 	{
-		"KEYWORD":"Swift Justice",
-		"CARDNAME":"Swift Justice",
-		"ALIAS":"Justice"
-	},
-	{
-		"KEYWORD":"Swiftness",
-		"CARDNAME":"Swiftness",
-		"ALIAS":"Swiftniss"
-	},
-	{
 		"KEYWORD":"Swordsman",
-		"CARDNAME":"Swordsman",
-		"ALIAS":"Swordman"
+		"CARDNAME":"Swordsman"
 	},
 	{
 		"KEYWORD":"Synchronized Strike",
-		"CARDNAME":"Synchronized Strike",
-		"ALIAS":"Synchronized"
-	},
-	{
-		"KEYWORD":"Talibos",
-		"CARDNAME":"Talibos",
-		"ALIAS":"Tali"
+		"CARDNAME":"Synchronized Strike"
 	},
 	{
 		"KEYWORD":"Temple of the Five Gods",
 		"CARDNAME":"Temple of the Five Gods",
-		"ALIAS":"Temple of Five Gods;Five Gods;Temple of the;Temple of the Five;Temple of Five;totfg;totg"
+		"ALIAS":"Five Gods;TOTFG"
 	},
 	{
-		"KEYWORD":"The Beastmaster",
-		"CARDNAME":"The Beastmaster",
-		"ALIAS":"Beastmaster;Beast Master"
+		"KEYWORD":"The Fairy Queen",
+		"CARDNAME":"The Fairy Queen",
+		"ALIAS":"Fairy;Fairy Queen"
 	},
 	{
-		"KEYWORD":"The Drake Dance",
-		"CARDNAME":"The Drake Dance",
-		"ALIAS":"Drake Dance;Dance Drake"
-	},
-	{
-		"KEYWORD":"The Eye of Flame",
-		"CARDNAME":"The Eye of Flame",
-		"ALIAS":"Eye of Flame;Eye;Eye of Sauron"
+		"KEYWORD":"Release The Kraken",
+		"CARDNAME":"Release The Kraken"
 	},
 	{
 		"KEYWORD":"The Kraken",
 		"CARDNAME":"The Kraken",
-		"ALIAS":"Kraken;the Krake"
+		"ALIAS":"Kraken"
+	},
+	{
+		"KEYWORD":"The Minotaur",
+		"CARDNAME":"The Minotaur",
+		"ALIAS":"Mino;Minotaur"
 	},
 	{
 		"KEYWORD":"The Rat King",
 		"CARDNAME":"The Rat King",
-		"ALIAS":"Rat King;King Rat"
-	},
-	{
-		"KEYWORD":"The Tarius Files",
-		"CARDNAME":"The Tarius Files",
-		"ALIAS":"Tarius Files;Files;the Files;The Tarius File;Tarius File"
+		"ALIAS":"Rat King"
 	},
 	{
 		"KEYWORD":"The Verdict",
@@ -1579,87 +1312,78 @@
 		"ALIAS":"Verdict"
 	},
 	{
-		"KEYWORD":"Thrill of Victory",
-		"CARDNAME":"Thrill of Victory",
-		"ALIAS":"Thrill;Trill of;Victory"
+		"KEYWORD":"Thief",
+		"CARDNAME":"Thief"
 	},
 	{
-		"KEYWORD":"Throne of the Emperor",
-		"CARDNAME":"Throne of the Emperor",
-		"ALIAS":"Throne;Throne of Emperor;Throne of;Throne of the;Bounce Temple;Bounce Throne"
+		"KEYWORD":"Thievery",
+		"CARDNAME":"Thievery"
 	},
 	{
-		"KEYWORD":"Tower of Winter",
-		"CARDNAME":"Tower of Winter",
-		"ALIAS":"Winter Tower;Tower Winter"
+		"KEYWORD":"Thirst for Battle",
+		"CARDNAME":"Thirst for Battle"
+	},
+	{
+		"KEYWORD":"Tombstone",
+		"CARDNAME":"Tombstone",
+		"ALIAS":"Tomb"
+	},
+	{
+		"KEYWORD":"Trading Post",
+		"CARDNAME":"Trading Post"
+	},
+	{
+		"KEYWORD":"Transcribe",
+		"CARDNAME":"Transcribe"
 	},
 	{
 		"KEYWORD":"Trap Door Ninja",
 		"CARDNAME":"Trap Door Ninja",
-		"ALIAS":"Trap Ninja;Trapdoor Ninja;Trap Door;Door Ninja"
-	},
-	{
-		"KEYWORD":"Treasure Hunt",
-		"CARDNAME":"Treasure Hunt",
-		"ALIAS":"Hunt"
+		"ALIAS":"Trap Door"
 	},
 	{
 		"KEYWORD":"Troll Gunner",
-		"CARDNAME":"Troll Gunner",
-		"ALIAS":"Gunner"
+		"CARDNAME":"Troll Gunner"
 	},
 	{
-		"KEYWORD":"Tunnel Escape",
-		"CARDNAME":"Tunnel Escape",
-		"ALIAS":"Escape"
+		"KEYWORD":"Typhoon Blast",
+		"CARDNAME":"Typhoon Blast"
 	},
 	{
 		"KEYWORD":"Tyrannosaur",
 		"CARDNAME":"Tyrannosaur",
-		"ALIAS":"Trex;T-Rex;Tyranno;T Rex"
-	},
-	{
-		"KEYWORD":"Unholy Altar",
-		"CARDNAME":"Unholy Altar",
-		"ALIAS":"Altar;Unholy"
-	},
-	{
-		"KEYWORD":"Unstable Construct",
-		"CARDNAME":"Unstable Construct",
-		"ALIAS":"Unstable;Construct"
+		"ALIAS":"T-Rex;Rex;Tyrannosaurus Rex"
 	},
 	{
 		"KEYWORD":"Vampire",
-		"CARDNAME":"Vampire",
-		"ALIAS":"Vampir;Vamp"
+		"CARDNAME":"Vampire"
 	},
 	{
-		"KEYWORD":"Vanish",
-		"CARDNAME":"Vanish"
+		"KEYWORD":"Veil of the Assassin",
+		"CARDNAME":"Veil of the Assassin"
 	},
 	{
-		"KEYWORD":"Vanishing Strike",
-		"CARDNAME":"Vanishing Strike",
-		"ALIAS":"Vanishing;Vanish Strike"
+		"KEYWORD":"Velociraptor",
+		"CARDNAME":"Velociraptor",
+		"ALIAS":"Raptor"
 	},
 	{
 		"KEYWORD":"Vermin Tunnels",
-		"CARDNAME":"Vermin Tunnels",
-		"ALIAS":"Vermin;Vermin Tunnel"
+		"CARDNAME":"Vermin Tunnels"
 	},
 	{
-		"KEYWORD":"Vicious Sunflower",
-		"CARDNAME":"Vicious Sunflower",
-		"ALIAS":"Vicious;Sunflower;Flower"
+		"KEYWORD":"Vicious Rat",
+		"CARDNAME":"Vicious Rat",
+		"ALIAS":"Rat"
 	},
 	{
-		"KEYWORD":"Vileroth the Devourer",
-		"CARDNAME":"Vileroth the Devourer",
-		"ALIAS":"Vileroth;Pirates Dragon;Pirate Dragon;Green Dragon;Vilaroth;Vile"
+		"KEYWORD":"Vileroth the Sea Dragon",
+		"CARDNAME":"Vileroth the Sea Dragon",
+		"ALIAS":"Vileroth;The sea dragon"
 	},
 	{
-		"KEYWORD":"Vortex",
-		"CARDNAME":"Vortex"
+		"KEYWORD":"Voodoo Curse",
+		"CARDNAME":"Voodoo Curse"
 	},
 	{
 		"KEYWORD":"War Elephant",
@@ -1667,18 +1391,17 @@
 		"ALIAS":"Elephant"
 	},
 	{
-		"KEYWORD":"WAR PARTY!",
-		"CARDNAME":"WAR PARTY!",
-		"ALIAS":"Party;Party!;War Party;WAR PARTY;War Party!"
+		"KEYWORD":"War Party",
+		"CARDNAME":"War Party",
+		"ALIAS":"Party"
 	},
 	{
-		"KEYWORD":"Warrior",
-		"CARDNAME":"Warrior"
+		"KEYWORD":"Well of Eternity",
+		"CARDNAME":"Well of Eternity"
 	},
 	{
 		"KEYWORD":"Wererat",
-		"CARDNAME":"Wererat",
-		"ALIAS":"Were"
+		"CARDNAME":"Wererat"
 	},
 	{
 		"KEYWORD":"Wight Knight",
@@ -1686,38 +1409,20 @@
 		"ALIAS":"Wight"
 	},
 	{
-		"KEYWORD":"Wind Mage",
-		"CARDNAME":"Wind Mage",
-		"ALIAS":"Windmage"
-	},
-	{
-		"KEYWORD":"Windfall Gryphon",
-		"CARDNAME":"Windfall Gryphon",
-		"ALIAS":"Gryphon;Windfall"
-	},
-	{
-		"KEYWORD":"Winds of Njord",
-		"CARDNAME":"Winds of Njord",
-		"ALIAS":"Winds of Nord;Njord"
-	},
-	{
-		"KEYWORD":"Winds of the Ice Sea",
-		"CARDNAME":"Winds of the Ice Sea",
-		"ALIAS":"Winds of the Sea;Ice Sea;Winds of the Ice Tea;Ice Tea;Winds of Tea;Winds of the Tea;Winds of Tea"
+		"KEYWORD":"Wild Healing",
+		"CARDNAME":"Wild Healing"
 	},
 	{
 		"KEYWORD":"Winds of the North",
-		"CARDNAME":"Winds of the North",
-		"ALIAS":"Winds of North;North Wind;North Winds"
-	},
-	{
-		"KEYWORD":"Witch Bolt",
-		"CARDNAME":"Witch Bolt"
+		"CARDNAME":"Winds of the North"
 	},
 	{
 		"KEYWORD":"Witch Doctor",
-		"CARDNAME":"Witch Doctor",
-		"ALIAS":"Doctor;Which Doctor"
+		"CARDNAME":"Witch Doctor"
+	},
+	{
+		"KEYWORD":"Witch's Hut",
+		"CARDNAME":"Witch's Hut"
 	},
 	{
 		"KEYWORD":"Wizard",
@@ -1726,21 +1431,37 @@
 	{
 		"KEYWORD":"Woeten the Dragon Spirit",
 		"CARDNAME":"Woeten the Dragon Spirit",
-		"ALIAS":"Woeten;Woaten;Woeten Dragon Spirit;Ninja Dragon;Ninjas Dragon;Purple Dragon"
+		"ALIAS":"The dragon spirit"
+	},
+	{
+		"KEYWORD":"Woeten, Dragon Spirit",
+		"CARDNAME":"Woeten, Dragon Spirit",
+		"ALIAS":"Woeten"
+	},
+	{
+		"KEYWORD":"Wolf",
+		"CARDNAME":"Wolf"
 	},
 	{
 		"KEYWORD":"Wraith",
 		"CARDNAME":"Wraith"
 	},
 	{
-		"KEYWORD":"Yaarhym Giant",
-		"CARDNAME":"Yaarhym Giant",
-		"ALIAS":"Yaarhym;Yaarmom;Yarmom;Yarmum;Yaarmum;Yarham;Yaarham"
+		"KEYWORD":"Wyvern Rider",
+		"CARDNAME":"Wyvern Rider"
 	},
 	{
-		"KEYWORD":"Yennaroth the Frozen",
-		"CARDNAME":"Yennaroth the Frozen",
-		"ALIAS":"Yennaroth;Yennaroth Frozen;Yenny;Viking Dragon;Vikings Dragon;Blue Dragon;Yenna;The Frozen"
+		"KEYWORD":"Yaarhym Giant",
+		"CARDNAME":"Yaarhym Giant"
+	},
+	{
+		"KEYWORD":"Yaarhym Lightning",
+		"CARDNAME":"Yaarhym Lightning"
+	},
+	{
+		"KEYWORD":"Yennaroth, Lord of Ice",
+		"CARDNAME":"Yennaroth, Lord of Ice",
+		"ALIAS":"Yenna;Yenny;Yennaroth;Lord of ice"
 	},
 	{
 		"KEYWORD":"Zombie",

@@ -46,7 +46,7 @@ module.exports = {
                 break;
             case 'search':
                 promise = Promise.resolve(console.log("promise start"))
-                .then(() => UpdateJSONData('Traits!A1:I', CARD_SEARCH_PATH, 'search', message))
+                .then(() => UpdateJSONData('Traits!A1:N', CARD_SEARCH_PATH, 'search', message))
                 .then(() => ReparseSearch(true));
                 break;
             /*case 'history':
@@ -74,7 +74,8 @@ const db = new Database();
 const oAuth2Client = new google.auth.OAuth2(
     process.env.GOOGLE_CLIENT_ID,
     process.env.GOOGLE_CLIENT_SECRET,
-    "urn:ietf:wg:oauth:2.0:oob"/*redirect uri*/
+    "https://CardsAndCastles2DiscordBot.fweaks.repl.co/oauth2callback"
+    /*"urn:ietf:wg:oauth:2.0:oob"/*redirect uri*/
 );
 
 db.get("googleapis_token")
@@ -158,16 +159,16 @@ function GetAndSaveTokenAuto(request, response){
     if(!startMessage){
         return console.log("Unexpected oAuth Callback");
     }
-    console.log(request);
-    console.log(response);
-    const searchParams = new url.URL(request.url, 'http://localhost:3000').searchParams;
-    const code = searchParams.get('code');
-    console.log(`Code is ${code}`);
-    if(!code){
-      return startMessage.reply("Invalid Code received from authentication")
-    }
-    res.end('Authentication response received!');
+    console.log(request.query);
 
+    let code = request.query.code;
+    if(!code){
+        response.send('<body>Invalid authentication. Please contact the developer.</body>');
+        return startMessage.reply("Invalid authentication. Please contact the developer.");
+    }
+    console.log(`Code is ${code}`);
+
+    response.send('<body>Authentication response received, you can now return to discord</body>');
     startMessage.reply("Authorisation response received, requesting Token...")
     GetAndSaveToken(code, startMessage);
     startMessage = null;
